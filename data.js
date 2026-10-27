@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-27T21:58:25+08:00",
+ "generated_at": "2026-10-27T22:12:23+08:00",
  "date": "2026-10-27",
  "weekday": "星期二",
- "clock": "21:58",
+ "clock": "22:12",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -14,8 +14,8 @@ window.HGP_DATA = {
  },
  "others": {
   "HYW": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "HZM": {
    "arr": 0,
@@ -30,8 +30,8 @@ window.HGP_DATA = {
    "dep": 0
   },
   "MKT": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "SBC": {
    "arr": 0,
@@ -45,28 +45,97 @@ window.HGP_DATA = {
  "weather": {
   "temp": 24,
   "humidity": 84,
-  "wind": 8.9,
+  "wind": 9.1,
   "code": 0,
   "desc": "天晴",
   "tmax": 31,
   "tmin": 23,
   "pop": 65
  },
+ "warnings": [],
+ "news": [
+  {
+   "title": "李耀培促請政府優化管理動線及制定應變機制",
+   "source": "Facebook",
+   "date": "10-27 12:20",
+   "iso": "2026-10-27T12:20:55+00:00",
+   "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxORkJfSGlyZzdRV0RhWEI2SXNCcUMtcmhPdWwtbUlkZHJCcUhIaVR4dnpBdG5YVlpCdEhfOUdicDlzaGxZc3FfWDFudFFUX1l2M2dic19OUktSdnlJeW16NkpKemU0V1pXUlVsQVZmTDNhNjlEaG54T01iYnZDT2c4MjJuTUtJWk9rblhXMW1HdmVBS05NN2FrSFJDdlNjcmdoUXRpZzEzSHhMMjIxVURWVjk2SUQ5MmpCenZCemptZmtYN1VZdTFGQUlVV1Y4VWU1MU5uNmN1WTVkRkpBNVNlZDZKNVdWOHBhbDBCOHpobEduLTdwdmNqWWpBQ0xaRkZfT21kMHNBT3lZQ1Q3cTZNcG9GS2E3RjEwUXZ3V1prMVVNSldJejN5TW9hbUJUMlBjLU5kTUNMVHBsWmFpZkNfNVpwZV95UkJCcTVSYUszX0VZaW9rY3lEUTEtbEI4LVotaWhFUUpPa1FMWlNFMVR6UlRuQUlmeUVzNGVNUlphQlJScl9rUGZRSnMtMHYxcXZhN0NNc1lEZ0JaMHlnbkZPMGdRbkFzRnUzVFBDcTc4RUJ6S093UnQwN2dpTTNFaGFhSjlzN2I2bzF0LUdSVndnS05WZDlORkdndDlOOXltRjl5VG90bjEwLTN2dmpZX2YzX3dPdFN0eng5VGU2QW1qbQ?oc=5"
+  },
+  {
+   "title": "皇崗塞爆｜跨境白牌車中介網上吸客索千元赴深圳 警放蛇拘兩司機",
+   "source": "香港01",
+   "date": "10-27 11:12",
+   "iso": "2026-10-27T11:12:05+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNMDR0QWFDUVBTUTJyZGd3d3BLRl9WdHR1dUpvV1N5YzZ0NmVHTzNtYzEwY1F5Nk1wNlNkdDZOTElHWWJhVFRsWFgwWjI0NkNQcDctVFctQ0ZDV0R2RE5fUmp4UnBmckxhdTR3VFhzTkpmNTh0Q3VNSzU0aFJCaWNXa1lyQi1BWEwwMWUwMC1yRjdDbHZBZ0kwWkFZLU9PUDNXakNINzlKcjdlQlJZaE5aM2s1T1B2WWN3QkR2UXlHRDZZLWtNTzA0M1lUWkRfbmJHWndyejNNUjlWMk5jRVN6ZkxsWjQ5OTJPLXN6TjdTVVVIdFdtQWtvbXRnZENSSVRaTGpobjBhUU94cHZBdDdkZEp1NldoV2M0WVJWYnNkSzhPYWR0UWlleGMxWXFsdVBCZVlpdWFWQmRHUEhWZUpXb1ExWk1uZUc5a0FmaTZ3UDB2OGMwZkMtZnZxb1BIZ2pCa2tpR3JEWHlFRWxEY2RKTzBpQVFsQnhyUFFOdG1uS3FFbjc3V3NmUGZ3dWRxYzlvV2lTa20xYm9oNzBPLUFRSVBIMWhidlVNcWV4clU3dXY?oc=5"
+  },
+  {
+   "title": "皇崗口岸深夜車龍 李耀培指道路設計如「漏斗」倡流水式接客",
+   "source": "大紀元時報香港",
+   "date": "10-27 07:34",
+   "iso": "2026-10-27T07:34:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OeDhVbkFGZUxoSUVDNVBxRVFVN05HZ1hPYjFMbFNoQ3BtLXo1LTVVOVRwZFJDbmNMNDNVd2U0dVJMdElWY0sydURnNmNvWVBTOUJMckN6UWg1ZHkwblhv?oc=5"
+  },
+  {
+   "title": "【皇崗大塞車】李耀培指道路設計有先天缺憾演唱會觀眾「用車」力度大| 獨媒報導",
+   "source": "獨立媒體",
+   "date": "10-27 06:47",
+   "iso": "2026-10-27T06:47:52+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQWjc2Rnh4OVZnNFQ2NGFWYmU2TU5GbldkUTB0NlNXbFBnZUowd1hQQ1RsbWxJVGZTWjJBM0F2ZWlCbWJXM19qeDRlN2NhTEVudDRTYi1rdkU2RVg1WGVXU2ZpbWg0eUdWRnlvZWxKMXM1QzlnbmRtQWJOQzZsZzg1SmlxaHZQVzZ4c0p0VER4TXczbUNTZDA1ZUtpUzZZUVA5d3JfQUJzTjRqSjJ0Y0wtV3pvQTdSM1BrNnNSS2VxN0J5WFpMRmhtWVBLQU1QRmNyTEVhUGJTMzBDT3E2clpkU29raWRkQ1JVU0Y2NGxCR3pVZzM2SWxhNmxRM1NzNkV4bTkxU0d1V1hGeWpWM2RqY0NVWThZaGhmM25yZk1PWTdPUnJxTm5OdEdhX1dOSWt3dHRfS2Jtd0dKWFhTbTh2eUVXcHlZcVctMEFLU3BzN0MwdUhnTVVjLXFVX3Y0N2pwdWxzSFAxMXVxMEMtcUQzUHBjVkltcnRjaUJUX3RXYXNmODR0c3VLckdUVEFjVVhLSElIczlORFZWOHBMUm9jREUtRzdWLS1RV2s1RjdLY0pTbWZiRGxDUlFkY0t4eHdpcDdHNE1YLVlDbHlKa2NaZ0xUM3luREFfd2RUUkFZczc?oc=5"
+  },
+  {
+   "title": "新皇崗口岸周末爆車潮專家指「漏斗」設計致擠塞倡改「流水式」上落客- 港聞",
+   "source": "dotdotnews",
+   "date": "10-27 05:44",
+   "iso": "2026-10-27T05:44:16+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xczRaYm1qNTVMc0dfejJPVTBtN0x0aEpmNzF1ZEYzWWpDSGd5T08xcGp6YU96STkwcHkwRnV2SS1uTVR6bzFsUlNfWjk0LVUzd0NLUDRmYXVzZkxDZm1PLW1uMmN6WnNmdlNnTEdXaWFxNEZ5QVNwT2NR?oc=5"
+  },
+  {
+   "title": "時事全方位｜新皇崗口岸擠塞問題(一)",
+   "source": "Now 新聞",
+   "date": "10-27 05:41",
+   "iso": "2026-10-27T05:41:29+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yRzEtMDVZRHRlY1g2RzY3YW5kejBGbFBaWG5YWGVqbVhpOTE2ek5aeDMwQU1lTy14amltcW5OcGpEbkEtSkdDWEVlWWxsRTlycWQtV2FxV1VHMHR4UmxqOEh3?oc=5"
+  },
+  {
+   "title": "新皇崗口岸｜新皇崗口岸周末連塞兩晚 陳恒鑌倡通關高峰前提早分流疏導",
+   "source": "香港經濟日報HKET",
+   "date": "10-27 05:18",
+   "iso": "2026-10-27T05:18:30+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxQQ3VhQkNfdkJMSkM3VFBJTmhuV3NpQ25QTlVkWGdWMG9ic1VFbmpYYzdWaldhR2U1TWdSc3lpcXItX293NThlczg5VGVyY2ZrbFhiOGtmN0xLVm4wczhqVlVFVGtrN2lVSk9MUnB3U2tiUkZvUktaalRQRlBKNUw1Z1ZtbjZ6UEFxZmMzdkI2RmczM3lldDRnSmxGd0MxWUhNUEctYl9iaTJfaW0zLWgtQ2cyTE1BREtwcWxVV3dxUWl5cDZiSkRaMWhtWGNQa182aUVUbVUwRlhKWi1jN2p2Ul94VTQxN0J2NmdMT2ZNZzlFbklQYU5wdVJoamhmbGN1N0I5NkZrUUdSdGdBZkpQWTNFY09aOW93S0VjbVM2eHQ4eWJkWGplY3JxRmNLRnEyM0dMdWN3b1JCRm9DMU9md3RpbE11WW92MjIyYjA3Vy14TW15dk5iZDRqOU9wQjhyUDI0eGhLU3dNd25ZSzVQWUZYWldxQXdvZEdkQXlzbFRnOHBWRl96OGtoZk9fSjVGd0laZTBoZ2E3Ym1yTnJicGlmdmhYQU1tcWNURUZCZGtUd1I5ekNTbWpYVjZEcGY4TXlLaXZiY1ktTkVrbWhIRTBrak8zZzRTOU9j?oc=5"
+  },
+  {
+   "title": "新皇崗交通大擠塞 專家指口岸大樓有如「漏斗」致車流倒灌",
+   "source": "on.cc東網",
+   "date": "10-27 05:15",
+   "iso": "2026-10-27T05:15:20+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcVU0RzNRbmhmTV9mRlZhY3psanpuWlU4cl9nS1NUQXU4YXVjRXcyWVlQbzVNUy1mbGYyUWh0ZE5Ra0RoeUhWSms4WmtHOGpPUmdUR2VvbzBCdTk0M3pmZ2l5N3c3Q1cwNlprV01ueVZZVzRQc3FfU1UwN0dOdzVMWlpqWnpJZ3ZORGw0?oc=5"
+  }
+ ],
  "ok": true,
  "tips": [
   {
-   "tag": "平日",
-   "text": "平日人流相對穩定（開通初期平均約 8.3 萬人次／日），自助通道一般 3–5 分鐘完成。",
+   "tag": "天氣",
+   "text": "天文台現時無天氣警告生效。",
    "level": "ok"
   },
   {
    "tag": "有雨",
-   "text": "預測降雨機率 65%，口岸大樓至上車位置有蓋但轉車需步行，記得帶傘。",
+   "text": "預測降雨機率 65%，室外通道及上落客區會濕滑，提醒旅客及同事小心。",
    "level": "warn"
   },
   {
-   "tag": "必記",
-   "text": "港方口岸區屬禁區且不設公眾停車場；私家車請泊沿線停車場再轉公共交通工具。",
+   "tag": "通告",
+   "text": "口岸相關新聞 8 條，見「口岸新聞」。",
+   "level": "info"
+  },
+  {
+   "tag": "車流",
+   "text": "近 36 小時有 7 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "level": "warn"
+  },
+  {
+   "tag": "禁區",
+   "text": "港方口岸區屬禁區：過境旅客須持有效旅行證件，非過境人士（包括部分承辦商）須持有效禁區通行證。",
    "level": "info"
   }
  ]

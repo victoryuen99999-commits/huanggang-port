@@ -60,7 +60,7 @@ def build_live():
     """即時查入境處兩份 JSON + 天氣，回傳精簡結構"""
     from datetime import datetime, timezone, timedelta
     HKT = timezone(timedelta(hours=8))
-    r = refresh.get_json(refresh.IMMD)
+    r = refresh.get_json(refresh.IMMD_R)
     v = refresh.get_json(refresh.IMMD_V)
     now = datetime.now(HKT)
     out = {"ok": True, "generated_at": now.isoformat(timespec="seconds"),
@@ -68,6 +68,10 @@ def build_live():
            "queue": refresh.queue_block(r.get("HGP")),
            "queue_visitor": refresh.queue_block(v.get("HGP")),
            "others": {k: refresh.queue_block(x) for k, x in r.items() if k != "HGP"}}
+    try:
+        out["warnings"] = refresh.fetch_warnings()
+    except Exception:                                   # noqa: BLE001
+        pass
     try:
         w = refresh.get_json(refresh.WEATHER)
         cur, day = w.get("current", {}), w.get("daily", {})
