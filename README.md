@@ -17,15 +17,29 @@
 ## 三種用法
 
 **1. 完整功能（推薦）** — 雙擊 `start.bat`
-→ 開啟 http://127.0.0.1:8080/ ，狀態卡每 60 秒自動更新，伺服器每 5 分鐘重寫快照。
+→ 電腦開 http://127.0.0.1:8080/ ，狀態卡每 60 秒自動更新，伺服器每 5 分鐘重寫快照。
+→ **手機**：同一個 Wi-Fi 下開 `http://<你電腦的內網IP>:8080/`（`serve.py` 啟動時會直接印出這條網址，例如 `http://192.168.1.186:8080/`）。首次連不上通常係 Windows 防火牆未允許 python，按提示允許即可。
 
 **2. 只想睇一次** — 直接雙擊 `index.html`
 → 以 `file://` 開啟，顯示最後一次快照（`data.js`），右上角會標示「離線快照」。
 更新快照：`python refresh.py`。
 
 **3. 放上網** — 把 `index.html` + `data.js` 上傳到任何靜態託管（GitHub Pages / Cloudflare Pages）。
-→ 能顯示快照內容，但**不會有即時更新**（瀏覽器無法直接抓入境處 JSON，該 API 無 CORS 標頭）。
-若要線上即時更新，需將 `serve.py` 的 `build_live()` 搬去 Cloudflare Worker / Vercel Function 等伺服器端。
+→ 頁面偵測到冇 `/api/live` 會自動改用「每 60 秒換新 `data.js`」模式，徽章顯示「自動更新 · HH:MM」；
+   配合 GitHub Actions 每 15 分鐘重抓入境處，最差只慢 15 分鐘，但永遠唔會變死數據。
+→ 想要「開頁即抓、零延遲」就要 Cloudflare Worker / Pages Function 代理，頁面本身不用改。
+
+## 自動更新是怎樣運作的
+
+| 場景 | 觸發 | 頻率 |
+|---|---|---|
+| 本地 server | 頁面 `fetch('/api/live')`，伺服器代抓入境處 | 每 60 秒（畫面有倒數） |
+| 本地 server | `serve.py` 背景執行緒重寫 `data.js` / `data.json` | 每 5 分鐘 |
+| 靜態託管 | 頁面重新載入 `data.js?t=…`，比較 `generated_at` 才重繪 | 每 60 秒 |
+| 靜態託管 | GitHub Actions 跑 `refresh.py` 並 commit | 每 15 分鐘 |
+| 儀表板顯示 | 徽章標明模式：`即時 · HH:MM` / `自動更新 · HH:MM` / `離線快照` | 持續 |
+
+畫面「自動更新 xx s」係下一次抓取倒數；按「重新整理」可即時抓一次。
 
 ## 每日自動更新（Windows 工作排程器）
 
