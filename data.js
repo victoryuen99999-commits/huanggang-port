@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-28T06:31:46+08:00",
+ "generated_at": "2026-10-28T07:13:57+08:00",
  "date": "2026-10-28",
  "weekday": "星期三",
- "clock": "06:31",
+ "clock": "07:13",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -14,28 +14,28 @@ window.HGP_DATA = {
  },
  "others": {
   "HYW": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "HZM": {
    "arr": 0,
    "dep": 0
   },
   "LSC": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "LWS": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "MKT": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "SBC": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "STK": {
    "arr": 99,
@@ -44,10 +44,10 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 74,
-  "wind": 12.3,
-  "code": 2,
-  "desc": "局部多雲",
+  "humidity": 73,
+  "wind": 12.1,
+  "code": 3,
+  "desc": "多雲",
   "tmax": 29,
   "tmin": 23,
   "pop": 2
@@ -60,13 +60,6 @@ window.HGP_DATA = {
   }
  ],
  "news": [
-  {
-   "title": "應對萬聖節人流 新皇崗設跨部門指揮站",
-   "source": "香港文匯報",
-   "date": "10-27 20:35",
-   "iso": "2026-10-27T20:35:51+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZVDJGcnVKUGI2QzFaMl9oOHM3VWR0di1yYjdTY29ORDJFRk5teks2Wk51eDA4WnREWDhIRW1VVTVMdml1ZFRHWG1kaXZ4d29OenVjam1hTXpxMUltNkhMdGEtM0FMRXFDenREcG5ZVGRlcWw1c3Q0?oc=5"
-  },
   {
    "title": "盛事經濟效應強優化通關惠百業- 評論",
    "source": "香港文匯報",
@@ -115,6 +108,13 @@ window.HGP_DATA = {
    "date": "10-27 06:47",
    "iso": "2026-10-27T06:47:52+00:00",
    "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQWjc2Rnh4OVZnNFQ2NGFWYmU2TU5GbldkUTB0NlNXbFBnZUowd1hQQ1RsbWxJVGZTWjJBM0F2ZWlCbWJXM19qeDRlN2NhTEVudDRTYi1rdkU2RVg1WGVXU2ZpbWg0eUdWRnlvZWxKMXM1QzlnbmRtQWJOQzZsZzg1SmlxaHZQVzZ4c0p0VER4TXczbUNTZDA1ZUtpUzZZUVA5d3JfQUJzTjRqSjJ0Y0wtV3pvQTdSM1BrNnNSS2VxN0J5WFpMRmhtWVBLQU1QRmNyTEVhUGJTMzBDT3E2clpkU29raWRkQ1JVU0Y2NGxCR3pVZzM2SWxhNmxRM1NzNkV4bTkxU0d1V1hGeWpWM2RqY0NVWThZaGhmM25yZk1PWTdPUnJxTm5OdEdhX1dOSWt3dHRfS2Jtd0dKWFhTbTh2eUVXcHlZcVctMEFLU3BzN0MwdUhnTVVjLXFVX3Y0N2pwdWxzSFAxMXVxMEMtcUQzUHBjVkltcnRjaUJUX3RXYXNmODR0c3VLckdUVEFjVVhLSElIczlORFZWOHBMUm9jREUtRzdWLS1RV2s1RjdLY0pTbWZiRGxDUlFkY0t4eHdpcDdHNE1YLVlDbHlKa2NaZ0xUM3luREFfd2RUUkFZczc?oc=5"
+  },
+  {
+   "title": "新皇崗口岸周末爆車潮專家指「漏斗」設計致擠塞倡改「流水式」上落客- 港聞",
+   "source": "dotdotnews",
+   "date": "10-27 05:44",
+   "iso": "2026-10-27T05:44:16+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xczRaYm1qNTVMc0dfejJPVTBtN0x0aEpmNzF1ZEYzWWpDSGd5T08xcGp6YU96STkwcHkwRnV2SS1uTVR6bzFsUlNfWjk0LVUzd0NLUDRmYXVzZkxDZm1PLW1uMmN6WnNmdlNnTEdXaWFxNEZ5QVNwT2NR?oc=5"
   }
  ],
  "ok": true,
@@ -123,6 +123,11 @@ window.HGP_DATA = {
    "tag": "警告",
    "text": "天文台現正生效：發出強烈季候風信號。戶外崗位（上落客區、落馬洲大橋、交匯處）注意強風、雷擊及地滑。",
    "level": "warn"
+  },
+  {
+   "tag": "早更",
+   "text": "跨境上班上學人流集中，出境大堂及 L2 交匯處會出現短時人龍。",
+   "level": "info"
   },
   {
    "tag": "通告",
