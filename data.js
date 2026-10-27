@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-28T01:15:16+08:00",
+ "generated_at": "2026-10-28T02:10:07+08:00",
  "date": "2026-10-28",
  "weekday": "星期三",
- "clock": "01:15",
+ "clock": "02:10",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 86,
-  "wind": 10.3,
+  "humidity": 85,
+  "wind": 10.7,
   "code": 0,
   "desc": "天晴",
   "tmax": 29,
@@ -67,6 +67,13 @@ window.HGP_DATA = {
    "date": "10-27 11:12",
    "iso": "2026-10-27T11:12:05+00:00",
    "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNMDR0QWFDUVBTUTJyZGd3d3BLRl9WdHR1dUpvV1N5YzZ0NmVHTzNtYzEwY1F5Nk1wNlNkdDZOTElHWWJhVFRsWFgwWjI0NkNQcDctVFctQ0ZDV0R2RE5fUmp4UnBmckxhdTR3VFhzTkpmNTh0Q3VNSzU0aFJCaWNXa1lyQi1BWEwwMWUwMC1yRjdDbHZBZ0kwWkFZLU9PUDNXakNINzlKcjdlQlJZaE5aM2s1T1B2WWN3QkR2UXlHRDZZLWtNTzA0M1lUWkRfbmJHWndyejNNUjlWMk5jRVN6ZkxsWjQ5OTJPLXN6TjdTVVVIdFdtQWtvbXRnZENSSVRaTGpobjBhUU94cHZBdDdkZEp1NldoV2M0WVJWYnNkSzhPYWR0UWlleGMxWXFsdVBCZVlpdWFWQmRHUEhWZUpXb1ExWk1uZUc5a0FmaTZ3UDB2OGMwZkMtZnZxb1BIZ2pCa2tpR3JEWHlFRWxEY2RKTzBpQVFsQnhyUFFOdG1uS3FFbjc3V3NmUGZ3dWRxYzlvV2lTa20xYm9oNzBPLUFRSVBIMWhidlVNcWV4clU3dXY?oc=5"
+  },
+  {
+   "title": "新皇崗口岸塞爆．01觀點｜港深進入同城時代 通關仍在死守邊界？",
+   "source": "香港01",
+   "date": "10-27 11:00",
+   "iso": "2026-10-27T11:00:53+00:00",
+   "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPWlRIOEJLcFczdi1WWHhreGlzdVBxelo4cEwtLWlnNmx2U1FNXzFLcnlJRkI5Q2VqcjQwdGFIczVURzRHSWxfODZfZEo3cWl0QXNGUkxzdkl4bllnRkV2azYwaUlJOWRUZm1ZSkY5QTFlaDRab1ZVUWRHVlNOQTYwX0tGZmxQTEY1TEk1dW9FQ3FRMG9sSUJrRzNONXlOdERURzdwakVBYUdZXzBqTzFmSU10SlkzbHl3SUhuTjVidi1VYWFPcE5tM3RnbkhPanJ0Wm43cXV5a0pxR2picmJMWm1KZE9nS1pqZnJkdzRRNW92X2g5VHRwLWdoajhZX3E5QjFSeXpnZm9kTG1iYWZZNVhZNjAybmd6eHBCOGZwdWtnQXU4R0lPM3MtWEprRXRlLXVKakxDMFBDT0NFNTlaZFBMWFppUkc1VExzNVI5dDVtZTBhdEloM0JCcmlCRUdMdnl6cUpaelNvS2JWMFJIUGVGaEJQV0tBMjhOUWdNc1pFbWZOZWF1S1JlMkVDUHdPTWx3?oc=5"
   },
   {
    "title": "皇崗塞爆｜10.25凌晨12時至2時逾1.4萬旅客北上 為過往同期2倍",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "10-27 05:41",
    "iso": "2026-10-27T05:41:29+00:00",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yRzEtMDVZRHRlY1g2RzY3YW5kejBGbFBaWG5YWGVqbVhpOTE2ek5aeDMwQU1lTy14amltcW5OcGpEbkEtSkdDWEVlWWxsRTlycWQtV2FxV1VHMHR4UmxqOEh3?oc=5"
-  },
-  {
-   "title": "新皇崗口岸｜新皇崗口岸周末連塞兩晚 陳恒鑌倡通關高峰前提早分流疏導",
-   "source": "香港經濟日報HKET",
-   "date": "10-27 05:18",
-   "iso": "2026-10-27T05:18:30+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxQQ3VhQkNfdkJMSkM3VFBJTmhuV3NpQ25QTlVkWGdWMG9ic1VFbmpYYzdWaldhR2U1TWdSc3lpcXItX293NThlczg5VGVyY2ZrbFhiOGtmN0xLVm4wczhqVlVFVGtrN2lVSk9MUnB3U2tiUkZvUktaalRQRlBKNUw1Z1ZtbjZ6UEFxZmMzdkI2RmczM3lldDRnSmxGd0MxWUhNUEctYl9iaTJfaW0zLWgtQ2cyTE1BREtwcWxVV3dxUWl5cDZiSkRaMWhtWGNQa182aUVUbVUwRlhKWi1jN2p2Ul94VTQxN0J2NmdMT2ZNZzlFbklQYU5wdVJoamhmbGN1N0I5NkZrUUdSdGdBZkpQWTNFY09aOW93S0VjbVM2eHQ4eWJkWGplY3JxRmNLRnEyM0dMdWN3b1JCRm9DMU9md3RpbE11WW92MjIyYjA3Vy14TW15dk5iZDRqOU9wQjhyUDI0eGhLU3dNd25ZSzVQWUZYWldxQXdvZEdkQXlzbFRnOHBWRl96OGtoZk9fSjVGd0laZTBoZ2E3Ym1yTnJicGlmdmhYQU1tcWNURUZCZGtUd1I5ekNTbWpYVjZEcGY4TXlLaXZiY1ktTkVrbWhIRTBrak8zZzRTOU9j?oc=5"
   }
  ],
  "ok": true,
