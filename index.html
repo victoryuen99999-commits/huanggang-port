@@ -658,9 +658,36 @@
       setLive(true, "即時 · "+j.clock);
       if(manual) toast("已更新至 "+j.clock);
     }).catch(function(){
-      setLive(false, "快照模式");
-      if(manual) toast("即時接口未啟動，顯示最後快照");
+      // 靜態託管（GitHub Pages）：無 /api/live，改用每 60 秒換新 data.js
+      setLive(false, "自動更新中");
+      refreshSnapshot();
+      if(manual) toast("已重新載入最新快照");
     });
+  }
+
+  var snapTimer = null;
+  function refreshSnapshot(){
+    if(location.protocol === "file:") return;
+    var s = document.createElement("script");
+    s.src = "data.js?t=" + Date.now();
+    s.onload = function(){
+      s.remove();
+      var nd = window.HGP_DATA;
+      if(nd && (!DATA || nd.generated_at !== DATA.generated_at)){
+        DATA = nd;
+        renderToday(nd); renderStatus(nd);
+        var t = nd.clock || "";
+        setLive(true, "已更新 · " + t);
+        if(nd.generated_at){
+          $("footStamp").textContent = "本頁快照產生時間：" + nd.generated_at.replace("T"," ") + "（HKT）";
+        }
+      } else if(!DATA || !/已更新/.test($("liveTxt").textContent)){
+        setLive(true, "自動更新 · " + ((DATA && DATA.clock) || "--:--"));
+      }
+    };
+    s.onerror = function(){ s.remove(); };
+    document.head.appendChild(s);
+    if(!snapTimer){ snapTimer = setInterval(refreshSnapshot, 60000); }
   }
 
   $("refreshBtn").addEventListener("click", function(){ pullLive(true); });
