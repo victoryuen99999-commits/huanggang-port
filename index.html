@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>皇崗口岸 · 每日資訊站｜24小時通關・實時輪候・交通接駁</title>
 <meta name="description" content="新皇崗口岸每日資訊：實時出入境輪候時間、24小時通關安排、一地兩檢流程、港深兩地巴士小巴地鐵接駁、票價及注意事項。">
+<meta name="theme-color" content="#060b14">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='15' fill='%232fd4b6'/%3E%3Ctext x='32' y='45' font-size='38' font-family='sans-serif' font-weight='bold' text-anchor='middle' fill='%23041221'%3E%E7%9A%87%3C/text%3E%3C/svg%3E">
 <style>
   :root{
     --bg:#060b14; --bg2:#0a1421; --card:rgba(255,255,255,.045); --card2:rgba(255,255,255,.028);
@@ -176,16 +178,64 @@
     .today-grid,.flow-grid{grid-template-columns:1fr}
     .cards{grid-template-columns:repeat(2,1fr)}
   }
+  @media(max-width:700px){
+    /* 表格改為卡片式，唔需要左右滑 */
+    .cardify{border:0;background:transparent;overflow:visible}
+    .cardify table{min-width:0;width:100%}
+    .cardify thead{display:none}
+    .cardify tbody{display:block}
+    .cardify tr{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;
+      padding:11px 13px;margin-bottom:9px}
+    .cardify tr:hover{background:var(--card)}
+    .cardify td{display:grid;grid-template-columns:82px 1fr;gap:10px;border:0;padding:3.5px 0;
+      font-size:13.2px;text-align:left;white-space:normal}
+    .cardify td::before{color:var(--mut2);font-size:11.5px;font-weight:500;white-space:nowrap;line-height:1.5}
+    .cardify td:first-child{display:block;font-size:15.5px;font-weight:700;color:#fff;
+      border-bottom:1px dashed rgba(255,255,255,.13);padding:0 0 7px;margin-bottom:7px}
+    .cardify td:first-child::before{content:none}
+    .cardify td.num{white-space:normal}
+    /* 各表欄位標籤 */
+    .t-port td:nth-child(2){display:none}
+    .t-port td:nth-child(3)::before{content:"入境（居民）"}
+    .t-port td:nth-child(4)::before{content:"出境（居民）"}
+    .t-port td:nth-child(5)::before{content:"備註"}
+    .t-bus td:nth-child(2)::before{content:"終點"}
+    .t-bus td:nth-child(3)::before{content:"途經"}
+    .t-bus td:nth-child(4)::before{content:"服務時間"}
+    .t-bus td:nth-child(5)::before{content:"車資"}
+    .t-xb td:nth-child(2)::before{content:"上落點"}
+    .t-xb td:nth-child(3)::before{content:"途經"}
+    .t-xb td:nth-child(4)::before{content:"車資"}
+    .t-metro td:nth-child(2)::before{content:"位置"}
+    .t-metro td:nth-child(3)::before{content:"時間"}
+  }
   @media(max-width:560px){
     body{font-size:15px}
     .wrap{padding:0 15px}
     .hero{padding:28px 0 4px}
     .brand span{display:none}
+    .brand b{font-size:14.5px}
+    .logo{width:34px;height:34px;font-size:15px}
+    .top-in{gap:10px;padding:10px 15px}
+    .top-right{gap:8px}
     .top-right .live{font-size:11.5px;padding:3px 8px}
+    .btn{padding:6px 10px;font-size:12px}
     .cards{grid-template-columns:1fr}
     .datecard .d{font-size:32px}
     .panel{padding:15px 14px}
     .flow{padding:15px 14px}
+    .stat .val{font-size:21px}
+    .openbar{gap:8px 10px;padding:12px 14px}
+    .openbar .sep{display:none}
+    .openbar .small{font-size:12.2px}
+    .datecard{gap:12px}
+    .datecard .wx{margin-left:0 !important;width:100%;border-top:1px solid var(--line);padding-top:10px}
+    .wx .temp{font-size:28px}
+    summary{padding:13px 13px;font-size:13.6px}
+    details .ans{padding:0 13px 13px 38px}
+    .chip{font-size:12px;padding:4px 10px}
+    h1{font-size:29px}
+    .cardify td{grid-template-columns:76px 1fr;font-size:13px}
   }
 </style>
 </head>
@@ -233,6 +283,8 @@
       <div class="small">香港時間 <b class="t" id="hkt">--:--:--</b></div>
       <div class="sep"></div>
       <div class="small">資料更新 <b class="t" id="updated">--</b></div>
+      <div class="sep"></div>
+      <div class="small">自動更新 <b class="t" id="autoLeft">60s</b></div>
     </div>
 
     <div class="status-grid">
@@ -307,8 +359,8 @@
   <section id="others">
     <h2>其他口岸即時對照</h2>
     <p class="sub">皇崗太擠時，可即時比較鄰近口岸再決定</p>
-    <div class="tbl-wrap">
-      <table>
+    <div class="tbl-wrap cardify">
+      <table class="t-port">
         <thead><tr><th>管制站</th><th>代號</th><th>入境（居民）</th><th>出境（居民）</th><th>備註</th></tr></thead>
         <tbody id="othersBody">
           <tr><td colspan="5" style="color:var(--mut2)">載入中…</td></tr>
@@ -323,8 +375,8 @@
     <p class="sub">港方口岸區 L2 公共運輸交匯處上落客｜不設公眾停車場</p>
 
     <h3 style="font-size:14.5px;margin:6px 0 9px;color:#fff">① 專營巴士（九巴 / 嶼巴 / 城巴）</h3>
-    <div class="tbl-wrap">
-      <table>
+    <div class="tbl-wrap cardify">
+      <table class="t-bus">
         <thead><tr><th>路線</th><th>終點</th><th>途經</th><th>服務時間</th><th class="num">車資</th></tr></thead>
         <tbody>
           <tr><td><b>B10</b></td><td>葵翠邨</td><td>大欖隧道轉車站、青衣站、葵芳</td><td class="num">06:00–00:30</td><td class="num">$12.1</td></tr>
@@ -339,8 +391,8 @@
     </div>
 
     <h3 style="font-size:14.5px;margin:22px 0 9px;color:#fff">② 專線小巴</h3>
-    <div class="tbl-wrap">
-      <table>
+    <div class="tbl-wrap cardify">
+      <table class="t-bus">
         <thead><tr><th>路線</th><th>終點</th><th>途經</th><th>服務時間</th><th class="num">車資</th></tr></thead>
         <tbody>
           <tr><td><b>44B</b></td><td>屯門站</td><td>新田轉車站、屯門醫院</td><td class="num">05:45–22:59</td><td class="num">$15.7</td></tr>
@@ -354,8 +406,8 @@
     </div>
 
     <h3 style="font-size:14.5px;margin:22px 0 9px;color:#fff">③ 跨境短途巴士（直接往市區，24 小時）</h3>
-    <div class="tbl-wrap">
-      <table>
+    <div class="tbl-wrap cardify">
+      <table class="t-xb">
         <thead><tr><th>路線</th><th>香港上落點</th><th>途經</th><th class="num">全程車資</th></tr></thead>
         <tbody>
           <tr><td>荃灣線</td><td>愉景新城巴士總站</td><td>荃灣市中心、荃灣西站（通宵服務）</td><td class="num">$45–48</td></tr>
@@ -377,8 +429,8 @@
     </div>
 
     <h3 style="font-size:14.5px;margin:22px 0 9px;color:#fff">⑤ 深圳側接駁（地鐵 7 號線 · 免費接駁巴士）</h3>
-    <div class="tbl-wrap">
-      <table>
+    <div class="tbl-wrap cardify">
+      <table class="t-metro">
         <thead><tr><th>方式</th><th>位置 / 走法</th><th>時間 / 班次</th></tr></thead>
         <tbody>
           <tr><td><b>地鐵 7 號線</b><br>皇崗口岸站</td><td>F 口直通口岸北廣場；B2 層另有地下連通通道直達通關區域（D 口經北廣場步行至 B1）</td><td class="num">往深大麗湖 06:34–23:23<br>往太安 05:54–23:38<br><span style="color:var(--mut2)">（工作日；週末 06:39／06:03 起）</span></td></tr>
@@ -546,6 +598,7 @@
   var DAY = ["星期日","星期一","星期二","星期三","星期四","星期五","星期六"];
   var DATA = window.HGP_DATA || null;
   var liveMode = false;
+  var nextPull = Date.now() + 60000;
 
   function $(id){ return document.getElementById(id); }
   function pad(n){ return n<10 ? "0"+n : ""+n; }
@@ -629,6 +682,11 @@
     $("phaseTxt").textContent = "現在時段："+phase;
     $("dayNum").textContent = now.getDate();
     $("dateTxt").textContent = now.getFullYear()+" 年 "+(now.getMonth()+1)+" 月 · "+DAY[now.getDay()];
+    var al = $("autoLeft");
+    if(al){
+      var left = Math.max(0, Math.round((nextPull - Date.now())/1000));
+      al.textContent = left + "s";
+    }
   }
 
   function setLive(on, txt){
@@ -690,6 +748,8 @@
     if(!snapTimer){ snapTimer = setInterval(refreshSnapshot, 60000); }
   }
 
+  function pullLoop(){ nextPull = Date.now() + 60000; pullLive(false); }
+
   $("refreshBtn").addEventListener("click", function(){ pullLive(true); });
 
   // 首次渲染（快照）
@@ -699,8 +759,8 @@
     $("tipList").innerHTML = '<li class="warn"><span class="k">注意</span><span>找不到 data.js，請執行 python refresh.py 產生每日資料。</span></li>';
   }
   pullLive(false);
-  setInterval(function(){ pullLive(false); }, 60000);
-  setInterval(tick, 60000);
+  nextPull = Date.now() + 60000;
+  setInterval(pullLoop, 60000);
 
   if(DATA && DATA.generated_at){
     $("footStamp").textContent = "本頁快照產生時間：" + DATA.generated_at.replace("T"," ") + "（HKT）";

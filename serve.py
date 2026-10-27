@@ -48,9 +48,13 @@ class Handler(SimpleHTTPRequestHandler):
         super().end_headers()
 
     def log_message(self, fmt, *args):
-        if "/api/live" in (args[0] if args else ""):
+        try:
+            msg = fmt % args
+        except Exception:                               # noqa: BLE001
+            msg = " ".join(str(a) for a in args)
+        if "/api/live" in msg:
             return
-        sys.stderr.write("%s - %s\n" % (self.address_string(), fmt % args))
+        sys.stderr.write("%s - %s\n" % (self.address_string(), msg))
 
 def build_live():
     """即時查入境處兩份 JSON + 天氣，回傳精簡結構"""
@@ -86,13 +90,29 @@ def refresher():
             sys.stderr.write("[refresh] %s\n" % e)
         time.sleep(REFRESH_SEC)
 
+def local_ip():
+    import socket
+    try:
+        s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+        s.connect(("8.8.8.8", 80))
+        ip = s.getsockname()[0]
+        s.close()
+        return ip
+    except Exception:                                   # noqa: BLE001
+        return None
+
 def main():
     threading.Thread(target=refresher, daemon=True).start()
-    srv = ThreadingHTTPServer(("127.0.0.1", PORT), Handler)
-    url = "http://127.0.0.1:%d/" % PORT
-    print("皇崗口岸資訊站 → %s   (Ctrl+C 停止)" % url)
+    # 0.0.0.0：同一個 Wi-Fi 下的手機可以直接開 (http://<你的內網IP>:8080/)
+    srv = ThreadingHTTPServer(("0.0.0.0", PORT), Handler)
+    print("皇崗口岸資訊站")
+    print("  電腦： http://127.0.0.1:%d/" % PORT)
+    ip = local_ip()
+    if ip:
+        print("  手機： http://%s:%d/    （需同一個 Wi-Fi；首次可能要在防火牆允許 python）" % (ip, PORT))
+    print("  Ctrl+C 停止")
     try:
-        webbrowser.open(url)
+        webbrowser.open("http://127.0.0.1:%d/" % PORT)
     except Exception:                                   # noqa: BLE001
         pass
     try:
