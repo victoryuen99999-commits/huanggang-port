@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-28T07:13:57+08:00",
+ "generated_at": "2026-10-28T07:48:55+08:00",
  "date": "2026-10-28",
  "weekday": "星期三",
- "clock": "07:13",
+ "clock": "07:48",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 23,
-  "humidity": 73,
-  "wind": 12.1,
+  "temp": 24,
+  "humidity": 71,
+  "wind": 12.0,
   "code": 3,
   "desc": "多雲",
   "tmax": 29,
@@ -60,6 +60,13 @@ window.HGP_DATA = {
   }
  ],
  "news": [
+  {
+   "title": "應對萬聖節人流 新皇崗設跨部門指揮站",
+   "source": "香港文匯報",
+   "date": "10-27 20:35",
+   "iso": "2026-10-27T20:35:51+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZVDJGcnVKUGI2QzFaMl9oOHM3VWR0di1yYjdTY29ORDJFRk5teks2Wk51eDA4WnREWDhIRW1VVTVMdml1ZFRHWG1kaXZ4d29OenVjam1hTXpxMUltNkhMdGEtM0FMRXFDenREcG5ZVGRlcWw1c3Q0?oc=5"
+  },
   {
    "title": "盛事經濟效應強優化通關惠百業- 評論",
    "source": "香港文匯報",
@@ -82,11 +89,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxORkJfSGlyZzdRV0RhWEI2SXNCcUMtcmhPdWwtbUlkZHJCcUhIaVR4dnpBdG5YVlpCdEhfOUdicDlzaGxZc3FfWDFudFFUX1l2M2dic19OUktSdnlJeW16NkpKemU0V1pXUlVsQVZmTDNhNjlEaG54T01iYnZDT2c4MjJuTUtJWk9rblhXMW1HdmVBS05NN2FrSFJDdlNjcmdoUXRpZzEzSHhMMjIxVURWVjk2SUQ5MmpCenZCemptZmtYN1VZdTFGQUlVV1Y4VWU1MU5uNmN1WTVkRkpBNVNlZDZKNVdWOHBhbDBCOHpobEduLTdwdmNqWWpBQ0xaRkZfT21kMHNBT3lZQ1Q3cTZNcG9GS2E3RjEwUXZ3V1prMVVNSldJejN5TW9hbUJUMlBjLU5kTUNMVHBsWmFpZkNfNVpwZV95UkJCcTVSYUszX0VZaW9rY3lEUTEtbEI4LVotaWhFUUpPa1FMWlNFMVR6UlRuQUlmeUVzNGVNUlphQlJScl9rUGZRSnMtMHYxcXZhN0NNc1lEZ0JaMHlnbkZPMGdRbkFzRnUzVFBDcTc4RUJ6S093UnQwN2dpTTNFaGFhSjlzN2I2bzF0LUdSVndnS05WZDlORkdndDlOOXltRjl5VG90bjEwLTN2dmpZX2YzX3dPdFN0eng5VGU2QW1qbQ?oc=5"
   },
   {
-   "title": "皇崗塞爆｜跨境白牌車中介網上吸客索千元赴深圳 警放蛇拘兩司機",
+   "title": "新皇崗口岸塞爆．01觀點｜港深進入同城時代 通關仍在死守邊界？",
    "source": "香港01",
-   "date": "10-27 11:12",
-   "iso": "2026-10-27T11:12:05+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNMDR0QWFDUVBTUTJyZGd3d3BLRl9WdHR1dUpvV1N5YzZ0NmVHTzNtYzEwY1F5Nk1wNlNkdDZOTElHWWJhVFRsWFgwWjI0NkNQcDctVFctQ0ZDV0R2RE5fUmp4UnBmckxhdTR3VFhzTkpmNTh0Q3VNSzU0aFJCaWNXa1lyQi1BWEwwMWUwMC1yRjdDbHZBZ0kwWkFZLU9PUDNXakNINzlKcjdlQlJZaE5aM2s1T1B2WWN3QkR2UXlHRDZZLWtNTzA0M1lUWkRfbmJHWndyejNNUjlWMk5jRVN6ZkxsWjQ5OTJPLXN6TjdTVVVIdFdtQWtvbXRnZENSSVRaTGpobjBhUU94cHZBdDdkZEp1NldoV2M0WVJWYnNkSzhPYWR0UWlleGMxWXFsdVBCZVlpdWFWQmRHUEhWZUpXb1ExWk1uZUc5a0FmaTZ3UDB2OGMwZkMtZnZxb1BIZ2pCa2tpR3JEWHlFRWxEY2RKTzBpQVFsQnhyUFFOdG1uS3FFbjc3V3NmUGZ3dWRxYzlvV2lTa20xYm9oNzBPLUFRSVBIMWhidlVNcWV4clU3dXY?oc=5"
+   "date": "10-27 11:00",
+   "iso": "2026-10-27T11:00:53+00:00",
+   "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPWlRIOEJLcFczdi1WWHhreGlzdVBxelo4cEwtLWlnNmx2U1FNXzFLcnlJRkI5Q2VqcjQwdGFIczVURzRHSWxfODZfZEo3cWl0QXNGUkxzdkl4bllnRkV2azYwaUlJOWRUZm1ZSkY5QTFlaDRab1ZVUWRHVlNOQTYwX0tGZmxQTEY1TEk1dW9FQ3FRMG9sSUJrRzNONXlOdERURzdwakVBYUdZXzBqTzFmSU10SlkzbHl3SUhuTjVidi1VYWFPcE5tM3RnbkhPanJ0Wm43cXV5a0pxR2picmJMWm1KZE9nS1pqZnJkdzRRNW92X2g5VHRwLWdoajhZX3E5QjFSeXpnZm9kTG1iYWZZNVhZNjAybmd6eHBCOGZwdWtnQXU4R0lPM3MtWEprRXRlLXVKakxDMFBDT0NFNTlaZFBMWFppUkc1VExzNVI5dDVtZTBhdEloM0JCcmlCRUdMdnl6cUpaelNvS2JWMFJIUGVGaEJQV0tBMjhOUWdNc1pFbWZOZWF1S1JlMkVDUHdPTWx3?oc=5"
   },
   {
    "title": "皇崗塞爆｜10.25凌晨12時至2時逾1.4萬旅客北上 為過往同期2倍",
@@ -96,25 +103,18 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQa2FjejFYNllhZGVvRDFiRHE2ZnJBbmhTNzlYMENNUUNKTS0wWExScFI4MG1vOUc2M0JVRUc1MGQwWVZqSGlJamNhSkNQVVJBNzZjUHRQNERZbG9Ha29aaHVyRnh2VGx4c2hrQS1yTml5azVld3M4YWxNSnd4V2dqQjRvVENYdDFYVXdIeFpfT3haZXpQMmI0N3U0WEY0dGtVdUluNk9uZkRGZFNrSjVrUWZydmJvcHBxd0U3aXo3czJGOG5TUVlsejVKOE5oVi1ncFRGbUFSdVRRSVl1b3lkY014c2tCdTREU2dxRDFZREwwRmRLQlF5VlBJSmF6SmlqejBPQk9XSGp4aF9fWHZpSEE4S3VrOWxQOVNXMlE2bzNXNmwycno2S1JscUNPc3lnaVZQZnBsYWJWeXh6LTVuMGpDMUE1cUhFWElhTmdPVERMRWpEVkJPTVRSckh4UURtVFJzRHF5LVlOck9FVjliLXplSDlQQ1lnSzZKOFozQ2ZYeWZF?oc=5"
   },
   {
+   "title": "新皇崗口岸周末連塞兩晚 陳恒鑌倡車輛提早分流疏導",
+   "source": "Yahoo",
+   "date": "10-27 10:03",
+   "iso": "2026-10-27T10:03:33+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPdXpYZi1RXzZQYTJZajBqMFRodkhZUXo3aXJ0a0p1NGV0clJfOWNTU1hRWFc0ZFBzQklkUXBrZktyRGZBTVVVWFpmOXMyZXB0Qy1nUmNfT0lndzlrNlk0V05Ddnp0dDFWQzNFekdmNlM5SE84LTd6andpTmQ4S3BTWUtwMUtfaUdvdU81c2RwZUNfOVNYLUtqSDhZUDlUMW1HQkdULWRIOU54S2JOUWNPak10X0tUYk5fVVFmQTg3azNDRU1WUTNDR1M0dVFyNlF5MUMwVk4tclJpbjJ2VldFSmRndlVRQm53OWtfeW11VGhMY1NiUjZVZ3FQSTU5UWNDVWpyQzVhVE5EaEZGTkJzRFN3UUVZMlZKWjdHUWxnWTRya2tUWkYxNThxNk9Ra1JFSW9oX09DOHctZVZlcmVXbFhQRVJwQ1o4NFktTHRrMkZFMG1DazQ5LTdjdUpDbnV2Zl80a2Z6ZVI?oc=5"
+  },
+  {
    "title": "皇崗口岸深夜車龍 李耀培指道路設計如「漏斗」倡流水式接客",
    "source": "大紀元時報香港",
    "date": "10-27 07:34",
    "iso": "2026-10-27T07:34:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OeDhVbkFGZUxoSUVDNVBxRVFVN05HZ1hPYjFMbFNoQ3BtLXo1LTVVOVRwZFJDbmNMNDNVd2U0dVJMdElWY0sydURnNmNvWVBTOUJMckN6UWg1ZHkwblhv?oc=5"
-  },
-  {
-   "title": "【皇崗大塞車】李耀培指道路設計有先天缺憾演唱會觀眾「用車」力度大| 獨媒報導",
-   "source": "獨立媒體",
-   "date": "10-27 06:47",
-   "iso": "2026-10-27T06:47:52+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQWjc2Rnh4OVZnNFQ2NGFWYmU2TU5GbldkUTB0NlNXbFBnZUowd1hQQ1RsbWxJVGZTWjJBM0F2ZWlCbWJXM19qeDRlN2NhTEVudDRTYi1rdkU2RVg1WGVXU2ZpbWg0eUdWRnlvZWxKMXM1QzlnbmRtQWJOQzZsZzg1SmlxaHZQVzZ4c0p0VER4TXczbUNTZDA1ZUtpUzZZUVA5d3JfQUJzTjRqSjJ0Y0wtV3pvQTdSM1BrNnNSS2VxN0J5WFpMRmhtWVBLQU1QRmNyTEVhUGJTMzBDT3E2clpkU29raWRkQ1JVU0Y2NGxCR3pVZzM2SWxhNmxRM1NzNkV4bTkxU0d1V1hGeWpWM2RqY0NVWThZaGhmM25yZk1PWTdPUnJxTm5OdEdhX1dOSWt3dHRfS2Jtd0dKWFhTbTh2eUVXcHlZcVctMEFLU3BzN0MwdUhnTVVjLXFVX3Y0N2pwdWxzSFAxMXVxMEMtcUQzUHBjVkltcnRjaUJUX3RXYXNmODR0c3VLckdUVEFjVVhLSElIczlORFZWOHBMUm9jREUtRzdWLS1RV2s1RjdLY0pTbWZiRGxDUlFkY0t4eHdpcDdHNE1YLVlDbHlKa2NaZ0xUM3luREFfd2RUUkFZczc?oc=5"
-  },
-  {
-   "title": "新皇崗口岸周末爆車潮專家指「漏斗」設計致擠塞倡改「流水式」上落客- 港聞",
-   "source": "dotdotnews",
-   "date": "10-27 05:44",
-   "iso": "2026-10-27T05:44:16+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xczRaYm1qNTVMc0dfejJPVTBtN0x0aEpmNzF1ZEYzWWpDSGd5T08xcGp6YU96STkwcHkwRnV2SS1uTVR6bzFsUlNfWjk0LVUzd0NLUDRmYXVzZkxDZm1PLW1uMmN6WnNmdlNnTEdXaWFxNEZ5QVNwT2NR?oc=5"
   }
  ],
  "ok": true,
