@@ -280,19 +280,6 @@
 
 <div class="wrap">
 
-  <div class="hero">
-    <div class="kicker">FOR PORT STAFF · 值班・交更・分流</div>
-    <h1>皇崗口岸<br><em>值班儀表板</em></h1>
-    <p class="lede">給口岸工作人員、跨境從業員與承辦商用：實時客流、天文台警告、口岸新聞、收工尾班車倒數、部門熱線、惡劣天氣安排。新聯檢大樓 2026-10-12 06:30 啟用，一地兩檢、24 小時通關。</p>
-    <div class="chips">
-      <span class="chip">通關 <b>00:00–24:00</b></span>
-      <span class="chip">一地兩檢 <b>合作查驗</b></span>
-      <span class="chip">設計流量 <b>20 萬人次／日</b></span>
-      <span class="chip">港方口岸區 <b>L2 / L4 / L5</b></span>
-      <span class="chip hot">純旅檢 · 已取消貨檢</span>
-    </div>
-  </div>
-
   <!-- 儀表：繁忙程度（最前） -->
   <section id="dash">
     <h2>口岸繁忙程度</h2>
@@ -315,6 +302,8 @@
       <div class="small">香港時間 <b class="t" id="hkt">--:--:--</b></div>
       <div class="sep"></div>
       <div class="small">資料更新 <b class="t" id="updated">--</b></div>
+      <div class="sep"></div>
+      <div class="small">天氣 <b class="t" id="wxMini">--</b></div>
       <div class="sep"></div>
       <div class="small">自動更新 <b class="t" id="autoLeft">60s</b></div>
     </div>
@@ -779,16 +768,8 @@
   function renderWeather(d){
     var w = d && d.weather;
     if(!w) return;
-    var extra = (d.weather && d.weather.humidity!=null) ? (" · 濕度 "+w.humidity+"%") : "";
-    var chips = document.querySelector(".chips");
-    if(chips && !$("wxChip")){
-      var s = document.createElement("span");
-      s.className = "chip"; s.id = "wxChip";
-      s.innerHTML = "天氣 <b>"+w.temp+"° "+w.desc+"</b>";
-      chips.appendChild(s);
-    } else if($("wxChip")){
-      $("wxChip").innerHTML = "天氣 <b>"+w.temp+"° "+w.desc+"</b>"+extra;
-    }
+    var t = $("wxMini");
+    if(t) t.textContent = w.temp + "° " + (w.desc || "") + (w.tmax != null ? "（高 " + w.tmax + "°）" : "");
   }
 
   function renderCountdowns(){
