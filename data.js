@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-28T02:10:07+08:00",
+ "generated_at": "2026-10-28T02:56:46+08:00",
  "date": "2026-10-28",
  "weekday": "星期三",
- "clock": "02:10",
+ "clock": "02:56",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,12 +44,12 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 85,
+  "humidity": 82,
   "wind": 10.7,
-  "code": 0,
-  "desc": "天晴",
+  "code": 2,
+  "desc": "局部多雲",
   "tmax": 29,
-  "tmin": 22,
+  "tmin": 23,
   "pop": 2
  },
  "warnings": [],
@@ -57,8 +57,8 @@ window.HGP_DATA = {
   {
    "title": "李耀培促請政府優化管理動線及制定應變機制",
    "source": "Facebook",
-   "date": "10-27 12:20",
-   "iso": "2026-10-27T12:20:55+00:00",
+   "date": "10-27 18:12",
+   "iso": "2026-10-27T18:12:06+00:00",
    "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxORkJfSGlyZzdRV0RhWEI2SXNCcUMtcmhPdWwtbUlkZHJCcUhIaVR4dnpBdG5YVlpCdEhfOUdicDlzaGxZc3FfWDFudFFUX1l2M2dic19OUktSdnlJeW16NkpKemU0V1pXUlVsQVZmTDNhNjlEaG54T01iYnZDT2c4MjJuTUtJWk9rblhXMW1HdmVBS05NN2FrSFJDdlNjcmdoUXRpZzEzSHhMMjIxVURWVjk2SUQ5MmpCenZCemptZmtYN1VZdTFGQUlVV1Y4VWU1MU5uNmN1WTVkRkpBNVNlZDZKNVdWOHBhbDBCOHpobEduLTdwdmNqWWpBQ0xaRkZfT21kMHNBT3lZQ1Q3cTZNcG9GS2E3RjEwUXZ3V1prMVVNSldJejN5TW9hbUJUMlBjLU5kTUNMVHBsWmFpZkNfNVpwZV95UkJCcTVSYUszX0VZaW9rY3lEUTEtbEI4LVotaWhFUUpPa1FMWlNFMVR6UlRuQUlmeUVzNGVNUlphQlJScl9rUGZRSnMtMHYxcXZhN0NNc1lEZ0JaMHlnbkZPMGdRbkFzRnUzVFBDcTc4RUJ6S093UnQwN2dpTTNFaGFhSjlzN2I2bzF0LUdSVndnS05WZDlORkdndDlOOXltRjl5VG90bjEwLTN2dmpZX2YzX3dPdFN0eng5VGU2QW1qbQ?oc=5"
   },
   {
