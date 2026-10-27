@@ -1,0 +1,38 @@
+name: 更新皇崗口岸資料
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"      # 每 15 分鐘（與入境處更新頻率一致）
+  workflow_dispatch:            # 亦可手動觸發
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 抓取入境處輪候 + 天氣
+        run: python refresh.py
+
+      - name: 有變更才提交
+        run: |
+          git config user.name  "hgp-bot"
+          git config user.email "hgp-bot@users.noreply.github.com"
+          if [ -n "$(git status --porcelain data.js data.json)" ]; then
+            git add data.js data.json
+            git commit -m "data: refresh $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "沒有變更"
+          fi

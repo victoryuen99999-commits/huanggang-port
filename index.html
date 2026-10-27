@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-HK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>皇崗口岸 · 每日資訊站｜24小時通關・實時輪候・交通接駁</title>
+<meta name="description" content="新皇崗口岸每日資訊：實時出入境輪候時間、24小時通關安排、一地兩檢流程、港深兩地巴士小巴地鐵接駁、票價及注意事項。">
+<style>
+  :root{
+    --bg:#060b14; --bg2:#0a1421; --card:rgba(255,255,255,.045); --card2:rgba(255,255,255,.028);
+    --line:rgba(255,255,255,.09); --fg:#e8eef8; --mut:#8a9bb4; --mut2:#65758d;
+    --teal:#2fd4b6; --teal-d:#0f7f6d; --amber:#f6b23c; --red:#f2604f; --blue:#5aa9f7; --violet:#a78bfa;
+    --radius:16px;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0; background:
+      radial-gradient(1100px 600px at 82% -10%, rgba(47,212,182,.13), transparent 60%),
+      radial-gradient(900px 520px at 5% 0%, rgba(90,169,247,.10), transparent 55%),
+      linear-gradient(180deg,var(--bg) 0%, var(--bg2) 55%, var(--bg) 100%);
+    background-attachment:fixed;
+    color:var(--fg);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft JhengHei","PingFang TC","Noto Sans TC","Hiragino Sans",sans-serif;
+    line-height:1.65; font-size:15.5px; letter-spacing:.01em;
+  }
+  a{color:var(--teal); text-decoration:none}
+  a:hover{text-decoration:underline}
+  .wrap{max-width:1120px; margin:0 auto; padding:0 20px}
+
+  /* ── header ── */
+  header.top{
+    position:sticky; top:0; z-index:50;
+    backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px);
+    background:rgba(6,11,20,.78); border-bottom:1px solid var(--line);
+  }
+  .top-in{display:flex; align-items:center; gap:14px; padding:11px 20px; max-width:1120px; margin:0 auto}
+  .logo{
+    width:38px;height:38px;border-radius:11px;flex:0 0 auto;
+    background:linear-gradient(145deg,#2fd4b6,#1a7ac4); display:grid;place-items:center;
+    font-weight:800;color:#04121a;font-size:16px; letter-spacing:-.5px;
+    box-shadow:0 4px 18px rgba(47,212,182,.28);
+  }
+  .brand b{font-size:16px; font-weight:700; letter-spacing:.02em}
+  .brand span{display:block; font-size:11.5px; color:var(--mut2); letter-spacing:.06em; margin-top:-2px}
+  .top-right{margin-left:auto; display:flex; align-items:center; gap:10px; font-size:12.5px; color:var(--mut)}
+  .live{display:inline-flex; align-items:center; gap:6px; padding:4px 10px; border-radius:999px;
+    border:1px solid var(--line); background:var(--card2); white-space:nowrap}
+  .dot{width:7px;height:7px;border-radius:50%;background:var(--teal); box-shadow:0 0 0 0 rgba(47,212,182,.6); animation:pulse 2.4s infinite}
+  .dot.stale{background:var(--amber); animation:none}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(47,212,182,.55)}70%{box-shadow:0 0 0 8px rgba(47,212,182,0)}100%{box-shadow:0 0 0 0 rgba(47,212,182,0)}}
+  .btn{
+    border:1px solid var(--line); background:var(--card); color:var(--fg);
+    padding:6px 13px; border-radius:9px; font-size:12.5px; cursor:pointer; font-family:inherit;
+    transition:.18s;
+  }
+  .btn:hover{background:rgba(47,212,182,.14); border-color:rgba(47,212,182,.45)}
+  .btn:active{transform:scale(.97)}
+
+  /* ── hero ── */
+  .hero{padding:44px 0 8px}
+  .kicker{display:inline-flex;align-items:center;gap:8px;font-size:12px;letter-spacing:.14em;color:var(--teal);
+    text-transform:uppercase;font-weight:600}
+  h1{font-size:clamp(30px,5vw,46px); line-height:1.18; letter-spacing:-.02em; margin:12px 0 12px; font-weight:800}
+  h1 em{font-style:normal; background:linear-gradient(100deg,var(--teal),#7fe3ff 55%,var(--blue));
+    -webkit-background-clip:text; background-clip:text; color:transparent}
+  .lede{color:var(--mut); max-width:60ch; font-size:15.5px}
+  .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
+  .chip{font-size:12.5px;padding:5px 12px;border-radius:999px;border:1px solid var(--line);background:var(--card2);color:var(--mut)}
+  .chip b{color:var(--fg);font-weight:600}
+  .chip.hot{border-color:rgba(246,178,60,.4); background:rgba(246,178,60,.1); color:#f8cd83}
+
+  /* ── section ── */
+  section{padding:34px 0 6px}
+  h2{font-size:19px; margin:0 0 4px; font-weight:700; letter-spacing:-.01em; display:flex; align-items:center; gap:9px}
+  h2::before{content:""; width:3px; height:16px; border-radius:2px; background:linear-gradient(var(--teal),var(--blue))}
+  .sub{color:var(--mut2); font-size:13px; margin:0 0 16px; padding-left:12px}
+  .panel{background:var(--card); border:1px solid var(--line); border-radius:var(--radius); padding:18px 20px}
+
+  /* ── status grid ── */
+  .status-grid{display:grid; grid-template-columns:repeat(4,1fr); gap:12px}
+  .stat{background:var(--card); border:1px solid var(--line); border-radius:14px; padding:15px 16px 14px; position:relative; overflow:hidden}
+  .stat::after{content:"";position:absolute;inset:auto 0 0 0;height:2px;background:var(--mut2);opacity:.5}
+  .stat.st-0::after{background:var(--teal)} .stat.st-1::after{background:var(--amber)}
+  .stat.st-2::after{background:var(--red)} .stat.st-4::after,.stat.st-99::after{background:var(--mut2)}
+  .stat .lab{font-size:12px;color:var(--mut); letter-spacing:.04em}
+  .stat .val{font-size:23px; font-weight:800; margin:6px 0 2px; letter-spacing:-.01em}
+  .stat.st-0 .val{color:var(--teal)} .stat.st-1 .val{color:var(--amber)} .stat.st-2 .val{color:var(--red)}
+  .stat.st-4 .val,.stat.st-99 .val,.stat.st-na .val{color:var(--mut2)}
+  .stat .hint{font-size:11.5px;color:var(--mut2)}
+  .openbar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:12px;
+    background:linear-gradient(90deg,rgba(47,212,182,.14),rgba(90,169,247,.06));border:1px solid rgba(47,212,182,.28);
+    border-radius:14px;padding:13px 18px}
+  .openbar .big{font-size:15px;font-weight:700}
+  .openbar .sep{width:1px;height:22px;background:var(--line)}
+  .openbar .small{font-size:13px;color:var(--mut)}
+  .openbar b.t{color:var(--teal); font-variant-numeric:tabular-nums}
+
+  /* ── tables ── */
+  .tbl-wrap{overflow-x:auto; -webkit-overflow-scrolling:touch; border:1px solid var(--line); border-radius:14px; background:var(--card2)}
+  table{width:100%; border-collapse:collapse; font-size:13.5px; min-width:560px}
+  th,td{text-align:left; padding:10px 13px; border-bottom:1px solid rgba(255,255,255,.055); vertical-align:top}
+  th{font-size:11.5px;letter-spacing:.07em;color:var(--mut2);text-transform:uppercase;font-weight:600;background:rgba(255,255,255,.02)}
+  tbody tr:last-child td{border-bottom:none}
+  tbody tr:hover{background:rgba(255,255,255,.025)}
+  td.num,th.num{font-variant-numeric:tabular-nums; white-space:nowrap}
+  .tag{display:inline-block;font-size:11px;padding:1px 7px;border-radius:6px;border:1px solid var(--line);color:var(--mut);white-space:nowrap}
+  .tag.night{background:rgba(167,139,250,.14);border-color:rgba(167,139,250,.35);color:#c4b5fd}
+  .tag.day{background:rgba(47,212,182,.1);border-color:rgba(47,212,182,.3);color:#7de3cd}
+  .tag.xb{background:rgba(90,169,247,.12);border-color:rgba(90,169,247,.32);color:#9dcafb}
+
+  /* ── today ── */
+  .today-grid{display:grid; grid-template-columns:1.15fr .85fr; gap:14px}
+  .datecard{display:flex; gap:18px; align-items:center; flex-wrap:wrap}
+  .datecard .d{font-size:38px;font-weight:800;letter-spacing:-.03em;line-height:1;font-variant-numeric:tabular-nums}
+  .datecard .meta{font-size:13px;color:var(--mut)}
+  .datecard .clock{font-size:15px;font-variant-numeric:tabular-nums;color:var(--teal);font-weight:600}
+  .wx{display:flex;align-items:center;gap:16px}
+  .wx .temp{font-size:34px;font-weight:800;letter-spacing:-.03em;font-variant-numeric:tabular-nums}
+  .wx .desc{font-size:14px}
+  .wx .det{font-size:12px;color:var(--mut2)}
+  .tips{list-style:none;margin:0;padding:0;display:grid;gap:9px}
+  .tips li{display:flex;gap:10px;align-items:flex-start;font-size:13.5px;color:#cfdae9;
+    background:var(--card2);border:1px solid var(--line);border-radius:11px;padding:10px 13px}
+  .tips .k{flex:0 0 auto;font-size:11.5px;font-weight:700;padding:1px 8px;border-radius:6px;margin-top:2px;
+    background:rgba(255,255,255,.07);color:var(--mut);white-space:nowrap}
+  .tips li.warn{border-color:rgba(246,178,60,.28);background:rgba(246,178,60,.055)}
+  .tips li.warn .k{background:rgba(246,178,60,.2);color:#fbcf88}
+  .tips li.ok .k{background:rgba(47,212,182,.18);color:#8ee8d6}
+  .tips li.info .k{background:rgba(90,169,247,.16);color:#a9d2fb}
+
+  /* ── timeline ── */
+  .flow-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  .flow{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px}
+  .flow h3{margin:0 0 14px;font-size:15px;display:flex;align-items:center;gap:8px}
+  .flow h3 .dir{font-size:11px;padding:2px 8px;border-radius:6px;font-weight:600}
+  .dir.up{background:rgba(47,212,182,.16);color:#8ee8d6;border:1px solid rgba(47,212,182,.3)}
+  .dir.down{background:rgba(90,169,247,.14);color:#a9d2fb;border:1px solid rgba(90,169,247,.3)}
+  ol.steps{list-style:none;counter-reset:s;margin:0;padding:0}
+  ol.steps li{counter-increment:s;position:relative;padding:0 0 15px 34px;font-size:13.5px;color:#cfdae9}
+  ol.steps li:last-child{padding-bottom:0}
+  ol.steps li::before{content:counter(s);position:absolute;left:0;top:1px;width:22px;height:22px;border-radius:50%;
+    display:grid;place-items:center;font-size:11.5px;font-weight:700;color:#04121a;background:linear-gradient(145deg,var(--teal),#4aa8e0)}
+  ol.steps li::after{content:"";position:absolute;left:10.5px;top:26px;bottom:3px;width:1px;background:var(--line)}
+  ol.steps li:last-child::after{display:none}
+  ol.steps b{color:#fff;font-weight:600}
+  ol.steps .note{display:block;color:var(--mut2);font-size:12.5px;margin-top:2px}
+
+  /* ── cards / building ── */
+  .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+  .mini{background:var(--card);border:1px solid var(--line);border-radius:13px;padding:14px 16px}
+  .mini h4{margin:0 0 6px;font-size:13.5px;color:#fff}
+  .mini p{margin:0;font-size:12.8px;color:var(--mut)}
+  .mini .n{font-size:22px;font-weight:800;color:var(--teal);font-variant-numeric:tabular-nums}
+
+  /* ── faq ── */
+  details{border:1px solid var(--line);border-radius:12px;background:var(--card);margin-bottom:9px;overflow:hidden}
+  details[open]{background:rgba(255,255,255,.055)}
+  summary{cursor:pointer;padding:13px 16px;font-size:14px;font-weight:600;list-style:none;display:flex;align-items:center;gap:10px}
+  summary::-webkit-details-marker{display:none}
+  summary::before{content:"＋";color:var(--teal);font-weight:700;font-size:14px;transition:.2s}
+  details[open] summary::before{content:"－"}
+  details .ans{padding:0 16px 14px 42px;font-size:13.5px;color:#c3d0e2}
+  details .ans p{margin:0 0 8px}
+  details .ans p:last-child{margin-bottom:0}
+
+  /* ── footer ── */
+  footer{margin-top:44px;border-top:1px solid var(--line);padding:26px 0 46px;font-size:12.5px;color:var(--mut2)}
+  footer .src{display:flex;flex-wrap:wrap;gap:8px 18px;margin:10px 0 16px}
+  footer .disc{max-width:78ch;line-height:1.7}
+  .toast{position:fixed;left:50%;bottom:26px;transform:translateX(-50%) translateY(20px);opacity:0;pointer-events:none;
+    background:#0d1a2a;border:1px solid var(--line);padding:9px 16px;border-radius:10px;font-size:13px;transition:.25s;z-index:99}
+  .toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+  @media(max-width:900px){
+    .status-grid{grid-template-columns:repeat(2,1fr)}
+    .today-grid,.flow-grid{grid-template-columns:1fr}
+    .cards{grid-template-columns:repeat(2,1fr)}
+  }
+  @media(max-width:560px){
+    body{font-size:15px}
+    .wrap{padding:0 15px}
+    .hero{padding:28px 0 4px}
+    .brand span{display:none}
+    .top-right .live{font-size:11.5px;padding:3px 8px}
+    .cards{grid-template-columns:1fr}
+    .datecard .d{font-size:32px}
+    .panel{padding:15px 14px}
+    .flow{padding:15px 14px}
+  }
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="top-in">
+    <div class="logo">皇</div>
+    <div class="brand">
+      <b>皇崗口岸 · 每日資訊站</b>
+      <span>HUANGGANG PORT · DAILY INFO</span>
+    </div>
+    <div class="top-right">
+      <span class="live"><span class="dot" id="dot"></span><span id="liveTxt">連線中…</span></span>
+      <button class="btn" id="refreshBtn">重新整理</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <div class="hero">
+    <div class="kicker">24 小時・一地兩檢・深港唯一全天候陸路口岸</div>
+    <h1>皇崗口岸<br><em>今日過關情報</em></h1>
+    <p class="lede">實時出入境輪候、通宵交通、一地兩檢流程、港深兩地接駁與票價。新聯檢大樓於 2026 年 10 月 12 日 06:30 啟用，落馬洲管制站旅檢服務同日停止。</p>
+    <div class="chips">
+      <span class="chip">通關時間 <b>00:00–24:00</b></span>
+      <span class="chip">平均通關 <b>約 5 分鐘</b></span>
+      <span class="chip">自助通道 <b>最快 20 秒</b></span>
+      <span class="chip">設計流量 <b>20 萬人次／日</b></span>
+      <span class="chip hot">純旅檢口岸 · 已取消貨檢</span>
+    </div>
+  </div>
+
+  <!-- 即時狀態 -->
+  <section id="status">
+    <h2>即時輪候狀態</h2>
+    <p class="sub">香港入境事務處每 15 分鐘更新・狀態碼 0 正常／1 繁忙／2 非常繁忙</p>
+
+    <div class="openbar">
+      <div class="big">🟢 24 小時通關中</div>
+      <div class="sep"></div>
+      <div class="small" id="phaseTxt">現在時段：—</div>
+      <div class="sep"></div>
+      <div class="small">香港時間 <b class="t" id="hkt">--:--:--</b></div>
+      <div class="sep"></div>
+      <div class="small">資料更新 <b class="t" id="updated">--</b></div>
+    </div>
+
+    <div class="status-grid">
+      <div class="stat st-na" id="s-r-in">
+        <div class="lab">香港居民 · 入境</div>
+        <div class="val">—</div><div class="hint">等待數據</div>
+      </div>
+      <div class="stat st-na" id="s-r-out">
+        <div class="lab">香港居民 · 出境</div>
+        <div class="val">—</div><div class="hint">等待數據</div>
+      </div>
+      <div class="stat st-na" id="s-v-in">
+        <div class="lab">訪港旅客 · 入境</div>
+        <div class="val">—</div><div class="hint">等待數據</div>
+      </div>
+      <div class="stat st-na" id="s-v-out">
+        <div class="lab">訪港旅客 · 出境</div>
+        <div class="val">—</div><div class="hint">等待數據</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 今日概況 -->
+  <section id="today">
+    <h2>今日概況</h2>
+    <p class="sub">日期、天氣與時段提示（提示為規則式參考，非官方預測）</p>
+    <div class="today-grid">
+      <div class="panel">
+        <div class="datecard">
+          <div class="d" id="dayNum">--</div>
+          <div>
+            <div class="meta" id="dateTxt">載入中…</div>
+            <div class="clock" id="clockBig">--:--</div>
+            <div class="meta" id="wxTxt">—</div>
+          </div>
+          <div class="wx" style="margin-left:auto">
+            <div>
+              <div class="temp" id="wxTemp">--°</div>
+              <div class="desc" id="wxDesc">—</div>
+              <div class="det" id="wxDet"></div>
+            </div>
+          </div>
+        </div>
+        <div style="margin-top:16px">
+          <ul class="tips" id="tipList">
+            <li class="info"><span class="k">提示</span><span>正在載入今日提示…</span></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h4 style="margin:0 0 10px;font-size:13.5px;color:#fff">時段速覽</h4>
+        <div class="tbl-wrap" style="min-width:0">
+          <table style="min-width:0">
+            <thead><tr><th>時段</th><th>情況</th><th>建議</th></tr></thead>
+            <tbody>
+              <tr><td class="num">00–06</td><td><span class="tag night">深夜</span></td><td>地鐵已收車，只餘通宵巴士／的士</td></tr>
+              <tr><td class="num">06–09</td><td><span class="tag">早高峰</span></td><td>跨境上班上學，預留 20–30 分鐘</td></tr>
+              <tr><td class="num">09–12</td><td><span class="tag day">較鬆</span></td><td>適合趕時間過關</td></tr>
+              <tr><td class="num">12–17</td><td><span class="tag day">平穩</span></td><td>一般 3–5 分鐘完成</td></tr>
+              <tr><td class="num">17–21</td><td><span class="tag">雙向高峰</span></td><td>候車人龍較長</td></tr>
+              <tr><td class="num">21–24</td><td><span class="tag night">回落</span></td><td>留意尾班車時間</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p style="font-size:11.8px;color:var(--mut2);margin:10px 0 0">＊以上為開通後媒體報道整理的經驗時段，非官方統計。</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 其他口岸 -->
+  <section id="others">
+    <h2>其他口岸即時對照</h2>
+    <p class="sub">皇崗太擠時，可即時比較鄰近口岸再決定</p>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>管制站</th><th>代號</th><th>入境（居民）</th><th>出境（居民）</th><th>備註</th></tr></thead>
+        <tbody id="othersBody">
+          <tr><td colspan="5" style="color:var(--mut2)">載入中…</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- 交通 -->
+  <section id="transport">
+    <h2>交通接駁</h2>
+    <p class="sub">港方口岸區 L2 公共運輸交匯處上落客｜不設公眾停車場</p>
+
+    <h3 style="font-size:14.5px;margin:6px 0 9px;color:#fff">① 專營巴士（九巴 / 嶼巴 / 城巴）</h3>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>路線</th><th>終點</th><th>途經</th><th>服務時間</th><th class="num">車資</th></tr></thead>
+        <tbody>
+          <tr><td><b>B10</b></td><td>葵翠邨</td><td>大欖隧道轉車站、青衣站、葵芳</td><td class="num">06:00–00:30</td><td class="num">$12.1</td></tr>
+          <tr><td><b>B11</b></td><td>天富（天水圍）</td><td>新田轉車站、元朗站、天水圍</td><td class="num">05:00–01:00</td><td class="num">$10.5</td></tr>
+          <tr><td><b>B12</b></td><td>烏溪沙站</td><td>新田、大埔（廣福）、科學園、馬鞍山</td><td class="num">06:00–00:30</td><td class="num">$21.0</td></tr>
+          <tr><td><b>B13</b></td><td>小西灣（藍灣半島）</td><td>新田、大欖、西隧轉車站、中環、北角、西灣河</td><td class="num">06:00–00:30</td><td class="num">$27.6</td></tr>
+          <tr><td><b>B14</b></td><td>啟德（世運道）</td><td>大欖轉車站、啟德體育園、宋皇臺站</td><td class="num">08:00–11:00<br>18:00–21:00</td><td class="num">$20.8</td></tr>
+          <tr><td><b>B15</b></td><td>屯門青山灣</td><td>洪水橋、屯門站</td><td class="num">週六日及假期<br>06:00–00:30</td><td class="num">$15.5</td></tr>
+          <tr><td><b>NB73</b> <span class="tag night">通宵</span></td><td>沙田市中心</td><td>新田、上水站、大埔（廣福）、沙田</td><td class="num">23:30–05:30</td><td class="num">$22.6</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3 style="font-size:14.5px;margin:22px 0 9px;color:#fff">② 專線小巴</h3>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>路線</th><th>終點</th><th>途經</th><th>服務時間</th><th class="num">車資</th></tr></thead>
+        <tbody>
+          <tr><td><b>44B</b></td><td>屯門站</td><td>新田轉車站、屯門醫院</td><td class="num">05:45–22:59</td><td class="num">$15.7</td></tr>
+          <tr><td><b>44B1</b></td><td>屯門碼頭</td><td>新田轉車站、屯門市中心</td><td class="num">05:45–22:59</td><td class="num">$15.7</td></tr>
+          <tr><td><b>78</b></td><td>八鄉路（近大欖轉車站）</td><td>新田轉車站、錦上路站</td><td class="num">06:15–22:40</td><td class="num">$9.7</td></tr>
+          <tr><td><b>79S</b> <span class="tag night">通宵</span></td><td>天水圍（俊宏軒）</td><td>元朗市中心</td><td class="num">23:10–06:30</td><td class="num">$14.6</td></tr>
+          <tr><td><b>N44B</b> <span class="tag night">通宵</span></td><td>屯門碼頭</td><td>新田、屯門醫院、屯門市中心</td><td class="num">22:15–06:30</td><td class="num">$15.7<br><span style="color:var(--mut2)">00:00–06:30 $21.7</span></td></tr>
+          <tr><td><b>616S</b> <span class="tag night">通宵</span></td><td>旺角（西洋菜南街）</td><td>九龍塘（窩打老道）</td><td class="num">22:25–06:30</td><td class="num">$28.5</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3 style="font-size:14.5px;margin:22px 0 9px;color:#fff">③ 跨境短途巴士（直接往市區，24 小時）</h3>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>路線</th><th>香港上落點</th><th>途經</th><th class="num">全程車資</th></tr></thead>
+        <tbody>
+          <tr><td>荃灣線</td><td>愉景新城巴士總站</td><td>荃灣市中心、荃灣西站（通宵服務）</td><td class="num">$45–48</td></tr>
+          <tr><td>旺角線</td><td>鴉蘭街（金都商場對開）</td><td>荔枝角、長沙灣、太子、旺角</td><td class="num">$45–50</td></tr>
+          <tr><td>油尖線</td><td>柯士甸道過境巴士總站</td><td>油麻地、佐敦、尖沙咀、西九文化區</td><td class="num">$50–55</td></tr>
+          <tr><td>觀塘線</td><td>藍田站</td><td>鑽石山站、九龍灣站、觀塘</td><td class="num">$55–60</td></tr>
+          <tr><td>灣仔線</td><td>會展站</td><td>上環、金鐘、灣仔</td><td class="num">$57–63</td></tr>
+          <tr><td>樂園快線 <span class="tag day">日間</span></td><td>迪士尼公共運輸交匯處</td><td>迪士尼樂園</td><td class="num">$80–100</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p style="font-size:12px;color:var(--mut2);margin:9px 0 0">個別站點只在指定時段提供服務；營辦商另有票價優惠，以現場公布為準。旅客亦可乘長途跨境巴士及跨境出租車經皇崗往返內地。</p>
+
+    <h3 style="font-size:14.5px;margin:22px 0 9px;color:#fff">④ 的士</h3>
+    <div class="cards">
+      <div class="mini"><h4>紅的（市區的士）</h4><p>L2 交匯處設站，現場排隊；可往港九新界各區（東涌道及大嶼山南部除外）。</p></div>
+      <div class="mini"><h4>綠的（新界的士）</h4><p>主要行走新界東北及西北，包括屯門、元朗、大埔、北區、馬鞍山、西貢大部。</p></div>
+      <div class="mini"><h4>預約的士車隊</h4><p>交匯處設專屬上客區，可掃碼用八達通「Call車易」或車隊 App 預約；不設非車隊預約上客點。</p></div>
+    </div>
+
+    <h3 style="font-size:14.5px;margin:22px 0 9px;color:#fff">⑤ 深圳側接駁（地鐵 7 號線 · 免費接駁巴士）</h3>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>方式</th><th>位置 / 走法</th><th>時間 / 班次</th></tr></thead>
+        <tbody>
+          <tr><td><b>地鐵 7 號線</b><br>皇崗口岸站</td><td>F 口直通口岸北廣場；B2 層另有地下連通通道直達通關區域（D 口經北廣場步行至 B1）</td><td class="num">往深大麗湖 06:34–23:23<br>往太安 05:54–23:38<br><span style="color:var(--mut2)">（工作日；週末 06:39／06:03 起）</span></td></tr>
+          <tr><td><b>免費接駁巴士</b></td><td>以皇崗口岸為起終點：卓悅 INTOWN → 會展中心 → 平安金融中心 → 購物公園 → 皇庭廣場／領展中心城 → 卓悅中心 → 深圳之眼</td><td>按現場公布</td></tr>
+          <tr><td><b>公交 / 網約車 / 的士</b></td><td>即停即走者於 B1 落客，乘扶梯／電梯上 L4 過關</td><td>—</td></tr>
+          <tr><td><b>私家車</b></td><td>深圳側 B3 社會停車場泊車，再上 L4 過關</td><td>—</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p style="font-size:12px;color:var(--mut2);margin:9px 0 0">港方口岸區屬禁區，<b>不設公眾停車場</b>；駕駛私家車的旅客請泊沿途接駁停車場再轉公共交通工具。</p>
+  </section>
+
+  <!-- 過關流程 -->
+  <section id="flow">
+    <h2>一地兩檢・過關流程</h2>
+    <p class="sub">「合作查驗、一次放行」：排一次隊、讀一次證件、核實一次身分，即完成兩地手續</p>
+    <div class="flow-grid">
+      <div class="flow">
+        <h3><span class="dir up">北上</span> 香港 → 深圳</h3>
+        <ol class="steps">
+          <li><b>L2 公共運輸交匯處下車</b><span class="note">巴士、小巴、的士、跨境巴士全部在此上落</span></li>
+          <li><b>乘扶梯／電梯上 L5 出境旅檢層</b><span class="note">跟隨「出境」指示</span></li>
+          <li><b>合作查驗自助通道</b><span class="note">第一道閘讀證 → 第二道閘（邊界線）採集容貌及指紋 → 第三道閘由深方核對</span></li>
+          <li><b>進入深圳側，往 B1／B2</b><span class="note">往地鐵 7 號線、公交、的士或網約車</span></li>
+        </ol>
+      </div>
+      <div class="flow">
+        <h3><span class="dir down">返港</span> 深圳 → 香港</h3>
+        <ol class="steps">
+          <li><b>地鐵 7 號線皇崗口岸站</b><span class="note">B2 地下連通通道，或 F／D 口經北廣場步行至 B1</span></li>
+          <li><b>乘扶梯／電梯上 L4 旅檢層</b><span class="note">完成深港兩地查驗</span></li>
+          <li><b>下行至 L2 港方交匯處</b><span class="note">乘 B10／B11／B12／B13、專線小巴、的士或跨境巴士</span></li>
+          <li><b>經落馬洲大橋返港</b><span class="note">車程按目的地而定，B10 全程約 45 分鐘</span></li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="cards" style="margin-top:14px">
+      <div class="mini"><div class="n">134</div><h4>合作查驗自助通道</h4><p>另有 68 個傳統人工櫃枱</p></div>
+      <div class="mini"><div class="n">26</div><h4>私家車及過境巴士檢查亭</h4><p>司機免下車，一次完成兩地五方查驗</p></div>
+      <div class="mini"><div class="n">5<span style="font-size:14px">分鐘</span></div><h4>平均通關時間</h4><p>較舊口岸約 30 分鐘大幅縮短</p></div>
+    </div>
+    <p style="font-size:12.3px;color:var(--mut2);margin:12px 0 0">「合作查驗」自助通道設使用資格及登記安排，首次使用前請先查閱入境事務處及深圳口岸部門公布；行動不便或有特別需要人士可使用人工櫃枱及服務大使協助。</p>
+  </section>
+
+  <!-- 大樓資訊 -->
+  <section id="building">
+    <h2>聯檢大樓・實用資訊</h2>
+    <p class="sub">港方口岸區約 25 萬平方米；地上 5 層、地下 4 層</p>
+    <div class="cards">
+      <div class="mini"><h4>服務大使</h4><p>派駐港方口岸區 L2、L4、L5 層，可解答一般查詢及提供協助。</p></div>
+      <div class="mini"><h4>免費 Wi-Fi</h4><p>大樓及交匯處提供「Wi-Fi.HK」免費上網，毋須登記；貼有熱點標示處訊號較強。</p></div>
+      <div class="mini"><h4>手機網絡（重要）</h4><p>全口岸（含港方口岸區）由內地營辦商提供訊號，<b>須開通漫遊</b>，否則上不到網。</p></div>
+      <div class="mini"><h4>緊急求助</h4><p>已漫遊者致電 <b>00852-3661-1733</b>（皇崗口岸報案中心）；未能接駁時致電 110／119／120。</p></div>
+      <div class="mini"><h4>無障礙設施</h4><p>設無障礙洗手間及升降機，長者、輪椅使用者可使用人工櫃枱。</p></div>
+      <div class="mini"><h4>停車</h4><p>港方口岸區不設公眾停車場；深圳側有 B3 社會停車場。</p></div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section id="faq">
+    <h2>常見問題</h2>
+    <p class="sub">最多人搞錯的幾件事</p>
+
+    <details open>
+      <summary>皇崗口岸同落馬洲（福田口岸）有咩分別？</summary>
+      <div class="ans">
+        <p>皇崗口岸位於深圳福田區，經<b>落馬洲大橋</b>連接香港，是深港唯一 24 小時客運陸路口岸，現已實施<b>一地兩檢</b>。</p>
+        <p>落馬洲支線管制站（即福田口岸）是另一個口岸，接駁深圳地鐵 4 號線，並非 24 小時通關，兩者不可混淆。</p>
+      </div>
+    </details>
+
+    <details>
+      <summary>仲要唔要坐皇巴（落馬洲 ↔ 皇崗穿梭巴士）？</summary>
+      <div class="ans">
+        <p>不用。2026 年 10 月 12 日 06:30 新聯檢大樓啟用後，往來深圳皇崗臨時旅檢樓及香港落馬洲管制站的<b>旅檢服務已暫停</b>，旅客在同一大樓內一次完成兩地手續，毋須中途下車轉穿梭巴士。</p>
+      </div>
+    </details>
+
+    <details>
+      <summary>半夜過關有車返市區嗎？</summary>
+      <div class="ans">
+        <p>有。口岸 24 小時開放，港方有 4 條通宵路線：九巴 <b>NB73</b>（沙田）、小巴 <b>79S</b>（天水圍）、<b>N44B</b>（屯門）、<b>616S</b>（旺角），另有通宵短途跨境巴士（如荃灣線）及市區／新界的士。</p>
+        <p>但深圳地鐵 7 號線尾班車約 23:23／23:38（節假日延至約 00:23／00:38），深夜抵達深圳側要改乘的士或網約車。</p>
+      </div>
+    </details>
+
+    <details>
+      <summary>私家車可以直接駛到口岸嗎？</summary>
+      <div class="ans">
+        <p>港方口岸區屬禁區且不設公眾停車場。私家車旅客應泊沿途接駁停車場，再轉乘巴士／小巴／的士；深圳側則有 B3 社會停車場。</p>
+        <p>兩地牌私家車可經皇崗路進入 L2／L3 車檢通道，司機<b>免下車</b>完成兩地五方查驗，隨車乘客須在落客區下車經夾層過關，再於上客區上車。</p>
+      </div>
+    </details>
+
+    <details>
+      <summary>貨車 / 貨運仲可以用皇崗嗎？</summary>
+      <div class="ans">
+        <p>不可以。皇崗口岸自 2025 年 12 月 21 日零時起取消貨檢功能，新口岸定位為<b>純旅檢口岸</b>，只處理出入境旅客。</p>
+      </div>
+    </details>
+
+    <details>
+      <summary>帶寵物可以一齊過關嗎？</summary>
+      <div class="ans">
+        <p>普通貓狗不可隨人步行經旅檢大廳過關（須按兩地檢疫規定另行辦理動物檢疫及託運手續）。持正式訓練證明的<b>導盲犬／助聽犬</b>可陪同殘疾人士通行。</p>
+      </div>
+    </details>
+
+    <details>
+      <summary>假日 / 長假會擠到咩程度？</summary>
+      <div class="ans">
+        <p>開通後平均每日約 8.3 萬人次，較舊口岸增長逾一倍；重陽節假期單日達 15.2 萬人次，創開通以來新高，假期高峰曾出現<b>最長等候約 1 小時</b>的情況，凌晨時段亦曾因維港兩岸活動散場而交通擠塞。</p>
+        <p>長假出行建議避開首日早上及尾日下午，並預留緩衝時間；出發前先看本頁即時狀態。</p>
+      </div>
+    </details>
+
+    <details>
+      <summary>本頁數據從哪裡來？準唔準？</summary>
+      <div class="ans">
+        <p>輪候狀態來自<b>香港入境事務處開放數據</b>（每 15 分鐘更新，分香港居民／訪客、入境／出境四個維度）；天氣來自 open-meteo；交通、票價及口岸安排來自<b>運輸署、保安局、深圳市口岸辦</b>公布。</p>
+        <p>入境處只提供旅客輪候的概括評估，<b>沒有</b>車輛排隊數據；實際排隊時間會因時段及人流而異。</p>
+      </div>
+    </details>
+  </section>
+
+  <footer>
+    <div><b style="color:var(--fg)">資料來源</b></div>
+    <div class="src">
+      <a href="https://data.gov.hk/tc-data/dataset/hk-immd-set28-land-boundary-control-points-waiting-time" target="_blank" rel="noopener">入境處 · 陸路邊境管制站等候時間</a>
+      <a href="https://www.sb.gov.hk/chi/hg/introduction.html" target="_blank" rel="noopener">保安局 · 皇崗口岸專頁</a>
+      <a href="https://www.td.gov.hk/tc/transport_in_hong_kong/land_based_cross_boundary_transport/athp/" target="_blank" rel="noopener">運輸署 · 前往皇崗口岸</a>
+      <a href="https://ka.sz.gov.cn/bmfw/katgfw/hgkazt/" target="_blank" rel="noopener">深圳市口岸辦 · 皇崗口岸</a>
+      <a href="https://www.immd.gov.hk/hkt/services/control_point_contact_details.html" target="_blank" rel="noopener">入境處 · 管制站聯絡資料</a>
+    </div>
+    <div class="disc">
+      本頁為<b>非官方</b>資訊整合，方便日常查閱，不代表任何政府部門。口岸安排、票價及服務時間會不時調整，實際情況以官方最新公布及現場指示為準。查詢：入境處 2824 6111；深圳市 12345 政務熱線。
+      <br><span id="footStamp"></span>
+    </div>
+  </footer>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="data.js"></script>
+<script>
+(function(){
+  "use strict";
+  var STATUS = {0:"正常",1:"繁忙",2:"非常繁忙",4:"系統維護",99:"非服務時間"};
+  var HINT_R = {0:"一般少於 15 分鐘",1:"一般少於 30 分鐘",2:"一般 30 分鐘或以上",4:"系統維護中",99:"非服務時間"};
+  var HINT_V = {0:"一般少於 30 分鐘",1:"一般少於 45 分鐘",2:"一般 45 分鐘或以上",4:"系統維護中",99:"非服務時間"};
+  var PORTS = {
+    LWS:["羅湖","羅湖（深圳）"], LSC:["落馬洲支線","福田口岸"], SBC:["深圳灣","深圳灣"],
+    HYW:["香園圍","蓮塘"], HZM:["港珠澳大橋","珠海／澳門"], MKT:["文錦渡","文錦渡"], STK:["沙頭角","沙頭角"]
+  };
+  var NOTE = {
+    LWS:"須先後兩地查驗，繁忙時段人龍較長",
+    LSC:"接駁深圳地鐵 4 號線，非 24 小時",
+    SBC:"西部通道，貨運量最大",
+    HYW:"較新口岸，人流一般較疏",
+    HZM:"往珠海／澳門方向",
+    MKT:"旅檢時段有限",
+    STK:"旅檢時段有限"
+  };
+  var DAY = ["星期日","星期一","星期二","星期三","星期四","星期五","星期六"];
+  var DATA = window.HGP_DATA || null;
+  var liveMode = false;
+
+  function $(id){ return document.getElementById(id); }
+  function pad(n){ return n<10 ? "0"+n : ""+n; }
+
+  function paintCard(el, code, hintMap){
+    var cls = "stat st-na";
+    if(code===0||code===1||code===2||code===4||code===99) cls = "stat st-"+code;
+    el.className = cls;
+    el.querySelector(".val").textContent = (code===undefined||code===null||code<0) ? "—" : (STATUS[code]||"—");
+    el.querySelector(".hint").textContent = (hintMap && hintMap[code]) ? hintMap[code] : "暫無數據";
+  }
+
+  function renderStatus(d){
+    if(!d) return;
+    if(d.queue){
+      paintCard($("s-r-in"), d.queue.arr, HINT_R);
+      paintCard($("s-r-out"), d.queue.dep, HINT_R);
+    }
+    if(d.queue_visitor){
+      paintCard($("s-v-in"), d.queue_visitor.arr, HINT_V);
+      paintCard($("s-v-out"), d.queue_visitor.dep, HINT_V);
+    }
+    if(d.others) renderOthers(d.others);
+    if(d.generated_at){
+      var t = new Date(d.generated_at);
+      $("updated").textContent = pad(t.getHours())+":"+pad(t.getMinutes());
+    }
+  }
+
+  function stCell(code){
+    if(code===undefined||code===null||code<0) return '<span style="color:var(--mut2)">—</span>';
+    var col = code===0?"var(--teal)":code===1?"var(--amber)":code===2?"var(--red)":"var(--mut2)";
+    return '<span style="color:'+col+';font-weight:600">'+STATUS[code]+'</span>';
+  }
+
+  function renderOthers(o){
+    var order = ["LWS","LSC","SBC","HYW","HZM","MKT","STK"], rows = "";
+    order.forEach(function(k){
+      var v = o[k]; if(!v){ return; }
+      var nm = PORTS[k] || [k,""];
+      rows += '<tr><td>'+nm[0]+'<span style="display:block;font-size:11.5px;color:var(--mut2)">'+nm[1]+'</span></td>'
+           +  '<td style="color:var(--mut2)">'+k+'</td>'
+           +  '<td>'+stCell(v.arr)+'</td><td>'+stCell(v.dep)+'</td>'
+           +  '<td style="color:var(--mut2);font-size:12.5px">'+(NOTE[k]||"")+'</td></tr>';
+    });
+    $("othersBody").innerHTML = rows || '<tr><td colspan="5" style="color:var(--mut2)">暫無其他口岸數據</td></tr>';
+  }
+
+  function renderToday(d){
+    var now = new Date();
+    $("dayNum").textContent = now.getDate();
+    $("dateTxt").textContent = now.getFullYear()+" 年 "+(now.getMonth()+1)+" 月 · "+DAY[now.getDay()];
+    if(d && d.tips && d.tips.length){
+      $("tipList").innerHTML = d.tips.map(function(t){
+        return '<li class="'+(t.level||"info")+'"><span class="k">'+t.tag+'</span><span>'+t.text+'</span></li>';
+      }).join("");
+    }
+    var w = d && d.weather;
+    if(w){
+      $("wxTemp").textContent = w.temp+"°";
+      $("wxDesc").textContent = w.desc || "—";
+      $("wxDet").textContent = "最高 "+w.tmax+"° / 最低 "+w.tmin+"°"+(w.pop!=null?(" · 降雨 "+w.pop+"%"):"");
+      $("wxTxt").textContent = "深圳福田 · 實時天氣";
+    } else {
+      $("wxTxt").textContent = "天氣資料暫缺";
+    }
+  }
+
+  function tick(){
+    var now = new Date();
+    var hh = pad(now.getHours()), mm = pad(now.getMinutes()), ss = pad(now.getSeconds());
+    $("hkt").textContent = hh+":"+mm+":"+ss;
+    $("clockBig").textContent = hh+":"+mm;
+    var h = now.getHours(), phase;
+    if(h<6) phase = "深夜（地鐵停駛，只餘通宵巴士及的士）";
+    else if(h<9) phase = "早高峰（跨境上班上學）";
+    else if(h<12) phase = "上午較鬆（適合趕時間）";
+    else if(h<17) phase = "下午平穩";
+    else if(h<21) phase = "傍晚雙向高峰";
+    else phase = "晚間回落（留意尾班車）";
+    $("phaseTxt").textContent = "現在時段："+phase;
+    $("dayNum").textContent = now.getDate();
+    $("dateTxt").textContent = now.getFullYear()+" 年 "+(now.getMonth()+1)+" 月 · "+DAY[now.getDay()];
+  }
+
+  function setLive(on, txt){
+    liveMode = on;
+    $("dot").className = "dot" + (on?"":" stale");
+    $("liveTxt").textContent = txt;
+  }
+
+  function toast(msg){
+    var el = $("toast"); el.textContent = msg; el.classList.add("show");
+    clearTimeout(el._t); el._t = setTimeout(function(){ el.classList.remove("show"); }, 1900);
+  }
+
+  function pullLive(manual){
+    if(location.protocol !== "http:" && location.protocol !== "https:"){
+      setLive(false, "離線快照");
+      if(manual) toast("離線模式：顯示最後快照（用 start.bat 可啟用即時更新）");
+      return;
+    }
+    fetch("api/live", {cache:"no-store"}).then(function(r){
+      if(!r.ok) throw new Error("HTTP "+r.status);
+      return r.json();
+    }).then(function(j){
+      if(!j || !j.ok) throw new Error("bad payload");
+      renderStatus(j);
+      if(j.weather) renderToday({tips:(DATA&&DATA.tips)||[], weather:j.weather});
+      setLive(true, "即時 · "+j.clock);
+      if(manual) toast("已更新至 "+j.clock);
+    }).catch(function(){
+      setLive(false, "快照模式");
+      if(manual) toast("即時接口未啟動，顯示最後快照");
+    });
+  }
+
+  $("refreshBtn").addEventListener("click", function(){ pullLive(true); });
+
+  // 首次渲染（快照）
+  tick(); setInterval(tick, 1000);
+  if(DATA){ renderToday(DATA); renderStatus(DATA); }
+  else {
+    $("tipList").innerHTML = '<li class="warn"><span class="k">注意</span><span>找不到 data.js，請執行 python refresh.py 產生每日資料。</span></li>';
+  }
+  pullLive(false);
+  setInterval(function(){ pullLive(false); }, 60000);
+  setInterval(tick, 60000);
+
+  if(DATA && DATA.generated_at){
+    $("footStamp").textContent = "本頁快照產生時間：" + DATA.generated_at.replace("T"," ") + "（HKT）";
+  }
+})();
+</script>
+</body>
+</html>
