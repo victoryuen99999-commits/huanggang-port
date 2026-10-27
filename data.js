@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-28T05:47:20+08:00",
+ "generated_at": "2026-10-28T06:31:46+08:00",
  "date": "2026-10-28",
  "weekday": "星期三",
- "clock": "05:47",
+ "clock": "06:31",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 76,
-  "wind": 12.0,
+  "humidity": 74,
+  "wind": 12.3,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 29,
@@ -122,11 +122,6 @@ window.HGP_DATA = {
   {
    "tag": "警告",
    "text": "天文台現正生效：發出強烈季候風信號。戶外崗位（上落客區、落馬洲大橋、交匯處）注意強風、雷擊及地滑。",
-   "level": "warn"
-  },
-  {
-   "tag": "夜更",
-   "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
    "level": "warn"
   },
   {
