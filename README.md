@@ -87,3 +87,15 @@ Repo：https://github.com/victoryuen99999-commits/huanggang-port
 - 靜態版沒有 `/api/live`，頁面會自動改用「每 60 秒換新 data.js」模式
 - `deploy_api.py`：純 REST + git 的部署腳本（不需要 gh CLI；避免 `read:org` scope 問題）
 - 日後要改內容：`git push` 需要 GitHub 授權一次（device flow），或用 GitHub 網頁直接編輯檔案
+
+## 更新流程（已設定好，唔需要再授權）
+
+```bash
+# 改完 index.html（或任何檔案）之後：
+python push_update2.py       # 自動 rebase → push → 等 Pages 建置 → 驗證
+```
+
+- 憑證已存入 **Windows 認證管理員**（`LegacyGeneric:target=git:https://github.com`，由 GCM 加密）
+- 移除：`cmdkey /delete:LegacyGeneric:target=git:https://github.com`
+- GitHub Actions 每 15 分鐘會自己 commit `data.js`／`data.json`，所以推送前一定要 rebase；
+  `push_update2.py` 已用 `-c rebase.autoStash=true -X ours` 處理（衝突時採用遠端資料檔）
