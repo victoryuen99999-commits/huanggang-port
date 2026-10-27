@@ -161,6 +161,49 @@
     background:#0d1a2a;border:1px solid var(--line);padding:9px 16px;border-radius:10px;font-size:13px;transition:.25s;z-index:99}
   .toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
 
+  /* 繁忙程度：主欄 + 突發新聞側欄 */
+  .dash-grid{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:14px;align-items:start}
+  .dash-main{min-width:0;display:grid;gap:12px}
+  .dash-side{min-width:0;position:sticky;top:72px}
+  .agg{display:flex;align-items:center;justify-content:space-between;gap:16px;
+    background:linear-gradient(100deg,rgba(47,212,182,.10),rgba(255,255,255,.03));
+    border:1px solid var(--line);border-radius:14px;padding:14px 18px}
+  .agg-lab{font-size:12.5px;color:var(--mut)}
+  .agg-val{font-size:27px;font-weight:800;letter-spacing:-.02em;line-height:1.15;margin:2px 0}
+  .agg-val.s0{color:var(--teal)} .agg-val.s1{color:var(--amber)} .agg-val.s2{color:var(--red)}
+  .agg-hint{font-size:12px;color:var(--mut2)}
+  .agg-meter{display:flex;gap:5px;flex:0 0 auto}
+  .agg-meter span{width:30px;height:9px;border-radius:5px;background:rgba(255,255,255,.13)}
+  .agg-meter span.on0{background:var(--teal)} .agg-meter span.on1{background:var(--amber)}
+  .agg-meter span.on2{background:var(--red)}
+  .h3{font-size:14.5px;margin:8px 0 0;color:#fff}
+  .cam-row{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+  .cam-card{background:var(--card2);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+  .cam-card img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;background:#0b1420}
+  .cam-t{font-size:12.5px;padding:8px 10px 1px;color:#fff;font-weight:600}
+  .cam-s{font-size:11.5px;padding:0 10px 9px;color:var(--mut2)}
+  .note{font-size:12.3px;color:var(--mut2);margin:0;line-height:1.7}
+  .note b{color:var(--mut)}
+  .side-panel{padding:14px 16px}
+  .side-head{display:flex;align-items:baseline;justify-content:space-between;gap:8px;margin-bottom:4px}
+  .side-head h3{margin:0;font-size:14.5px;font-weight:700}
+  .side-sub{font-size:11.5px;color:var(--mut2)}
+  .side-foot{font-size:11.8px;color:var(--mut2);margin-top:9px;padding-top:9px;border-top:1px solid var(--line)}
+  .feed .empty{padding:14px 0;color:var(--mut2);font-size:13px}
+  .feed .brk-tag{display:inline-block;font-size:10.5px;font-weight:700;padding:0 6px;border-radius:5px;
+    background:rgba(242,96,79,.25);border:1px solid rgba(242,96,79,.5);color:#ffd3cc;margin-right:6px;vertical-align:1px}
+
+  @media(max-width:900px){
+    .dash-grid{grid-template-columns:1fr}
+    .dash-side{position:static}
+    .cam-row{grid-template-columns:1fr 1fr}
+  }
+  @media(max-width:560px){
+    .cam-row{grid-template-columns:1fr 1fr}
+    .agg{padding:12px 14px}
+    .agg-val{font-size:23px}
+    .agg-meter span{width:22px;height:8px}
+  }
   @media(max-width:900px){
     .status-grid{grid-template-columns:repeat(2,1fr)}
     .duty-grid{grid-template-columns:1fr}
@@ -250,10 +293,10 @@
     </div>
   </div>
 
-  <!-- 儀表 -->
+  <!-- 儀表：繁忙程度（最前） -->
   <section id="dash">
-    <h2>值班儀表</h2>
-    <p class="sub">輪候狀態：入境處每 15 分鐘更新｜警告：天文台即時</p>
+    <h2>口岸繁忙程度</h2>
+    <p class="sub">旅客輪候：入境處每 15 分鐘｜警告：天文台即時｜車輛：運輸署交通快拍目測</p>
 
     <div class="warnbar" id="warnbar">
       <div class="ico" id="warnIco">🛡️</div>
@@ -265,7 +308,7 @@
     </div>
 
     <div class="openbar">
-      <div class="big">🟢 24 小時通關中</div>
+      <div class="big" id="aggBig">🟢 24 小時通關中</div>
       <div class="sep"></div>
       <div class="small" id="phaseTxt">現在時段：—</div>
       <div class="sep"></div>
@@ -276,11 +319,52 @@
       <div class="small">自動更新 <b class="t" id="autoLeft">60s</b></div>
     </div>
 
-    <div class="status-grid">
-      <div class="stat st-na" id="s-r-in"><div class="lab">香港居民 · 入境</div><div class="val">—</div><div class="hint">等待數據</div></div>
-      <div class="stat st-na" id="s-r-out"><div class="lab">香港居民 · 出境</div><div class="val">—</div><div class="hint">等待數據</div></div>
-      <div class="stat st-na" id="s-v-in"><div class="lab">訪港旅客 · 入境</div><div class="val">—</div><div class="hint">等待數據</div></div>
-      <div class="stat st-na" id="s-v-out"><div class="lab">訪港旅客 · 出境</div><div class="val">—</div><div class="hint">等待數據</div></div>
+    <div class="dash-grid">
+      <div class="dash-main">
+        <div class="agg" id="aggBanner">
+          <div class="agg-l">
+            <div class="agg-lab">現時旅客通關</div>
+            <div class="agg-val" id="aggVal">—</div>
+            <div class="agg-hint" id="aggHint">綜合香港居民／訪客 × 入境／出境</div>
+          </div>
+          <div class="agg-meter" id="aggMeter"><span></span><span></span><span></span></div>
+        </div>
+
+        <div class="status-grid">
+          <div class="stat st-na" id="s-r-in"><div class="lab">香港居民 · 入境</div><div class="val">—</div><div class="hint">等待數據</div></div>
+          <div class="stat st-na" id="s-r-out"><div class="lab">香港居民 · 出境</div><div class="val">—</div><div class="hint">等待數據</div></div>
+          <div class="stat st-na" id="s-v-in"><div class="lab">訪港旅客 · 入境</div><div class="val">—</div><div class="hint">等待數據</div></div>
+          <div class="stat st-na" id="s-v-out"><div class="lab">訪港旅客 · 出境</div><div class="val">—</div><div class="hint">等待數據</div></div>
+        </div>
+
+        <h3 class="h3">即時車輛排隊（交通快拍）</h3>
+        <div class="cam-row" id="camRow">
+          <div class="cam-card"><div class="cam-t">載入中…</div></div>
+        </div>
+        <p class="note">
+          入境處<b>只公布旅客輪候，沒有車輛排隊數據</b>。以下為運輸署交通快拍（每 2 分鐘更新），
+          用來目測新深路迴旋處、新田公路一帶車龍；口岸內車檢通道的實際等候以現場為準。
+          高峰參考：傳媒報道新皇崗口岸私家車高峰輪候約 45–50 分鐘。
+        </p>
+      </div>
+
+      <aside class="dash-side">
+        <div class="panel side-panel">
+          <div class="side-head">
+            <h3>突發・口岸新聞</h3>
+            <span class="side-sub" id="feedCount">近 7 日</span>
+          </div>
+          <div class="feed" id="feed">
+            <div class="empty">載入中…</div>
+          </div>
+          <div class="side-foot">
+            <a href="https://www.info.gov.hk/gia/general/ctoday.htm" target="_blank" rel="noopener">新聞公報</a> ·
+            <a href="https://www.td.gov.hk/tc/traffic_notices/index.html" target="_blank" rel="noopener">交通通告</a> ·
+            <a href="https://www.weather.gov.hk/tc/wxinfo/index.htm" target="_blank" rel="noopener">天文台</a> ·
+            <a href="https://ka.sz.gov.cn/" target="_blank" rel="noopener">深圳口岸辦</a>
+          </div>
+        </div>
+      </aside>
     </div>
   </section>
 
@@ -305,24 +389,6 @@
           深宵收工：九巴 <b>NB73</b>（沙田）、小巴 <b>79S</b>（天水圍）／<b>N44B</b>（屯門）／<b>616S</b>（旺角）通宵行駛；深圳地鐵 7 號線尾班約 23:23／23:38（節假日延至 00:23／00:38）。
         </p>
       </div>
-    </div>
-  </section>
-
-  <!-- 新聞 -->
-  <section id="news">
-    <h2>口岸新聞</h2>
-    <p class="sub">近 7 日與皇崗／通關相關報道，標題版權屬原媒體；點擊前往原文</p>
-    <div class="panel" style="padding:6px 16px">
-      <div class="feed" id="feed">
-        <div style="padding:14px 0;color:var(--mut2);font-size:13px">載入中…</div>
-      </div>
-    </div>
-    <div class="callout">
-      <b>官方渠道</b>（現場安排以部門指示為準）：
-      <a href="https://www.info.gov.hk/gia/general/ctoday.htm" target="_blank" rel="noopener">政府新聞公報</a>、
-      <a href="https://www.weather.gov.hk/tc/wxinfo/index.htm" target="_blank" rel="noopener">天文台警告</a>、
-      <a href="https://www.td.gov.hk/tc/traffic_notices/index.html" target="_blank" rel="noopener">運輸署交通通告</a>、
-      <a href="https://ka.sz.gov.cn/" target="_blank" rel="noopener">深圳市口岸辦</a>
     </div>
   </section>
 
@@ -634,20 +700,73 @@
     $("warnTags").innerHTML = w.map(function(x){ return '<span class="wtag">'+x.title+'</span>'; }).join("");
   }
 
+  var BRK = ["塞","擠","車龍","意外","事故","突發","停駛","停運","封閉","故障","火警","延誤","迫爆","人潮","打架"];
+  var CAMS = [
+    {k:"BC103F",  n:"新深路迴旋處",   d:"通往落馬洲／皇崗口岸主通道"},
+    {k:"TDS91071", n:"新田公路（南行）", d:"近新田交匯處，返口岸方向"},
+    {k:"TDS90086", n:"粉嶺公路（東行）", d:"近新田交匯處"}
+  ];
+
+  function buildCameras(){
+    var t = Date.now();
+    $("camRow").innerHTML = CAMS.map(function(c){
+      return '<div class="cam-card"><img id="cam-'+c.k+'" alt="'+c.n+' 交通快拍" loading="lazy" '
+           + 'src="https://tdcctv.data.one.gov.hk/'+c.k+'.JPG?t='+t+'">'
+           + '<div class="cam-t">'+c.n+'</div>'
+           + '<div class="cam-s">'+c.d+' · 每 2 分鐘更新</div></div>';
+    }).join("");
+  }
+
+  function refreshCameras(){
+    var t = Date.now();
+    CAMS.forEach(function(c){
+      var img = $("cam-"+c.k);
+      if(img) img.src = "https://tdcctv.data.one.gov.hk/"+c.k+".JPG?t="+t;
+    });
+  }
+
+  function renderAgg(d){
+    var codes = [];
+    if(d && d.queue){ codes.push(d.queue.arr, d.queue.dep); }
+    if(d && d.queue_visitor){ codes.push(d.queue_visitor.arr, d.queue_visitor.dep); }
+    codes = codes.filter(function(c){ return c===0||c===1||c===2; });
+    var bars = $("aggMeter").children, i;
+    for(i=0;i<bars.length;i++) bars[i].className = "";
+    if(!codes.length){
+      $("aggVal").textContent = "—";
+      $("aggVal").className = "agg-val";
+      $("aggHint").textContent = "暫無輪候數據（入境處可能維護中）";
+      return;
+    }
+    var worst = Math.max.apply(null, codes);
+    $("aggVal").className = "agg-val s"+worst;
+    $("aggVal").textContent = worst===2 ? "非常繁忙" : worst===1 ? "繁忙" : "暢順";
+    $("aggHint").textContent = "綜合香港居民／訪客 × 入境／出境（15 分鐘更新）";
+    $("aggBig").textContent = (worst===2?"🔴":worst===1?"🟠":"🟢") + " 24 小時通關・現時" + (worst===2?"非常繁忙":worst===1?"繁忙":"暢順");
+    if(worst===0){ bars[0].className = "on0"; }
+    else if(worst===1){ bars[0].className="on1"; bars[1].className="on1"; }
+    else { bars[0].className="on2"; bars[1].className="on2"; bars[2].className="on2"; }
+  }
+
   function renderNews(items){
     var f = $("feed");
     if(!items || !items.length){
-      f.innerHTML = '<div style="padding:14px 0;color:var(--mut2);font-size:13px">近 7 日暫無相關報道。</div>';
+      f.innerHTML = '<div class="empty">近 7 日暫無相關報道。</div>';
+      $("feedCount").textContent = "近 7 日";
       return;
     }
+    var brk = 0;
     f.innerHTML = items.map(function(n){
+      var hot = BRK.some(function(k){ return n.title.indexOf(k) >= 0; });
+      if(hot) brk++;
       var meta = [];
       if(n.date) meta.push(n.date);
       if(n.source) meta.push("<b>"+n.source+"</b>");
       return '<a href="'+(n.link||"#")+'" target="_blank" rel="noopener">'
-           + '<div class="h">'+n.title+'</div>'
+           + '<div class="h">'+(hot?'<span class="brk-tag">突發</span>':'')+n.title+'</div>'
            + '<div class="m">'+meta.join(" · ")+'</div></a>';
     }).join("");
+    $("feedCount").textContent = "近 7 日 " + items.length + " 條" + (brk ? "・" + brk + " 條突發" : "");
   }
 
   function renderTips(tips){
@@ -702,6 +821,7 @@
       paintCard($("s-v-out"), d.queue_visitor.dep, HINT_V);
     }
     if(d && d.others) renderOthers(d.others);
+    renderAgg(d);
     if(d && d.generated_at){
       var t = new Date(d.generated_at);
       $("updated").textContent = pad(t.getHours())+":"+pad(t.getMinutes());
@@ -793,6 +913,7 @@
   $("refreshBtn").addEventListener("click", function(){ pullLive(true); });
 
   tick(); setInterval(tick, 1000);
+  buildCameras(); setInterval(refreshCameras, 120000);
   renderCountdowns(); setInterval(renderCountdowns, 30000);
   if(DATA){ renderAll(DATA); }
   else {
