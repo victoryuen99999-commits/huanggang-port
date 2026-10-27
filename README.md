@@ -76,3 +76,14 @@ schtasks /create /tn "HGP每日更新" /sc daily /st 07:00 ^
 - 入境處只公布旅客輪候的**概括評估**（正常／繁忙／非常繁忙），沒有實際分鐘數，也沒有車輛排隊數據。
 - 口岸剛開通（2026-10），班次、票價、樓層動線仍在微調，一切以現場指示及官方公布為準。
 - 本頁為非官方整合，不構成任何官方資訊。
+
+## 已部署
+
+公開網址：https://victoryuen99999-commits.github.io/huanggang-port/
+Repo：https://github.com/victoryuen99999-commits/huanggang-port
+
+- Pages：`main` / root，每次 push 自動重建
+- Actions `更新皇崗口岸資料`：每 15 分鐘跑 `refresh.py` 並 commit `data.js` / `data.json`
+- 靜態版沒有 `/api/live`，頁面會自動改用「每 60 秒換新 data.js」模式
+- `deploy_api.py`：純 REST + git 的部署腳本（不需要 gh CLI；避免 `read:org` scope 問題）
+- 日後要改內容：`git push` 需要 GitHub 授權一次（device flow），或用 GitHub 網頁直接編輯檔案
