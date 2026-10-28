@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-29T00:02:36+08:00",
+ "generated_at": "2026-10-29T01:02:10+08:00",
  "date": "2026-10-29",
  "weekday": "星期四",
- "clock": "00:02",
+ "clock": "01:02",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -25,16 +25,16 @@
    "dep": 99
   },
   "LWS": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "MKT": {
    "arr": 99,
    "dep": 99
   },
   "SBC": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "STK": {
    "arr": 99,
@@ -42,9 +42,9 @@
   }
  },
  "weather": {
-  "temp": 25,
+  "temp": 24,
   "humidity": 76,
-  "wind": 12.5,
+  "wind": 13.2,
   "code": 3,
   "desc": "多雲",
   "tmax": 30,
@@ -53,6 +53,13 @@
  },
  "warnings": [],
  "news": [
+  {
+   "title": "萬聖節皇崗口岸深夜勢塞爆？政府稱公交優先 巴士加班｜一文看清‧附交通懶人包",
+   "source": "TVB",
+   "date": "10-28 16:36",
+   "iso": "2026-10-28T16:36:44+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPVjc5djRiSkY1bks2SzItSjBSUlluMXZMRDBEMDd6QXUxVFdXWkg3d1ZiVVJuYUY0YV9lVEZjX0FfdV9iV3ItUzY2TnA1bzNnTFNhNk51d184elQ4WXVxSmswcUFvTlhsaHdjTElGLWotTHZiUkJxcGRraVBZMU1FTkV5RU9XN0ZVSW5LdDlwMXNBM2IxUTFZeTdVdlR4Z0trZGJGV2NmTWc2Ynl0U3pGVVNvYkw2ZVVFSVlVbVZrTnJ6V1VkYjlRRXBVQlBYZ01KMmtRZVJVNktoX2J4M3BRUU1rRHM4N3czVG43MFNDTUJjMThvUGxBVkp1SzJCd2JSMzdVbFhpMVJWNmdzTXBWZ1BxYWJ0Tl9rRlY3MnIwZlpodDRsZGZYN0Q0dTUxS0NETEZSUUdjUTdiN1VUaDZnWWwtbTQ1bnYwMHhSWFotYlUyMnhmck1SNmdDTjhfTWdjVF96bW1MN1RfdF9CX3lRcnlFcUhUUkRLNFB5eEI2V3lJRU9EY1FpMkJWaVdHWVFqYzdTZ2YyR2p5bl9WaW5hdVhDcnF6MnkyeHVSeG9kWlFLWklmNnRIc2lFazlDR3pOR3pmQmgxNW5VTld5b0FzcGtsRQ?oc=5"
+  },
   {
    "title": "陳國基稱皇崗口岸擠塞「不是設計問題」 認個別時段超負荷：不如去蘭桂坊玩多一個鐘",
    "source": "棱角媒體",
@@ -101,13 +108,6 @@
    "date": "10-28 13:45",
    "iso": "2026-10-28T13:45:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15amZZYjJ1MkZYNFdGb01uUDFSUTFYUmFzTFh1UTRkNjVXaG1uZDFpQl9UZm95U0d5V3VHaWxsSEg0eDYxMlBxRmVUSkZ2MDZ6ZVQwbG52Yk5uUG9fRFBDTGtR?oc=5"
-  },
-  {
-   "title": "香港提前部署萬聖節新皇崗口岸交通 港方口岸公共交通先行",
-   "source": "www.hkcna.hk",
-   "date": "10-28 13:27",
-   "iso": "2026-10-28T13:27:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EWTF3eTlwVVE5V3RubzRTWXU0X092Z2JkSXhyeDlZNXdiNzdxS0x6TmJBcExZQmw1UVVaRy1ZNll5N21KODRQV29IaEEyeGdhNThIU01QTmJvWERVbUk2VExTamFJVzVrT3FSRm9YUQ?oc=5"
   }
  ],
  "ok": true,
@@ -129,7 +129,7 @@
   },
   {
    "tag": "車流",
-   "text": "近 36 小時有 3 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "text": "近 36 小時有 4 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
    "level": "warn"
   },
   {
