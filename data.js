@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-28T17:30:39+08:00",
+ "generated_at": "2026-10-28T18:26:51+08:00",
  "date": "2026-10-28",
  "weekday": "星期三",
- "clock": "17:30",
+ "clock": "18:26",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 26,
-  "humidity": 62,
-  "wind": 15.0,
+  "temp": 25,
+  "humidity": 66,
+  "wind": 13.6,
   "code": 3,
   "desc": "多雲",
   "tmax": 30,
@@ -55,60 +55,60 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "新皇崗口岸｜10.30至11.1公交先行 陳國基：跨境私家車料等1小時",
-   "source": "香港01",
-   "date": "10-28 09:22",
-   "iso": "2026-10-28T09:22:58+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81Wi1WX3dDaXlHU3pkQW1GWDAweVVJTk4tVVFQeFFrNDB6cHZaNnZKS1VBcDJCd1lGTk44ZGk5aEo0blRrUERQQ2JGNlFkdw?oc=5"
+   "title": "新皇崗口岸｜萬聖節料迎通關潮 政府推公共交通優先 陳國基籲：「不如去蘭桂坊玩多一個鐘」",
+   "source": "AM730",
+   "date": "10-28 10:20",
+   "iso": "2026-10-28T10:20:59+00:00",
+   "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxOMjVpaElsZUVsWDNtYUR4SHY0Z3R4ZUNGRWNOOEpFT3BQRDN2djRKNnpaRDBzN3h6YnJadDZjQjdMMFZXUTlIZjQ3U0s3Q1BYcW83MnpBa1g0UGJ1MElFSzV0SmNsM1VUUUROSm5MQnJNSFlKVHlWYm5BZ0ZjcTl1NDNaczc3Z2FnUVBPUkw1enZhWGl4SEpZWDJ4NnRJU0dpWFl4SGd1SlF5eGJxcVdHYWNXWXQ2REpIQTZBQ2QtU1NnNFUxV3FmN0VOLWh2bEVaU2pZNXNRbDl0VDRBU2pnX1lWSGhBNE1KQmEtdWhfaGxOZmt4RHR0Y29GMEkxN1dBQlM2S1VRTG5zU1BZUnhCaWNoZlpqTlR6RWxKMGdlMHVsVWFEcDdXQUFObi1tT0w3ejZSeURvU25Bbmw2TUMyOVQySnYxS2xLZTUzRlhLYlM0bU1EeTJyZzFMelhUSWNYZGFCZmtLZ2ZZaG9NaWl2eV9MZ28xbktXUkIzTVdlbTE0aUdzQ04yb01nbTJ2OUFjTXhaN0N1dk1SaDR6ekhoQ1piSi1VT0Q2YzJRVzlqaTNkdnF2N2xlc2FSLW51QWJ0cW9scjNCU2Y0dk5jZmE3UVhjcWFJWlpVWk9XaVEwYm9yMXJxM19wQnFwYnJaWXBzdFJUWTlSNE81bS1DdzZ2Si1hX1V5clJfTUFHOTlrSTgyOV9VVHN3RjVZTE56UHRQM2VGSA?oc=5"
   },
   {
-   "title": "點直播｜陳國基鄧炳強陳美寶見傳媒 談萬聖節皇崗口岸運作｜10月28日",
+   "title": "萬聖節周末皇崗口岸深宵料非常繁忙 陳國基：公共交通優先私家車或等1小時以上",
+   "source": "橙新聞",
+   "date": "10-28 10:18",
+   "iso": "2026-10-28T10:18:30+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxQNzhEUGRTMVNhc1BaUWVRRF9MMmZBNHVpcmM3dzBCQ25EWDI5SEtSQmZWTm5ldTNWazZBc05pNnZuWVJuZWtTc3pwQ3FndUtCbmoxeXhIaUs0aU5MVVlCUGxXQU10bllzR0pNRTluQm1GX0V3WHNaSXpDMlQwSjJEOF9VVFNYZEQ0bFI4TlFZSnZwMjZ1Q1FYVENKNmZYNDRHd1FXR0xFdWpJcGpHMkI4WVZGcWJXdUh5WUxNVGxzT3A0aXg1UWpNRktxemZCT3dIcVVUV0kwX21sVmMtS1NQSTNGSGhyMjNBTWlJX3NhMWpBalY5OWQ0NW5waV9kcnVsUVh1OHQzRDE4UFpqX3R1T1BzeGx2ZUhxWGtBNW5ScnJxZnZDQnh2VXBrYmZDc3pDcExVR2Q4X2x1ZDlHUUg3Z2lfdWZtaFp1THg4YV9OTmg3c21tN215X3JBV3VTNUxwb1VlMVJfbHF1cnljU1dMZjZ5T3ExVDVnTUJlemhyYjVsNFp0bjZyVTEzb1NwZ2hBWFJKaFpQVVA3VG1Ralc5MnhJNk5aTUNEU25QSHg1RzY4WEswMEZjQkFXQURjemtLOTFGdlZ3MWFWZlFZRkJUbGFuZ2hXbzIzVTlRdmJPN2JLWVV2emVVVE5JUnRjbnVNMWNTLTVERm5odw?oc=5"
+  },
+  {
+   "title": "陳國基籲旅客避免集中深宵時段過關 將輪候時間減至最低",
+   "source": "香港電台新聞網",
+   "date": "10-28 10:15",
+   "iso": "2026-10-28T10:15:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiXzJJRlpWUTE5R1YzU0ZxdVdMNmhzWlR2NlBEMXJ5ZEdEeWp1TENjV0FPWFQxMlBkMFpsSXRvZ19sS0FPd2FGbEwydjg5cmxjdm9wZ0VublVMdkIwOEkxLTBLU0k3UzkteGwzbjVTUQ?oc=5"
+  },
+  {
+   "title": "萬聖節｜陳美寶：預留40部巴士加強SP12路線凌晨1至4時新增中環—皇崗口岸路線- 港聞",
    "source": "dotdotnews",
-   "date": "10-28 09:00",
-   "iso": "2026-10-28T09:00:29+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9COVZob3BvdjkzNnFER1pwQ3pCSjVwMTJ0Vy15X0VUSHZ1aERVOXZTZWN1bW1abENILXVfRXBOVFRGeVUyYTBQVFdLUDJuTEtZV1RhR004OEVzYzFUbFppT051Y0pkZktCeDgxVmtnYUpTV2xUMHRJbWpB?oc=5"
+   "date": "10-28 10:11",
+   "iso": "2026-10-28T10:11:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NT2FYNHpqR2hfR3dycFFBazNpNThhUTN4SlJpMmFNTlE0QlBiajU4UEtvbVlObUZkTTlWYm43Rlo1dlVtZEVDbWtSUXV0a0tKcms5M1Y1MTBkMmhwLU56TC1PMHVUTVNUS3gwd19QeW01d1pzaXlnSGJ3?oc=5"
   },
   {
-   "title": "萬聖節｜陳國基聯鄧炳強與陳美寶見記者 交代皇崗口岸周末運作安排",
-   "source": "星島頭條",
-   "date": "10-28 08:50",
-   "iso": "2026-10-28T08:50:11+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQR3daY1NPRGFVTV96MWxJUFBkYVA1YU1PVS11Q2xjRFBzZmJpVlQweHJzQWlyNlJJWEZLUWFqWmRXbjBlRkJrQ3RRSVE0MjJKdTFlU1ItRlVteXY3UTNzZmJ5MkNPbFVaclBGOU5xcVExNnhWLUNtTlNQazJ5aW9lUlJtNmtmVmU3NlpySmFVMHVGNHFBbmE1MXJQNXhkYUxuTDdYSnZpY2FZMXpaUGk4Mm9LSkV1SHpnc1dBOVhCUzhXa1VraFRYWTM0MzdNbENENUJkczl3YnQyRlRUd3NsOGdTUXJzZGxLY3d2SWgwSDAzaUhTQU9jOFBCeHd6Sno3YnJ6MUl1U0J2MHEyb3JtRzA3Y0R4bFEyc1ozMl9jQzNCTDNTNHZUYS1xNFJwbnRUbEk2YnpEY2JjTHpOMzlJSWpfdHB5aFQycTlHUml3dzB1SDNfb2RwLU81YVF0NWhWR19naVdqZ1YxeEJtN1FlNDAzRUdINkpXNUI3bUtZWTJIM2ZVMFlXMVVUZ1I0Sk1PVEpDWGRBellKRzhpYjloTlQ1cENvS1BPQURoamhiQTBTc0k?oc=5"
+   "title": "萬聖節｜皇崗優先放行巴士直巴 私家車過關或需等逾一小時 將全開通道疏導人流車流 - i-CABLE",
+   "source": "i-CABLE",
+   "date": "10-28 10:07",
+   "iso": "2026-10-28T10:07:30+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOcHRBa0hrMWpIclBCR3FybXBmbmZ4eFhyZ0VYTGtHUzdFY0U0RG1EUVY0WF9GZnZWRFlFU21FVHV4WlhzZ0lORzVqOVUtX2VoQS0zRkM2dkJsQ1Rtb3QyZVZWYjZ2RHhyb0dLbTJJcVFhVnU0a1JOR0p0UmM1YnZzdE5LZkd1NzZZbk5MOWdPYms0Tl93UlMxd1p5NHFESTFkRThzUFRDZDhpX1Jsd2NFQ1VKQWhRWWJBZ2JaMTRqZC1JYmpFcTE3QjY3b2VBekJvbmF5X3lZQWlVdEpZdnczMmNkcmhFTWJaSWtIWm5ILVE3bEtESFdUNW9tZG5qN2dCbVFZOXRLNTJERmgxSTBUQ2VyVHVqd3NfLXotRl95V21ZZVBmQmg4aDJaREx5dkJwaE9IZjBSTlhaMktaTlgtdGxnWjdVSzFPRmdrX1U5eWJxU01nR3M2aE9nT1RGTmlnTmkyUnJyLVdidw?oc=5"
   },
   {
-   "title": "萬聖節將至 九巴周末加強皇崗口岸及通宵服務",
-   "source": "香港商报",
-   "date": "10-28 08:26",
-   "iso": "2026-10-28T08:26:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rZmdDY2NrSU1aRlJVZzVkOFZpdC1sVlphdU15Y0NfQV9wUHZzZ1M1TXFTeFlZOTV4UEhUeFJ5NzJOZnhKNkdDRHk0Y0VDMnVKeG8tcWZKUGd3M19XTWIxZzNzTlJraGpVZ0pnU3RMTVRYb1VOX1E?oc=5"
+   "title": "（有片）萬聖節｜周末深宵料皇崗口岸最繁忙陳國基：高峰時段公交優先- 香港",
+   "source": "大公文匯網",
+   "date": "10-28 10:06",
+   "iso": "2026-10-28T10:06:59+00:00",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VdmxhWXZUcXpVZjVpemVDaHl2b2psTGl0ZmMwdzVJXy05aGJ4SE9FS0NfUUMwaE8tbUpGVlQ2OVpQRmFfczZIaVdmc2dINXV6OEhsRElPYm4xS0p1MGV4NElwMnVrcHZGbk5YVVc3NlQ?oc=5"
   },
   {
-   "title": "萬聖節盡慶狂歡 九巴周末加強皇崗口岸及通宵服務",
-   "source": "香港文匯報",
-   "date": "10-28 07:07",
-   "iso": "2026-10-28T07:07:48+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93RENzT0pwVDVEcUFFRFg0aFRjbmh3MGRSUTQyTklXcjBJb1lUaVlZV044WFUtVTVGMUFJajQ0WVZ2RFZCZmYzZ2NWM2NJSTNHSG9XMHBuTzNtVGVxMm1Dc3l3U0o2UHVPc3MwYVRzNV9ocTVhSzNr?oc=5"
+   "title": "政府料萬聖節周末出境繁忙 皇崗高峰時段優先放行公共交通工具",
+   "source": "on.cc東網",
+   "date": "10-28 10:06",
+   "iso": "2026-10-28T10:06:48+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWVVJV2MtUXlpU0JkOUc4TGFRT1JJZURialZfSG9yV3lxMzBlT2hGTnlHX214VlVoOFVMSWlmSEw2OFI2T19yalNCaHpQVHlvS3U2Mk1oTXgtXzJwTlhKS0VYTFVHc2ZIMDBIRVU3SXZQUnJMOEZad2JHQ2FNNkVOdkJaQzE5V1pkSldz?oc=5"
   },
   {
-   "title": "皇崗口岸「智方便」自助登記站啟用- 港聞",
+   "title": "萬聖節｜陳國基：皇崗口岸處理能力未超上限籲市民避免高峰時段過關- 港聞",
    "source": "dotdotnews",
-   "date": "10-28 06:53",
-   "iso": "2026-10-28T06:53:17+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPUkIyTmtmOGk1T3pQTXE5ZDBhdnNvMjZhcUtJbnVRTUMzc194WThsUDJtYzk5a1NoSDE4V3NaR01VUjJMbnhmcWZfQnNJNW1iUW9zMkZMMWFadHltcUcxNXJwYWtVa1A3RC1QQ1paWjVFaFdvNVM4Q0pn?oc=5"
-  },
-  {
-   "title": "「一口岸一方案」 深圳多個口岸全面升級！",
-   "source": "香港文匯報",
-   "date": "10-28 06:30",
-   "iso": "2026-10-28T06:30:28+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DX0h6RWtQWEZhckhPRnZvMWExSmdRd2JvdVF3V3laQzdqRlN4Z0s2NVp0Ui1nZTZpNEV6RXhNZHh4OGpLRGJUdzhxSEpVMlNCNFRPNTd5NkhIcksyVEgxNEtlal9nSUtnLXp5Z3R5cS1IUW84Tk1z?oc=5"
-  },
-  {
-   "title": "陳國基鄧炳強陳美寶下午見傳媒談萬聖節皇崗口岸運作- 港聞",
-   "source": "dotdotnews",
-   "date": "10-28 05:15",
-   "iso": "2026-10-28T05:15:25+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mampUU05MTkduWXpfSnJUbjNoN25vb0FaX1pBR1RZNlVfaWVkWGh1M0U5TVVRWFFSbE1FLWVXV3BROFJwaHBrYmFDbWdpVW5kRk5iMDR3cUhGVjNlWGlfSGc5a3hFN09FRmdxWkppT0pPVzZoQUZodWFR?oc=5"
+   "date": "10-28 10:06",
+   "iso": "2026-10-28T10:06:05+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54alFaQWgtRDh3cm5sVDczb0tHWnNDN2tPNVJ6R0NwNFhjYU0tTG00RkN2Vmw3LUd1OEtIcFBxY3M1c0E2NC1uSzRQbnNHVi15QnBsdm42aDBiYUhDTTFUc1BoRXVmeHJKbEVQQU1LLWI2VUo5Z21seGd3?oc=5"
   }
  ],
  "ok": true,
@@ -127,6 +127,11 @@ window.HGP_DATA = {
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
+  },
+  {
+   "tag": "車流",
+   "text": "近 36 小時有 4 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "level": "warn"
   },
   {
    "tag": "禁區",
