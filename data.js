@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-28T23:07:12+08:00",
- "date": "2026-10-28",
- "weekday": "星期三",
- "clock": "23:07",
+ "generated_at": "2026-10-29T00:02:36+08:00",
+ "date": "2026-10-29",
+ "weekday": "星期四",
+ "clock": "00:02",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,15 +45,22 @@ window.HGP_DATA = {
  "weather": {
   "temp": 25,
   "humidity": 76,
-  "wind": 12.7,
+  "wind": 12.5,
   "code": 3,
   "desc": "多雲",
   "tmax": 30,
   "tmin": 23,
-  "pop": 2
+  "pop": 4
  },
  "warnings": [],
  "news": [
+  {
+   "title": "陳國基稱皇崗口岸擠塞「不是設計問題」 認個別時段超負荷：不如去蘭桂坊玩多一個鐘",
+   "source": "棱角媒體",
+   "date": "10-28 15:33",
+   "iso": "2026-10-28T15:33:47+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOYTRtZHN5eEhuMF8wMGRrbmU4WURVS0FUeG9NWVRlZ2c4d3N5ckZ1R2p6dHhLbkg0eXhYQWhES05paS04YlplTmxDSDRMMGd2ZmVPVkxwOFFDbWwwZEdtYXJnLUY5RDFzNXh3TDZUYTR3ZmpYTVpodWJqZzhRZnU3YmRwaW1sMkJNZ3dsZi14VzJUbUhsUzM5Nkd3V1FCekJHcTMyQU9HSGtmWG05dkFPNU1LZ0ctTFBMRkwySFdkakJETS1EbjkxZkZBMVBOTWJQcGl1Q2piZjg0Zks2Vnh5SFI5ekgzcllRNlZVcEswbC1GRkcxWkZsOEVCc1RKaENNOTJ1Ymp4WFN5c0FoZktWUjNPMTNJOE9hdjVzZUs0dE9mQzZsckw2RGpudUZBTGhpejRsWGM0NlU1X3BOVkRPZ2xTV195WE5HQmR2Qi1RcWN2elNBQmFZTU45cDJaU1g1UHc?oc=5"
+  },
   {
    "title": "新皇崗口岸｜小紅書湧白牌車帖文 萬聖節中環往福田索價逾$1400",
    "source": "香港01",
@@ -71,8 +78,8 @@ window.HGP_DATA = {
   {
    "title": "香港政府新聞網- 跨部門應對皇崗萬聖節過關高峰",
    "source": "香港政府新聞網",
-   "date": "10-28 14:03",
-   "iso": "2026-10-28T14:03:45+00:00",
+   "date": "10-28 14:15",
+   "iso": "2026-10-28T14:15:20+00:00",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnbnpwbk5qeXhMTzVrMEd5cU9TaG1DTzlmN3hTZk9MdnEzc0txNFBRSDNELTNrRS1iMV9FSjJmM0U1NzBWcW5jOFNDNndUbTQ0djIwM0I4SW82YVJpNHowNFZYdjVaQW92VTQ2WXNyUWtHclpLSl9lMA?oc=5"
   },
   {
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "10-28 13:27",
    "iso": "2026-10-28T13:27:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EWTF3eTlwVVE5V3RubzRTWXU0X092Z2JkSXhyeDlZNXdiNzdxS0x6TmJBcExZQmw1UVVaRy1ZNll5N21KODRQV29IaEEyeGdhNThIU01QTmJvWERVbUk2VExTamFJVzVrT3FSRm9YUQ?oc=5"
-  },
-  {
-   "title": "陳國基：皇崗口岸萬聖節周末晚上11時至凌晨2時為人流高峰 坐跨境私家車過關或須等逾1小時 倡旅客留港過夜",
-   "source": "明報新聞網",
-   "date": "10-28 12:45",
-   "iso": "2026-10-28T12:45:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitAVBVV95cUxON1g1VmNoekhNa3BncFFlOUJOXzRVS2RHQVNGY29TM3JRdTRQbE1UT0lLYnpEdl9NX0s1bDA3VGs1T19CalNCTHZWMENpcEFnMXlxXzgzeklhMmNqM2IzU3FERFp2c1R2RG9rNGU1YU9qM01GblVSMnB4a1BpdTlDVUNMdEI0R0xNRGVIUFB0a0hvRkNqaVhwbXdzRDYxT0dFanAyV3pZZ2ZuM1BHcEJjb0RuNkE3b3hfRVNsd2FKSExEX2M1UXZ3clI5bEFUelY3cnU3QTFZTjJ0Q2NSYUdJY1VPSExnVzlpQnBpMmwwNzBnN3plVFJmdFlCTGRLX0lSN1ZwMXFyQ1Y4dXhiSTdqWVQ2dEJyS3Q0cFBaMDBtNE5VUFlmR3BPVGdZUVROU2pTMk5FUmpkSzk5M2xrOUdIUFlBQVZWQ1M4ZmNOOFpKUHgxekpIcHV5V0lDY0hGN2VrWUhnVUtlZjVCUEJpYUJ4eGlxN1UwNV9Ma0lnMDVOTm11XzFpNHFMTk5lNG1jVUpXWjBOdE1yenJDQlFKMi1RSEU2UldodUt4bzd3akpodlYxTmxhX1F1ZHFxRUh3bnZ1NERQeWJUQkFTRVNHQmRpQXFiMVlUN1BNZllDdzU4VHAwYWRPc1lZUW5pUzlKMTgwR3BQS09UM2xOaFJWUl9JQ1U4SUZIcHhONFJmUFRkMDRIcFlxX2FfZFlydWlVeDVqNVFWZjd4UEcxdjlRYzU4VGJFTkc2NUNzY0MyMGV0aW9faklqMXo5TzFTbXFZVzcxRTVoTXhpYmNLZWFyMjNrNTdfeDFoNThHZmlFcGFzRzV1WEk2bl9lNDFzQzJfcjRHYnBlRDFOWXZIRFN2MFE3aDhUN1JUbEFoS3ozTmV0TlRRQmxQY3dWTEdvUlNVQm5MVzlYWA?oc=5"
   }
  ],
  "ok": true,
