@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-28T13:13:53+08:00",
+ "generated_at": "2026-10-28T13:59:06+08:00",
  "date": "2026-10-28",
  "weekday": "星期三",
- "clock": "13:13",
+ "clock": "13:59",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 28,
-  "humidity": 45,
-  "wind": 13.2,
+  "temp": 29,
+  "humidity": 46,
+  "wind": 12.2,
   "code": 3,
   "desc": "多雲",
   "tmax": 29,
@@ -54,6 +54,13 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "陳國基鄧炳強陳美寶下午見傳媒談萬聖節皇崗口岸運作- 港聞",
+   "source": "dotdotnews",
+   "date": "10-28 05:15",
+   "iso": "2026-10-28T05:15:25+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mampUU05MTkduWXpfSnJUbjNoN25vb0FaX1pBR1RZNlVfaWVkWGh1M0U5TVVRWFFSbE1FLWVXV3BROFJwaHBrYmFDbWdpVW5kRk5iMDR3cUhGVjNlWGlfSGc5a3hFN09FRmdxWkppT0pPVzZoQUZodWFR?oc=5"
+  },
   {
    "title": "萬聖節｜九巴適時加密接駁蘭桂坊往皇崗通宵班次 上水站增特別車",
    "source": "香港01",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "10-27 11:12",
    "iso": "2026-10-27T11:12:05+00:00",
    "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNMDR0QWFDUVBTUTJyZGd3d3BLRl9WdHR1dUpvV1N5YzZ0NmVHTzNtYzEwY1F5Nk1wNlNkdDZOTElHWWJhVFRsWFgwWjI0NkNQcDctVFctQ0ZDV0R2RE5fUmp4UnBmckxhdTR3VFhzTkpmNTh0Q3VNSzU0aFJCaWNXa1lyQi1BWEwwMWUwMC1yRjdDbHZBZ0kwWkFZLU9PUDNXakNINzlKcjdlQlJZaE5aM2s1T1B2WWN3QkR2UXlHRDZZLWtNTzA0M1lUWkRfbmJHWndyejNNUjlWMk5jRVN6ZkxsWjQ5OTJPLXN6TjdTVVVIdFdtQWtvbXRnZENSSVRaTGpobjBhUU94cHZBdDdkZEp1NldoV2M0WVJWYnNkSzhPYWR0UWlleGMxWXFsdVBCZVlpdWFWQmRHUEhWZUpXb1ExWk1uZUc5a0FmaTZ3UDB2OGMwZkMtZnZxb1BIZ2pCa2tpR3JEWHlFRWxEY2RKTzBpQVFsQnhyUFFOdG1uS3FFbjc3V3NmUGZ3dWRxYzlvV2lTa20xYm9oNzBPLUFRSVBIMWhidlVNcWV4clU3dXY?oc=5"
-  },
-  {
-   "title": "新皇崗口岸塞爆．01觀點｜港深進入同城時代 通關仍在死守邊界？",
-   "source": "香港01",
-   "date": "10-27 11:00",
-   "iso": "2026-10-27T11:00:53+00:00",
-   "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPWlRIOEJLcFczdi1WWHhreGlzdVBxelo4cEwtLWlnNmx2U1FNXzFLcnlJRkI5Q2VqcjQwdGFIczVURzRHSWxfODZfZEo3cWl0QXNGUkxzdkl4bllnRkV2azYwaUlJOWRUZm1ZSkY5QTFlaDRab1ZVUWRHVlNOQTYwX0tGZmxQTEY1TEk1dW9FQ3FRMG9sSUJrRzNONXlOdERURzdwakVBYUdZXzBqTzFmSU10SlkzbHl3SUhuTjVidi1VYWFPcE5tM3RnbkhPanJ0Wm43cXV5a0pxR2picmJMWm1KZE9nS1pqZnJkdzRRNW92X2g5VHRwLWdoajhZX3E5QjFSeXpnZm9kTG1iYWZZNVhZNjAybmd6eHBCOGZwdWtnQXU4R0lPM3MtWEprRXRlLXVKakxDMFBDT0NFNTlaZFBMWFppUkc1VExzNVI5dDVtZTBhdEloM0JCcmlCRUdMdnl6cUpaelNvS2JWMFJIUGVGaEJQV0tBMjhOUWdNc1pFbWZOZWF1S1JlMkVDUHdPTWx3?oc=5"
   }
  ],
  "ok": true,
@@ -125,7 +125,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "車流",
-   "text": "近 36 小時有 3 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
    "level": "warn"
   },
   {
