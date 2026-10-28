@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-29T02:43:03+08:00",
+ "generated_at": "2026-10-29T03:31:32+08:00",
  "date": "2026-10-29",
  "weekday": "星期四",
- "clock": "02:43",
+ "clock": "03:31",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,22 +44,36 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 24,
-  "humidity": 77,
-  "wind": 14.3,
-  "code": 3,
-  "desc": "多雲",
-  "tmax": 30,
+  "humidity": 78,
+  "wind": 13.5,
+  "code": 2,
+  "desc": "局部多雲",
+  "tmax": 29,
   "tmin": 23,
   "pop": 4
  },
  "warnings": [],
  "news": [
   {
+   "title": "紓緩皇崗逼爆 其他口岸加班通關立竿見影",
+   "source": "信報網站",
+   "date": "10-28 18:50",
+   "iso": "2026-10-28T18:50:27+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxONzB1UW5JaTJ2NGItTjNNQ1dQdVJJSWlfZVUwTVZ2bEdueVpZc2hPaTRKV29zb016eG5TSHY3U2lWUlVBUnI4NHhFU1FoRXB1WlY4SmFYV0tHbF9XQmN3bXkwVVZWcV9OWVZCVHVGYWhocHNBQTNKb05DQVRyejE2aExYUkRnRWpucXJ6dENYVUwyaGg5RTZZQThPM2Z4LU9VT2lkVTBtLURVSzJuWUdUYzRMbHJweGZQOExiU2tVQXdnZzAxaWw5MExaOHo2WEpBNURuR1JuMUdTVjZIZHZVVnhOTkpTNkZ6NWJFd20xaDdVMlBZbV9aSnFxamk4Qjg3cV92Wlo0RmFtYWdndm1oTk9GRVNjUkEtdUdkZVdobGlXc3Vyb1NTYUpyQ3laZXZDcjlTWnhyaGtuc0wwLXpRbWtvNA?oc=5"
+  },
+  {
    "title": "萬聖節皇崗口岸深夜勢塞爆？政府稱公交優先 巴士加班｜一文看清‧附交通懶人包",
    "source": "TVB",
    "date": "10-28 16:30",
    "iso": "2026-10-28T16:30:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQUzVvS2JvWE15RS1acXdpUGRIcm1KY2twV3FaSmtxaEY4U1VIVko2a1RGaFlIUTA2YmNLOTN1NFNwTDhYTVF4bFZzTzU2UG1BMFJTSzVBeXVfM0diRGkzenplb2g3eW1PTU1GWWozQXVGbjZZdTh3TVMySHZodVM0SzRlTHZ1azRYTHdrbldSelRTd2cwcm83Wk11RG9ObnVIbzZGVHZBYTdoQmpGMWlobXhIZkloMmZyTk5hYzVQaHBfa2Q2dmtZaU85WGY0UWpaa2FGckluMXFJMEVDUHBQMDBQZ191MktpTXI4MGNMUVFIU3otUEsxSklSWFQ5SDllc18tamJ0M1RROTdGVTB3WDFyTnVKV1lfS3l4MlNlazFnQk90SXdhdmVaT3RwRXBwZk5qNm5lWGoxSzQ1RHdISGxFYnNFdU9mbFAxeERNbDhJLTR4T3V2NlR6OWU2VFFEWUt3RXE5aUlOX2xXV3ZlYWpyZkZuWndmZE5DRGpPWEpXSnB3THdPWE5CUGVkN0dDVV9DNGJ5T1J6djZTMmlrbWEtV1BLd3RQdnZCM2ZyQWllemlSWGN0bnpsRzZkZ2daYk00eFpuNDU4aHpkQ2RmckUwUQ?oc=5"
+  },
+  {
+   "title": "萬聖節深夜私家車過皇崗或等句鐘陳國基籲旅客「去蘭桂坊玩多一小時」",
+   "source": "香港經濟日報HKET",
+   "date": "10-28 16:29",
+   "iso": "2026-10-28T16:29:45+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GVmwtbVlLODdraWtfRFJrYjZNLW1yclpJNWthSUJ3RHEzcFFJTnJOZmRvTVpjOFU3eUhhSHNQMlRmWjY4U04wNVc3bGUxeFk?oc=5"
   },
   {
    "title": "陳國基稱皇崗口岸擠塞「不是設計問題」 認個別時段超負荷：不如去蘭桂坊玩多一個鐘",
@@ -95,20 +109,6 @@ window.HGP_DATA = {
    "date": "10-28 14:00",
    "iso": "2026-10-28T14:00:36+00:00",
    "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNQ2JnWkRHQ0N5X1IxdkZMQVhNVzBxbWplNFgzMHY0cW9VY0tYT1A0UTdhbEVlLXFSTnE1M2RvQ0VXS2NXa0gxaXd2c0pORS1UUDREcG90b3BGb3V6VjZPTzA3LXJfUkhIMVktTUlOcjJQYmFVbVI3aENlWHdPbW01Nzl0b0hLRkZmamVrMGtXejJmOS1VTm8zM1IzQ0VLdEJTVEQ4MllidHZKWVZRZE5NLTN3NF9PVXdxQWxSTzJ6VXNNMl9VTUhFTXlubjlxc2tmME1Ha3VrXy1KRy1lcXpPZ2k2cld0Z0ZXemQzUjNicWF3bUhyal9Sd3JkcklTMEpTbnBwYnNrazlsY29tOER5T1l4bC15Y2I0TE5OWHhmVkZVR1NLUmVoakNmTkRuTzZqQXd1aGhwNmNFRTItN3VfbGdwTE1jUXdkLUR4dzJ3cnNsa3dEb2c?oc=5"
-  },
-  {
-   "title": "今日重點新聞｜萬聖節皇崗口岸安排．蔡天鳳案鑑證法證作供．西班牙列車相撞．麥巴比辱華風波皇馬致歉．林正財談支援青年情緒．宏福苑報告最快明公布 - i-CABLE",
-   "source": "i-CABLE",
-   "date": "10-28 13:53",
-   "iso": "2026-10-28T13:53:22+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOdGxQOTRhcE5YRVdCUUVVeWl2WXEwSVJfSXN6NnJaUnY3RWJCQVFPMmhUWFJOLV9pRUgyVmdhTGtPNF9wQkdVNk9oQ2RZN2RiSjhJUWVJbVBBVVdINzNQdTIyMnh1aDdrNHFNRGdrNDB5M0VpSGZENFlQNWhJdzQwS2IxODVnVTN2S1E2QW9UOElvdWlkTVBPMUxQTnVIbmV2ZGxTaUxTOF9NSXlrVnZxYjd4LU9FVmtsZnFSV1hubVE1cWg5ZjlaUFVsdTJ5Zng1T1daNUIzekdqLWVaVmlKOWtyUnRieGszMk4yTmxzQ29XM05wVS1mc3N0dm92c0xSTHVXVklfWFJiZVlxSl9neTl3cWlLa0FYYk5xbDdheDFKdnZtSVUtQVhjV01HZjJzaVBSbXlrMEMwS0VJT0t1b3JyTXd5VVNIaGlscWJtZnFxMGZEWnE3cV83ekI0TlJIb2hqc3NCblNSRzhWYVEwU3k2amU?oc=5"
-  },
-  {
-   "title": "即日焦點｜皇崗口岸萬聖節會優先放行公共交通／西班牙兩列高速列車相撞 據報百多人死傷",
-   "source": "Now 新聞",
-   "date": "10-28 13:45",
-   "iso": "2026-10-28T13:45:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15amZZYjJ1MkZYNFdGb01uUDFSUTFYUmFzTFh1UTRkNjVXaG1uZDFpQl9UZm95U0d5V3VHaWxsSEg0eDYxMlBxRmVUSkZ2MDZ6ZVQwbG52Yk5uUG9fRFBDTGtR?oc=5"
   }
  ],
  "ok": true,
