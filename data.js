@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-28T16:45:04+08:00",
+ "generated_at": "2026-10-28T17:30:39+08:00",
  "date": "2026-10-28",
  "weekday": "星期三",
- "clock": "16:45",
+ "clock": "17:30",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,16 +44,37 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 26,
-  "humidity": 58,
-  "wind": 15.7,
-  "code": 2,
-  "desc": "局部多雲",
+  "humidity": 62,
+  "wind": 15.0,
+  "code": 3,
+  "desc": "多雲",
   "tmax": 30,
   "tmin": 23,
   "pop": 2
  },
  "warnings": [],
  "news": [
+  {
+   "title": "新皇崗口岸｜10.30至11.1公交先行 陳國基：跨境私家車料等1小時",
+   "source": "香港01",
+   "date": "10-28 09:22",
+   "iso": "2026-10-28T09:22:58+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81Wi1WX3dDaXlHU3pkQW1GWDAweVVJTk4tVVFQeFFrNDB6cHZaNnZKS1VBcDJCd1lGTk44ZGk5aEo0blRrUERQQ2JGNlFkdw?oc=5"
+  },
+  {
+   "title": "點直播｜陳國基鄧炳強陳美寶見傳媒 談萬聖節皇崗口岸運作｜10月28日",
+   "source": "dotdotnews",
+   "date": "10-28 09:00",
+   "iso": "2026-10-28T09:00:29+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9COVZob3BvdjkzNnFER1pwQ3pCSjVwMTJ0Vy15X0VUSHZ1aERVOXZTZWN1bW1abENILXVfRXBOVFRGeVUyYTBQVFdLUDJuTEtZV1RhR004OEVzYzFUbFppT051Y0pkZktCeDgxVmtnYUpTV2xUMHRJbWpB?oc=5"
+  },
+  {
+   "title": "萬聖節｜陳國基聯鄧炳強與陳美寶見記者 交代皇崗口岸周末運作安排",
+   "source": "星島頭條",
+   "date": "10-28 08:50",
+   "iso": "2026-10-28T08:50:11+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQR3daY1NPRGFVTV96MWxJUFBkYVA1YU1PVS11Q2xjRFBzZmJpVlQweHJzQWlyNlJJWEZLUWFqWmRXbjBlRkJrQ3RRSVE0MjJKdTFlU1ItRlVteXY3UTNzZmJ5MkNPbFVaclBGOU5xcVExNnhWLUNtTlNQazJ5aW9lUlJtNmtmVmU3NlpySmFVMHVGNHFBbmE1MXJQNXhkYUxuTDdYSnZpY2FZMXpaUGk4Mm9LSkV1SHpnc1dBOVhCUzhXa1VraFRYWTM0MzdNbENENUJkczl3YnQyRlRUd3NsOGdTUXJzZGxLY3d2SWgwSDAzaUhTQU9jOFBCeHd6Sno3YnJ6MUl1U0J2MHEyb3JtRzA3Y0R4bFEyc1ozMl9jQzNCTDNTNHZUYS1xNFJwbnRUbEk2YnpEY2JjTHpOMzlJSWpfdHB5aFQycTlHUml3dzB1SDNfb2RwLU81YVF0NWhWR19naVdqZ1YxeEJtN1FlNDAzRUdINkpXNUI3bUtZWTJIM2ZVMFlXMVVUZ1I0Sk1PVEpDWGRBellKRzhpYjloTlQ1cENvS1BPQURoamhiQTBTc0k?oc=5"
+  },
   {
    "title": "萬聖節將至 九巴周末加強皇崗口岸及通宵服務",
    "source": "香港商报",
@@ -88,27 +109,6 @@ window.HGP_DATA = {
    "date": "10-28 05:15",
    "iso": "2026-10-28T05:15:25+00:00",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mampUU05MTkduWXpfSnJUbjNoN25vb0FaX1pBR1RZNlVfaWVkWGh1M0U5TVVRWFFSbE1FLWVXV3BROFJwaHBrYmFDbWdpVW5kRk5iMDR3cUhGVjNlWGlfSGc5a3hFN09FRmdxWkppT0pPVzZoQUZodWFR?oc=5"
-  },
-  {
-   "title": "萬聖節｜九巴適時加強皇崗口岸及通宵路線服務疏導旅客- 有線寬頻i-CABLE - i-CABLE",
-   "source": "i-CABLE",
-   "date": "10-28 04:07",
-   "iso": "2026-10-28T04:07:30+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNcnZFMjhfZ3dIZ3NNMzNxTkJ1OGt0M2ZSX2RYQ2x1cTMwaG53YkxsN1Nka05xcGd2NVFJZFNzUktSS1JhSnBPUjgxb2JOdUppV1hnNUp6RmpyWHhtTmh6akZKODhQN2FuRC10ckRxOEU1bHplOUViREkwSkw0d3JMcGFpQ1Ywbjd6TkFUSXlUdkJXVlQtUkhaMk4yb1pqdF9Xclp0YnIyclE2X25tYml5c25xUG5PRE9Fa0xUVTA3M2lET3J3R1dTVW4tUGZNNVpHY0dZNnRiWjBQNVhfdENyUU5QOUlhSW5YTVhLZzJzcjhna1Z0bXFYV25xbUlXelB6SmpCaS0xbkZMbHhMcUJZVDR1Ti1JdjlWMGtwcTRDY3V0OExsc1NIbDdwaDFwU0VndTlkUDhvaFhIcW9DaFFpX0pmUDdyZF8zQjdVeHYyNDA3MFdCWlJqdlFMV0F6a2t0TEFqTVFZckY?oc=5"
-  },
-  {
-   "title": "演唱會散場深夜如何回深圳？皇崗口岸過關全攻略",
-   "source": "www.hkcna.hk",
-   "date": "10-28 03:33",
-   "iso": "2026-10-28T03:33:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sOFVsSnlhNlJubDU3WG9xZ3RPVlM2LTllcFp5UDhfSzV1RU1NdHpnWDYxd2xHc2dsSWNRRXY5aWFISEJldkVfNEtNYUVrMUp6QUk5Y0llOXo1blZWZTBrQkdXRHBrZGhuS3Z5QUt6TQ?oc=5"
-  },
-  {
-   "title": "李耀培促請政府優化管理動線及制定應變機制",
-   "source": "Facebook",
-   "date": "10-28 00:12",
-   "iso": "2026-10-28T00:12:28+00:00",
-   "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxORkJfSGlyZzdRV0RhWEI2SXNCcUMtcmhPdWwtbUlkZHJCcUhIaVR4dnpBdG5YVlpCdEhfOUdicDlzaGxZc3FfWDFudFFUX1l2M2dic19OUktSdnlJeW16NkpKemU0V1pXUlVsQVZmTDNhNjlEaG54T01iYnZDT2c4MjJuTUtJWk9rblhXMW1HdmVBS05NN2FrSFJDdlNjcmdoUXRpZzEzSHhMMjIxVURWVjk2SUQ5MmpCenZCemptZmtYN1VZdTFGQUlVV1Y4VWU1MU5uNmN1WTVkRkpBNVNlZDZKNVdWOHBhbDBCOHpobEduLTdwdmNqWWpBQ0xaRkZfT21kMHNBT3lZQ1Q3cTZNcG9GS2E3RjEwUXZ3V1prMVVNSldJejN5TW9hbUJUMlBjLU5kTUNMVHBsWmFpZkNfNVpwZV95UkJCcTVSYUszX0VZaW9rY3lEUTEtbEI4LVotaWhFUUpPa1FMWlNFMVR6UlRuQUlmeUVzNGVNUlphQlJScl9rUGZRSnMtMHYxcXZhN0NNc1lEZ0JaMHlnbkZPMGdRbkFzRnUzVFBDcTc4RUJ6S093UnQwN2dpTTNFaGFhSjlzN2I2bzF0LUdSVndnS05WZDlORkdndDlOOXltRjl5VG90bjEwLTN2dmpZX2YzX3dPdFN0eng5VGU2QW1qbQ?oc=5"
   }
  ],
  "ok": true,
@@ -117,6 +117,11 @@ window.HGP_DATA = {
    "tag": "天氣",
    "text": "天文台現時無天氣警告生效。",
    "level": "ok"
+  },
+  {
+   "tag": "傍晚",
+   "text": "雙向高峰：出境（北上）與入境（返港）同時加壓，L2 候車區最擠。",
+   "level": "info"
   },
   {
    "tag": "通告",
