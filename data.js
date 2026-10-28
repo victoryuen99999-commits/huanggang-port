@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-28T11:16:03+08:00",
+ "generated_at": "2026-10-28T12:15:55+08:00",
  "date": "2026-10-28",
  "weekday": "星期三",
- "clock": "11:16",
+ "clock": "12:15",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,23 +43,30 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 27,
-  "humidity": 49,
-  "wind": 15.0,
-  "code": 2,
-  "desc": "局部多雲",
+  "temp": 28,
+  "humidity": 47,
+  "wind": 14.2,
+  "code": 3,
+  "desc": "多雲",
   "tmax": 29,
   "tmin": 23,
   "pop": 2
  },
  "warnings": [
   {
-   "title": "發出強烈季候風信號",
-   "desc": "強烈季候風信號在04時00分發出( 2026年10月28日 )。 <br/><br/>",
-   "updated": "Wed, 28 Oct 2026 04:00:00 +0800"
+   "title": "取消強烈季候風信號",
+   "desc": "強烈季候風信號在11時45分取消( 2026年10月28日 )。 <br/><br/>",
+   "updated": "Wed, 28 Oct 2026 11:45:00 +0800"
   }
  ],
  "news": [
+  {
+   "title": "萬聖節｜九巴適時加強皇崗口岸及通宵路線服務疏導旅客- 有線寬頻i-CABLE - i-CABLE",
+   "source": "i-CABLE",
+   "date": "10-28 03:37",
+   "iso": "2026-10-28T03:37:01+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNcnZFMjhfZ3dIZ3NNMzNxTkJ1OGt0M2ZSX2RYQ2x1cTMwaG53YkxsN1Nka05xcGd2NVFJZFNzUktSS1JhSnBPUjgxb2JOdUppV1hnNUp6RmpyWHhtTmh6akZKODhQN2FuRC10ckRxOEU1bHplOUViREkwSkw0d3JMcGFpQ1Ywbjd6TkFUSXlUdkJXVlQtUkhaMk4yb1pqdF9Xclp0YnIyclE2X25tYml5c25xUG5PRE9Fa0xUVTA3M2lET3J3R1dTVW4tUGZNNVpHY0dZNnRiWjBQNVhfdENyUU5QOUlhSW5YTVhLZzJzcjhna1Z0bXFYV25xbUlXelB6SmpCaS0xbkZMbHhMcUJZVDR1Ti1JdjlWMGtwcTRDY3V0OExsc1NIbDdwaDFwU0VndTlkUDhvaFhIcW9DaFFpX0pmUDdyZF8zQjdVeHYyNDA3MFdCWlJqdlFMV0F6a2t0TEFqTVFZckY?oc=5"
+  },
   {
    "title": "李耀培促請政府優化管理動線及制定應變機制",
    "source": "Facebook",
@@ -82,46 +89,39 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsZmctS1pKdUpweUczU0RlQ3JpbXRFYVpsQXVQUVFvNUpodkVhMUk0SjFmcjdSRE9CbE8zV0VfWVV0QjlkeS04VWdOUm9fb2o1OUtLSjJway1yUzJnTmxLOUwxZW1ydkxuZW9FeF9UYldfQXFCWGhj?oc=5"
   },
   {
+   "title": "新皇崗交通連陷癱瘓 大樓漏斗設計致倒灌",
+   "source": "東方日報",
+   "date": "10-27 19:54",
+   "iso": "2026-10-27T19:54:43+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQMnJOVUVRZ21BSDg5UFVfc1RwdlZPSGdoRDZGMk9Bejh3cTBVVXYwY1NScmstSktRRG1jczFhSGRqWEVyc1lXdjF1aEQ5eDlMYTFYRFlxZ3RUQl9SY1UzRFNzbmtyR3NjV2Q2OTRVNDJ1XzJHV25JLVR5dk1yaDgyaVc4dWxpT2t2d3MtamxvZGpkdEJFekQwTDJjSUdydzdVTUg5QnNMRUtmak9aY2hhUGF5NTFMcktYelMzWVdONEl3N2doeGxpYy1pT1JTT3p3QThJWUlreE9ZNmlUbXBvRlc5S04ybExHQ2pMNzExM2hKOHNFUXNteGk1MmxHSFNPRFREUWVRZEZzQm1YbzFrMmlBNjd1Zm9QQURtN05KN25EcFdzTjBJWURQVE9OTHdEQXhHWmFvbDVULUFWb3Rwc3N1SGNNRWhxMHJPUDZkVUhIMHJSd0d3VnQ0M0F0aGFUQU12ZFlQcVd2bkozeHFEVlBfTm4zeWFpRDJBenRB?oc=5"
+  },
+  {
+   "title": "皇崗塞爆｜跨境白牌車中介網上吸客索千元赴深圳 警放蛇拘兩司機",
+   "source": "香港01",
+   "date": "10-27 11:12",
+   "iso": "2026-10-27T11:12:05+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNMDR0QWFDUVBTUTJyZGd3d3BLRl9WdHR1dUpvV1N5YzZ0NmVHTzNtYzEwY1F5Nk1wNlNkdDZOTElHWWJhVFRsWFgwWjI0NkNQcDctVFctQ0ZDV0R2RE5fUmp4UnBmckxhdTR3VFhzTkpmNTh0Q3VNSzU0aFJCaWNXa1lyQi1BWEwwMWUwMC1yRjdDbHZBZ0kwWkFZLU9PUDNXakNINzlKcjdlQlJZaE5aM2s1T1B2WWN3QkR2UXlHRDZZLWtNTzA0M1lUWkRfbmJHWndyejNNUjlWMk5jRVN6ZkxsWjQ5OTJPLXN6TjdTVVVIdFdtQWtvbXRnZENSSVRaTGpobjBhUU94cHZBdDdkZEp1NldoV2M0WVJWYnNkSzhPYWR0UWlleGMxWXFsdVBCZVlpdWFWQmRHUEhWZUpXb1ExWk1uZUc5a0FmaTZ3UDB2OGMwZkMtZnZxb1BIZ2pCa2tpR3JEWHlFRWxEY2RKTzBpQVFsQnhyUFFOdG1uS3FFbjc3V3NmUGZ3dWRxYzlvV2lTa20xYm9oNzBPLUFRSVBIMWhidlVNcWV4clU3dXY?oc=5"
+  },
+  {
+   "title": "新皇崗口岸塞爆．01觀點｜港深進入同城時代 通關仍在死守邊界？",
+   "source": "香港01",
+   "date": "10-27 11:00",
+   "iso": "2026-10-27T11:00:53+00:00",
+   "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPWlRIOEJLcFczdi1WWHhreGlzdVBxelo4cEwtLWlnNmx2U1FNXzFLcnlJRkI5Q2VqcjQwdGFIczVURzRHSWxfODZfZEo3cWl0QXNGUkxzdkl4bllnRkV2azYwaUlJOWRUZm1ZSkY5QTFlaDRab1ZVUWRHVlNOQTYwX0tGZmxQTEY1TEk1dW9FQ3FRMG9sSUJrRzNONXlOdERURzdwakVBYUdZXzBqTzFmSU10SlkzbHl3SUhuTjVidi1VYWFPcE5tM3RnbkhPanJ0Wm43cXV5a0pxR2picmJMWm1KZE9nS1pqZnJkdzRRNW92X2g5VHRwLWdoajhZX3E5QjFSeXpnZm9kTG1iYWZZNVhZNjAybmd6eHBCOGZwdWtnQXU4R0lPM3MtWEprRXRlLXVKakxDMFBDT0NFNTlaZFBMWFppUkc1VExzNVI5dDVtZTBhdEloM0JCcmlCRUdMdnl6cUpaelNvS2JWMFJIUGVGaEJQV0tBMjhOUWdNc1pFbWZOZWF1S1JlMkVDUHdPTWx3?oc=5"
+  },
+  {
    "title": "皇崗塞爆｜10.25凌晨12時至2時逾1.4萬旅客北上 為過往同期2倍",
    "source": "香港01",
    "date": "10-27 10:17",
    "iso": "2026-10-27T10:17:18+00:00",
    "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQa2FjejFYNllhZGVvRDFiRHE2ZnJBbmhTNzlYMENNUUNKTS0wWExScFI4MG1vOUc2M0JVRUc1MGQwWVZqSGlJamNhSkNQVVJBNzZjUHRQNERZbG9Ha29aaHVyRnh2VGx4c2hrQS1yTml5azVld3M4YWxNSnd4V2dqQjRvVENYdDFYVXdIeFpfT3haZXpQMmI0N3U0WEY0dGtVdUluNk9uZkRGZFNrSjVrUWZydmJvcHBxd0U3aXo3czJGOG5TUVlsejVKOE5oVi1ncFRGbUFSdVRRSVl1b3lkY014c2tCdTREU2dxRDFZREwwRmRLQlF5VlBJSmF6SmlqejBPQk9XSGp4aF9fWHZpSEE4S3VrOWxQOVNXMlE2bzNXNmwycno2S1JscUNPc3lnaVZQZnBsYWJWeXh6LTVuMGpDMUE1cUhFWElhTmdPVERMRWpEVkJPTVRSckh4UURtVFJzRHF5LVlOck9FVjliLXplSDlQQ1lnSzZKOFozQ2ZYeWZF?oc=5"
-  },
-  {
-   "title": "新皇崗口岸周末連塞兩晚 陳恒鑌倡車輛提早分流疏導",
-   "source": "Yahoo",
-   "date": "10-27 10:03",
-   "iso": "2026-10-27T10:03:33+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPdXpYZi1RXzZQYTJZajBqMFRodkhZUXo3aXJ0a0p1NGV0clJfOWNTU1hRWFc0ZFBzQklkUXBrZktyRGZBTVVVWFpmOXMyZXB0Qy1nUmNfT0lndzlrNlk0V05Ddnp0dDFWQzNFekdmNlM5SE84LTd6andpTmQ4S3BTWUtwMUtfaUdvdU81c2RwZUNfOVNYLUtqSDhZUDlUMW1HQkdULWRIOU54S2JOUWNPak10X0tUYk5fVVFmQTg3azNDRU1WUTNDR1M0dVFyNlF5MUMwVk4tclJpbjJ2VldFSmRndlVRQm53OWtfeW11VGhMY1NiUjZVZ3FQSTU5UWNDVWpyQzVhVE5EaEZGTkJzRFN3UUVZMlZKWjdHUWxnWTRya2tUWkYxNThxNk9Ra1JFSW9oX09DOHctZVZlcmVXbFhQRVJwQ1o4NFktTHRrMkZFMG1DazQ5LTdjdUpDbnV2Zl80a2Z6ZVI?oc=5"
-  },
-  {
-   "title": "新皇崗口岸周末爆車潮專家指「漏斗」設計致擠塞倡改「流水式」上落客- 港聞",
-   "source": "dotdotnews",
-   "date": "10-27 05:44",
-   "iso": "2026-10-27T05:44:16+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xczRaYm1qNTVMc0dfejJPVTBtN0x0aEpmNzF1ZEYzWWpDSGd5T08xcGp6YU96STkwcHkwRnV2SS1uTVR6bzFsUlNfWjk0LVUzd0NLUDRmYXVzZkxDZm1PLW1uMmN6WnNmdlNnTEdXaWFxNEZ5QVNwT2NR?oc=5"
-  },
-  {
-   "title": "時事全方位｜新皇崗口岸擠塞問題(一)",
-   "source": "Now 新聞",
-   "date": "10-27 05:41",
-   "iso": "2026-10-27T05:41:29+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yRzEtMDVZRHRlY1g2RzY3YW5kejBGbFBaWG5YWGVqbVhpOTE2ek5aeDMwQU1lTy14amltcW5OcGpEbkEtSkdDWEVlWWxsRTlycWQtV2FxV1VHMHR4UmxqOEh3?oc=5"
-  },
-  {
-   "title": "新皇崗口岸｜新皇崗口岸周末連塞兩晚 陳恒鑌倡通關高峰前提早分流疏導",
-   "source": "香港經濟日報HKET",
-   "date": "10-27 05:18",
-   "iso": "2026-10-27T05:18:30+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxQQ3VhQkNfdkJMSkM3VFBJTmhuV3NpQ25QTlVkWGdWMG9ic1VFbmpYYzdWaldhR2U1TWdSc3lpcXItX293NThlczg5VGVyY2ZrbFhiOGtmN0xLVm4wczhqVlVFVGtrN2lVSk9MUnB3U2tiUkZvUktaalRQRlBKNUw1Z1ZtbjZ6UEFxZmMzdkI2RmczM3lldDRnSmxGd0MxWUhNUEctYl9iaTJfaW0zLWgtQ2cyTE1BREtwcWxVV3dxUWl5cDZiSkRaMWhtWGNQa182aUVUbVUwRlhKWi1jN2p2Ul94VTQxN0J2NmdMT2ZNZzlFbklQYU5wdVJoamhmbGN1N0I5NkZrUUdSdGdBZkpQWTNFY09aOW93S0VjbVM2eHQ4eWJkWGplY3JxRmNLRnEyM0dMdWN3b1JCRm9DMU9md3RpbE11WW92MjIyYjA3Vy14TW15dk5iZDRqOU9wQjhyUDI0eGhLU3dNd25ZSzVQWUZYWldxQXdvZEdkQXlzbFRnOHBWRl96OGtoZk9fSjVGd0laZTBoZ2E3Ym1yTnJicGlmdmhYQU1tcWNURUZCZGtUd1I5ekNTbWpYVjZEcGY4TXlLaXZiY1ktTkVrbWhIRTBrak8zZzRTOU9j?oc=5"
   }
  ],
  "ok": true,
  "tips": [
   {
    "tag": "警告",
-   "text": "天文台現正生效：發出強烈季候風信號。戶外崗位（上落客區、落馬洲大橋、交匯處）注意強風、雷擊及地滑。",
+   "text": "天文台現正生效：取消強烈季候風信號。戶外崗位（上落客區、落馬洲大橋、交匯處）注意強風、雷擊及地滑。",
    "level": "warn"
   },
   {
@@ -131,7 +131,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "車流",
-   "text": "近 36 小時有 6 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "text": "近 36 小時有 4 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
    "level": "warn"
   },
   {
