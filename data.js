@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-28T14:50:30+08:00",
+ "generated_at": "2026-10-28T15:52:39+08:00",
  "date": "2026-10-28",
  "weekday": "星期三",
- "clock": "14:50",
+ "clock": "15:52",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 29,
-  "humidity": 45,
-  "wind": 12.6,
+  "temp": 28,
+  "humidity": 50,
+  "wind": 14.3,
   "code": 1,
   "desc": "大致晴朗",
   "tmax": 30,
@@ -54,6 +54,13 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "皇崗口岸「智方便」自助登記站啟用- 港聞",
+   "source": "dotdotnews",
+   "date": "10-28 06:53",
+   "iso": "2026-10-28T06:53:17+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPUkIyTmtmOGk1T3pQTXE5ZDBhdnNvMjZhcUtJbnVRTUMzc194WThsUDJtYzk5a1NoSDE4V3NaR01VUjJMbnhmcWZfQnNJNW1iUW9zMkZMMWFadHltcUcxNXJwYWtVa1A3RC1QQ1paWjVFaFdvNVM4Q0pn?oc=5"
+  },
   {
    "title": "「一口岸一方案」 深圳多個口岸全面升級！",
    "source": "香港文匯報",
@@ -83,6 +90,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNcnZFMjhfZ3dIZ3NNMzNxTkJ1OGt0M2ZSX2RYQ2x1cTMwaG53YkxsN1Nka05xcGd2NVFJZFNzUktSS1JhSnBPUjgxb2JOdUppV1hnNUp6RmpyWHhtTmh6akZKODhQN2FuRC10ckRxOEU1bHplOUViREkwSkw0d3JMcGFpQ1Ywbjd6TkFUSXlUdkJXVlQtUkhaMk4yb1pqdF9Xclp0YnIyclE2X25tYml5c25xUG5PRE9Fa0xUVTA3M2lET3J3R1dTVW4tUGZNNVpHY0dZNnRiWjBQNVhfdENyUU5QOUlhSW5YTVhLZzJzcjhna1Z0bXFYV25xbUlXelB6SmpCaS0xbkZMbHhMcUJZVDR1Ti1JdjlWMGtwcTRDY3V0OExsc1NIbDdwaDFwU0VndTlkUDhvaFhIcW9DaFFpX0pmUDdyZF8zQjdVeHYyNDA3MFdCWlJqdlFMV0F6a2t0TEFqTVFZckY?oc=5"
   },
   {
+   "title": "演唱會散場深夜如何回深圳？皇崗口岸過關全攻略",
+   "source": "www.hkcna.hk",
+   "date": "10-28 03:33",
+   "iso": "2026-10-28T03:33:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sOFVsSnlhNlJubDU3WG9xZ3RPVlM2LTllcFp5UDhfSzV1RU1NdHpnWDYxd2xHc2dsSWNRRXY5aWFISEJldkVfNEtNYUVrMUp6QUk5Y0llOXo1blZWZTBrQkdXRHBrZGhuS3Z5QUt6TQ?oc=5"
+  },
+  {
    "title": "李耀培促請政府優化管理動線及制定應變機制",
    "source": "Facebook",
    "date": "10-28 00:12",
@@ -95,20 +109,6 @@ window.HGP_DATA = {
    "date": "10-27 20:35",
    "iso": "2026-10-27T20:35:51+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZVDJGcnVKUGI2QzFaMl9oOHM3VWR0di1yYjdTY29ORDJFRk5teks2Wk51eDA4WnREWDhIRW1VVTVMdml1ZFRHWG1kaXZ4d29OenVjam1hTXpxMUltNkhMdGEtM0FMRXFDenREcG5ZVGRlcWw1c3Q0?oc=5"
-  },
-  {
-   "title": "盛事經濟效應強優化通關惠百業- 評論",
-   "source": "香港文匯報",
-   "date": "10-27 20:24",
-   "iso": "2026-10-27T20:24:24+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsZmctS1pKdUpweUczU0RlQ3JpbXRFYVpsQXVQUVFvNUpodkVhMUk0SjFmcjdSRE9CbE8zV0VfWVV0QjlkeS04VWdOUm9fb2o1OUtLSjJway1yUzJnTmxLOUwxZW1ydkxuZW9FeF9UYldfQXFCWGhj?oc=5"
-  },
-  {
-   "title": "新皇崗交通連陷癱瘓 大樓漏斗設計致倒灌",
-   "source": "東方日報",
-   "date": "10-27 19:54",
-   "iso": "2026-10-27T19:54:43+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQMnJOVUVRZ21BSDg5UFVfc1RwdlZPSGdoRDZGMk9Bejh3cTBVVXYwY1NScmstSktRRG1jczFhSGRqWEVyc1lXdjF1aEQ5eDlMYTFYRFlxZ3RUQl9SY1UzRFNzbmtyR3NjV2Q2OTRVNDJ1XzJHV25JLVR5dk1yaDgyaVc4dWxpT2t2d3MtamxvZGpkdEJFekQwTDJjSUdydzdVTUg5QnNMRUtmak9aY2hhUGF5NTFMcktYelMzWVdONEl3N2doeGxpYy1pT1JTT3p3QThJWUlreE9ZNmlUbXBvRlc5S04ybExHQ2pMNzExM2hKOHNFUXNteGk1MmxHSFNPRFREUWVRZEZzQm1YbzFrMmlBNjd1Zm9QQURtN05KN25EcFdzTjBJWURQVE9OTHdEQXhHWmFvbDVULUFWb3Rwc3N1SGNNRWhxMHJPUDZkVUhIMHJSd0d3VnQ0M0F0aGFUQU12ZFlQcVd2bkozeHFEVlBfTm4zeWFpRDJBenRB?oc=5"
   }
  ],
  "ok": true,
