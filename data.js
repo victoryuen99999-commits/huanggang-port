@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-28T15:52:39+08:00",
+ "generated_at": "2026-10-28T16:45:04+08:00",
  "date": "2026-10-28",
  "weekday": "星期三",
- "clock": "15:52",
+ "clock": "16:45",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,17 +43,31 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 28,
-  "humidity": 50,
-  "wind": 14.3,
-  "code": 1,
-  "desc": "大致晴朗",
+  "temp": 26,
+  "humidity": 58,
+  "wind": 15.7,
+  "code": 2,
+  "desc": "局部多雲",
   "tmax": 30,
   "tmin": 23,
   "pop": 2
  },
  "warnings": [],
  "news": [
+  {
+   "title": "萬聖節將至 九巴周末加強皇崗口岸及通宵服務",
+   "source": "香港商报",
+   "date": "10-28 08:26",
+   "iso": "2026-10-28T08:26:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rZmdDY2NrSU1aRlJVZzVkOFZpdC1sVlphdU15Y0NfQV9wUHZzZ1M1TXFTeFlZOTV4UEhUeFJ5NzJOZnhKNkdDRHk0Y0VDMnVKeG8tcWZKUGd3M19XTWIxZzNzTlJraGpVZ0pnU3RMTVRYb1VOX1E?oc=5"
+  },
+  {
+   "title": "萬聖節盡慶狂歡 九巴周末加強皇崗口岸及通宵服務",
+   "source": "香港文匯報",
+   "date": "10-28 07:07",
+   "iso": "2026-10-28T07:07:48+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93RENzT0pwVDVEcUFFRFg0aFRjbmh3MGRSUTQyTklXcjBJb1lUaVlZV044WFUtVTVGMUFJajQ0WVZ2RFZCZmYzZ2NWM2NJSTNHSG9XMHBuTzNtVGVxMm1Dc3l3U0o2UHVPc3MwYVRzNV9ocTVhSzNr?oc=5"
+  },
   {
    "title": "皇崗口岸「智方便」自助登記站啟用- 港聞",
    "source": "dotdotnews",
@@ -76,13 +90,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mampUU05MTkduWXpfSnJUbjNoN25vb0FaX1pBR1RZNlVfaWVkWGh1M0U5TVVRWFFSbE1FLWVXV3BROFJwaHBrYmFDbWdpVW5kRk5iMDR3cUhGVjNlWGlfSGc5a3hFN09FRmdxWkppT0pPVzZoQUZodWFR?oc=5"
   },
   {
-   "title": "萬聖節｜九巴適時加密接駁蘭桂坊往皇崗通宵班次 上水站增特別車",
-   "source": "香港01",
-   "date": "10-28 04:55",
-   "iso": "2026-10-28T04:55:19+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOUUpsVlBBdjhKSER6aEZPMDY3c2FaQkEwMWVfSUo0WWlLRWJkeTNFUmFSRTJkeExWWFdZTzVCME15UHNQcTRNWXY1aWRhdzgzbFVmMWlydFBhOWtVOERxemk4bWFudlBtNUxwRnAxS2MzODFqcUVURzhSb3dRZHotRVU2Ukktamg1dFpaa3B4NlIzQmlnbXduNE9EYlpIaU02dkFMNjdhZVZ5VnFyY2J2YWdnU2RUQ1NqNmdYMmtpcFo1WEtfRXh6SWo4MUVKYlBzVUtUZ2l5SGpHT3liWWtxT2Mybm5ZTkNmRlRmTzdfLWVTVHBmUkc5MFZVeE1RYkllM1pMVlFIS1JTNmt1X3d4bVFuZk8zZW5VRUgtTlZtNkJpeUdjWmdlSnpNOHBYbnJGQjF2QmNlZ2FXOW16anUwbXI0ckJLcVZ1azg1SkJwOXRBYWNIMHBROERDcUhDcndfQWNaNkZRRkFGM0pyRVNLZlhvY2pxVmZPS211eDdwSlBfN2pQeHY3b29HQVBVTWxqV2lLeEVnbWg3R01NbnMzQ2U2SjVVeWtYWnJwZEh2MVJ0TmRrRy10QkRGOUNIWnhyVVRtSVhYVzA?oc=5"
-  },
-  {
    "title": "萬聖節｜九巴適時加強皇崗口岸及通宵路線服務疏導旅客- 有線寬頻i-CABLE - i-CABLE",
    "source": "i-CABLE",
    "date": "10-28 04:07",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "10-28 00:12",
    "iso": "2026-10-28T00:12:28+00:00",
    "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxORkJfSGlyZzdRV0RhWEI2SXNCcUMtcmhPdWwtbUlkZHJCcUhIaVR4dnpBdG5YVlpCdEhfOUdicDlzaGxZc3FfWDFudFFUX1l2M2dic19OUktSdnlJeW16NkpKemU0V1pXUlVsQVZmTDNhNjlEaG54T01iYnZDT2c4MjJuTUtJWk9rblhXMW1HdmVBS05NN2FrSFJDdlNjcmdoUXRpZzEzSHhMMjIxVURWVjk2SUQ5MmpCenZCemptZmtYN1VZdTFGQUlVV1Y4VWU1MU5uNmN1WTVkRkpBNVNlZDZKNVdWOHBhbDBCOHpobEduLTdwdmNqWWpBQ0xaRkZfT21kMHNBT3lZQ1Q3cTZNcG9GS2E3RjEwUXZ3V1prMVVNSldJejN5TW9hbUJUMlBjLU5kTUNMVHBsWmFpZkNfNVpwZV95UkJCcTVSYUszX0VZaW9rY3lEUTEtbEI4LVotaWhFUUpPa1FMWlNFMVR6UlRuQUlmeUVzNGVNUlphQlJScl9rUGZRSnMtMHYxcXZhN0NNc1lEZ0JaMHlnbkZPMGdRbkFzRnUzVFBDcTc4RUJ6S093UnQwN2dpTTNFaGFhSjlzN2I2bzF0LUdSVndnS05WZDlORkdndDlOOXltRjl5VG90bjEwLTN2dmpZX2YzX3dPdFN0eng5VGU2QW1qbQ?oc=5"
-  },
-  {
-   "title": "應對萬聖節人流新皇崗設跨部門指揮站- 香港",
-   "source": "香港文匯報",
-   "date": "10-27 20:35",
-   "iso": "2026-10-27T20:35:51+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZVDJGcnVKUGI2QzFaMl9oOHM3VWR0di1yYjdTY29ORDJFRk5teks2Wk51eDA4WnREWDhIRW1VVTVMdml1ZFRHWG1kaXZ4d29OenVjam1hTXpxMUltNkhMdGEtM0FMRXFDenREcG5ZVGRlcWw1c3Q0?oc=5"
   }
  ],
  "ok": true,
