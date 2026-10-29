@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-29T15:23:45+08:00",
+ "generated_at": "2026-10-29T16:21:42+08:00",
  "date": "2026-10-29",
  "weekday": "星期四",
- "clock": "15:23",
+ "clock": "16:21",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,17 +43,38 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 31,
-  "humidity": 43,
-  "wind": 1.0,
-  "code": 3,
-  "desc": "多雲",
+  "temp": 30,
+  "humidity": 50,
+  "wind": 7.7,
+  "code": 2,
+  "desc": "局部多雲",
   "tmax": 31,
   "tmin": 23,
   "pop": 2
  },
  "warnings": [],
  "news": [
+  {
+   "title": "新皇崗口岸周末客流料大增業界籲設巴士專道議員倡提供實時路況數據- 香港",
+   "source": "大公文匯網",
+   "date": "10-29 08:07",
+   "iso": "2026-10-29T08:07:50+00:00",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5URndrMDNwd3dJcko5c0tfUFVFck5haGhObDRTck9naWZGeHhQbHlUdHFDVEkzWmVBSGk2NUs5ZmV2aGtIRGJQaXlJMGN0MXNUYV9Fa2dETDhCTUJzcVg3S2loRDhvOVV6SEhBSjdOdmg?oc=5"
+  },
+  {
+   "title": "希望更多跨境客留港過夜",
+   "source": "Facebook",
+   "date": "10-29 08:01",
+   "iso": "2026-10-29T08:01:44+00:00",
+   "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNVkV0QVhjc1pySkFzd3h0OXZpMWpEMTgyQzM3UkVNWG5PbkdRRnhOcHVGcXpEZXdqUVZSbXhia1BsRDdIVzhYMnNIMjB0Rzh1NmFteGxkUndNQ1NzelFuVEdhaEI2OGVReDV3WGNzcG5sM3YtaW5BbnFjS2ZIMHJsd3pfM3c3MGhWbng1LXhGYkltblpUWlBpMjBTVXVlaklHYlB3VjMzSTFHQlVJTXgxN0wtLTk0MHRnYXJWV1JiVEJBMFA0Q2E5V3RtRzM1SUJJeXp4cDZOLXJuOXl3TVR0Q1BpeDhtOV9ZdDBIRFJhTnVPQzI0WklYQV9xaGg4OVNDOFBTVnBiUUMyWVNmSXY1SHZEVDByUnkxSWFNTkRUVW5qSWk5bUNfQ01ING0yNEVfNnQtUnNqdkRIY1F3QnlnN1hKUWdHWUlkVDJ6NUJlUjU5THRuZVZYQWlJVDJnQVJZV3VvWnNXdFRzME9FeGZ2Tmd2NEJ3ZVpOVG8tYUN4NDNGWmpCbTZmR0hRejNtNXB3ODg5dkltaEF1N2d2VjVINA?oc=5"
+  },
+  {
+   "title": "新皇崗口岸無縫接駁深圳地鐵7號線 沿線消費休閒熱點推介",
+   "source": "www.hkcna.hk",
+   "date": "10-29 07:45",
+   "iso": "2026-10-29T07:45:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ES2lBT2pCQ0RxcUkyRUNQRTZwNTdBRDlEdmZmZldyVU0xS0ozNzliVzRZejVSTDhZZDNYZ25RTDhvWGlKZFVzZUJEYVhvVXE1UU9iM2pSZzYyVWdqaG5WZjRiVERfLVUyOWlUWHFoMA?oc=5"
+  },
   {
    "title": "皇崗口岸｜蔡順基倡設巴士專道解塞車問題",
    "source": "大紀元時報香港",
@@ -87,28 +108,7 @@ window.HGP_DATA = {
    "source": "Now 新聞",
    "date": "10-29 04:46",
    "iso": "2026-10-29T04:46:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LWW83WE5EUWpNcFpxdzNzdExvUXg4UWUzMDBacEtEVEtxUnJQSGhqUnV0WEhQdmN5WVJKS0FkdjFXeWlWbmloaWJ0Qk9LbVl5ak9GQWkwci0tTkliUzI2c2FlXzg3ZjRxV3Jv?oc=5"
-  },
-  {
-   "title": "新皇崗口岸｜巴士業促及早部署節慶安排 倡跨境白牌車一經定罪撤兩地牌",
-   "source": "東周刊",
-   "date": "10-29 04:21",
-   "iso": "2026-10-29T04:21:55+00:00",
-   "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNSHZNb3NWRjZUS084RVRMWFBoYm9GOFZYd2l4UDduZFN0cW5oSFd6bFREX2JXQlVFREo5QkdTaXVjVi1PMjhxSmRlQjFTeW5FaGMzc0Z1aHI2Y3FkYWFIUFpqOGhVYmc0cTNQSXY3VTZKWVNVTXRwODlkTnl6TVNSMzZNN2NFY0ZTTGZwdTMtUDRaNVhrTlQ0RW5fLVRRNWppREZPRU9OX3lFZUI3Z2hYcjRQaGROYXcwaEt1azdSOUpfdl9xQWNybTFxSlJsODJaMmdrci14RVRCeXJldGxBZkZkV3Z1aXFiYzBoV2pGbmVSN1NBb09NdGNRMTlGZGFGYzV0RFpTLWk2S2RSajVvTzlTbHR4YXpyb2c0OVc2dy1sTW1aTS1lRzhGLXlXWE1yeFZtZ1dCdTgzMzhpSHVRcFZBclI3bHJ5UUd3dUlPMk5HejN1d2t4OXFsckJURHRPVjliOGU5aFFySzQzeEZwNmpsQXJ2N0tvXzJpakozX3lLSDJGMzBKT3V1TXFPWEc3VFpXQnZ1amhOdzY4aWN6YVB0RjZ2RUJlUE4xbktRTnJOWUtFaURfR1A5X3J1RWdLYnhVbW1RUTJhb2dnRUI0?oc=5"
-  },
-  {
-   "title": "新皇崗口岸周末客流料大增業界籲設巴士專道議員倡提供實時路況數據- 港聞",
-   "source": "dotdotnews",
-   "date": "10-29 04:14",
-   "iso": "2026-10-29T04:14:33+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04UGlyTzdVUVY4ejdiYTM4UEJ0cktMUHF2Q1gtQkV6RGRNUU9hbUxCbHcxN3RUb3dQenZ0VTlIcWtiaTZwMG12eG1McVdQQnBzQ0ZYRTltSHZXSEczb01wQkJYRjZLNWJ6NXVydVdzVE1FUUQ4TXdpTWVR?oc=5"
-  },
-  {
-   "title": "料萬聖節周末深宵跨境人數增加 運輸署：預留足夠車輛和人手",
-   "source": "香港商报",
-   "date": "10-29 04:02",
-   "iso": "2026-10-29T04:02:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uMXV6MXJFRjF5cE5yenM2VlJJMEgwNlNudnhJVlRDRTduSjBnbXd3cVlOa0pvWXMtb2ZqalZTai10MTFiTWdlWXRXQ05YUWZhUUd5aU10UHM2bjFNZmpRR0VVUmt4enVkZ05CeG80OWxpWEZDVlUwcU1IOA?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mQjJBbFUtZGV0X1pJT01nLXNSLUw5TVpBVnFsa0ctcWo3RUpTSXZNeGxXd0FLOXhUeV9XdUhhcmVaYkRBem5fSUE4dTB6NGZUQmY1WWdLdzVwOVJVbm1tcHZ3?oc=5"
   }
  ],
  "ok": true,
