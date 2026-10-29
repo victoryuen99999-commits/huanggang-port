@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-29T12:41:53+08:00",
+ "generated_at": "2026-10-29T13:26:24+08:00",
  "date": "2026-10-29",
  "weekday": "星期四",
- "clock": "12:41",
+ "clock": "13:26",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 31,
-  "humidity": 43,
-  "wind": 7.0,
+  "humidity": 42,
+  "wind": 7.8,
   "code": 3,
   "desc": "多雲",
   "tmax": 31,
@@ -54,6 +54,13 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "新皇崗口岸萬聖迎通關高峰 政府採公共交通優先並研增24小時口岸",
+   "source": "財華網",
+   "date": "10-29 05:09",
+   "iso": "2026-10-29T05:09:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54cVZsbmJLdTlnWVRfVEs2NnNSVU5tMld0OWxveU1HUUVfNE4xUm9kTUNIQU9RbFY0UzFRR2FzM3ZEVXB0bTNFelVLVHd6Q0NSOEt6bHZvamlVc3VLTnR2c1pR?oc=5"
+  },
   {
    "title": "跨境巴士業界加派人手應對周末客流 議員倡網上實時數據助旅客錯峰出行",
    "source": "巴士的報",
@@ -67,6 +74,13 @@ window.HGP_DATA = {
    "date": "10-29 04:21",
    "iso": "2026-10-29T04:21:55+00:00",
    "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNSHZNb3NWRjZUS084RVRMWFBoYm9GOFZYd2l4UDduZFN0cW5oSFd6bFREX2JXQlVFREo5QkdTaXVjVi1PMjhxSmRlQjFTeW5FaGMzc0Z1aHI2Y3FkYWFIUFpqOGhVYmc0cTNQSXY3VTZKWVNVTXRwODlkTnl6TVNSMzZNN2NFY0ZTTGZwdTMtUDRaNVhrTlQ0RW5fLVRRNWppREZPRU9OX3lFZUI3Z2hYcjRQaGROYXcwaEt1azdSOUpfdl9xQWNybTFxSlJsODJaMmdrci14RVRCeXJldGxBZkZkV3Z1aXFiYzBoV2pGbmVSN1NBb09NdGNRMTlGZGFGYzV0RFpTLWk2S2RSajVvTzlTbHR4YXpyb2c0OVc2dy1sTW1aTS1lRzhGLXlXWE1yeFZtZ1dCdTgzMzhpSHVRcFZBclI3bHJ5UUd3dUlPMk5HejN1d2t4OXFsckJURHRPVjliOGU5aFFySzQzeEZwNmpsQXJ2N0tvXzJpakozX3lLSDJGMzBKT3V1TXFPWEc3VFpXQnZ1amhOdzY4aWN6YVB0RjZ2RUJlUE4xbktRTnJOWUtFaURfR1A5X3J1RWdLYnhVbW1RUTJhb2dnRUI0?oc=5"
+  },
+  {
+   "title": "新皇崗口岸連塞兩晚起因曝光！跨境白牌車索千元赴深圳 警連日「放蛇」拘3人",
+   "source": "GOtrip.hk",
+   "date": "10-29 03:33",
+   "iso": "2026-10-29T03:33:21+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPQ3h4NWwwekM1THhvZ3VxeDJEUG1BMzVJdDJQXzA3U0I0UDZkSVkxZks5cnA1SDFnbDg0R2k1NmZzcEFCcVdaQzBoZ3RoS3VBWE9ydVdrUEVoeFJHaUJ3bFNYWjM0TThWWGdBU0NyTjQ3dHktUEloMVBybDloS1FCa1FrWkhiLWZ4MWtnVVI0UGRkWVZ2andDOHRzUjluU1p2UDdQU2pVVkE4Y0J1X0J3S1RBMHNfVWpsMk10YUh6RnFfcFZuRUoyYXhqVTBDQVFkME1nUHozYVBDbDJxX2NBRVlFdTA1bEhzQkFUUnZxaWJ4bFBOTVVKRmxPOXN5UGtTbFdWS3NOLXdOV0ZZMGlKZ0pwU0FvNmJZUVRXanZHODA4dw?oc=5"
   },
   {
    "title": "新皇崗口岸｜白牌車已出現「退單潮」 業界促加強罰則包括吊銷牌照",
@@ -94,21 +108,7 @@ window.HGP_DATA = {
    "source": "香港經濟日報HKET",
    "date": "10-29 03:19",
    "iso": "2026-10-29T03:19:08+00:00",
-   "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxPdTYtekR0TUhtZHk4RVpNSURNV0pyNHN4czRsX25TNXVUdmozLUdnSk9UdFBUaFZNZFF0YlJTWXRvQ0p3bVR6aUpLT1NkQUV5TUFZVHNwbUVvMVVvODhYaUQ4ZUhHNnc4MFpWLUlFV1ZzWGdLVjRqYVhMRGxfV0lnaFdjOHI5YjFwYy1FUW02MVAyN29EdUswQkw4Z0xZUC1zNzdnMjJuWTRmNnhaRERoNEtpcTI4T2hhMWFOcDVwVk14elBPcklKbmdtcHVFSllrX3ZLTWdwMGRtTF9USkdPbXE5cEZWa3ItYlQ1bzFBY24wdzZwWnBxQjNHTG9HZEtkdUc1dEx2aTRmNGNLUWRfSFAtV1hidmQ5WnlnTkNLVWNMd3dZbEtmdFR5ZksyQ3UwMDNQcFZLWnZMUDkyQ0lSdkxnaWU2VXlROWREZk05OTk4ZThxZWpoMER0TkNZSWN6RWlOX2oxSFZUd1VraFh6R2RzNzl6WkpQXy1Tb1RxNmo3bUhQMWk4Rm1JZzFpYkJhT0sxeUN1aXRlSEF0YkdzUmo1akxWUkIwalhzek5XTWJqV0tYOU11UXVvNHBtQmo4aXMwODAzeVkxR2pqRjFDaEtVd0VqQm5kbndTN25jOFB2LUNkV3dBOFRTU29GUm1FNnBYR0NEQWo5TDg2WVNqTQ?oc=5"
-  },
-  {
-   "title": "皇崗明起3晚深宵 公交優先放行 多項盛事「夾擊」 私家車過關料需候一小時 北上熱潮新聞 - 專題",
-   "source": "信報網站",
-   "date": "10-29 03:14",
-   "iso": "2026-10-29T03:14:36+00:00",
-   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOanVjLXhULU5TT0lpdVA5dUVJTTNoLWRPVkxMSDcxSzUtVVMyeFkxa0RHU3ZvaEFrMW1VbDhsOW9hUUhVdFpqVF96YzRhelJaYnQySUdTWnF6Ylpha1FIQ3h5YTBrVTNmRGNuMmE4dVg5ZGxMbUpMWGttZi1qSHVPS2ZhTjhieUxPeGg5UHBlZlBvY1FFSDVpWno0T3kxS2NtczRfcVdOb25hY3lyZWFUTHRpZEc2eFpHU0xfTWN0UXYxb25Ba1VuZlZkNVk4NkJqbkhiZkEzYXBxWVVScjgzWXZhR0VieEh5N1A5V0ZYQVdMZV9LMmUxX0F4M1Y2MXBMTElZX1NYNGZnZ015RUJVaHgzalhXaGNITFlNb2RSNzJDaXE2UW0yZkVLVXE0VlJaVjh0Nk92amMxMWdxOHZwd2JjdVJtRzg?oc=5"
-  },
-  {
-   "title": "一連三日皇崗口岸公共交通工具優先放行 蔡順基：延長專道應做好指示 料紓緩擠塞",
-   "source": "Yahoo",
-   "date": "10-29 03:11",
-   "iso": "2026-10-29T03:11:15+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNN3ZZUnNUVU1zb3Excml1NHBNZkRZdDV6VzlveWdGMjFXaWVpUHFyMmJ6X1NEb21zeElJbjZTLWg0ZzEwVERONGZtM0JYV0tIc1RKOThkdXBqVGNJcFNIVWQ3N0dDaThZaDJEdTZrZmZJNU9uMWhGbkNsT2ZTX3dLbkFtejNmbjJGTEFYUlhmRVE2RElvZ0k1YjBST044eGc1MVlJYUJ4aTRFSkpadW9SVXhLa0NnUlZxb05wVnY4Z084OTBqMXlsLTgyeE1vU0tYU2p0TWF0dUZmVUo2ZTdUdk54UmtwWmV3Mk1IcllOT3VOTk11Z0tHeU4yblpKX1ZsN1dzN016MmtiOEh2QUlrRUhndVZaa1l5LUppMkxoUC02ZGQ0Mm9lcVo3THU0ZzQ0QU80ZTVMWExBYnFZWjBsaVJJRkRvTjR0LTJ3Q1kwT1VfY2FuS3NoUkFyWGxHc2RRTUJ4NnFYNzdkTDVXdlBWb0VrUnNvY0ZfUEk5Y09jZk8xNk5MMTZIWktnQThUd1lOS0l1STVWeC1HRElObHliM29FYTVhTFZqVFQtWlpIMnk1S0hRN0hmR1UwZ01XMUlvanJxM2MtM0VKd014QkJsQzZtbENZZE5waVZ1Z2N4T29nYXVYbHdtdC15NUxiZXc?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxQWHRQcWxvb2cyd00wcnpIVEJ0SWdHTVk3TktrSDluaDNBVHJjTTB3aV85anR3bVZGTExRYkxOZTZJSktXOGdrcTJBSGxlX1NBcndfLWZoNllQM0dPQlpOSWdUNmdLbVczS0VUcENrYi1JZy1Sc1U5NjkyTUFMZFcxNks4azBkbFl5RkYxbmlZR1BWNEdRN1h6Q0FZdkxxV2VFd1FScDl4VU1rZlhTWEJXd2ctb1RIQ1ZnemRDYlNIOWRzMDZyUWU3bVBjYVN2U3Zldkd5bEZpVGtZVTNYQUhJVGFWOHlXeEVwX1dvWUVsRzFKS3MxRG9yUmRBQ09yQWJ4TWdreW5jLWdETHZhTEJIQUd2SnVBdXpGQ1VsU1JQekU5NGI4eWpjY3dBZEtBNm1fM1lmemE3NUZPeDdnbjRhRVNaa0twZjNucEtnb0NLWGhzZ0gyeTlya01Hb2lYakpGOVF2VDhlTXdfQkVUZmdJLVE4SVI1elBFeEFyTHRDc3ViSTRmSkdTQ0Y3NXpXWWRxQlVFa1hDUHZ0di05YUIxOE1zTF9QR3lmRl9NVjZEQnpPc3phMVZSNEJBZTNwQWRiYXlzSGNHVmY0WnF5RUZjTHhxME9fc2tFTVRSY2FzOUU5WUJScTVqS0h1bndYYzVaQzN4WC1ubmptY2N4RWk4bw?oc=5"
   }
  ],
  "ok": true,
@@ -125,7 +125,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "車流",
-   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "text": "近 36 小時有 3 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
    "level": "warn"
   },
   {
