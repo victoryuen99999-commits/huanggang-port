@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-30T01:21:24+08:00",
+ "generated_at": "2026-10-30T02:13:42+08:00",
  "date": "2026-10-30",
  "weekday": "星期五",
- "clock": "01:21",
+ "clock": "02:13",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,10 +43,10 @@
  },
  "weather": {
   "temp": 23,
-  "humidity": 86,
-  "wind": 4.5,
-  "code": 0,
-  "desc": "天晴",
+  "humidity": 88,
+  "wind": 3.8,
+  "code": 1,
+  "desc": "大致晴朗",
   "tmax": 32,
   "tmin": 22,
   "pop": 39
@@ -75,6 +75,13 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzM2N6YjlxclRoY2ZWVzdHR3Nyc3JVdGtQU1Vnb0tNS0pBZnBFUkpoM091LUJNRnZKald4YW5ELUI5bWFNcHF2WnYwNUllcjNKbExJY2U5a3UzeU1UWTBCZzlPX1Vwel9idnZCV21fYw?oc=5"
   },
   {
+   "title": "深圳灣口岸周五及周六晚延長通關至凌晨兩時 有議員認為有助分流新皇崗口岸人流及車流",
+   "source": "Yahoo",
+   "date": "10-29 13:17",
+   "iso": "2026-10-29T13:17:31+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqARBVV95cUxNaGM3b19KWFk5RWtQYjU5bmF3bV9mNWVJVVVQN3lvMy10Ym5jTkxjUVk3ZnotX293YzVOZ0lfQ1Z0Q2tYQTdGRUxtTUdDR3YxTXlhcm5FQ09YUGxwWWlqbzV5UFBmdkRodE1XV01WVHV0amhLNW9QZmdMcm90T3hvSFZXc3J4MnlKazNkUXZfalgzNFM3TWp2dEZaR2IzWmMzS0ZkZFVYdWtYcGd1X3ppNGNrT0w1T0w2V1VHQ2d3cS1xQm1ScGtuaklYem5LMEJWSDBJR1BkSXA1R29LaHBBRFBVbWFWalkyenEzbXhYTHE1NGlWVURPU2U1enBmWnAwSm9zWFNKV29ZTTlvVkk2SF9INWdNSjNXRFlCRk5mS1ZrT21DbFpGcVVTQVNaV1oyaU9Ka0RTclEwSC03a19RT0FELV80dUhBMm1jZlZOTzVCWU9kejQwU05XNzVjdURFMld3aFVWRjRna1JySDJQUmc2a0VMRjVhRTZqSWtRWHcwbkFEbDY3alAzNFF4MjZzcEkycE1MeWZvR21jQjljS09Tb041QnBGWXdGaERuYmtmV0x4MmZJVGN6aFVYUmdjcE1sRW41V255VXF4enlmUElMNENaVkMtcjRuNEg3NU1YZGxlMk01VXZGbnlHZkdzVTZxOHJxY2JYQ2JRYzNHZjRlamF3emRVWUdyZVJVd3NGYU5PbzY4VlpKTG44Z0JwakJjOFlBRUw?oc=5"
+  },
+  {
    "title": "經深港兩地協商，這個口岸將延長通關時間！",
    "source": "香港商报",
    "date": "10-29 12:14",
@@ -93,7 +100,7 @@
    "source": "TVB",
    "date": "10-29 11:45",
    "iso": "2026-10-29T11:45:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNV3lMQVMxMGtxX3BWWFZKbmFJQ0tkcFo2UTBOX045c3RiWHhTclAzVHpZUGFpaDh4QmFyMXZpVEIyenRzcVRZUjRzZkRuZEZyV1BOTHE1UUFUajZPNmRvbEVVSFRSUWttOE5fSVVZbTk2cWluSkw4OG9zZHRYSjR5bWUxNVZRMHJ4SXpWYTVEQXRfc29fYjNGZXlzbURoWU9DekV6MVZFN0RHNlV6a0U1WFZOdU1TTGxZY0h6aXNSbnRPMXRsWWZRTFhCZk1BenpTdTloM2RGX0FYT01FTGI2WTBFNkpKVWhMTXJseWlNdDgwTWgxMEZMVjByeTdPbHJPOUZUM2NYN0VNTmx2MlRnd29ReGxtNVpXVDJwNDJTYmhDZlE1ZXBCa0VQOGphQzJWRFp1RW83UDAwNVZla3pOcUZqd3Q0VmgzQkR3QU5UMG9wb1hyLWhscXhrVEZzR0x4enZVdXc1X29JNHFkaGlFXzVkYnMyNWVOZ01sUlRCNlBncS04QVdwNm5qdlJMY2ZuSTBqVDBpRFF4aWZVUGxTWFZhanR0MVZpSFZvLUVvVQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOM1lnbXFHUFJRejhhQjQ5NS11SkZndDBMcWxmclNrelhvaENLbUpkZG1zcDBDVmxsQjdhTUo3S0lkVGNPVVdsYlV2VGpoWnhEYmdvSE5VaEpRV1NOSDRQWG5TTjh4RU1tV0NtNTZJQ3R0cnFjSHdVWGRhT1ZqSkhRTGhYQUNwYk54d01LVDFGSFIxQ2hEbko3S3FHNDN1ampVdDM3TUNYUEFyR1gxa0F3RV9na1FoRjA1TVE1Sm9MR1pMZWZHTlhRN3BjbWMyV042TnEtWm45OXJiQm5LdDM5cmNlb25IdXZqX0lwdFFaSm1CZXdGdkhQelRXUThiWkZXejV4NjhjZ3RwR0dWbE1nR1JQLUVTY0F2YzhvNkdaZWZKWUxrYm8waE5CU09wUXplZW5TVGJPcDVoQzdNX01adDJaWXhoLVBMb1lYcV9LaUhNbndHdmtDV2pNNHhUbGxSTzRGM0M3SFhfN1JDUVljcVFldHcyMl9XRUZhZURHWkYxc3owR081SDN4SHRRZE5zd3BvekJQOFFfdWhWREk4ZnlUeXI1Y3FxckVTYjFKQQ?oc=5"
   },
   {
    "title": "為疏導客流車流 深圳灣口岸本周五及六延長通關時間至翌晨二時",
@@ -101,13 +108,6 @@
    "date": "10-29 11:38",
    "iso": "2026-10-29T11:38:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1bjdqdUxYWjFwNkpiaVJTV3dwRk93cG9KcnNlLUQwcWE2Q1VWdGNYMW9QX252ZDJwRXozNEd0WlM3ajc1MlBuOUVxdDB4WkdXUmFnMDljVkY5TzFmRXFMTmVWNlR4WjduZW43UzQtTQ?oc=5"
-  },
-  {
-   "title": "「一口岸一方案」統籌推進 求「快」更要「順」 深圳各大口岸全面升級迎盛會",
-   "source": "香港商报",
-   "date": "10-29 09:09",
-   "iso": "2026-10-29T09:09:30+00:00",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GR3JJWDlUa08xZ1JpVjd1bVZwYmFrTHduTHFPMnRYb1NUMkJ1VEdvd1YxbXV2SDh6VUZucWZuOEUzU0pET0VqTUhvX0g3akd1d3RfOVBkdXVGQVNBeWl4ZkVMWTB6VU52MDNqcDdSckx0ODhGSEE?oc=5"
   }
  ],
  "ok": true,
@@ -131,6 +131,11 @@
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
+  },
+  {
+   "tag": "車流",
+   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "level": "warn"
   },
   {
    "tag": "禁區",
