@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-29T19:14:04+08:00",
+ "generated_at": "2026-10-29T20:00:08+08:00",
  "date": "2026-10-29",
  "weekday": "星期四",
- "clock": "19:14",
+ "clock": "20:00",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,8 +43,8 @@
  },
  "weather": {
   "temp": 25,
-  "humidity": 71,
-  "wind": 8.5,
+  "humidity": 72,
+  "wind": 5.2,
   "code": 0,
   "desc": "天晴",
   "tmax": 31,
@@ -53,6 +53,13 @@
  },
  "warnings": [],
  "news": [
+  {
+   "title": "萬聖節｜周五及周六深圳灣口岸延長通關時間 持深圳灣許可證私家車只能經深圳灣過關",
+   "source": "香港經濟日報HKET",
+   "date": "10-29 11:56",
+   "iso": "2026-10-29T11:56:20+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisARBVV95cUxNTmdJRXkzTVdFZFpVTHBPSWJRbEJ2THZrTWh0dmNGSEJGMTBWUmxvWlk2eldhbkswQ1RPRHhoVk50dzVqVHJrZVZFSDVac0swWGlVRDE1bWxkazRITUpBTmhyWTM4emdVck0wazd5djA2MmhIYlhCZ2NGTkYzNWVuOG9lczBwTlItY2lYRXJxU09CaUlURFZncmdtdlJBWklIRi1JUktOS2NsSFZMVHF3aGVnMC1vY255U3RNeElXY0NKVXV6OHQ5aC0wYXh0cGVvaE9rSkM1RWEtQUlOMWxsbW9zblBJWlpPWTZ1SndLejFCaWZTS3pTemlWMGpKalExYzZSamdueDNRUEN5NWpOdWl0N3N0TGJSaVhjZFA3b3RfeTdSLWFySXhYaGFhREsyNUsxVERzZy1kaWJTU2EzdUpKbGpOLTE0VHVTczN4RXB1N1hIWTJ3MlZGN2lDS194WVpYUzYzTUY0RU5ZaTNyZ0REenRZUWlmT1VOemx3cGVBVG9fM184ekRWNmNsb3g1dWR6TFdXZGE1aEJua3JKaWRWSHVpLUF2MkZwQlQwSUN5b2ZyTjAzVEVLWFYtQ09rQ3plLVlVUDlfRDdNSG1BVFBHZTJ5SEQ3eVcwWW1fVUlfMjhUZnRuVTlLUlJodXcxMHFsVTdSRTUzV3dGNzZTbEZ6cXN4RkZjQjVIQmpDNXh6X3pTcUJveWNWdjZsTWpuc3loWUlUdE9vRDRUcWJBYw?oc=5"
+  },
   {
    "title": "內地男揸白牌車新皇崗口岸搵食被捕 今日提堂還押2周後再訊",
    "source": "on.cc東網",
@@ -101,13 +108,6 @@
    "date": "10-29 05:31",
    "iso": "2026-10-29T05:31:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNVHpkaUdPbWZIaGEydTZMcHVZMjVoVHYwaXBEWV9Wc0UwLUNJVmhaU3FLRWwwTUZnRDFCMlZKemxrbEZsODEwd2lGSEE0VXZKdW1RTjhSVVdCUTNTRG5HYllDM212SjhQMkt6ZzRXQk9LWEhkOGZhYXllWTZCZWhXZEZDeEt6d2NPUlM2Z29YVlBqaXpuX0drbmYxeEwtRk1HR1BCY25WZDg1dFY1Z2Y3V0NHZTJrLXVMc3NHandCYURJZ1VvS0dyNUR0T2wwZG9fWHFwMFVrdmpNOG81MWROOE95dkdWWGR5WnVaNHNpekU4VHZ2NmRtcFBtTjRoNkpZeWxnRkFWbGZ4UTlZUVhXeGY4c1JNTEdNZ1hzMkY2eUNwc0U3a1RTMlVFYVYwTjdlM3kyeHFxaFh1aGJ3MUJnRXhVMkdNNm1sT3o0T1NVdVlnaG9NTGNzZGJtMUdfWTZMZWRydVhkQ3U4SXA0V0lXUnJncDdTeEhqQlhLS3RKeHEtalV5anpOYkFnWlBTbXVpMzJxRWtZS3RfLTZGSzBmVUNZWUE5S1h5enpRaWpvM244REN4Z0dySmM1XzdNbGhBUUl1Y3BsZUNZY1diRG9qYk1ES2NjdmlESGg1elNn?oc=5"
-  },
-  {
-   "title": "新皇崗口岸萬聖迎通關高峰 政府採公共交通優先並研增24小時口岸",
-   "source": "財華網",
-   "date": "10-29 05:09",
-   "iso": "2026-10-29T05:09:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54cVZsbmJLdTlnWVRfVEs2NnNSVU5tMld0OWxveU1HUUVfNE4xUm9kTUNIQU9RbFY0UzFRR2FzM3ZEVXB0bTNFelVLVHd6Q0NSOEt6bHZvamlVc3VLTnR2c1pR?oc=5"
   }
  ],
  "ok": true,
@@ -118,18 +118,13 @@
    "level": "ok"
   },
   {
-   "tag": "傍晚",
-   "text": "雙向高峰：出境（北上）與入境（返港）同時加壓，L2 候車區最擠。",
-   "level": "info"
-  },
-  {
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
   },
   {
    "tag": "車流",
-   "text": "近 36 小時有 3 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
    "level": "warn"
   },
   {
