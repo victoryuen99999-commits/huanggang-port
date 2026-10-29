@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-30T03:13:46+08:00",
+ "generated_at": "2026-10-30T04:03:04+08:00",
  "date": "2026-10-30",
  "weekday": "星期五",
- "clock": "03:13",
+ "clock": "04:03",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 22,
-  "humidity": 90,
-  "wind": 4.6,
+  "humidity": 92,
+  "wind": 4.5,
   "code": 0,
   "desc": "天晴",
   "tmax": 32,
@@ -67,13 +67,6 @@ window.HGP_DATA = {
    "date": "10-29 13:54",
    "iso": "2026-10-29T13:54:31+00:00",
    "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNVkV0QVhjc1pySkFzd3h0OXZpMWpEMTgyQzM3UkVNWG5PbkdRRnhOcHVGcXpEZXdqUVZSbXhia1BsRDdIVzhYMnNIMjB0Rzh1NmFteGxkUndNQ1NzelFuVEdhaEI2OGVReDV3WGNzcG5sM3YtaW5BbnFjS2ZIMHJsd3pfM3c3MGhWbng1LXhGYkltblpUWlBpMjBTVXVlaklHYlB3VjMzSTFHQlVJTXgxN0wtLTk0MHRnYXJWV1JiVEJBMFA0Q2E5V3RtRzM1SUJJeXp4cDZOLXJuOXl3TVR0Q1BpeDhtOV9ZdDBIRFJhTnVPQzI0WklYQV9xaGg4OVNDOFBTVnBiUUMyWVNmSXY1SHZEVDByUnkxSWFNTkRUVW5qSWk5bUNfQ01ING0yNEVfNnQtUnNqdkRIY1F3QnlnN1hKUWdHWUlkVDJ6NUJlUjU5THRuZVZYQWlJVDJnQVJZV3VvWnNXdFRzME9FeGZ2Tmd2NEJ3ZVpOVG8tYUN4NDNGWmpCbTZmR0hRejNtNXB3ODg5dkltaEF1N2d2VjVINA?oc=5"
-  },
-  {
-   "title": "料萬聖節周末深宵跨境人數增 議員倡提供皇崗口岸實時數據助錯峰出行",
-   "source": "on.cc東網",
-   "date": "10-29 13:52",
-   "iso": "2026-10-29T13:52:30+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbHl0TkYzUUs2R0szNTduUHBEeUVRbUc3VV9yWVd4bkJ4Uk9uM240d3NPclhFWnVLUXFUTkdsY1N6Y2tSTkw3cV9IV3ZIMlFxR0NwOURxaWpqc0V3WVFNdVBWRGU2MXVJZ3hLdGJvLUhwd1FrRTdUS1VLY21EVGdJMHdoZVFJM3ZpbDdZ?oc=5"
   },
   {
    "title": "深圳灣口岸將一連兩晚延長通關時間應對跨境人流高峰",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "10-29 11:45",
    "iso": "2026-10-29T11:45:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOM1lnbXFHUFJRejhhQjQ5NS11SkZndDBMcWxmclNrelhvaENLbUpkZG1zcDBDVmxsQjdhTUo3S0lkVGNPVVdsYlV2VGpoWnhEYmdvSE5VaEpRV1NOSDRQWG5TTjh4RU1tV0NtNTZJQ3R0cnFjSHdVWGRhT1ZqSkhRTGhYQUNwYk54d01LVDFGSFIxQ2hEbko3S3FHNDN1ampVdDM3TUNYUEFyR1gxa0F3RV9na1FoRjA1TVE1Sm9MR1pMZWZHTlhRN3BjbWMyV042TnEtWm45OXJiQm5LdDM5cmNlb25IdXZqX0lwdFFaSm1CZXdGdkhQelRXUThiWkZXejV4NjhjZ3RwR0dWbE1nR1JQLUVTY0F2YzhvNkdaZWZKWUxrYm8waE5CU09wUXplZW5TVGJPcDVoQzdNX01adDJaWXhoLVBMb1lYcV9LaUhNbndHdmtDV2pNNHhUbGxSTzRGM0M3SFhfN1JDUVljcVFldHcyMl9XRUZhZURHWkYxc3owR081SDN4SHRRZE5zd3BvekJQOFFfdWhWREk4ZnlUeXI1Y3FxckVTYjFKQQ?oc=5"
+  },
+  {
+   "title": "為疏導客流車流 深圳灣口岸本周五及六延長通關時間至翌晨二時",
+   "source": "香港電台新聞網",
+   "date": "10-29 11:38",
+   "iso": "2026-10-29T11:38:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1bjdqdUxYWjFwNkpiaVJTV3dwRk93cG9KcnNlLUQwcWE2Q1VWdGNYMW9QX252ZDJwRXozNEd0WlM3ajc1MlBuOUVxdDB4WkdXUmFnMDljVkY5TzFmRXFMTmVWNlR4WjduZW43UzQtTQ?oc=5"
   }
  ],
  "ok": true,
