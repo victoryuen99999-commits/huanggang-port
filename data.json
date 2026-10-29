@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-29T13:26:24+08:00",
+ "generated_at": "2026-10-29T14:14:07+08:00",
  "date": "2026-10-29",
  "weekday": "星期四",
- "clock": "13:26",
+ "clock": "14:14",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,7 +44,7 @@
  "weather": {
   "temp": 31,
   "humidity": 42,
-  "wind": 7.8,
+  "wind": 5.8,
   "code": 3,
   "desc": "多雲",
   "tmax": 31,
@@ -54,11 +54,32 @@
  "warnings": [],
  "news": [
   {
+   "title": "皇崗口岸｜本周末起公共交通優先 議員：設緩衝區助改善塞車 倡發展「票尾經濟」留過夜客 - i-CABLE",
+   "source": "i-CABLE",
+   "date": "10-29 05:36",
+   "iso": "2026-10-29T05:36:43+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQdXdZQ1lJOV9JWGNCZ1BqdXJGR2lsS1dyVGRWd18wMkxpMlZSZW8wRmJrQ3NCLVFienRSX3RjMHhUUHV5VHJrVDM5TjdqNEluNGFKUldheXBjdTdoY0lfYzJBd05JcnN4STVYZERpVGFyTmRNOEtKelRYRDItM1lfX25Lc3h6VVNjVGNEbS1ybk5DN18yMEJONnphYmc4cDRpM1otRzNlR1pySl82Njg3U3FjYjRrNFVoVkJrc3VWaTc2amptVnRhR2c1azdBMVlhZFQ5WDJJNlRtTE1jb01qcDZpQ2xiMUR5ZGY1Y3dIMFlPd2tQYjdTWHBoZGFTMm5KNjAzbUo0ZGNtSy1TX3lSSHltR2FYRjJXc0VObktZZkdlTmVvNzQ5QzduNzBKWVI1SFBwMVNuRTRUUE1BbmREclA2ZmQ5MnlmY2NScVdVZDhSVnNnOXRJb3pROHQ5MXc?oc=5"
+  },
+  {
+   "title": "失舊關口禁區地盤 變陣新關口外拉客 直擊新皇崗口岸 跨境白牌車死而不僵",
+   "source": "東周刊",
+   "date": "10-29 05:31",
+   "iso": "2026-10-29T05:31:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNVHpkaUdPbWZIaGEydTZMcHVZMjVoVHYwaXBEWV9Wc0UwLUNJVmhaU3FLRWwwTUZnRDFCMlZKemxrbEZsODEwd2lGSEE0VXZKdW1RTjhSVVdCUTNTRG5HYllDM212SjhQMkt6ZzRXQk9LWEhkOGZhYXllWTZCZWhXZEZDeEt6d2NPUlM2Z29YVlBqaXpuX0drbmYxeEwtRk1HR1BCY25WZDg1dFY1Z2Y3V0NHZTJrLXVMc3NHandCYURJZ1VvS0dyNUR0T2wwZG9fWHFwMFVrdmpNOG81MWROOE95dkdWWGR5WnVaNHNpekU4VHZ2NmRtcFBtTjRoNkpZeWxnRkFWbGZ4UTlZUVhXeGY4c1JNTEdNZ1hzMkY2eUNwc0U3a1RTMlVFYVYwTjdlM3kyeHFxaFh1aGJ3MUJnRXhVMkdNNm1sT3o0T1NVdVlnaG9NTGNzZGJtMUdfWTZMZWRydVhkQ3U4SXA0V0lXUnJncDdTeEhqQlhLS3RKeHEtalV5anpOYkFnWlBTbXVpMzJxRWtZS3RfLTZGSzBmVUNZWUE5S1h5enpRaWpvM244REN4Z0dySmM1XzdNbGhBUUl1Y3BsZUNZY1diRG9qYk1ES2NjdmlESGg1elNn?oc=5"
+  },
+  {
    "title": "新皇崗口岸萬聖迎通關高峰 政府採公共交通優先並研增24小時口岸",
    "source": "財華網",
    "date": "10-29 05:09",
    "iso": "2026-10-29T05:09:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54cVZsbmJLdTlnWVRfVEs2NnNSVU5tMld0OWxveU1HUUVfNE4xUm9kTUNIQU9RbFY0UzFRR2FzM3ZEVXB0bTNFelVLVHd6Q0NSOEt6bHZvamlVc3VLTnR2c1pR?oc=5"
+  },
+  {
+   "title": "時事全方位｜皇崗口岸萬聖節周末安排(二)",
+   "source": "Now 新聞",
+   "date": "10-29 04:46",
+   "iso": "2026-10-29T04:46:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LWW83WE5EUWpNcFpxdzNzdExvUXg4UWUzMDBacEtEVEtxUnJQSGhqUnV0WEhQdmN5WVJKS0FkdjFXeWlWbmloaWJ0Qk9LbVl5ak9GQWkwci0tTkliUzI2c2FlXzg3ZjRxV3Jv?oc=5"
   },
   {
    "title": "跨境巴士業界加派人手應對周末客流 議員倡網上實時數據助旅客錯峰出行",
@@ -75,39 +96,18 @@
    "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNSHZNb3NWRjZUS084RVRMWFBoYm9GOFZYd2l4UDduZFN0cW5oSFd6bFREX2JXQlVFREo5QkdTaXVjVi1PMjhxSmRlQjFTeW5FaGMzc0Z1aHI2Y3FkYWFIUFpqOGhVYmc0cTNQSXY3VTZKWVNVTXRwODlkTnl6TVNSMzZNN2NFY0ZTTGZwdTMtUDRaNVhrTlQ0RW5fLVRRNWppREZPRU9OX3lFZUI3Z2hYcjRQaGROYXcwaEt1azdSOUpfdl9xQWNybTFxSlJsODJaMmdrci14RVRCeXJldGxBZkZkV3Z1aXFiYzBoV2pGbmVSN1NBb09NdGNRMTlGZGFGYzV0RFpTLWk2S2RSajVvTzlTbHR4YXpyb2c0OVc2dy1sTW1aTS1lRzhGLXlXWE1yeFZtZ1dCdTgzMzhpSHVRcFZBclI3bHJ5UUd3dUlPMk5HejN1d2t4OXFsckJURHRPVjliOGU5aFFySzQzeEZwNmpsQXJ2N0tvXzJpakozX3lLSDJGMzBKT3V1TXFPWEc3VFpXQnZ1amhOdzY4aWN6YVB0RjZ2RUJlUE4xbktRTnJOWUtFaURfR1A5X3J1RWdLYnhVbW1RUTJhb2dnRUI0?oc=5"
   },
   {
+   "title": "新皇崗口岸周末客流料大增業界籲設巴士專道議員倡提供實時路況數據- 港聞",
+   "source": "dotdotnews",
+   "date": "10-29 04:14",
+   "iso": "2026-10-29T04:14:33+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04UGlyTzdVUVY4ejdiYTM4UEJ0cktMUHF2Q1gtQkV6RGRNUU9hbUxCbHcxN3RUb3dQenZ0VTlIcWtiaTZwMG12eG1McVdQQnBzQ0ZYRTltSHZXSEczb01wQkJYRjZLNWJ6NXVydVdzVE1FUUQ4TXdpTWVR?oc=5"
+  },
+  {
    "title": "新皇崗口岸連塞兩晚起因曝光！跨境白牌車索千元赴深圳 警連日「放蛇」拘3人",
    "source": "GOtrip.hk",
    "date": "10-29 03:33",
    "iso": "2026-10-29T03:33:21+00:00",
    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPQ3h4NWwwekM1THhvZ3VxeDJEUG1BMzVJdDJQXzA3U0I0UDZkSVkxZks5cnA1SDFnbDg0R2k1NmZzcEFCcVdaQzBoZ3RoS3VBWE9ydVdrUEVoeFJHaUJ3bFNYWjM0TThWWGdBU0NyTjQ3dHktUEloMVBybDloS1FCa1FrWkhiLWZ4MWtnVVI0UGRkWVZ2andDOHRzUjluU1p2UDdQU2pVVkE4Y0J1X0J3S1RBMHNfVWpsMk10YUh6RnFfcFZuRUoyYXhqVTBDQVFkME1nUHozYVBDbDJxX2NBRVlFdTA1bEhzQkFUUnZxaWJ4bFBOTVVKRmxPOXN5UGtTbFdWS3NOLXdOV0ZZMGlKZ0pwU0FvNmJZUVRXanZHODA4dw?oc=5"
-  },
-  {
-   "title": "新皇崗口岸｜白牌車已出現「退單潮」 業界促加強罰則包括吊銷牌照",
-   "source": "AM730",
-   "date": "10-29 03:32",
-   "iso": "2026-10-29T03:32:18+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOQl90akNlb01uT1liTzFTcHpVcllYSXV2OHlWQ0I5aTdfQ052S0tHTnNuNVc3c0FRaG9Pd2dGb1RlY3NIbFJiNENJLXpqMV9waWFjbzl1NTdZX0xmUDAzamtrY2thN3REblZSTnJ3bVZ1T1h2M1BNV3ZHMDBUMUhqTXo5VEFhME1rVWxNN05Ibl80VWZHMXUtLXRwcUl1WGpqZmZqOVJReHJJQXdMN1VOajh3T3RFbUFqS3g1cnNFNzc4N0QwNEhhMDdxSFgwemw2QXhBNmdEUGF2VDEyekFveHpkeWZSc190eDJxMjZ3OGtXeV9sbm1rWDB1aTFySFp6Q1lYOXpFZlY4bVQzSkgyVURSQWc4YklPSlFaMXVrcFNyR2JlbXl0Y1pGX0tqNnZlb1QyaTl1eFZPRG5ZS3M3d3RQVEdycmtqcDcwQ1FXbmdXVUQ0VVhDTm5ZdlRUTkNHN2RZNEJFZU1BSFZZMmVrUnU5aks3RzBnaUdHMUY3VUIwZGNESC1kdUEtbUUxZ1NqdHhQWnNRRHFIS0VmdFpQdFNyNnlvZV93S0E?oc=5"
-  },
-  {
-   "title": "跨境巴業界料設公共交通專道可解決皇崗口岸塞車問題 倡安排交通警現場指揮 (11:23) - 20261029 - 港聞",
-   "source": "明報新聞網",
-   "date": "10-29 03:23",
-   "iso": "2026-10-29T03:23:17+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqARBVV95cUxPOVdVZXlfMmxUc2ZicUpHR2hTOXY5NXN6a2VrSXAxLXJpeWIxQ1VBLWhnc0hKWEpqWEpkcnFtaXhma25hZk1oejU5Q2FDVkkzc2w0S0puSG1DcmxOLUVuVW52UGN1X1RGcTg3Q3JrZGdjekdGcWhPdWh1ZWtyQkhkNGVYdEgxaF9TSHRGRzNGeEtUbF9CVWhqbnMyOFVMaHY2aE1oV1Zpd0FGa3hvY1JrTUJGTE4ybHE3R2F4TldVMWhRZzRUNTAwamVkbnNkeHV6aEd2b2dCOHVjX1VRV1BDT1VGclRQTnhEZXB2ZnhNejRERFBUSWwySmFQMEpBNVp3MWphRTVHTFYxWUZGdW1oenNrUWZ0TmFuZHNlV0lhTXFObDUybGhNbDNxM29wR0NyN1JnODVleEtpaklENlVBM0N2R21USEhGNlRWaUpLeUh4bS14enRfNzhQV3BQcmh0MnhRaFh2QzM0dDRBcGxUUUZQWk9Ycm84Q2J4aWN2MkpuLV8ycTc5U0RocWRXYzhFazhyQzV2R0RVME0tbGhiYVAzbmxSOUZVTDV4Q0NHcWZ4d1JuTkxKMFZFU3RSbGx4NE96T1RYUnZQb3g0TDNfWkt2ZVlwWmtsdlZLWUs3bVBEaE1zaHRGVDFaSFFWbmNvcUt6dk92SWZKdk9hd0hZZzI4ajZtc0gxck5XVWpoVmVkTklYVXluNFdBM2ZfSXdYVnc2VG5pQWE?oc=5"
-  },
-  {
-   "title": "萬聖節｜料周末深宵跨境人數增 運輸署已預留足夠車輛和人手應對（附實用交通錦囊）",
-   "source": "星島頭條",
-   "date": "10-29 03:22",
-   "iso": "2026-10-29T03:22:52+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxPWEIwX1E4UEtEUEZvcmhfc0g5djREdzlyYkVWVk9uTnBweEhMM1RUM0M2NlRJUnUxVDhNMjNqcUhiekVMT2IzSm9nSFB6QzlaLTZwQ192ZjZOclFTc21yUTVOemFvcmdSb0syZDB0VmJEUFJCdUZQRU9EZWZGZnhzSFV0VUZzd3RXTU1XSGRfVVZyQUJZX2NjNzlpTjFDa0VTTVdYcE53ZTdoa3ZWNjh2MmpLQ0I2ZTI3Y1F6TUN0cktjOFkwQ2tDQjVZdVdBT1l6dkFMQWFtenp6NFNHYU9GdnVlMkNFWS1maVJPVmYwSF9zYjhkSE9WVVZQX2JESU5TY3pkVE1kZERMQU53MGdNMXpHUzdTZ0FlbGFXQm1MVFptYzFIVmFjWmJ5NFVoT1JQSFQ5Z3hDcVJ4bjkybUppVUs3T2Vpd25SazhwQXdXSF9mZ0lqaWlRWVI3WFFPaE15eUk4RTJDR0Q0akJnTFd1allCcGpHM2dscVB6UElvMjBjYVp5T1VsaVdXT3BKVjBYMFZGUDhaNDVPWUdhelI5NGFxWmpQNDR5U1Y4R0pUUmlOQmRPYVVrMkxLM3BkS0pVVmRUY0RmdEx2amg1REZ3Mm9NbEpmeUNfdTBINDVVQU42MWVIcTUwMVhIWlZLYk8zelNyaXlhS3Q0Yjg?oc=5"
-  },
-  {
-   "title": "新皇崗口岸｜萬聖節周末倡公共交通先放行 蔡順基：延長專道且警方需站崗把關",
-   "source": "香港經濟日報HKET",
-   "date": "10-29 03:19",
-   "iso": "2026-10-29T03:19:08+00:00",
-   "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxQWHRQcWxvb2cyd00wcnpIVEJ0SWdHTVk3TktrSDluaDNBVHJjTTB3aV85anR3bVZGTExRYkxOZTZJSktXOGdrcTJBSGxlX1NBcndfLWZoNllQM0dPQlpOSWdUNmdLbVczS0VUcENrYi1JZy1Sc1U5NjkyTUFMZFcxNks4azBkbFl5RkYxbmlZR1BWNEdRN1h6Q0FZdkxxV2VFd1FScDl4VU1rZlhTWEJXd2ctb1RIQ1ZnemRDYlNIOWRzMDZyUWU3bVBjYVN2U3Zldkd5bEZpVGtZVTNYQUhJVGFWOHlXeEVwX1dvWUVsRzFKS3MxRG9yUmRBQ09yQWJ4TWdreW5jLWdETHZhTEJIQUd2SnVBdXpGQ1VsU1JQekU5NGI4eWpjY3dBZEtBNm1fM1lmemE3NUZPeDdnbjRhRVNaa0twZjNucEtnb0NLWGhzZ0gyeTlya01Hb2lYakpGOVF2VDhlTXdfQkVUZmdJLVE4SVI1elBFeEFyTHRDc3ViSTRmSkdTQ0Y3NXpXWWRxQlVFa1hDUHZ0di05YUIxOE1zTF9QR3lmRl9NVjZEQnpPc3phMVZSNEJBZTNwQWRiYXlzSGNHVmY0WnF5RUZjTHhxME9fc2tFTVRSY2FzOUU5WUJScTVqS0h1bndYYzVaQzN4WC1ubmptY2N4RWk4bw?oc=5"
   }
  ],
  "ok": true,
