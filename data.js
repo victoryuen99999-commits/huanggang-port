@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-29T14:14:07+08:00",
+ "generated_at": "2026-10-29T15:23:45+08:00",
  "date": "2026-10-29",
  "weekday": "星期四",
- "clock": "14:14",
+ "clock": "15:23",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 31,
-  "humidity": 42,
-  "wind": 5.8,
+  "humidity": 43,
+  "wind": 1.0,
   "code": 3,
   "desc": "多雲",
   "tmax": 31,
@@ -54,6 +54,13 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "皇崗口岸｜蔡順基倡設巴士專道解塞車問題",
+   "source": "大紀元時報香港",
+   "date": "10-29 05:41",
+   "iso": "2026-10-29T05:41:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtM3BSLVUzS2c0bG9KNmh2WjlVYkk5YlZMYlJGbGtZcmZZVlFNQm5vbm0zMko1cjI2U0JOUVMxWnlrMl9TRU1OX2hyTjA4N2I0WXlQQ0F6czBlNVFyYlc4?oc=5"
+  },
   {
    "title": "皇崗口岸｜本周末起公共交通優先 議員：設緩衝區助改善塞車 倡發展「票尾經濟」留過夜客 - i-CABLE",
    "source": "i-CABLE",
@@ -83,13 +90,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LWW83WE5EUWpNcFpxdzNzdExvUXg4UWUzMDBacEtEVEtxUnJQSGhqUnV0WEhQdmN5WVJKS0FkdjFXeWlWbmloaWJ0Qk9LbVl5ak9GQWkwci0tTkliUzI2c2FlXzg3ZjRxV3Jv?oc=5"
   },
   {
-   "title": "跨境巴士業界加派人手應對周末客流 議員倡網上實時數據助旅客錯峰出行",
-   "source": "巴士的報",
-   "date": "10-29 04:38",
-   "iso": "2026-10-29T04:38:05+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNUG1RS01CWWVTbWNTc045aXVDU3lLcmpBTmQwNEFSVmdVcTBPMFBFV1JkSlRJNllINzNjSFpCRm1kNk1DajVRUVlSM2xvbG84UDMxWHdJYjhFWEVoaFlEMEd5OVJ4V1JfaUk1NkN6ZXBQaXBQRHBKMUtXNGpUTlhxLV9CWkhIZ1FKSEtaZ3VJMVh3YXBJY3JET0YxaFMtUjFQMmw1Y0dMQW00M3ZEdFduUXhzVTkyT29wSEJGSXVySGpMd3JRVEhhREZnWWNVUGpWcmo3b1RkdVVIUDRlWUkwa0FCSllwQVE4Um9WWU9xMHFfTkQ2WXdSQ1Q1Z1ZJZXFQMVZCWEIwb1ltZXQzQjg3VlE3ZUhUNHYxclp4eDdUMF92QVdDVFZNNTZOak1mMEl1TkRnMnF2WURtOUpKSXg4akl2YjMxcVU0Vno5aUFVanZtd2V1c0lYWkVTV1VsQi1Jc0RVU0xJV3dvdENWVG13?oc=5"
-  },
-  {
    "title": "新皇崗口岸｜巴士業促及早部署節慶安排 倡跨境白牌車一經定罪撤兩地牌",
    "source": "東周刊",
    "date": "10-29 04:21",
@@ -104,11 +104,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04UGlyTzdVUVY4ejdiYTM4UEJ0cktMUHF2Q1gtQkV6RGRNUU9hbUxCbHcxN3RUb3dQenZ0VTlIcWtiaTZwMG12eG1McVdQQnBzQ0ZYRTltSHZXSEczb01wQkJYRjZLNWJ6NXVydVdzVE1FUUQ4TXdpTWVR?oc=5"
   },
   {
-   "title": "新皇崗口岸連塞兩晚起因曝光！跨境白牌車索千元赴深圳 警連日「放蛇」拘3人",
-   "source": "GOtrip.hk",
-   "date": "10-29 03:33",
-   "iso": "2026-10-29T03:33:21+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPQ3h4NWwwekM1THhvZ3VxeDJEUG1BMzVJdDJQXzA3U0I0UDZkSVkxZks5cnA1SDFnbDg0R2k1NmZzcEFCcVdaQzBoZ3RoS3VBWE9ydVdrUEVoeFJHaUJ3bFNYWjM0TThWWGdBU0NyTjQ3dHktUEloMVBybDloS1FCa1FrWkhiLWZ4MWtnVVI0UGRkWVZ2andDOHRzUjluU1p2UDdQU2pVVkE4Y0J1X0J3S1RBMHNfVWpsMk10YUh6RnFfcFZuRUoyYXhqVTBDQVFkME1nUHozYVBDbDJxX2NBRVlFdTA1bEhzQkFUUnZxaWJ4bFBOTVVKRmxPOXN5UGtTbFdWS3NOLXdOV0ZZMGlKZ0pwU0FvNmJZUVRXanZHODA4dw?oc=5"
+   "title": "料萬聖節周末深宵跨境人數增加 運輸署：預留足夠車輛和人手",
+   "source": "香港商报",
+   "date": "10-29 04:02",
+   "iso": "2026-10-29T04:02:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uMXV6MXJFRjF5cE5yenM2VlJJMEgwNlNudnhJVlRDRTduSjBnbXd3cVlOa0pvWXMtb2ZqalZTai10MTFiTWdlWXRXQ05YUWZhUUd5aU10UHM2bjFNZmpRR0VVUmt4enVkZ05CeG80OWxpWEZDVlUwcU1IOA?oc=5"
   }
  ],
  "ok": true,
