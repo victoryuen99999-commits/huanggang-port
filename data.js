@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-29T07:18:20+08:00",
+ "generated_at": "2026-10-29T08:03:31+08:00",
  "date": "2026-10-29",
  "weekday": "星期四",
- "clock": "07:18",
+ "clock": "08:03",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,17 +43,24 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 23,
-  "humidity": 76,
-  "wind": 10.6,
+  "temp": 24,
+  "humidity": 73,
+  "wind": 12.8,
   "code": 3,
   "desc": "多雲",
   "tmax": 29,
   "tmin": 23,
-  "pop": 4
+  "pop": 2
  },
  "warnings": [],
  "news": [
+  {
+   "title": "葉振東：逾百項測試及演練，新皇崗口岸為何仍塞爆？",
+   "source": "Singtaousa",
+   "date": "10-28 23:05",
+   "iso": "2026-10-28T23:05:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUndfRk5RLUktU0F4SWdvUDJQOUFjY1p6blAzT0l3cGdUdGdaZ3JzbElIdkFWRFkxTWVDcjN2QUQ1clJCVUFmR1dMQ3ZRV09EaHJOYkluS2tzcl9BOXdXVi04R29PY1F2SGJfX3dTb3BZaVVCdWdiYVc2M1R6THM4VkRCSVVoc256cGVXWktDVlE1WlBLNFVzVGlaVzl1d1BQb3MxNnljcnMzLU1HbUk4QjVIVjdZUlBSeTR4b2Nn?oc=5"
+  },
   {
    "title": "跨部門合作優化通關增強良好旅遊體驗- 評論",
    "source": "香港文匯報",
@@ -83,13 +90,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxOOG53aXp6TFFwdGNEYVZTckN4Sk9ZOHUwZF93Qy1icUh5Q3FabTlTeEMzVFZGckFBeklpMGxfRGJuc1VHQjFVMV9sQUVqT2RSU20ydWl3TFVualRkMGkxU0JiQW4zMDNXTlJxYy1CWGRncmlpVTlMMjN2eVRVMU9CYzdmemhacERpRHpOdHdXYmY1b1JiV0J5TlBxRExvQk5xVHlnNUdHR1N4OVFJdUpFYVRpV0RObm94M2hxOUtISGZEUS1QWm9aV3VIVG9vNC1YOGZTZ2ZzN05FQXQ3T0VLZVVZNGRlYU11SlZxZks1cndqQWNudGVzUGtsdndIXzVTbUFROVZkRi00aUpQX3hLUDVtdzlCZkZ6c2FPd2p4SWE4czN3cmdQMEVJT1kzQzd0MXl5SERNSHVVSXpTSHA0NGZTaXZvQW0xZkFfaTRhUzVWUVlNR2hHWDJIMVRGbUhjQl90TFRhcHNya25ueHVZTUJjdW5aczFiX3k2Uy1CeUJPTmFaWVhXME91X3V0UTdhcXZkTzRUemFHNnI2NG1sUlVqdVlVckRDcjVQNm00QnFoY3hfeTlxUVJ2TDgwTC0wYU9GdERNaUx2WFZ5dkZaSDJtZVB0VG9kV3RQT0dVa0s2WnhkTHF0dGdkWmVBMHBpRG5faDhONC1MMUtzeS1mQQ?oc=5"
   },
   {
-   "title": "皇崗口岸高峰時段 優先放行公交車輛",
-   "source": "東方日報",
-   "date": "10-28 19:31",
-   "iso": "2026-10-28T19:31:46+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPR19abWtRTHRFNkM1R3JtVEF1a3pKb3ZvTzZZSkc5RHlOdm5SaF92U0xPaFJjc29PdENDS0Z5YS1EMHExcjRsNW9ZZXZKelVZdm1BYlhMLWhFSFFqcHNVSHpXek5iemM5SWdHQ3FEY29wTmpURHQ3Z1RJZ2NhcTNPdE03WmFKVDg0bGNlOFNWWUE5dWxhZkthMTNyX3F0VEJvLXc4aHZzbnY2NUtJbHZrTkhvMWotcHBndGxiRUhYbkNidzJQM2NPTWhIbF95TUhUVGF0SXJmRWRkWmFOd3pPbE11bUhHTXBVbDdEYmdZaG1kSmRleEFmY2FHbXdpYkczTEZtLUxrb0VxTS1Nc0xSSjV0WjNNeV9CSy1iQXEwc2hDWXBmZEZ3OHQ4SVpQUGVYekh1Zk1qSU9NUlN6WXVrTVliT2RfdlN6dW5VMjdiWTFIeU1YVUUtWl9UVzZBVkVFS2Zocm9R?oc=5"
-  },
-  {
    "title": "萬聖節周末期間 新皇崗口岸優先放行公共交通工具",
    "source": "星島頭條",
    "date": "10-28 19:00",
@@ -97,18 +97,18 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQZmEtejQ2bDFwcFRCVUFxUHN1LXIxR1VoeDlnRldnMU13NldrcDVxdkJPLUtNeXg4R0ctSFNaNzdUcU1tdHpNbTN0NE9Tbkx1TDJaTXlBb2U0bk9sVGpOQnFNTnZrck1fNGQwOUNxYmhDbWV2MjBfRmpzajE1Snd6TlQ2TEhhaXhVOEpnTl9KRXV0NENxVUpZa01sTTE0S3JJeks0SlgzVU0zMkZnY29tRWpsckJBUVpLWEIyY1dsUkl5eUlzTExvTDZfX21rNkxsYzNVY0l3QjNpX3JMTFpyc0tESlpwTl9DSTNmZWZsU01ZT0l5Slk5VDFIMG11ZE9zSXNkM1FyYUJsenRxQ2ZCdnhHM0pyQ25FYjVDdGhvLTlEakRsTTNXR0Nib0sxTlhXa0VDNGJvUjg5SkZ2WVZfVDI2YldBTGFxOGNBT3dPYWk1VGszNC1KNjJRR3NhRW9rQVlVVDlibFI?oc=5"
   },
   {
-   "title": "紓緩皇崗逼爆 其他口岸加班通關立竿見影",
-   "source": "信報網站",
-   "date": "10-28 18:50",
-   "iso": "2026-10-28T18:50:27+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxONzB1UW5JaTJ2NGItTjNNQ1dQdVJJSWlfZVUwTVZ2bEdueVpZc2hPaTRKV29zb016eG5TSHY3U2lWUlVBUnI4NHhFU1FoRXB1WlY4SmFYV0tHbF9XQmN3bXkwVVZWcV9OWVZCVHVGYWhocHNBQTNKb05DQVRyejE2aExYUkRnRWpucXJ6dENYVUwyaGg5RTZZQThPM2Z4LU9VT2lkVTBtLURVSzJuWUdUYzRMbHJweGZQOExiU2tVQXdnZzAxaWw5MExaOHo2WEpBNURuR1JuMUdTVjZIZHZVVnhOTkpTNkZ6NWJFd20xaDdVMlBZbV9aSnFxamk4Qjg3cV92Wlo0RmFtYWdndm1oTk9GRVNjUkEtdUdkZVdobGlXc3Vyb1NTYUpyQ3laZXZDcjlTWnhyaGtuc0wwLXpRbWtvNA?oc=5"
-  },
-  {
    "title": "附交通懶人包｜皇崗口岸萬聖節深夜勢塞爆？政府稱公交優先 巴士加班｜一文看清",
    "source": "TVB",
    "date": "10-28 16:30",
    "iso": "2026-10-28T16:30:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxNc3NZbktuYTJlVEZQak5PTnVKdTNyQ002TjB0bEhiVkJHU0I1NWdhZGhBaHJaS04zWHNaaC02ZkpwaHdnakxBOTZQOFNFVXdzbS1sNXBFX1o5TEc4dXRGMnE2RXBJd3ltQTFVY3JmNUxTZGZvY2JkM2VmYXZPdEVjVHRWM2kxQzFoU2xDOWxoNm9qLVhwVnlDYUgyaERrRTJIcno0RE1zMlEwQzBrR3hhRzRfaGFGbFVKdlNyQXVocGIzM3BTMWxndWVhSnl2NXZvR21jdDJPT1g5R3ZnbkJIYWI4Qk9xcU1MNkh5ZHBtNXIwSmxCU3FoY080Q2ZEZ1U3eTBmTUNFMVJ0OG1JTFI2R3U1d05pUFozRU9LRGJSOTdITjJsaWMyeThNdFpxemhFdUZpdFIyRl9ZRUFFaTN5UE1rT1hZY3hrR1F6dTJaTER1aVZjY1V4Vzd5TkpReU0zYUlFa1doRlAtSG9kVU94Q042TDJNU3NtY1dWMzNuSldySmI5QkpyN2lhUEl2TTN0cXBNeGprU2s5VXF0OU9ZMEJOcEw4TnVJdmwtbXRiakJhSmZ6NHk5eExsQnhOTUNDbk9iREpvTE5QNFVYRmk1b3ktMA?oc=5"
+  },
+  {
+   "title": "陳國基稱皇崗口岸擠塞「不是設計問題」 認個別時段超負荷：不如去蘭桂坊玩多一個鐘",
+   "source": "棱角媒體",
+   "date": "10-28 15:33",
+   "iso": "2026-10-28T15:33:47+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOYTRtZHN5eEhuMF8wMGRrbmU4WURVS0FUeG9NWVRlZ2c4d3N5ckZ1R2p6dHhLbkg0eXhYQWhES05paS04YlplTmxDSDRMMGd2ZmVPVkxwOFFDbWwwZEdtYXJnLUY5RDFzNXh3TDZUYTR3ZmpYTVpodWJqZzhRZnU3YmRwaW1sMkJNZ3dsZi14VzJUbUhsUzM5Nkd3V1FCekJHcTMyQU9HSGtmWG05dkFPNU1LZ0ctTFBMRkwySFdkakJETS1EbjkxZkZBMVBOTWJQcGl1Q2piZjg0Zks2Vnh5SFI5ekgzcllRNlZVcEswbC1GRkcxWkZsOEVCc1RKaENNOTJ1Ymp4WFN5c0FoZktWUjNPMTNJOE9hdjVzZUs0dE9mQzZsckw2RGpudUZBTGhpejRsWGM0NlU1X3BOVkRPZ2xTV195WE5HQmR2Qi1RcWN2elNBQmFZTU45cDJaU1g1UHc?oc=5"
   }
  ],
  "ok": true,
@@ -130,7 +130,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "車流",
-   "text": "近 36 小時有 4 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "text": "近 36 小時有 5 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
    "level": "warn"
   },
   {
