@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-29T22:16:11+08:00",
+ "generated_at": "2026-10-29T23:21:52+08:00",
  "date": "2026-10-29",
  "weekday": "星期四",
- "clock": "22:16",
+ "clock": "23:21",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -22,8 +22,8 @@ window.HGP_DATA = {
    "dep": 0
   },
   "LSC": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "LWS": {
    "arr": 0,
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 24,
-  "humidity": 78,
-  "wind": 6.2,
+  "humidity": 81,
+  "wind": 5.8,
   "code": 0,
   "desc": "天晴",
   "tmax": 31,
@@ -53,13 +53,85 @@ window.HGP_DATA = {
   "pop": 4
  },
  "warnings": [],
- "news": [],
+ "news": [
+  {
+   "title": "希望更多跨境客留港過夜",
+   "source": "Facebook",
+   "date": "10-29 13:54",
+   "iso": "2026-10-29T13:54:31+00:00",
+   "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNVkV0QVhjc1pySkFzd3h0OXZpMWpEMTgyQzM3UkVNWG5PbkdRRnhOcHVGcXpEZXdqUVZSbXhia1BsRDdIVzhYMnNIMjB0Rzh1NmFteGxkUndNQ1NzelFuVEdhaEI2OGVReDV3WGNzcG5sM3YtaW5BbnFjS2ZIMHJsd3pfM3c3MGhWbng1LXhGYkltblpUWlBpMjBTVXVlaklHYlB3VjMzSTFHQlVJTXgxN0wtLTk0MHRnYXJWV1JiVEJBMFA0Q2E5V3RtRzM1SUJJeXp4cDZOLXJuOXl3TVR0Q1BpeDhtOV9ZdDBIRFJhTnVPQzI0WklYQV9xaGg4OVNDOFBTVnBiUUMyWVNmSXY1SHZEVDByUnkxSWFNTkRUVW5qSWk5bUNfQ01ING0yNEVfNnQtUnNqdkRIY1F3QnlnN1hKUWdHWUlkVDJ6NUJlUjU5THRuZVZYQWlJVDJnQVJZV3VvWnNXdFRzME9FeGZ2Tmd2NEJ3ZVpOVG8tYUN4NDNGWmpCbTZmR0hRejNtNXB3ODg5dkltaEF1N2d2VjVINA?oc=5"
+  },
+  {
+   "title": "料萬聖節周末深宵跨境人數增 議員倡提供皇崗口岸實時數據助錯峰出行",
+   "source": "on.cc東網",
+   "date": "10-29 13:52",
+   "iso": "2026-10-29T13:52:30+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbHl0TkYzUUs2R0szNTduUHBEeUVRbUc3VV9yWVd4bkJ4Uk9uM240d3NPclhFWnVLUXFUTkdsY1N6Y2tSTkw3cV9IV3ZIMlFxR0NwOURxaWpqc0V3WVFNdVBWRGU2MXVJZ3hLdGJvLUhwd1FrRTdUS1VLY21EVGdJMHdoZVFJM3ZpbDdZ?oc=5"
+  },
+  {
+   "title": "深圳灣口岸將一連兩晚延長通關時間應對跨境人流高峰",
+   "source": "www.hkcna.hk",
+   "date": "10-29 13:20",
+   "iso": "2026-10-29T13:20:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzM2N6YjlxclRoY2ZWVzdHR3Nyc3JVdGtQU1Vnb0tNS0pBZnBFUkpoM091LUJNRnZKald4YW5ELUI5bWFNcHF2WnYwNUllcjNKbExJY2U5a3UzeU1UWTBCZzlPX1Vwel9idnZCV21fYw?oc=5"
+  },
+  {
+   "title": "經深港兩地協商，這個口岸將延長通關時間！",
+   "source": "香港商报",
+   "date": "10-29 12:14",
+   "iso": "2026-10-29T12:14:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSU1BZkZsNjdEQ2tidFNmNE1KZFFMTXE0Sjk0Q1dVXzhQYjhObjV3RTVla01PZDViUFhwcVpMUkpJNlBkRHI1S09GUjUxbzk1SURYTVhwVmlkaXA3VU1RYVNHQ1JaTFdhLUtyUVZyNG5uT3JIZmdoeTN0UQ?oc=5"
+  },
+  {
+   "title": "萬聖節︱深圳灣口岸周五、六晚延長通關時間兩小時至凌晨2時 分流跨境人流車流",
+   "source": "星島頭條",
+   "date": "10-29 11:58",
+   "iso": "2026-10-29T11:58:32+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQcFI0TWxuSG1TLW0yOXUxcWpYc1dOaDVVSHptcjhjVEFiNzlQMlRPanRRbXJFcW9ZMHpKenFfWEJIT09wMjBiSWJMbkpTNmNKQ2ZCOGdKSWU3cVozT3pZdjdIcXJLWTFkYVc4MXg3Q3M2QzlzRy1qWVZYNEtTZGRtelRMTGxseHN1SlVsWVpWNC1CWVYzRGkyUmxjTnhGZDgzZmxNNlV4bXVCZU1XMG5TdDFiQVJNTzhETDlfZFk3emVnc2hRY29BT0VpdXVCelJtUHdzQUdtT25MMFRVdENfRElxaEtSQTBFZHJyb1BTMTJZREtsRFVHNFFoaDc0eDUxY0ltYUJqLWkya0dkaThxUGdoOU1xR1FsYjl1Xy1obnF4STlWTzJvbVJ2dHNyZ3huMjEzUkZod3BsRWp2b0VTMUE2ZGl5UkduMDJsakZabF9xdGl1SHZQQ0NaQ21mRW1LTUF2dDBmYWVEY1F2TF9UcUV3U0loVG4xTU11SmNYdV9uQXNMRDRRSG05dm95YWt3Uy1pYWlCM084S3dKS0RXUDNZdVRNQjIyeUlvZXRybmJQMkFndGN0ank3dnRqeU9oZXI1TmVId3hzc2xaWjYtWkkzb0ZDY08xeUQyWl81aWZvQmxG?oc=5"
+  },
+  {
+   "title": "萬聖節｜周五及周六深圳灣口岸延長通關時間 持深圳灣許可證私家車只能經深圳灣過關",
+   "source": "香港經濟日報HKET",
+   "date": "10-29 11:56",
+   "iso": "2026-10-29T11:56:20+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiowRBVV95cUxPdTlJMy1mOENyVXlvTjU4bkEzTlNmQ09zMmNxQWdnQ2RBV3VOdVpxV3kyYVpUNENSN0tDdXA5VnRnSVNYWEVicEtCTUFTMkEyenpjZGNpMVkycFpNN29YNU9YTkNFV2ViWjFta1gwOUI4QVowMGNHQXF0X1VQX2dwVUtCUEh5MHZsNHpFWHhQNlE4WHBxWnprTS1mS2xZUThTdkkxLWt1MHk0SGc3TUNvcWw3MjRDRlZPZ2ZFbGpiQmJpVmdEU1EzMU5nNUhWSnBLbUh0Rzh2NW44aUxxV21DdkJnTFJ0NjRENzlDM09QQTg0SG8xWEVpZ3djb2tfTXFfSHk4RjR3dF9hWHUySDJxeWRWVWxWWEtERVZDSHpLc2JYNmpicGJXTy1yT1VZZV9NYjNWRlpsUlRmMnF6N2lLVVJtVE1TcEpZTFZfN1RyeTctZzZTRkt5UUZuVXQya1RSSFNDeWE4N1I1WTFES0h1TmJMVl9ucmtfSnRVX0tEeUU5bjZiek5YNTlTcTFvMkgzRTlkQ1pxX2ZRYW50Zm83Nks0NGVmcndvMnlHS2JKREdvN2NNbERXZGtjdENzUm9ValNlZkRxRlBRVWw2RnBwS05pQUZaNFBQRjJFWm9iZDUzRFBXRnRNS1otU3JHNUJuQmtrSTdRdFFyT2N5YV9MaEhQcFNZNGJfOVBEVU9Vc2NCckpJM1JpS0I3SkhRRHdyb3A0?oc=5"
+  },
+  {
+   "title": "萬聖節活動過關人潮｜深圳灣口岸周五及周六延長至翌日凌晨二時關閉",
+   "source": "TVB",
+   "date": "10-29 11:45",
+   "iso": "2026-10-29T11:45:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNV3lMQVMxMGtxX3BWWFZKbmFJQ0tkcFo2UTBOX045c3RiWHhTclAzVHpZUGFpaDh4QmFyMXZpVEIyenRzcVRZUjRzZkRuZEZyV1BOTHE1UUFUajZPNmRvbEVVSFRSUWttOE5fSVVZbTk2cWluSkw4OG9zZHRYSjR5bWUxNVZRMHJ4SXpWYTVEQXRfc29fYjNGZXlzbURoWU9DekV6MVZFN0RHNlV6a0U1WFZOdU1TTGxZY0h6aXNSbnRPMXRsWWZRTFhCZk1BenpTdTloM2RGX0FYT01FTGI2WTBFNkpKVWhMTXJseWlNdDgwTWgxMEZMVjByeTdPbHJPOUZUM2NYN0VNTmx2MlRnd29ReGxtNVpXVDJwNDJTYmhDZlE1ZXBCa0VQOGphQzJWRFp1RW83UDAwNVZla3pOcUZqd3Q0VmgzQkR3QU5UMG9wb1hyLWhscXhrVEZzR0x4enZVdXc1X29JNHFkaGlFXzVkYnMyNWVOZ01sUlRCNlBncS04QVdwNm5qdlJMY2ZuSTBqVDBpRFF4aWZVUGxTWFZhanR0MVZpSFZvLUVvVQ?oc=5"
+  },
+  {
+   "title": "為疏導客流車流 深圳灣口岸本周五及六延長通關時間至翌晨二時",
+   "source": "香港電台新聞網",
+   "date": "10-29 11:38",
+   "iso": "2026-10-29T11:38:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1bjdqdUxYWjFwNkpiaVJTV3dwRk93cG9KcnNlLUQwcWE2Q1VWdGNYMW9QX252ZDJwRXozNEd0WlM3ajc1MlBuOUVxdDB4WkdXUmFnMDljVkY5TzFmRXFMTmVWNlR4WjduZW43UzQtTQ?oc=5"
+  }
+ ],
  "ok": true,
  "tips": [
   {
    "tag": "天氣",
    "text": "天文台現時無天氣警告生效。",
    "level": "ok"
+  },
+  {
+   "tag": "夜更",
+   "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
+   "level": "warn"
+  },
+  {
+   "tag": "通告",
+   "text": "口岸相關新聞 8 條，見「口岸新聞」。",
+   "level": "info"
+  },
+  {
+   "tag": "車流",
+   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "level": "warn"
   },
   {
    "tag": "禁區",
