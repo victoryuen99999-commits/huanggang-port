@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-29T17:20:42+08:00",
+ "generated_at": "2026-10-29T18:20:05+08:00",
  "date": "2026-10-29",
  "weekday": "星期四",
- "clock": "17:20",
+ "clock": "18:20",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -42,11 +42,11 @@
   }
  },
  "weather": {
-  "temp": 28,
-  "humidity": 58,
-  "wind": 10.5,
-  "code": 1,
-  "desc": "大致晴朗",
+  "temp": 26,
+  "humidity": 67,
+  "wind": 11.6,
+  "code": 0,
+  "desc": "天晴",
   "tmax": 31,
   "tmin": 23,
   "pop": 2
@@ -56,9 +56,16 @@
   {
    "title": "內地男揸白牌車新皇崗口岸搵食被捕 今日提堂還押2周後再訊",
    "source": "on.cc東網",
-   "date": "10-29 09:00",
-   "iso": "2026-10-29T09:00:00+00:00",
+   "date": "10-29 09:03",
+   "iso": "2026-10-29T09:03:25+00:00",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ3lyejZFaUYzdzJLNXcxY2VyMHVjZGJVWVRkaU9MRlhlbDYwM0VXVVctd2I0b3NDWENfdGtXSllRWnBUekhZbE9BZm90eF92RlAyY0xiMENhVTFCNGM4RUdxYndCRmk2UEdiRVp0RUpLQ3dkTmF0OTBKdlg0S2Npa0s5djRoRnVpTHMw?oc=5"
+  },
+  {
+   "title": "新皇崗口岸周末客流料大增業界籲設巴士專道議員倡提供實時路況數據- 香港",
+   "source": "大公文匯網",
+   "date": "10-29 08:07",
+   "iso": "2026-10-29T08:07:50+00:00",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5URndrMDNwd3dJcko5c0tfUFVFck5haGhObDRTck9naWZGeHhQbHlUdHFDVEkzWmVBSGk2NUs5ZmV2aGtIRGJQaXlJMGN0MXNUYV9Fa2dETDhCTUJzcVg3S2loRDhvOVV6SEhBSjdOdmg?oc=5"
   },
   {
    "title": "希望更多跨境客留港過夜",
@@ -73,13 +80,6 @@
    "date": "10-29 07:45",
    "iso": "2026-10-29T07:45:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ES2lBT2pCQ0RxcUkyRUNQRTZwNTdBRDlEdmZmZldyVU0xS0ozNzliVzRZejVSTDhZZDNYZ25RTDhvWGlKZFVzZUJEYVhvVXE1UU9iM2pSZzYyVWdqaG5WZjRiVERfLVUyOWlUWHFoMA?oc=5"
-  },
-  {
-   "title": "運輸署：萬聖節期間深宵跨境人數料顯著增加明日至周末加強公共交通服務- 東張+",
-   "source": "myTV SUPER",
-   "date": "10-29 07:30",
-   "iso": "2026-10-29T07:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxQaHRZX0dfRVR5Wl9LNDFYcE1NclhjdnhfbERycnlwcl9DVTdmZjhCdlhuQ1Ezd3JYWHBsckticHV0Qm1DZlhJNFN3UC1tajlhWVRrT3Vkb2UybUpVUmFrWHR4RFFudTZQcVozYjItWDFzZndYX3B4Z05UZzVyODZ2d1hkd1V3RlM4cGdrT1RjbjN0SGc2bFJmSEZQQ3lmcE5ZWFo5UE5ReEdDUzA5OXBHb3dLdVVRcUpvQzUxRFJ3Q2ZyZUQyeHBxX2tpa0RWTjBQeW5ka05JSHhueE9jbUtZcHRmeUZ0Y2xsNDYyR0J1NXR2YTY1MkZZRkZwNk84UkRocGx4dlpoWWRDclA3bkpLNDZjdkswOWpVYzVlYUpHNjRjT0hIWUJ1Y2JBc0lUNlRUeVd1N0FPSGJYZnk0VXRxTUJoYTlYVXVzd3MzRUtRcDlVNDJMN0gzU2tqbDl6amVQN1pyWTlPekxvZXdzZHcwbDFBa2ZqVjdjRDIyd3lhYkZobExaZ056eEU0akFfb1N6NmNEOUdvRVJaVVRWQXk2V1FlU1Zkd0hxZHhBT2UweXBnMzdJT3FlQjctYW9EM0IyN243RDhOMnhpR1BxZUFqemd0TU15SHpHTjNwR0ljM1JPZ1lKS2NES0ZtaXhtbUtyRkVDcTNTWGI1enFGcTlWWTliaWN1LXRlSzFuTDRMbk4wazNHUnFfZUpkOTk0YUVmM3JNeWRIb3dmLUloeXc?oc=5"
   },
   {
    "title": "皇崗口岸｜蔡順基倡設巴士專道解塞車問題",
