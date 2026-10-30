@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-31T06:50:36+08:00",
+ "generated_at": "2026-10-31T07:28:57+08:00",
  "date": "2026-10-31",
  "weekday": "星期六",
- "clock": "06:50",
+ "clock": "07:28",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -14,8 +14,8 @@ window.HGP_DATA = {
  },
  "others": {
   "HYW": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "HZM": {
    "arr": 0,
@@ -30,8 +30,8 @@ window.HGP_DATA = {
    "dep": 0
   },
   "MKT": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "SBC": {
    "arr": 0,
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 88,
-  "wind": 7.4,
+  "humidity": 86,
+  "wind": 8.0,
   "code": 0,
   "desc": "天晴",
   "tmax": 30,
@@ -76,11 +76,25 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBscW8yeGplandmaXBCZWg3cERlWUZxa1lLRER1T2hxdGhiMU14UkZqVlVCT3pSRksyLVF4ZzVkeEdjRF9lNlI5cmRYWkFYVC1JTy1yMXRIUGpvSDhaYS1GSlJjd1c2NVpnXzB6d1JhM0kyaXliNFJPbkpR?oc=5"
   },
   {
+   "title": "即日經皇崗回程 不擔心塞車",
+   "source": "香港經濟日報HKET",
+   "date": "10-30 16:29",
+   "iso": "2026-10-30T16:29:40+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uclNFbVk4WWVqRFR2QnV4ZldkcU42bTM1MUEzOW1Bc1JDWWRWRTZUVk1FV2wxN2lma0JfUURDRk1Pcm00MmY2NDVGR1ZOWG8?oc=5"
+  },
+  {
    "title": "啟德演唱會散場 不少人坐跨境直通巴經皇崗口岸過境",
    "source": "Yahoo",
    "date": "10-30 15:41",
    "iso": "2026-10-30T15:41:41+00:00",
    "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNYUdtM3ZYRmt5UXEyX3pWMkhNX3hBcUFvNU1MVjBCVVQyYUUzT0psbW9qbEF6OE50dzhjU3VuOER4TDVtTTlqMmdvd0F3UlFwOHpBLTh1NkRPNVBWOTVUcXl4UFlWMzlyNGpxbDVXSzZTWjJ2NlRmQ19ubGJuS05XU09Jb1o4TUNKV3BHWXFLQjlYY3VUNmhxT0JlOW9DN3pVSWl1Z3VPLVIyVGVwZmRmUzdnaDVvTXI1elN5TmVjYzZIdTd6NDNlUGdRQWl6MlBVMEhaY3Jlcm5QT0szejVOellBYUwtQXN5UXd6NkFFRXRFb0ZYT3BxLUI0OTFLNUFJNm5HdWQ4UERZSTltSVFsck9fYXdRN3hXbW5GMHZFTGFqT0RZRVRBOE8zcjlRbFU1eml5Rl94RHJCMGtyd3o3ME4tbUotSUJ0anFTcU1xNVBDRFVaVk52bVdDcmRzUTY1UWQyQ284a3l0ZTRCc09paTYyTU5VYlBlWW5zUDFGY0dlSnRCdUVYMVk4aE5aaGV3Zml1MTF3VDhraHNNd29VUjBZUkM4QQ?oc=5"
+  },
+  {
+   "title": "萬聖節｜當局加密公共交通班次配合過關高峰 美酒佳餚巡禮第二天人流增加",
+   "source": "TVB",
+   "date": "10-30 15:20",
+   "iso": "2026-10-30T15:20:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxONTFfVUhHMUJTT29aRVp5YnFzYTBhQ1Z3ZG1wNk9fbkt2VDB4ZFJhSUNpbkZkdXRCTENqY3RncWNkRHhzSDlVRVJHbUJUd0RBT3JaX1lrT0FkT1BEbkZ1N0pIRTBvaGxHcG81TjVwckFMZjBfbDFkcVlQVTV3T1pkVHF3YjJnWmdKSWdidlJtOVNaWkl0anhMeFlvSlVrZXktSjk2bUpBUlhkcXlhNUE5SHhpNVVsazkwR2IwRFZIUmtWbW1xb2k4a1p4cVJjWXVYM21nWVI4SnptaGd6SVVVR0w2ZFNnUGxxVFhXbnl4aE5IYzB3N0I3ak90TF9wNmNCemZrUXJFNk9DRUpKcHVOb3ZoOXBIUGJONmZNMHItRlJsbm93ZHBTQlo4emljOWlaQkVzWmdSNGN1WmE3UkFINldUeG1PMnNVNGlyVTlROV82RFZ2MUtLQ29kdjdNalNTREFnYmNpQ1dYNVZTNnRKR3VxTDl5dXI5SHV6NGhrbWpSR1NBUE1mb24wRTQtcDZmQXUxSTVEMDRDbE55YmE1eG44M3ZxMm1mOU1UT2lJMEFkSzRwd1ltUGVma1ZFeXpLUU05RG4wQQ?oc=5"
   },
   {
    "title": "記者直擊皇崗口岸演唱會旅客排長龍服務中心延長服務時間- 兩岸",
@@ -95,20 +109,6 @@ window.HGP_DATA = {
    "date": "10-30 14:32",
    "iso": "2026-10-30T14:32:10+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42R0NqbjRvdzhWV0dyaXdiSGc2RW9CS3otbVJSNkMycHVaQUlxMnE1a2t2dW9neGJUaG9iOFJYbmZIcEpPVVdhSE9uN1d3TjJKeDJKM0RvdWhMQzdWNmd6cDlCWXZvRjVRZWpFMGthdkc4a3MxTHRF?oc=5"
-  },
-  {
-   "title": "當局料即晚起至周日晚均為過關高峰 將加密相關公共交通班次",
-   "source": "TVB",
-   "date": "10-30 13:39",
-   "iso": "2026-10-30T13:39:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNNjBLMG9zQ0tBbTFlclBtZ0VsTzRmdkJpZU10dEZMQ3ktLU5MVWFUSUtNc0xmWjNyQklNcW1RR1lXcGZiQml5ekh6aTNoTENST0lUNkIyX2ExU0VTOGhvZ1hRaVJkbS1CMmV3TkhOdERHalUyUndCTkJzSUk3dTRHVlVUZS1sOEdIZWVlcngxRTZxUUNCTWdFLUFfeGJNODFIWGNMOGdxYk9aSEttZnhVcXdBeTdsRE04V3RKSmFWVmFfRXNRMm5iNl9sV1VCUkpvX21raENJekVMVFlyV2UzNFpsQzROU0xXNm1Pd2xMUHJHRGJFRWVRRkdQdGRDeVhlWUtuMkQzTXZJS1FHV3R0ampfeXBXYm05cDZRaWdJQ0R5SVl4THpTdzhQLXh4anJVeHRvVzFBOE82UDVhaHJzWFdvRklvR2UyVDZxZGNvNk84VjZZNEY3NDd5dkVUQ2xScUxCYzlrRHJOZXJ3VHVYMmFIc051TjBJVE1iUFVCbEJyQXFIVkJaczRSSQ?oc=5"
-  },
-  {
-   "title": "萬聖節｜城巴加密皇崗口岸巴士班次 新增通宵特別路線往返深圳灣",
-   "source": "香港經濟日報HKET",
-   "date": "10-30 11:53",
-   "iso": "2026-10-30T11:53:36+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOTGdKdUJnUGdjWjd3d1ZINUwtZEFhRDduMElsWmRNOG9ST1pFR3c3RWhkeVpYeWZDcDNEX1BjVVJxOXRPeC0zaWRIX1M4bzR5WWxlM2V3SncxY20zN3kzcVVlNlRIRExhMEZZRmJmZ2JTd2d0aTRtRW5MNlJPbElJa3NRelZ3eVFhRFZfZmNEajl2eXB1R3lfM3lZVWZwX0tITjUwWEhKam9abzJTT01wYkt2UHp5eG9GcHBuMVlsUkpXOFZ1dFpLQnpSV0tkV2JKc1FuODhBXzhwZjZVZk9zWE9jWi0zYThlcmgzQkVLYWJoQXRVeF9uLUFqd1hPc1B3bnpYUDkyRlNFdXF0Tlp5NWxVaWJVekdJcC1GSV9kbXZNTEtwTDdzUGJob05NaV9obkRDLUstVzE5dTZWZnRyYmxYVExJT0dhWWE3LVZGaG5DMTllVm9DTE1jV0RkdGpOMnVUY2NnM0xjX3N4Wjh5QUZSQUhkaDdLWEk4eUNuaXZrcDBnU0pCT0pGWmRfNWlCeW94OVJuOU53Ym1IZjVzbUZwWXFLVEtxWE14NDJBSjhMVmhPOU9j?oc=5"
   }
  ],
  "ok": true,
@@ -117,6 +117,11 @@ window.HGP_DATA = {
    "tag": "天氣",
    "text": "天文台現時無天氣警告生效。",
    "level": "ok"
+  },
+  {
+   "tag": "早更",
+   "text": "跨境上班上學人流集中，出境大堂及 L2 交匯處會出現短時人龍。",
+   "level": "info"
   },
   {
    "tag": "週六",
@@ -130,7 +135,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "車流",
-   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "text": "近 36 小時有 3 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
    "level": "warn"
   },
   {
