@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-30T09:43:44+08:00",
+ "generated_at": "2026-10-30T10:29:27+08:00",
  "date": "2026-10-30",
  "weekday": "星期五",
- "clock": "09:43",
+ "clock": "10:29",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 27,
-  "humidity": 63,
-  "wind": 4.4,
+  "temp": 28,
+  "humidity": 56,
+  "wind": 5.6,
   "code": 0,
   "desc": "天晴",
   "tmax": 32,
@@ -55,11 +55,18 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "運輸署料皇崗口岸今晚至周日深宵交通繁忙多措並舉保障市民出行順暢- 港聞",
-   "source": "dotdotnews",
-   "date": "10-30 01:32",
-   "iso": "2026-10-30T01:32:50+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXbEs3ZkxhRTUxUE14bFY0NlUyRlJCNDQ1UzJtVG5xTDJmNTQ1eTM2NWloZFQtQmhKYTg1VlV6Wk1fT0ZacWpSMFdYM01jSHROSGNYTmxHRUx1WEctNF9wX0VUZEh3Mi1fREdiUmRudlF3S3BwblgyVTVR?oc=5"
+   "title": "運輸署：料今起一連三晚深宵皇崗口岸繁忙 高峰時巴士將不經新田迴旋處",
+   "source": "橙新聞",
+   "date": "10-30 02:18",
+   "iso": "2026-10-30T02:18:58+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPM3h2MGdnNUJweF9hV0hRSWk1Z2NialVtTWhBR0RhbWthNWNzVWQ4SVBGZUJYc0hHOGE3dnBWMi1yZWtRbC1uSm80YmZEX2NYNnRxWlV5b0s5WXhUMF8xclE5SDFHajNaOW5qN0tjc1FlMkZnemhyTFJSWGNkVXRKdXc3MnhiektXbDNlNDUxYk5JQ0EzVUdqOFN2X2loM2g0WGZ2ZEdYSmRzSGJsQjlNYnkwcV91dkNjU1hJYW9HVndpbTFXdE5RUUVZeFNIQldJRkhJOVM5YmJPbEQ4dnJoSzJyOEYxVm02YWlqTTJGaGthMHNKNC1DVU1zNE5FYlJkbWQtVFJWYVozR1FkLXNIWTBFSnpZSEVscktKbEcwU2QtRFBhcUhLd2xBN19pX1FjeTJURXd4SGZBazgwaTRBOEZXRzhXRWJoRzZPcTNKdE5QSDhSMGUwSlZiamotNW9RUTR3djlNNThYYzN4M0NpQnNkTTJ0bHZOcXB5NzUtcFBwbi0tcDNSWE9kUEVXMFVyMFJWaUl6VFNtS3RIZzM5Ry1BUmg0QXRKNEJzemJFRDhGekNwRTdnbWg2cGpnOHBKZERXQTlQcURjZHRnYTV2TnY3N3k?oc=5"
+  },
+  {
+   "title": "皇崗口岸周末深宵恐繁忙運輸署多措並舉保障市民出行順暢- 香港",
+   "source": "香港文匯報",
+   "date": "10-30 01:59",
+   "iso": "2026-10-30T01:59:27+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDeW1ZdXJwc3pBa2xFVjVWNVo1cVNrM0RFVVNzazlaQkw0REdpR05GOXJBeE96REUtemNaLWhEamplRk42U1ltLTFIb1VhbXVBSnRMZlJMU1VOQnlfTDFqVXVpcFU5aUJVd25PcDduMlA1dC1Ea2hn?oc=5"
   },
   {
    "title": "皇崗口岸交通今晚起連續三晚深宵繁忙 高峰時巴士不經新田迴旋處",
@@ -83,11 +90,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zV2YwWkgzdUdmMnZxQVdVNG9nVzdrb1BaUlRyMTd3S1J5VHRaaG5oZlpjbGc3S1dNcGhZUXJqR1J4OGxRQ3MzOHZhdFJCa2Rkb1JmMVRFM0RaV1hjZDA5bExZSUhVS1dOeE9mMWxBR01sTHFPdHdJ?oc=5"
   },
   {
-   "title": "香港政府新聞網- 深圳灣口岸一連兩晚延長通關時間",
-   "source": "香港政府新聞網",
-   "date": "10-29 14:08",
-   "iso": "2026-10-29T14:08:08+00:00",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kTW93OE9vMDJ4d0NvWGQ2T3YtSXJqdnNjOGhDQXlXSDg3aE1UcEhBanFnVlktVTFZNFdUdVRlNGlhNklVVmc1Q2FNNTZWTzJxbTZ1ZkhuQmhpUEs3aVFSM0R3S1pEbHpHd2kzYW12LWx0empmX1N5dw?oc=5"
+   "title": "料萬聖節周末深宵跨境人數增 議員倡提供皇崗口岸實時數據助錯峰出行",
+   "source": "on.cc東網",
+   "date": "10-29 14:13",
+   "iso": "2026-10-29T14:13:07+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbHl0TkYzUUs2R0szNTduUHBEeUVRbUc3VV9yWVd4bkJ4Uk9uM240d3NPclhFWnVLUXFUTkdsY1N6Y2tSTkw3cV9IV3ZIMlFxR0NwOURxaWpqc0V3WVFNdVBWRGU2MXVJZ3hLdGJvLUhwd1FrRTdUS1VLY21EVGdJMHdoZVFJM3ZpbDdZ?oc=5"
   },
   {
    "title": "深圳灣口岸將一連兩晚延長通關時間應對跨境人流高峰",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "10-29 13:17",
    "iso": "2026-10-29T13:17:31+00:00",
    "link": "https://news.google.com/rss/articles/CBMiqARBVV95cUxNaGM3b19KWFk5RWtQYjU5bmF3bV9mNWVJVVVQN3lvMy10Ym5jTkxjUVk3ZnotX293YzVOZ0lfQ1Z0Q2tYQTdGRUxtTUdDR3YxTXlhcm5FQ09YUGxwWWlqbzV5UFBmdkRodE1XV01WVHV0amhLNW9QZmdMcm90T3hvSFZXc3J4MnlKazNkUXZfalgzNFM3TWp2dEZaR2IzWmMzS0ZkZFVYdWtYcGd1X3ppNGNrT0w1T0w2V1VHQ2d3cS1xQm1ScGtuaklYem5LMEJWSDBJR1BkSXA1R29LaHBBRFBVbWFWalkyenEzbXhYTHE1NGlWVURPU2U1enBmWnAwSm9zWFNKV29ZTTlvVkk2SF9INWdNSjNXRFlCRk5mS1ZrT21DbFpGcVVTQVNaV1oyaU9Ka0RTclEwSC03a19RT0FELV80dUhBMm1jZlZOTzVCWU9kejQwU05XNzVjdURFMld3aFVWRjRna1JySDJQUmc2a0VMRjVhRTZqSWtRWHcwbkFEbDY3alAzNFF4MjZzcEkycE1MeWZvR21jQjljS09Tb041QnBGWXdGaERuYmtmV0x4MmZJVGN6aFVYUmdjcE1sRW41V255VXF4enlmUElMNENaVkMtcjRuNEg3NU1YZGxlMk01VXZGbnlHZkdzVTZxOHJxY2JYQ2JRYzNHZjRlamF3emRVWUdyZVJVd3NGYU5PbzY4VlpKTG44Z0JwakJjOFlBRUw?oc=5"
-  },
-  {
-   "title": "經深港兩地協商，這個口岸將延長通關時間！",
-   "source": "香港商报",
-   "date": "10-29 12:14",
-   "iso": "2026-10-29T12:14:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSU1BZkZsNjdEQ2tidFNmNE1KZFFMTXE0Sjk0Q1dVXzhQYjhObjV3RTVla01PZDViUFhwcVpMUkpJNlBkRHI1S09GUjUxbzk1SURYTVhwVmlkaXA3VU1RYVNHQ1JaTFdhLUtyUVZyNG5uT3JIZmdoeTN0UQ?oc=5"
   }
  ],
  "ok": true,
@@ -130,7 +130,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "車流",
-   "text": "近 36 小時有 3 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "text": "近 36 小時有 4 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
    "level": "warn"
   },
   {
