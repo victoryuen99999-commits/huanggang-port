@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-30T10:29:27+08:00",
+ "generated_at": "2026-10-30T11:19:35+08:00",
  "date": "2026-10-30",
  "weekday": "星期五",
- "clock": "10:29",
+ "clock": "11:19",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -42,9 +42,9 @@
   }
  },
  "weather": {
-  "temp": 28,
-  "humidity": 56,
-  "wind": 5.6,
+  "temp": 30,
+  "humidity": 49,
+  "wind": 6.8,
   "code": 0,
   "desc": "天晴",
   "tmax": 32,
@@ -53,6 +53,20 @@
  },
  "warnings": [],
  "news": [
+  {
+   "title": "萬聖節︱深圳灣口岸周五六晚延長通關至翌晨2時 分流跨境人流車流",
+   "source": "AM730",
+   "date": "10-30 02:34",
+   "iso": "2026-10-30T02:34:55+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNRUdHM291TVZUajdmRVQ4SDYzOE1vMjhTaFlMMHN2NmY0WVg0SXR0VWkxRHYxQVJWTDJIeExKTXZYX3B5cnpjdlRhSUF2LXpGaDFoR3VFSVRRNzQ1bDNGcGItaUxVZmNBTWlLZjVDREdSWWxtZzJrOE5zSWNtR1pqV0E1V2VudTVOVlNlY2lJSzgzMGpBRlEzRVpKUXNyWk9COVNzeTN4M0d3SkFkei1qX1p6aEtRTGZIV1U0SFloZEdiTXRheWdPZkl6eTJiZGxSNmsteF8tLUFOaHZiY1Z3elAzZ1F3WWFackpwUFU2UERkT2lrS0tYUXdjMmlnemRjSTM5eS1GZVREaC11OEFBTzJ1c2swU3hlV2N5eExVLUIyTE5tNmtYUHo3Wkc2TXRTX0ROQVJ3VUZHbmxaUGVfb0NLcUtLOVpyZ1FkLTI4WXJRRFhyUDg3ZXVEMk9JczhCTjFhYll2d2FKellhZDU4SHZOWjdNcjVIbWVvUzF3OWNLcE1yNVBUOFZIbEJpMXRhQkh5T3RVTlVsMHQwLVpaY1pGTkxXTWlfdlM1bU94MXB4d0NWbnc?oc=5"
+  },
+  {
+   "title": "運輸署預料一連三晚深宵皇崗口岸交通非常繁忙 督導公共運輸營辦商加密班次",
+   "source": "堅料網",
+   "date": "10-30 02:31",
+   "iso": "2026-10-30T02:31:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxPbU5IdVdCRlEyY3RCYTEwNXR6b1BNbXVxQm9CNmhGbXd4cU52MnNLdXNOY2pMU3MxWlVKQThzZUpFYUVZWHJXZEU3SVZTbHJaLWE4bm1fTGRUNURxbDJVdHNWa2Y5OXpoQXlIRlVvYmlrakpIN2tzd0VRVl93YXRKbmxFRjZtb2MxMDE4QnpfZklSNjZZNngyWVFiei00MHJtbkpGdmk4Yk9OX3ZRX1htbWRieXJBaDlkQ1BwVDdZbkszbDBaZ3NDSUNvOFNTNG10UUFzclUxYlhmYk5NT3hsQ2FLeG1iVVNTTW5JRVZuQVJ1ZzdqeFZoUmNfaVdhcm93VzNWZm1PQ0ZFUGx3dzA4ZldEbjY5RVhzbFU2X0tGWXJDTzltWjZ3TW41ZDBoekh5N2JUV095cE5nRmg3Y0VKM2swTFNIZjhHTW1ycFAxT0ZhYTRDMEN3RXhxRHp1OUlKTVRsVjlRc2xGc0FRdzh0aU5fZEpra3BSdXNMVkRzaDlsQ2ctUFpOWmNsRHVMaEF4dnJ5YklHNngzMmNnQVhLckxSVnROWkJPX3JueFJybE0xQnBZUnBIcGJfQnloRVhvN1VVbkpaNElWck8wTFlGY2NBLVNFNm9GMXpOR1pzTHNfLWJrUmQ1eVk4ZWhEQVBWU0NtNDhiV3BMQlBsNzJvcTMwa21HbTFxZks2S3NhaFdxSzBmWHRvZVNtMlZoNHZJRDRnUnpPeW15MGQtcGhNaHREUUZpNjVvajdaT3NOZGg3YUhFbXhZQkllUGk5SXBLSzNiS2NLN3NNaFBw?oc=5"
+  },
   {
    "title": "運輸署：料今起一連三晚深宵皇崗口岸繁忙 高峰時巴士將不經新田迴旋處",
    "source": "橙新聞",
@@ -68,11 +82,11 @@
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDeW1ZdXJwc3pBa2xFVjVWNVo1cVNrM0RFVVNzazlaQkw0REdpR05GOXJBeE96REUtemNaLWhEamplRk42U1ltLTFIb1VhbXVBSnRMZlJMU1VOQnlfTDFqVXVpcFU5aUJVd25PcDduMlA1dC1Ea2hn?oc=5"
   },
   {
-   "title": "皇崗口岸交通今晚起連續三晚深宵繁忙 高峰時巴士不經新田迴旋處",
+   "title": "新皇崗口岸・片｜停車場車道狹窄車輛易刮花 網民批：香港設計？",
    "source": "香港01",
-   "date": "10-30 01:18",
-   "iso": "2026-10-30T01:18:50+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPRHliYXlDSGR4WFRCUFl2SThUd3JESWM0X2FvTXRxSXFiMkdKSzh0czdNZUVrQWdidURxa1pialE4ZGN5bXJoQ09UaXd5OWlfQkdvQ2JMRTd2UkptY1RGWUUxN1QxX1dPOU5YT0VTZTdhREZBOGZBd0RrZG1CYnYxTi1qc1h2ZEFpOU1uTGpLX0FDTGJrUXRYeWFPejA4TVcwNGR3QVB0ZWg5c3BtLTlfa0RGdlJiZnRrSW9teElVbUV0NGt6OFNjUWdNXzRZQnJTbWZ1Z3pzODVJM3NfQ0lTZlRHYmE0LTY1aFpRZUhfNUhCeUhqanRKdkl5YkFxWjNoVlVnSU1QYmdEN3QteUVPZUVVUzNBQVFOaDVkX2d1ZWxRQ011azh4VmxDYXhRMkVyNkYxN0tBSzVQVGJUY0doQXJHSlFjdVNtQ3lkem1LRFdQNUVpdnE4OHRXdHY4b3hqWWtSSzgzYndLbElWbFl3TW9LXzRSVV9UNkN4bGpob1ZIQkYxVkZWTkZLdEZKd1g2WDd3WjhpeFdLUVVpZVJCYk00QnpwRnhpaGN0QXk4MnpuUGxmdDNqOGcwY25IUWJRN1ZJS2JlYVFWVjliNjA4MXZIWQ?oc=5"
+   "date": "10-30 01:00",
+   "iso": "2026-10-30T01:00:49+00:00",
+   "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQdk5UZ1hUX1VkME00WElOaVhjblpGUEcwVHhEVDdyMncyME9SYUw4UzdpNk93dzN4VjJPX2Qtb1p6VFdleFRiamRMR3ZvVEZjNHBqYlFNazMtN0RPWFJRY2t3ODIwTEsyQk4wUDhWZnJybmxtU2tMNVdwVHJHLWJjVkRWQVRVTnJhUHZiM0JXRHdqWm9Qc0g1VG5vMl9kZmY4bkJSRHFRVThKbkY1WDNhYnNVVGxoekZPWlZhWkR5aGhra3hNeXJCMWJYcEZNZUU2WjQ0YmdwN3libzY5S0ZMRmlZRFRSYXpSTHF3UGswNEN3XzdqeS0yWnRHQVRoQlBabzVXUVd3SXVQZ3VmVFFKemRmLVlnRUVYUUlvYW9PZzl2TG9CQ0hBanlZekh1WWtkN2hTQXpEUk1UUU1jT0pUSk53MW80TkxZUFZxQ256QlVWekNETzZoX0EzOXM1T1MxRlhOZ3RpcjIwbUJhckJraWtQaEhtc3hXbm54ZnN3UmcwbHR0MnVFNW1NeWREVV9qcHBpVS1DaklLWWlaRmxKWWxsVHBTaEU?oc=5"
   },
   {
    "title": "新皇崗口岸出發 | 實測¥100玩盡深圳24小時2026年版｜星島申訴王",
@@ -94,20 +108,6 @@
    "date": "10-29 14:13",
    "iso": "2026-10-29T14:13:07+00:00",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbHl0TkYzUUs2R0szNTduUHBEeUVRbUc3VV9yWVd4bkJ4Uk9uM240d3NPclhFWnVLUXFUTkdsY1N6Y2tSTkw3cV9IV3ZIMlFxR0NwOURxaWpqc0V3WVFNdVBWRGU2MXVJZ3hLdGJvLUhwd1FrRTdUS1VLY21EVGdJMHdoZVFJM3ZpbDdZ?oc=5"
-  },
-  {
-   "title": "深圳灣口岸將一連兩晚延長通關時間應對跨境人流高峰",
-   "source": "www.hkcna.hk",
-   "date": "10-29 13:20",
-   "iso": "2026-10-29T13:20:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzM2N6YjlxclRoY2ZWVzdHR3Nyc3JVdGtQU1Vnb0tNS0pBZnBFUkpoM091LUJNRnZKald4YW5ELUI5bWFNcHF2WnYwNUllcjNKbExJY2U5a3UzeU1UWTBCZzlPX1Vwel9idnZCV21fYw?oc=5"
-  },
-  {
-   "title": "深圳灣口岸周五及周六晚延長通關至凌晨兩時 有議員認為有助分流新皇崗口岸人流及車流",
-   "source": "Yahoo",
-   "date": "10-29 13:17",
-   "iso": "2026-10-29T13:17:31+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqARBVV95cUxNaGM3b19KWFk5RWtQYjU5bmF3bV9mNWVJVVVQN3lvMy10Ym5jTkxjUVk3ZnotX293YzVOZ0lfQ1Z0Q2tYQTdGRUxtTUdDR3YxTXlhcm5FQ09YUGxwWWlqbzV5UFBmdkRodE1XV01WVHV0amhLNW9QZmdMcm90T3hvSFZXc3J4MnlKazNkUXZfalgzNFM3TWp2dEZaR2IzWmMzS0ZkZFVYdWtYcGd1X3ppNGNrT0w1T0w2V1VHQ2d3cS1xQm1ScGtuaklYem5LMEJWSDBJR1BkSXA1R29LaHBBRFBVbWFWalkyenEzbXhYTHE1NGlWVURPU2U1enBmWnAwSm9zWFNKV29ZTTlvVkk2SF9INWdNSjNXRFlCRk5mS1ZrT21DbFpGcVVTQVNaV1oyaU9Ka0RTclEwSC03a19RT0FELV80dUhBMm1jZlZOTzVCWU9kejQwU05XNzVjdURFMld3aFVWRjRna1JySDJQUmc2a0VMRjVhRTZqSWtRWHcwbkFEbDY3alAzNFF4MjZzcEkycE1MeWZvR21jQjljS09Tb041QnBGWXdGaERuYmtmV0x4MmZJVGN6aFVYUmdjcE1sRW41V255VXF4enlmUElMNENaVkMtcjRuNEg3NU1YZGxlMk01VXZGbnlHZkdzVTZxOHJxY2JYQ2JRYzNHZjRlamF3emRVWUdyZVJVd3NGYU5PbzY4VlpKTG44Z0JwakJjOFlBRUw?oc=5"
   }
  ],
  "ok": true,
@@ -129,7 +129,7 @@
   },
   {
    "tag": "車流",
-   "text": "近 36 小時有 4 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
    "level": "warn"
   },
   {
