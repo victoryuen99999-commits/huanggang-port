@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-30T07:49:41+08:00",
+ "generated_at": "2026-10-30T08:43:09+08:00",
  "date": "2026-10-30",
  "weekday": "星期五",
- "clock": "07:49",
+ "clock": "08:43",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,14 +43,14 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 24,
-  "humidity": 82,
-  "wind": 3.8,
+  "temp": 26,
+  "humidity": 73,
+  "wind": 3.2,
   "code": 0,
   "desc": "天晴",
   "tmax": 32,
   "tmin": 22,
-  "pop": 39
+  "pop": 20
  },
  "warnings": [],
  "news": [
@@ -80,7 +80,7 @@ window.HGP_DATA = {
    "source": "香港政府新聞網",
    "date": "10-29 14:08",
    "iso": "2026-10-29T14:08:08+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYnJMMzV0WTItcWM5azJOZldiY0hsVGhHVDRXYTUtMDkzWUJ2RW9xZE1vNUJWc0VZT19qck9Ma2I3THRrNXFxV2lfQXFHTHhNalhTbXZ4Mm53WGJ1S2FJakpwTDR1VW5ZMWE0dV8wNnk0cjlhLXRxR1FTLUE2WXBUQkJxcGJZZ1Vn?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kTW93OE9vMDJ4d0NvWGQ2T3YtSXJqdnNjOGhDQXlXSDg3aE1UcEhBanFnVlktVTFZNFdUdVRlNGlhNklVVmc1Q2FNNTZWTzJxbTZ1ZkhuQmhpUEs3aVFSM0R3S1pEbHpHd2kzYW12LWx0empmX1N5dw?oc=5"
   },
   {
    "title": "深圳灣口岸將一連兩晚延長通關時間應對跨境人流高峰",
@@ -104,11 +104,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSU1BZkZsNjdEQ2tidFNmNE1KZFFMTXE0Sjk0Q1dVXzhQYjhObjV3RTVla01PZDViUFhwcVpMUkpJNlBkRHI1S09GUjUxbzk1SURYTVhwVmlkaXA3VU1RYVNHQ1JaTFdhLUtyUVZyNG5uT3JIZmdoeTN0UQ?oc=5"
   },
   {
-   "title": "萬聖節｜周五及周六深圳灣口岸延長通關時間 持深圳灣許可證私家車只能經深圳灣過關",
-   "source": "香港經濟日報HKET",
-   "date": "10-29 11:56",
-   "iso": "2026-10-29T11:56:20+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiowRBVV95cUxPdTlJMy1mOENyVXlvTjU4bkEzTlNmQ09zMmNxQWdnQ2RBV3VOdVpxV3kyYVpUNENSN0tDdXA5VnRnSVNYWEVicEtCTUFTMkEyenpjZGNpMVkycFpNN29YNU9YTkNFV2ViWjFta1gwOUI4QVowMGNHQXF0X1VQX2dwVUtCUEh5MHZsNHpFWHhQNlE4WHBxWnprTS1mS2xZUThTdkkxLWt1MHk0SGc3TUNvcWw3MjRDRlZPZ2ZFbGpiQmJpVmdEU1EzMU5nNUhWSnBLbUh0Rzh2NW44aUxxV21DdkJnTFJ0NjRENzlDM09QQTg0SG8xWEVpZ3djb2tfTXFfSHk4RjR3dF9hWHUySDJxeWRWVWxWWEtERVZDSHpLc2JYNmpicGJXTy1yT1VZZV9NYjNWRlpsUlRmMnF6N2lLVVJtVE1TcEpZTFZfN1RyeTctZzZTRkt5UUZuVXQya1RSSFNDeWE4N1I1WTFES0h1TmJMVl9ucmtfSnRVX0tEeUU5bjZiek5YNTlTcTFvMkgzRTlkQ1pxX2ZRYW50Zm83Nks0NGVmcndvMnlHS2JKREdvN2NNbERXZGtjdENzUm9ValNlZkRxRlBRVWw2RnBwS05pQUZaNFBQRjJFWm9iZDUzRFBXRnRNS1otU3JHNUJuQmtrSTdRdFFyT2N5YV9MaEhQcFNZNGJfOVBEVU9Vc2NCckpJM1JpS0I3SkhRRHdyb3A0?oc=5"
+   "title": "萬聖節活動過關人潮｜深圳灣口岸周五及周六延長至翌日凌晨二時關閉",
+   "source": "TVB",
+   "date": "10-29 11:45",
+   "iso": "2026-10-29T11:45:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOM1lnbXFHUFJRejhhQjQ5NS11SkZndDBMcWxmclNrelhvaENLbUpkZG1zcDBDVmxsQjdhTUo3S0lkVGNPVVdsYlV2VGpoWnhEYmdvSE5VaEpRV1NOSDRQWG5TTjh4RU1tV0NtNTZJQ3R0cnFjSHdVWGRhT1ZqSkhRTGhYQUNwYk54d01LVDFGSFIxQ2hEbko3S3FHNDN1ampVdDM3TUNYUEFyR1gxa0F3RV9na1FoRjA1TVE1Sm9MR1pMZWZHTlhRN3BjbWMyV042TnEtWm45OXJiQm5LdDM5cmNlb25IdXZqX0lwdFFaSm1CZXdGdkhQelRXUThiWkZXejV4NjhjZ3RwR0dWbE1nR1JQLUVTY0F2YzhvNkdaZWZKWUxrYm8waE5CU09wUXplZW5TVGJPcDVoQzdNX01adDJaWXhoLVBMb1lYcV9LaUhNbndHdmtDV2pNNHhUbGxSTzRGM0M3SFhfN1JDUVljcVFldHcyMl9XRUZhZURHWkYxc3owR081SDN4SHRRZE5zd3BvekJQOFFfdWhWREk4ZnlUeXI1Y3FxckVTYjFKQQ?oc=5"
   }
  ],
  "ok": true,
