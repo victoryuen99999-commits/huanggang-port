@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-30T17:20:26+08:00",
+ "generated_at": "2026-10-30T18:19:41+08:00",
  "date": "2026-10-30",
  "weekday": "星期五",
- "clock": "17:20",
+ "clock": "18:19",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,11 +43,11 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 28,
-  "humidity": 68,
+  "temp": 26,
+  "humidity": 72,
   "wind": 8.3,
-  "code": 1,
-  "desc": "大致晴朗",
+  "code": 0,
+  "desc": "天晴",
   "tmax": 32,
   "tmin": 22,
   "pop": 16
@@ -55,18 +55,25 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "城巴今明兩日加開班次往皇崗⼝岸及深圳灣口岸 (17:50) - 20261030 - 港聞",
+   "source": "明報新聞網",
+   "date": "10-30 09:50",
+   "iso": "2026-10-30T09:50:58+00:00",
+   "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOYXVhaFB1V1Y1UDhSQzg2SEsxMlVza2t4RDkwamNHNWZIbjJXMElqZ0hxUGxhQzZHTEdRM05zdDE2LXRDRkc3eGZJYnk1eDRrZXFRZGNYNThpc2IzRkF6NlpRWF9HTlBNRDJiSExUV0pldmUxd2U2VkdET1k2WkVrVVB0bGRWX0duNFhtdG9UUVZ3bHFKZVNkUkN6M2MtSlprdWRJMGZZdFJXcDVmQU4ySDd2VW96Mzd4eFVrcUs5T052NTBhNDZYejl0bm9XRmFobUxTTk90LW5ES0xWUHNtaXB2RVU0cDZlQzdETk05RjlPbXUyNWRCMHNOcFpIcUc5T1hQRFNCcVZsdjFqUXl4alByTFNzTzd6bzdxX0RWdmdCcWw1S216YzZqUDM4U2JrdVNWLWtwY2pzdldNY0taQjF1U1ZjX01HT3AyMnktb0Y3OS1JdFhpX2ktYndhTk5qSF9NYWlUWmkzTVJsdzN0bTZYZzdxWklqRkFkYklYVUQ?oc=5"
+  },
+  {
+   "title": "訪皇崗口岸探通關配套 團結香港基金37名「灣區小記者」童聲說APEC",
+   "source": "大公文匯網",
+   "date": "10-30 09:41",
+   "iso": "2026-10-30T09:41:31+00:00",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rZVZYUmE5RmJvRGpwcmJNc2tEdkpkbFE3OHhxWWpUYmwxbWh0UmhycWo4Vk5vOGRhbzV1VUdjN0Jya0xMeFdJU3NPODVlRjhFeEtxSXVYV1l3NDZ6ZXE5cFlEeTN5cUdnTWJPendOSXQ?oc=5"
+  },
+  {
    "title": "希望更多跨境客留港過夜",
    "source": "Facebook",
    "date": "10-30 09:06",
    "iso": "2026-10-30T09:06:19+00:00",
    "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNVkV0QVhjc1pySkFzd3h0OXZpMWpEMTgyQzM3UkVNWG5PbkdRRnhOcHVGcXpEZXdqUVZSbXhia1BsRDdIVzhYMnNIMjB0Rzh1NmFteGxkUndNQ1NzelFuVEdhaEI2OGVReDV3WGNzcG5sM3YtaW5BbnFjS2ZIMHJsd3pfM3c3MGhWbng1LXhGYkltblpUWlBpMjBTVXVlaklHYlB3VjMzSTFHQlVJTXgxN0wtLTk0MHRnYXJWV1JiVEJBMFA0Q2E5V3RtRzM1SUJJeXp4cDZOLXJuOXl3TVR0Q1BpeDhtOV9ZdDBIRFJhTnVPQzI0WklYQV9xaGg4OVNDOFBTVnBiUUMyWVNmSXY1SHZEVDByUnkxSWFNTkRUVW5qSWk5bUNfQ01ING0yNEVfNnQtUnNqdkRIY1F3QnlnN1hKUWdHWUlkVDJ6NUJlUjU5THRuZVZYQWlJVDJnQVJZV3VvWnNXdFRzME9FeGZ2Tmd2NEJ3ZVpOVG8tYUN4NDNGWmpCbTZmR0hRejNtNXB3ODg5dkltaEF1N2d2VjVINA?oc=5"
-  },
-  {
-   "title": "訪皇崗口岸探通關配套 團結香港基金37名「灣區小記者」童聲說APEC",
-   "source": "dotdotnews",
-   "date": "10-30 09:01",
-   "iso": "2026-10-30T09:01:26+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RZEJTOVlLTld4VTFnRmdzck5hZTRWN0lqbDkyXzBNMDBmc2NuUE5nakhORHNRRmJQUWRJZ0VxdzFKaENnNW53MmhueWd1S1pfZWVDZDRITlVxeFRFME5qc3hhMkxhRWQ5T19fZUpsYzdIeXBUVXNkamxB?oc=5"
   },
   {
    "title": "運輸署料周末深宵皇崗口岸北上人車繁忙 已強化交通配套疏導",
@@ -92,9 +99,9 @@ window.HGP_DATA = {
   {
    "title": "運輸署：料皇崗口岸今晚至周日深宵交通繁忙",
    "source": "香港商报",
-   "date": "10-30 03:37",
-   "iso": "2026-10-30T03:37:30+00:00",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXRUhwUDZGY3lYSlczWWRHc2FmWGRnMEZHeDdBamZSN1Z2SHBCQnY1eG5qeWI3SUFUZjJmamhCQU1QU0VvX1BzZXp6bm9UQl9zQ2RrdHJQdUd6XzV2RldTVzNXcW1TMUdaR0s1N3dNb09zQjU0dHc?oc=5"
+   "date": "10-30 03:34",
+   "iso": "2026-10-30T03:34:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CNENqRFEwNzctREc5VWtfTWQwNmQ4QTdqeW16UXMweTVtUzlUcXg1cmZBREJtcnJNMmVzVDcwaXh2VmMwQzJqaWxieHhxZXgzaEtrZ1hCdnZid1cxM0J4OVZ1b3FQUGVjeDEwcmo4LS1VNWlZeVE?oc=5"
   },
   {
    "title": "萬聖節周末深夜過關注意！深圳灣口岸一連兩晚延長通關至凌晨2時",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "10-30 02:33",
    "iso": "2026-10-30T02:33:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zeV91Yy1DQ2s5U0FfSVRlVkozLVFjaXEwOUlSZW1DV0Q1a0RQeGhXdzM1cnJCUjNxRlhlTENLUXdXSTNLbWlFQzN0SGJjWW9CTW5zWm9tY0x2V3h4bUZRclJCampMU3BYWXpBUy1Kdw?oc=5"
-  },
-  {
-   "title": "運輸署預料一連三晚深宵皇崗口岸交通非常繁忙 督導公共運輸營辦商加密班次",
-   "source": "堅料網",
-   "date": "10-30 02:31",
-   "iso": "2026-10-30T02:31:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxPbU5IdVdCRlEyY3RCYTEwNXR6b1BNbXVxQm9CNmhGbXd4cU52MnNLdXNOY2pMU3MxWlVKQThzZUpFYUVZWHJXZEU3SVZTbHJaLWE4bm1fTGRUNURxbDJVdHNWa2Y5OXpoQXlIRlVvYmlrakpIN2tzd0VRVl93YXRKbmxFRjZtb2MxMDE4QnpfZklSNjZZNngyWVFiei00MHJtbkpGdmk4Yk9OX3ZRX1htbWRieXJBaDlkQ1BwVDdZbkszbDBaZ3NDSUNvOFNTNG10UUFzclUxYlhmYk5NT3hsQ2FLeG1iVVNTTW5JRVZuQVJ1ZzdqeFZoUmNfaVdhcm93VzNWZm1PQ0ZFUGx3dzA4ZldEbjY5RVhzbFU2X0tGWXJDTzltWjZ3TW41ZDBoekh5N2JUV095cE5nRmg3Y0VKM2swTFNIZjhHTW1ycFAxT0ZhYTRDMEN3RXhxRHp1OUlKTVRsVjlRc2xGc0FRdzh0aU5fZEpra3BSdXNMVkRzaDlsQ2ctUFpOWmNsRHVMaEF4dnJ5YklHNngzMmNnQVhLckxSVnROWkJPX3JueFJybE0xQnBZUnBIcGJfQnloRVhvN1VVbkpaNElWck8wTFlGY2NBLVNFNm9GMXpOR1pzTHNfLWJrUmQ1eVk4ZWhEQVBWU0NtNDhiV3BMQlBsNzJvcTMwa21HbTFxZks2S3NhaFdxSzBmWHRvZVNtMlZoNHZJRDRnUnpPeW15MGQtcGhNaHREUUZpNjVvajdaT3NOZGg3YUhFbXhZQkllUGk5SXBLSzNiS2NLN3NNaFBw?oc=5"
   }
  ],
  "ok": true,
