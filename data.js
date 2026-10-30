@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-30T19:10:10+08:00",
+ "generated_at": "2026-10-30T19:54:07+08:00",
  "date": "2026-10-30",
  "weekday": "星期五",
- "clock": "19:10",
+ "clock": "19:54",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,14 +43,14 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 26,
-  "humidity": 75,
-  "wind": 7.5,
+  "temp": 25,
+  "humidity": 78,
+  "wind": 7.0,
   "code": 0,
   "desc": "天晴",
   "tmax": 32,
   "tmin": 22,
-  "pop": 27
+  "pop": 16
  },
  "warnings": [],
  "news": [
@@ -76,18 +76,18 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxOUXdqeHYyRzFkUVZfbF9JSkdra0F2XzlfSEhpRUhSZlN6RGk0a0l5UHBvSGpaakwxUkpjS2Y3X3d0OTcwYjJOTy1CazJMU0xDTzYyREtSaW44WlZ1VjdUaE04czVRcFV1bXQ2QWdraExfNUVmZEQzVHB3NlN5TTNaZWNYU0Zvb2RiaG1TZzNDel83a0Z4M0ZYaEZuQ0RKSU9xQ1BRVzN6cmNnUlZyNzIyU2Jiam9md1p1M2Z2QWQySV90ekxsY2hmZng0UEVOYk92UEJtdkVzd0JldVNyRFhIaVRvcXRjVExENzJzYnUyZ05BbWFrMDdzYmNCdHc0MHlObWFjRVM4ellrNDBTSExIVTZxbldmQ1I0SERJYnlGRGpFOUxyOWpLWkpuNkVXR3VPTGJZZEIxRjFLRjUwX1B4OGVFY3l1bG42UndxY2xMNmhDUVlPMmZzRlR6LXFieGZmQWlwTEFvbTdQZnJLcXRfamlPN1Y0SXpNTjNwVHFQVjAzTWY5WWs5eFJBRVpuVzhYQnRlSld0ZUNyeGV0WGhlemdfbmpiNmdNUVpuc1VtaXJzN3ZVNHhkYWNsZ0o4UWVXbE92ag?oc=5"
   },
   {
+   "title": "皇崗口岸丨周末深宵料北行人車流繁忙 運輸署已做好交通配套",
+   "source": "信報網站",
+   "date": "10-30 07:03",
+   "iso": "2026-10-30T07:03:58+00:00",
+   "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPOXJXTW5zVjRqRnA3OElyS183Ukh6VzVzVVJrNno2TVFmRHN5RGxqZ1VYTjVqSi1TUURrSmVpZ2tXb1N4alNYT19zTkU0aG55RnZNWFJNdjM1X2JWSDc1bmJLWlVwc0wtbXpIalVkTzR4OXg1d2pJSkxsLWZfTWlJM05vYzFyMjBvNjhENzBnR0JxaVY0VHc1RzFTQklxcEVNVFdPS2RsdnZHU2hKai1SLTFzN0pIQ1kyWDBwMXR6Y1FzUVFpcndHWTZnemkyQ000cmZ4djdaOVN6YXprMHNPMEw2MnpHS2g3WDhfNlRJSU15ZTdycnJVcnBqM2lWVVRmZndPYUdNaVBCOVRTYUEtWVlSeXRhM19ZZkJTSWtMM0JzV3NVVTU5ODhGQ2dQWnU1Y2lzYy1yVFduWEtNalRaYUZzX3l0M0ViNEw5YmZhTGowLVhzWjYwZlpudFF3WW5xTXFXN3F6RzJyUGNET3FOakxaT3hfRjR0ZWI2U2Q5SG5mNVd1N19nUnBhLVg3aWRTM24ycUZRQkE2aWNNcDBycFA4MVNmYjhPYXg1R2lR?oc=5"
+  },
+  {
    "title": "運輸署料周末深宵皇崗口岸北上人車繁忙 已強化交通配套疏導",
    "source": "巴士的報",
    "date": "10-30 06:38",
    "iso": "2026-10-30T06:38:23+00:00",
    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNODdMcXZ2MHE4eHZfeUMyQ0h3cVpaREdDRk42Nkk1UG1COXpIamh2NFJmX0VaZW9HWE1JT3lwRnY4NnZsdkpGSjhzS2tMLVlkdXc5Nk90c3Z4MXprOXg2aEdLSzlDaXp4ZkNPaWZMR21ZenN4c0o0Q254emtIeU5EZDY2MDVOemVBbDE0eVQ3cUtMVXhQa0wtYkNnTG9hQ3BrUkhQRmFrZEtGcnptcC1TTTlDMnRCX2syMlRUSnNJMWRJU2pvaUlJazhOZDZlOGEzLU5vYkVjMDNuTm5yX2RPV09iVUlmeHFuWUJ6bFYta3RkQ0k1cE1Pczk3cjFuUVBDLXdvYS0tcmRlZmNFUEZqc1AwWkNPdGNPcy1hZkhyWVdnZ3J3UlU4LWVQajRLLXhReWp2V0FoTzJmbmxwVEdjUGpIRllTbEtocC1SZmVpVDBVc3dKZ202WjVQT25WbzUxRWZyLXhoeFZoanVGcWhn?oc=5"
-  },
-  {
-   "title": "新皇崗口岸｜運輸署料今晚起連續三晚深宵時段口岸及附近交通繁忙高峰時巴士不經新田迴旋處",
-   "source": "香港經濟日報HKET",
-   "date": "10-30 05:36",
-   "iso": "2026-10-30T05:36:23+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxQYjRpTHpGbFYxeTY4QS1mZTd5YmNjZUp6VkNVcmxURDhwcE5nNWZ3dzdNaUpuVlVWcmZBQlotQjZLZVd3ajZ5YlpJbHZRLUNHbnJtRTMyR2YtZHdlN01DZGNBZFhZTHlhMExtTXdkWDZMdzBlU0RkZms2ajBPSFZCTTlPbzF1eGx6NnNUcUZ3d01iemdpTk9QbDYyYzFKd1JPTUJCMGE5MGJnUWlBZHB6b09Zai1yZ0FSaXFzMGlkVTM4MWJjLUFRVEhfRl92aC0ya3dlT1lhZ0RVSWJaWUdVUG5HMEdFRnI4Mk1YYzE2dkhBWVhQcHJTdndvNzIyTFhveGgwSVJQU1dBZlJCRkx3LTAyUlhJRm1MYmRtai1UaVgwUnh0SGZoSGNfVXNrZTY0cjJpX25ITkFPUWQ4Tk5YTXRpQ3BiTnNWcy0zbFl1ZHBTb2M5ZG8yWVVTYUZON2g5cnJQXzQyQjlrRUZCcmdUV3FkNEFpRFRwXzhFNFp3al9TVEt0LTBta1NpSkJqaXQzX003Z3QyZzk2NkZGbDlQM0FPZDFCeWpTUGhNNExhZzdOSURaSkNrQXRTMkJ6eGtOb1ZqVmZXcHlHYUZhZTVIRWlqWjk3MnVsYWpPY1hxMFN1UFhpMk5LUXhKOVZzUXZXeDhPNi1WalBHWUhrNlRfWUtKQlBtMlBsTnJHN0szclpiekxud2NfOENWY3RxSXBIVDg5SGRBVVVxaml4RlZFQXpRUDd6SExvY1hZenF0cEpjanM1UEdDSlIxczhyY2ZQR3pkUWg0Wmhfc01mSmFWTQ?oc=5"
   },
   {
    "title": "附交通懶人包｜皇崗口岸萬聖節深夜勢塞爆？政府稱公交優先 巴士加班｜一文看清",
@@ -132,11 +132,6 @@ window.HGP_DATA = {
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
-  },
-  {
-   "tag": "車流",
-   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
-   "level": "warn"
   },
   {
    "tag": "禁區",
