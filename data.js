@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-30T22:50:23+08:00",
+ "generated_at": "2026-10-30T23:44:10+08:00",
  "date": "2026-10-30",
  "weekday": "星期五",
- "clock": "22:50",
+ "clock": "23:44",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,17 +43,31 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 24,
-  "humidity": 87,
-  "wind": 6.6,
+  "temp": 23,
+  "humidity": 88,
+  "wind": 6.7,
   "code": 0,
   "desc": "天晴",
   "tmax": 32,
   "tmin": 22,
-  "pop": 27
+  "pop": 8
  },
  "warnings": [],
  "news": [
+  {
+   "title": "萬聖節｜當局加密公共交通班次配合過關高峰 美酒佳餚巡禮第二天人流增加",
+   "source": "TVB",
+   "date": "10-30 15:20",
+   "iso": "2026-10-30T15:20:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOUmgxVE55Ri1WNDZzbWkzb3drd3BBYmxlSU5kUldBWUhVTC1PRWkxODFEWFJSYi1iX1JZTlNXeVdORVVVaHE2M01FaWtHYTlOX2h1TWxCMVRycGJtRmtzMkNhTktibDlTa29MNzV1NVpoRVZQNG9YVmlETEJWOFJUQ1FRM0U5VzF4X2MtcXY3bHBuZzZORE1NX2Q0OXFwTlpKTDJVajNkY2hpN2ZYQ0JjNU85eWluNEJDTlRnWGZXM2M4OEp2SjNibVRLeEg3dlhzTnJlNHFZZVN1NG03RXNxQl9jbTVlSEdYbXhhTlVXOHZ3bXZ2dGZXVjktUjlveTB3NGpwZzRaNTRIU1Z4c2FmUWpkOFdJcGxaajVhTXVBRWIyTUVsdzZOT2ZCaW9meVFzQW5VZmh4VjI4WEZHVzEzM2Q2RXVFOUM1VnVONUxBMW1ZZ0dFR2xhek5EdnRGRk9tdnlRMWpxQ2twcHFwWTBXWVd3QzhjOHFfbTBEV2VFa29UQUFvZ0dLajZNVzZ6STVHbjloVGVkN0FnNDM2ZkR0Z0J5TWlTVHY5VlVmZHJpUlJzRUpacV9yZG10dnNsMURWQmR0c1A3cw?oc=5"
+  },
+  {
+   "title": "記者直擊皇崗口岸演唱會旅客排長龍服務中心延長服務時間- 兩岸",
+   "source": "dotdotnews",
+   "date": "10-30 15:06",
+   "iso": "2026-10-30T15:06:09+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JYTVieWdpekxwN2J0SXNqSmtST3N2ZndldHVwME1jV3lLMG9JRWJ2NU0zdDFTOGZQLUNGcnBjREJTSkE3UDUweDJjS2lwcUFkakZyRmFsVVNJRWpDbU5XdnZ6bHhKNHVhQUVWcmw1LTl1WFBUN3B4UkN3?oc=5"
+  },
   {
    "title": "當局料即晚起至周日晚均為過關高峰 將加密相關公共交通班次",
    "source": "TVB",
@@ -95,20 +109,6 @@ window.HGP_DATA = {
    "date": "10-30 09:41",
    "iso": "2026-10-30T09:41:31+00:00",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rZVZYUmE5RmJvRGpwcmJNc2tEdkpkbFE3OHhxWWpUYmwxbWh0UmhycWo4Vk5vOGRhbzV1VUdjN0Jya0xMeFdJU3NPODVlRjhFeEtxSXVYV1l3NDZ6ZXE5cFlEeTN5cUdnTWJPendOSXQ?oc=5"
-  },
-  {
-   "title": "希望更多跨境客留港過夜",
-   "source": "Facebook",
-   "date": "10-30 09:06",
-   "iso": "2026-10-30T09:06:19+00:00",
-   "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNVkV0QVhjc1pySkFzd3h0OXZpMWpEMTgyQzM3UkVNWG5PbkdRRnhOcHVGcXpEZXdqUVZSbXhia1BsRDdIVzhYMnNIMjB0Rzh1NmFteGxkUndNQ1NzelFuVEdhaEI2OGVReDV3WGNzcG5sM3YtaW5BbnFjS2ZIMHJsd3pfM3c3MGhWbng1LXhGYkltblpUWlBpMjBTVXVlaklHYlB3VjMzSTFHQlVJTXgxN0wtLTk0MHRnYXJWV1JiVEJBMFA0Q2E5V3RtRzM1SUJJeXp4cDZOLXJuOXl3TVR0Q1BpeDhtOV9ZdDBIRFJhTnVPQzI0WklYQV9xaGg4OVNDOFBTVnBiUUMyWVNmSXY1SHZEVDByUnkxSWFNTkRUVW5qSWk5bUNfQ01ING0yNEVfNnQtUnNqdkRIY1F3QnlnN1hKUWdHWUlkVDJ6NUJlUjU5THRuZVZYQWlJVDJnQVJZV3VvWnNXdFRzME9FeGZ2Tmd2NEJ3ZVpOVG8tYUN4NDNGWmpCbTZmR0hRejNtNXB3ODg5dkltaEF1N2d2VjVINA?oc=5"
-  },
-  {
-   "title": "皇崗口岸丨周末深宵料北行人車流繁忙 運輸署已做好交通配套",
-   "source": "信報網站",
-   "date": "10-30 07:03",
-   "iso": "2026-10-30T07:03:58+00:00",
-   "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPOXJXTW5zVjRqRnA3OElyS183Ukh6VzVzVVJrNno2TVFmRHN5RGxqZ1VYTjVqSi1TUURrSmVpZ2tXb1N4alNYT19zTkU0aG55RnZNWFJNdjM1X2JWSDc1bmJLWlVwc0wtbXpIalVkTzR4OXg1d2pJSkxsLWZfTWlJM05vYzFyMjBvNjhENzBnR0JxaVY0VHc1RzFTQklxcEVNVFdPS2RsdnZHU2hKai1SLTFzN0pIQ1kyWDBwMXR6Y1FzUVFpcndHWTZnemkyQ000cmZ4djdaOVN6YXprMHNPMEw2MnpHS2g3WDhfNlRJSU15ZTdycnJVcnBqM2lWVVRmZndPYUdNaVBCOVRTYUEtWVlSeXRhM19ZZkJTSWtMM0JzV3NVVTU5ODhGQ2dQWnU1Y2lzYy1yVFduWEtNalRaYUZzX3l0M0ViNEw5YmZhTGowLVhzWjYwZlpudFF3WW5xTXFXN3F6RzJyUGNET3FOakxaT3hfRjR0ZWI2U2Q5SG5mNVd1N19nUnBhLVg3aWRTM24ycUZRQkE2aWNNcDBycFA4MVNmYjhPYXg1R2lR?oc=5"
   }
  ],
  "ok": true,
@@ -119,6 +119,11 @@ window.HGP_DATA = {
    "level": "ok"
   },
   {
+   "tag": "夜更",
+   "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
+   "level": "warn"
+  },
+  {
    "tag": "週五",
    "text": "每週最擠時段之一（晚上北上），通宵巴士及跨境巴士都會排隊。",
    "level": "warn"
@@ -127,6 +132,11 @@ window.HGP_DATA = {
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
+  },
+  {
+   "tag": "車流",
+   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "level": "warn"
   },
   {
    "tag": "禁區",
