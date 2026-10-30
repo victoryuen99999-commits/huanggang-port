@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-30T12:16:58+08:00",
+ "generated_at": "2026-10-30T13:15:11+08:00",
  "date": "2026-10-30",
  "weekday": "星期五",
- "clock": "12:16",
+ "clock": "13:15",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -42,9 +42,9 @@
   }
  },
  "weather": {
-  "temp": 31,
-  "humidity": 44,
-  "wind": 7.4,
+  "temp": 32,
+  "humidity": 41,
+  "wind": 7.2,
   "code": 0,
   "desc": "天晴",
   "tmax": 32,
@@ -53,6 +53,13 @@
  },
  "warnings": [],
  "news": [
+  {
+   "title": "附交通懶人包｜皇崗口岸萬聖節深夜勢塞爆？政府稱公交優先 巴士加班｜一文看清",
+   "source": "TVB",
+   "date": "10-30 04:31",
+   "iso": "2026-10-30T04:31:34+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxNc3NZbktuYTJlVEZQak5PTnVKdTNyQ002TjB0bEhiVkJHU0I1NWdhZGhBaHJaS04zWHNaaC02ZkpwaHdnakxBOTZQOFNFVXdzbS1sNXBFX1o5TEc4dXRGMnE2RXBJd3ltQTFVY3JmNUxTZGZvY2JkM2VmYXZPdEVjVHRWM2kxQzFoU2xDOWxoNm9qLVhwVnlDYUgyaERrRTJIcno0RE1zMlEwQzBrR3hhRzRfaGFGbFVKdlNyQXVocGIzM3BTMWxndWVhSnl2NXZvR21jdDJPT1g5R3ZnbkJIYWI4Qk9xcU1MNkh5ZHBtNXIwSmxCU3FoY080Q2ZEZ1U3eTBmTUNFMVJ0OG1JTFI2R3U1d05pUFozRU9LRGJSOTdITjJsaWMyeThNdFpxemhFdUZpdFIyRl9ZRUFFaTN5UE1rT1hZY3hrR1F6dTJaTER1aVZjY1V4Vzd5TkpReU0zYUlFa1doRlAtSG9kVU94Q042TDJNU3NtY1dWMzNuSldySmI5QkpyN2lhUEl2TTN0cXBNeGprU2s5VXF0OU9ZMEJOcEw4TnVJdmwtbXRiakJhSmZ6NHk5eExsQnhOTUNDbk9iREpvTE5QNFVYRmk1b3ktMA?oc=5"
+  },
   {
    "title": "萬聖節｜皇崗口岸今起一連三晚料迎人流、車流高峰 運輸署延長專用車道 - i-CABLE",
    "source": "i-CABLE",
@@ -66,6 +73,13 @@
    "date": "10-30 03:37",
    "iso": "2026-10-30T03:37:30+00:00",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXRUhwUDZGY3lYSlczWWRHc2FmWGRnMEZHeDdBamZSN1Z2SHBCQnY1eG5qeWI3SUFUZjJmamhCQU1QU0VvX1BzZXp6bm9UQl9zQ2RrdHJQdUd6XzV2RldTVzNXcW1TMUdaR0s1N3dNb09zQjU0dHc?oc=5"
+  },
+  {
+   "title": "深圳灣口岸一連兩日延長通關時間至凌晨2時",
+   "source": "大紀元時報香港",
+   "date": "10-30 02:50",
+   "iso": "2026-10-30T02:50:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oMlJFWXNFU0dtVTcwNHltbzlzd2QwcXF4S18yYVVzLWgxTTZLX2VFcVJ0eHlMM3o5eE9zS0tMSDBoWXc0M0FET1JwZTBYdzEzbTUwb2d5cXR0VjUyY0M4?oc=5"
   },
   {
    "title": "萬聖節︱深圳灣口岸周五六晚延長通關至翌晨2時 分流跨境人流車流",
@@ -94,20 +108,6 @@
    "date": "10-30 02:18",
    "iso": "2026-10-30T02:18:58+00:00",
    "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPM3h2MGdnNUJweF9hV0hRSWk1Z2NialVtTWhBR0RhbWthNWNzVWQ4SVBGZUJYc0hHOGE3dnBWMi1yZWtRbC1uSm80YmZEX2NYNnRxWlV5b0s5WXhUMF8xclE5SDFHajNaOW5qN0tjc1FlMkZnemhyTFJSWGNkVXRKdXc3MnhiektXbDNlNDUxYk5JQ0EzVUdqOFN2X2loM2g0WGZ2ZEdYSmRzSGJsQjlNYnkwcV91dkNjU1hJYW9HVndpbTFXdE5RUUVZeFNIQldJRkhJOVM5YmJPbEQ4dnJoSzJyOEYxVm02YWlqTTJGaGthMHNKNC1DVU1zNE5FYlJkbWQtVFJWYVozR1FkLXNIWTBFSnpZSEVscktKbEcwU2QtRFBhcUhLd2xBN19pX1FjeTJURXd4SGZBazgwaTRBOEZXRzhXRWJoRzZPcTNKdE5QSDhSMGUwSlZiamotNW9RUTR3djlNNThYYzN4M0NpQnNkTTJ0bHZOcXB5NzUtcFBwbi0tcDNSWE9kUEVXMFVyMFJWaUl6VFNtS3RIZzM5Ry1BUmg0QXRKNEJzemJFRDhGekNwRTdnbWg2cGpnOHBKZERXQTlQcURjZHRnYTV2TnY3N3k?oc=5"
-  },
-  {
-   "title": "皇崗口岸交通今晚起連續三晚深宵繁忙 高峰時巴士不經新田迴旋處",
-   "source": "香港01",
-   "date": "10-30 01:18",
-   "iso": "2026-10-30T01:18:50+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPRHliYXlDSGR4WFRCUFl2SThUd3JESWM0X2FvTXRxSXFiMkdKSzh0czdNZUVrQWdidURxa1pialE4ZGN5bXJoQ09UaXd5OWlfQkdvQ2JMRTd2UkptY1RGWUUxN1QxX1dPOU5YT0VTZTdhREZBOGZBd0RrZG1CYnYxTi1qc1h2ZEFpOU1uTGpLX0FDTGJrUXRYeWFPejA4TVcwNGR3QVB0ZWg5c3BtLTlfa0RGdlJiZnRrSW9teElVbUV0NGt6OFNjUWdNXzRZQnJTbWZ1Z3pzODVJM3NfQ0lTZlRHYmE0LTY1aFpRZUhfNUhCeUhqanRKdkl5YkFxWjNoVlVnSU1QYmdEN3QteUVPZUVVUzNBQVFOaDVkX2d1ZWxRQ011azh4VmxDYXhRMkVyNkYxN0tBSzVQVGJUY0doQXJHSlFjdVNtQ3lkem1LRFdQNUVpdnE4OHRXdHY4b3hqWWtSSzgzYndLbElWbFl3TW9LXzRSVV9UNkN4bGpob1ZIQkYxVkZWTkZLdEZKd1g2WDd3WjhpeFdLUVVpZVJCYk00QnpwRnhpaGN0QXk4MnpuUGxmdDNqOGcwY25IUWJRN1ZJS2JlYVFWVjliNjA4MXZIWQ?oc=5"
-  },
-  {
-   "title": "新皇崗口岸・片｜停車場車道狹窄車輛易刮花 網民批：香港設計？",
-   "source": "香港01",
-   "date": "10-30 01:00",
-   "iso": "2026-10-30T01:00:49+00:00",
-   "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQdk5UZ1hUX1VkME00WElOaVhjblpGUEcwVHhEVDdyMncyME9SYUw4UzdpNk93dzN4VjJPX2Qtb1p6VFdleFRiamRMR3ZvVEZjNHBqYlFNazMtN0RPWFJRY2t3ODIwTEsyQk4wUDhWZnJybmxtU2tMNVdwVHJHLWJjVkRWQVRVTnJhUHZiM0JXRHdqWm9Qc0g1VG5vMl9kZmY4bkJSRHFRVThKbkY1WDNhYnNVVGxoekZPWlZhWkR5aGhra3hNeXJCMWJYcEZNZUU2WjQ0YmdwN3libzY5S0ZMRmlZRFRSYXpSTHF3UGswNEN3XzdqeS0yWnRHQVRoQlBabzVXUVd3SXVQZ3VmVFFKemRmLVlnRUVYUUlvYW9PZzl2TG9CQ0hBanlZekh1WWtkN2hTQXpEUk1UUU1jT0pUSk53MW80TkxZUFZxQ256QlVWekNETzZoX0EzOXM1T1MxRlhOZ3RpcjIwbUJhckJraWtQaEhtc3hXbm54ZnN3UmcwbHR0MnVFNW1NeWREVV9qcHBpVS1DaklLWWlaRmxKWWxsVHBTaEU?oc=5"
   }
  ],
  "ok": true,
