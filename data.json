@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-31T02:08:33+08:00",
+ "generated_at": "2026-10-31T02:58:34+08:00",
  "date": "2026-10-31",
  "weekday": "星期六",
- "clock": "02:08",
+ "clock": "02:58",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,11 +43,11 @@
  },
  "weather": {
   "temp": 23,
-  "humidity": 92,
-  "wind": 5.8,
+  "humidity": 87,
+  "wind": 6.6,
   "code": 0,
   "desc": "天晴",
-  "tmax": 29,
+  "tmax": 30,
   "tmin": 22,
   "pop": 0
  },
@@ -59,6 +59,13 @@
    "date": "10-30 18:01",
    "iso": "2026-10-30T18:01:56+00:00",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBscW8yeGplandmaXBCZWg3cERlWUZxa1lLRER1T2hxdGhiMU14UkZqVlVCT3pSRksyLVF4ZzVkeEdjRF9lNlI5cmRYWkFYVC1JTy1yMXRIUGpvSDhaYS1GSlJjd1c2NVpnXzB6d1JhM0kyaXliNFJPbkpR?oc=5"
+  },
+  {
+   "title": "啟德演唱會散場 不少人坐跨境直通巴經皇崗口岸過境",
+   "source": "Now 新聞",
+   "date": "10-30 15:41",
+   "iso": "2026-10-30T15:41:41+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RUXVfYmZwRXJVLUxrYTJhVmZMbjV2UWNvNElkVWhNajVwdGVQSVBhRmRhMzEtWTRISWtMLUxpT1dMczI2djJUZm9scy1yNE5YUnk2LWdoT3lQRHNENDljQUNn?oc=5"
   },
   {
    "title": "萬聖節｜當局加密公共交通班次配合過關高峰 美酒佳餚巡禮第二天人流增加",
@@ -94,13 +101,6 @@
    "date": "10-30 11:53",
    "iso": "2026-10-30T11:53:36+00:00",
    "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOTGdKdUJnUGdjWjd3d1ZINUwtZEFhRDduMElsWmRNOG9ST1pFR3c3RWhkeVpYeWZDcDNEX1BjVVJxOXRPeC0zaWRIX1M4bzR5WWxlM2V3SncxY20zN3kzcVVlNlRIRExhMEZZRmJmZ2JTd2d0aTRtRW5MNlJPbElJa3NRelZ3eVFhRFZfZmNEajl2eXB1R3lfM3lZVWZwX0tITjUwWEhKam9abzJTT01wYkt2UHp5eG9GcHBuMVlsUkpXOFZ1dFpLQnpSV0tkV2JKc1FuODhBXzhwZjZVZk9zWE9jWi0zYThlcmgzQkVLYWJoQXRVeF9uLUFqd1hPc1B3bnpYUDkyRlNFdXF0Tlp5NWxVaWJVekdJcC1GSV9kbXZNTEtwTDdzUGJob05NaV9obkRDLUstVzE5dTZWZnRyYmxYVExJT0dhWWE3LVZGaG5DMTllVm9DTE1jV0RkdGpOMnVUY2NnM0xjX3N4Wjh5QUZSQUhkaDdLWEk4eUNuaXZrcDBnU0pCT0pGWmRfNWlCeW94OVJuOU53Ym1IZjVzbUZwWXFLVEtxWE14NDJBSjhMVmhPOU9j?oc=5"
-  },
-  {
-   "title": "九巴將於星期日凌晨增設B10S巴士線 加強往皇崗口岸服務",
-   "source": "香港電台新聞網",
-   "date": "10-30 10:40",
-   "iso": "2026-10-30T10:40:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xWHA0Rld4azA1RWxGbllFWWVFeERKMUR4X3Qwb0pLM1hKMXhxVWZCSThILWRSN29CUW83SGplNHdVWVpDZ2VSRG5qdnJMWE4zYWtKQmFKZFkzM0Q0ME1VVVV0N3JNRlFtN3VfdGlMYw?oc=5"
   },
   {
    "title": "城巴今明兩日加開班次往皇崗⼝岸及深圳灣口岸 (17:50) - 20261030 - 港聞",
