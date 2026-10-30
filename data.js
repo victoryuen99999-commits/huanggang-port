@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-30T19:54:07+08:00",
+ "generated_at": "2026-10-30T20:43:52+08:00",
  "date": "2026-10-30",
  "weekday": "星期五",
- "clock": "19:54",
+ "clock": "20:43",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,16 +44,30 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 25,
-  "humidity": 78,
-  "wind": 7.0,
+  "humidity": 83,
+  "wind": 6.1,
   "code": 0,
   "desc": "天晴",
   "tmax": 32,
   "tmin": 22,
-  "pop": 16
+  "pop": 27
  },
  "warnings": [],
  "news": [
+  {
+   "title": "九巴萬聖夜凌晨加開B10S 通宵線葵芳開出直達皇崗口岸",
+   "source": "巴士的報",
+   "date": "10-30 12:07",
+   "iso": "2026-10-30T12:07:27+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxON1REVWg3N2NzOE5wNlpuNHgyYU85U2pxT19NbHo4YVNSRk5QUWtuNGxYcEZZdFdZTlpjV0hrcExQMDhYMERZSHVRdVlJNVRHQ25WOXJOVUh0VFRyZE5yamUwT1lwdlJxRVIzZHZPMGoxa19Calp2QnJ5bjdLS01FdGNsYXRmZUNVYUhyb0xxTGJyRGxveTQ4c1AySC1vZE9TcmZKb2piUVBha0VhekpqdGs0UU0tRlJpdmJwYzJvbzdfcmZuZDBUbkl1dEtUQ3Q3bE9kZ3VOZmkwRW5XVVYyWUdNS2ZGaktBNklSRkIyQUVBdnJPanlpak1ITWM1WGJNR2EtYXU0ZTlPQldaeUdlUXpremFJVFNmdHBJTjBBbDdxXy1hZUhsdGVtTWF5TEhPQ3doSnhLVlQyR0puWnkxMTVzemtUVUozM3pka3l6Q3dFMG1na1NUaDZEZVFmUVNBSlVjSkdDaDQ?oc=5"
+  },
+  {
+   "title": "城巴今明兩日加開班次往皇崗⼝岸及深圳灣口岸 (17:50) - 20261030 - 港聞",
+   "source": "明報新聞網",
+   "date": "10-30 09:50",
+   "iso": "2026-10-30T09:50:58+00:00",
+   "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOYXVhaFB1V1Y1UDhSQzg2SEsxMlVza2t4RDkwamNHNWZIbjJXMElqZ0hxUGxhQzZHTEdRM05zdDE2LXRDRkc3eGZJYnk1eDRrZXFRZGNYNThpc2IzRkF6NlpRWF9HTlBNRDJiSExUV0pldmUxd2U2VkdET1k2WkVrVVB0bGRWX0duNFhtdG9UUVZ3bHFKZVNkUkN6M2MtSlprdWRJMGZZdFJXcDVmQU4ySDd2VW96Mzd4eFVrcUs5T052NTBhNDZYejl0bm9XRmFobUxTTk90LW5ES0xWUHNtaXB2RVU0cDZlQzdETk05RjlPbXUyNWRCMHNOcFpIcUc5T1hQRFNCcVZsdjFqUXl4alByTFNzTzd6bzdxX0RWdmdCcWw1S216YzZqUDM4U2JrdVNWLWtwY2pzdldNY0taQjF1U1ZjX01HT3AyMnktb0Y3OS1JdFhpX2ktYndhTk5qSF9NYWlUWmkzTVJsdzN0bTZYZzdxWklqRkFkYklYVUQ?oc=5"
+  },
   {
    "title": "訪皇崗口岸探通關配套 團結香港基金37名「灣區小記者」童聲說APEC",
    "source": "大公文匯網",
@@ -76,13 +90,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxOUXdqeHYyRzFkUVZfbF9JSkdra0F2XzlfSEhpRUhSZlN6RGk0a0l5UHBvSGpaakwxUkpjS2Y3X3d0OTcwYjJOTy1CazJMU0xDTzYyREtSaW44WlZ1VjdUaE04czVRcFV1bXQ2QWdraExfNUVmZEQzVHB3NlN5TTNaZWNYU0Zvb2RiaG1TZzNDel83a0Z4M0ZYaEZuQ0RKSU9xQ1BRVzN6cmNnUlZyNzIyU2Jiam9md1p1M2Z2QWQySV90ekxsY2hmZng0UEVOYk92UEJtdkVzd0JldVNyRFhIaVRvcXRjVExENzJzYnUyZ05BbWFrMDdzYmNCdHc0MHlObWFjRVM4ellrNDBTSExIVTZxbldmQ1I0SERJYnlGRGpFOUxyOWpLWkpuNkVXR3VPTGJZZEIxRjFLRjUwX1B4OGVFY3l1bG42UndxY2xMNmhDUVlPMmZzRlR6LXFieGZmQWlwTEFvbTdQZnJLcXRfamlPN1Y0SXpNTjNwVHFQVjAzTWY5WWs5eFJBRVpuVzhYQnRlSld0ZUNyeGV0WGhlemdfbmpiNmdNUVpuc1VtaXJzN3ZVNHhkYWNsZ0o4UWVXbE92ag?oc=5"
   },
   {
-   "title": "皇崗口岸丨周末深宵料北行人車流繁忙 運輸署已做好交通配套",
-   "source": "信報網站",
-   "date": "10-30 07:03",
-   "iso": "2026-10-30T07:03:58+00:00",
-   "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPOXJXTW5zVjRqRnA3OElyS183Ukh6VzVzVVJrNno2TVFmRHN5RGxqZ1VYTjVqSi1TUURrSmVpZ2tXb1N4alNYT19zTkU0aG55RnZNWFJNdjM1X2JWSDc1bmJLWlVwc0wtbXpIalVkTzR4OXg1d2pJSkxsLWZfTWlJM05vYzFyMjBvNjhENzBnR0JxaVY0VHc1RzFTQklxcEVNVFdPS2RsdnZHU2hKai1SLTFzN0pIQ1kyWDBwMXR6Y1FzUVFpcndHWTZnemkyQ000cmZ4djdaOVN6YXprMHNPMEw2MnpHS2g3WDhfNlRJSU15ZTdycnJVcnBqM2lWVVRmZndPYUdNaVBCOVRTYUEtWVlSeXRhM19ZZkJTSWtMM0JzV3NVVTU5ODhGQ2dQWnU1Y2lzYy1yVFduWEtNalRaYUZzX3l0M0ViNEw5YmZhTGowLVhzWjYwZlpudFF3WW5xTXFXN3F6RzJyUGNET3FOakxaT3hfRjR0ZWI2U2Q5SG5mNVd1N19nUnBhLVg3aWRTM24ycUZRQkE2aWNNcDBycFA4MVNmYjhPYXg1R2lR?oc=5"
-  },
-  {
    "title": "運輸署料周末深宵皇崗口岸北上人車繁忙 已強化交通配套疏導",
    "source": "巴士的報",
    "date": "10-30 06:38",
@@ -90,25 +97,18 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNODdMcXZ2MHE4eHZfeUMyQ0h3cVpaREdDRk42Nkk1UG1COXpIamh2NFJmX0VaZW9HWE1JT3lwRnY4NnZsdkpGSjhzS2tMLVlkdXc5Nk90c3Z4MXprOXg2aEdLSzlDaXp4ZkNPaWZMR21ZenN4c0o0Q254emtIeU5EZDY2MDVOemVBbDE0eVQ3cUtMVXhQa0wtYkNnTG9hQ3BrUkhQRmFrZEtGcnptcC1TTTlDMnRCX2syMlRUSnNJMWRJU2pvaUlJazhOZDZlOGEzLU5vYkVjMDNuTm5yX2RPV09iVUlmeHFuWUJ6bFYta3RkQ0k1cE1Pczk3cjFuUVBDLXdvYS0tcmRlZmNFUEZqc1AwWkNPdGNPcy1hZkhyWVdnZ3J3UlU4LWVQajRLLXhReWp2V0FoTzJmbmxwVEdjUGpIRllTbEtocC1SZmVpVDBVc3dKZ202WjVQT25WbzUxRWZyLXhoeFZoanVGcWhn?oc=5"
   },
   {
-   "title": "附交通懶人包｜皇崗口岸萬聖節深夜勢塞爆？政府稱公交優先 巴士加班｜一文看清",
-   "source": "TVB",
-   "date": "10-30 04:31",
-   "iso": "2026-10-30T04:31:34+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxNc3NZbktuYTJlVEZQak5PTnVKdTNyQ002TjB0bEhiVkJHU0I1NWdhZGhBaHJaS04zWHNaaC02ZkpwaHdnakxBOTZQOFNFVXdzbS1sNXBFX1o5TEc4dXRGMnE2RXBJd3ltQTFVY3JmNUxTZGZvY2JkM2VmYXZPdEVjVHRWM2kxQzFoU2xDOWxoNm9qLVhwVnlDYUgyaERrRTJIcno0RE1zMlEwQzBrR3hhRzRfaGFGbFVKdlNyQXVocGIzM3BTMWxndWVhSnl2NXZvR21jdDJPT1g5R3ZnbkJIYWI4Qk9xcU1MNkh5ZHBtNXIwSmxCU3FoY080Q2ZEZ1U3eTBmTUNFMVJ0OG1JTFI2R3U1d05pUFozRU9LRGJSOTdITjJsaWMyeThNdFpxemhFdUZpdFIyRl9ZRUFFaTN5UE1rT1hZY3hrR1F6dTJaTER1aVZjY1V4Vzd5TkpReU0zYUlFa1doRlAtSG9kVU94Q042TDJNU3NtY1dWMzNuSldySmI5QkpyN2lhUEl2TTN0cXBNeGprU2s5VXF0OU9ZMEJOcEw4TnVJdmwtbXRiakJhSmZ6NHk5eExsQnhOTUNDbk9iREpvTE5QNFVYRmk1b3ktMA?oc=5"
+   "title": "預料周末深宵皇崗口岸北行人車繁忙 運輸署做好交通配套安排",
+   "source": "香港電台新聞網",
+   "date": "10-30 05:38",
+   "iso": "2026-10-30T05:38:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4cVlmS1FtWnBpYWIwUTFqSkQ5WGZ1aVFRbUFjTmo3OEZIUW5XVWtmY2VSbm5TMUNBeTRackhqZ2xGWDdST0ktZ3IxSnBGV1JlcmdYam1iUzc4TmZNTlk5UUJ3blpvcHVnaHZfUm1zRQ?oc=5"
   },
   {
-   "title": "運輸署：料皇崗口岸今晚至周日深宵交通繁忙",
-   "source": "香港商报",
-   "date": "10-30 03:34",
-   "iso": "2026-10-30T03:34:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CNENqRFEwNzctREc5VWtfTWQwNmQ4QTdqeW16UXMweTVtUzlUcXg1cmZBREJtcnJNMmVzVDcwaXh2VmMwQzJqaWxieHhxZXgzaEtrZ1hCdnZid1cxM0J4OVZ1b3FQUGVjeDEwcmo4LS1VNWlZeVE?oc=5"
-  },
-  {
-   "title": "萬聖節周末深夜過關注意！深圳灣口岸一連兩晚延長通關至凌晨2時",
-   "source": "www.hkcna.hk",
-   "date": "10-30 02:33",
-   "iso": "2026-10-30T02:33:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zeV91Yy1DQ2s5U0FfSVRlVkozLVFjaXEwOUlSZW1DV0Q1a0RQeGhXdzM1cnJCUjNxRlhlTENLUXdXSTNLbWlFQzN0SGJjWW9CTW5zWm9tY0x2V3h4bUZRclJCampMU3BYWXpBUy1Kdw?oc=5"
+   "title": "新皇崗口岸｜運輸署料今晚起連續三晚深宵時段口岸及附近交通繁忙高峰時巴士不經新田迴旋處",
+   "source": "香港經濟日報HKET",
+   "date": "10-30 05:36",
+   "iso": "2026-10-30T05:36:23+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxPSVQxeTRVMGFXeElxa0FybElvQ0U1eHJZd3BBUVZzUmtWa3ZSbkFZTXBNMTQ4U0NVeVlGVGdUd2QtbHM0U1doVEFrNFhfLUJydklXQ1p5UDVpTmVYR2MyeEpxM0VudTJNZDhETjR2eVNXeTVPOVA1ZTMwbXdnaVdMMWxDRk9EWmhTSVVYeU5Kb3FsSU4xOTlUU1g5TU9SdUNhOEM3YUN2RmEyTk5KbmxCWU5CTDhzaTBmNXNlUDh2MmxkM3A5aHRSTEhzNGREU1JpMGx2bXIwQ3FsQkVnQUhXZHFGRVA4X1E3TWpQWnphcjlWVU92ZFVrSU44dndyeGV1WjBWcThXbHJHRFlMZ3pEcGxUbktQVElKRHE3SFNlaTV1TGdXYXFDR1FubV81NjA5LU1sb2lhWFpUWVRNaUJkSnJFbWhia21NNHZxWjBPTGNEV0dmakFqQVFpTDlMdXdwWlgzSG5jVlJJODlZcFVGRm9YQ1FFVWJPcG5NWXlBSV9feFhGdXE4cjdOOUhJQlJhanBnUk9zM0dqQ1UzQmFYdEZZREhNdU5nSGVTNzBEcHFpY3BMY2JfYkUwSFpndmx0blhQWl9lNEM3X2Y3S1hya3ZBQUhSYk5rdWR0LUFUNU5UMkdSaml2Q3B3Nkk5Ti1idzlvQnZobVRCNjhTMGhNeVJyN1RmOHg1Y3dDNTdWM21MUVExSlFCb3FXUVJZMzR4OWVHNUw4TVItMGF4VVdORTlMV2RHenRROXRRVS1lYjl1UVU4UUI5b1dHLU1Ea0Z4czNYVlNuVmlvb2dYN0V1aA?oc=5"
   }
  ],
  "ok": true,
@@ -117,11 +117,6 @@ window.HGP_DATA = {
    "tag": "天氣",
    "text": "天文台現時無天氣警告生效。",
    "level": "ok"
-  },
-  {
-   "tag": "傍晚",
-   "text": "雙向高峰：出境（北上）與入境（返港）同時加壓，L2 候車區最擠。",
-   "level": "info"
   },
   {
    "tag": "週五",
