@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-30T23:44:10+08:00",
- "date": "2026-10-30",
- "weekday": "星期五",
- "clock": "23:44",
+ "generated_at": "2026-10-31T00:31:51+08:00",
+ "date": "2026-10-31",
+ "weekday": "星期六",
+ "clock": "00:31",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -26,8 +26,8 @@ window.HGP_DATA = {
    "dep": 99
   },
   "LWS": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "MKT": {
    "arr": 99,
@@ -44,16 +44,23 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 88,
+  "humidity": 89,
   "wind": 6.7,
   "code": 0,
   "desc": "天晴",
-  "tmax": 32,
+  "tmax": 29,
   "tmin": 22,
-  "pop": 8
+  "pop": 0
  },
  "warnings": [],
  "news": [
+  {
+   "title": "啟德演唱會散場 不少人坐跨境直通巴經皇崗口岸過境",
+   "source": "Now 新聞",
+   "date": "10-30 15:41",
+   "iso": "2026-10-30T15:41:41+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RUXVfYmZwRXJVLUxrYTJhVmZMbjV2UWNvNElkVWhNajVwdGVQSVBhRmRhMzEtWTRISWtMLUxpT1dMczI2djJUZm9scy1yNE5YUnk2LWdoT3lQRHNENDljQUNn?oc=5"
+  },
   {
    "title": "萬聖節｜當局加密公共交通班次配合過關高峰 美酒佳餚巡禮第二天人流增加",
    "source": "TVB",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "10-30 09:50",
    "iso": "2026-10-30T09:50:58+00:00",
    "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOYXVhaFB1V1Y1UDhSQzg2SEsxMlVza2t4RDkwamNHNWZIbjJXMElqZ0hxUGxhQzZHTEdRM05zdDE2LXRDRkc3eGZJYnk1eDRrZXFRZGNYNThpc2IzRkF6NlpRWF9HTlBNRDJiSExUV0pldmUxd2U2VkdET1k2WkVrVVB0bGRWX0duNFhtdG9UUVZ3bHFKZVNkUkN6M2MtSlprdWRJMGZZdFJXcDVmQU4ySDd2VW96Mzd4eFVrcUs5T052NTBhNDZYejl0bm9XRmFobUxTTk90LW5ES0xWUHNtaXB2RVU0cDZlQzdETk05RjlPbXUyNWRCMHNOcFpIcUc5T1hQRFNCcVZsdjFqUXl4alByTFNzTzd6bzdxX0RWdmdCcWw1S216YzZqUDM4U2JrdVNWLWtwY2pzdldNY0taQjF1U1ZjX01HT3AyMnktb0Y3OS1JdFhpX2ktYndhTk5qSF9NYWlUWmkzTVJsdzN0bTZYZzdxWklqRkFkYklYVUQ?oc=5"
-  },
-  {
-   "title": "訪皇崗口岸探通關配套 團結香港基金37名「灣區小記者」童聲說APEC",
-   "source": "大公文匯網",
-   "date": "10-30 09:41",
-   "iso": "2026-10-30T09:41:31+00:00",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rZVZYUmE5RmJvRGpwcmJNc2tEdkpkbFE3OHhxWWpUYmwxbWh0UmhycWo4Vk5vOGRhbzV1VUdjN0Jya0xMeFdJU3NPODVlRjhFeEtxSXVYV1l3NDZ6ZXE5cFlEeTN5cUdnTWJPendOSXQ?oc=5"
   }
  ],
  "ok": true,
@@ -124,9 +124,9 @@ window.HGP_DATA = {
    "level": "warn"
   },
   {
-   "tag": "週五",
-   "text": "每週最擠時段之一（晚上北上），通宵巴士及跨境巴士都會排隊。",
-   "level": "warn"
+   "tag": "週六",
+   "text": "早上北上、晚上返港雙高峰；落客區與上客區容易同時塞。",
+   "level": "info"
   },
   {
    "tag": "通告",
