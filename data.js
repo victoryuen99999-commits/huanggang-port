@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-31T03:45:37+08:00",
+ "generated_at": "2026-10-31T04:32:06+08:00",
  "date": "2026-10-31",
  "weekday": "星期六",
- "clock": "03:45",
+ "clock": "04:32",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 89,
-  "wind": 5.9,
+  "humidity": 90,
+  "wind": 5.4,
   "code": 0,
   "desc": "天晴",
   "tmax": 30,
@@ -54,6 +54,13 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "新皇崗口岸昨起一連3晚深宵料交通繁忙",
+   "source": "東方日報",
+   "date": "10-30 19:45",
+   "iso": "2026-10-30T19:45:03+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPT2ZpTXExX2szUHVPNlN4Q3NuNHdqU1JZXzM4MEpOZUJqUXJmYTI2TnNOSUZhdDBsNzUyS0hCNVRTcDh0ZVJTeGZ6NnF5VjZObzdIaHI4VGNDQzRYLWFmaGxfd1ByaEJxR19fQmJZRWlveUlPWVE3NjFjUW5GY2NhSmM5MnVCUDBRdUd4Wmc4UXlNUHg0bHFlQk9oQ2dvNWZLZ3RieEJqbE1TTDk5TjVFV0tuNWd2RUtLdEc2Z0w3QURuQ3Q0MVJTVjA1SXFpZDItR05IbEpLU01sX0FXNHIwMmJWTzAzS3dBZE5ybnVFVTdMQUlCeE9TaERPTGYweUZmQ0xsNUxQMjdIeFh1NFk3a2xSV0tMNVBXaE1KaFRZTGEtU0Y4R0ZTakthZnBTbW9sVFd6aFZPLS1YOEJSOE10Y0poYkVad2hndXR0RzZhVVV4c1lyMFNoWU56SVNKaWNaZXdZYXpac0I0ejlGakVIUA?oc=5"
+  },
   {
    "title": "太平人語｜口岸大塞車反證新皇崗非大白象 善用夜繽紛優化疏導一舉數得",
    "source": "星島頭條",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "10-30 14:32",
    "iso": "2026-10-30T14:32:10+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42R0NqbjRvdzhWV0dyaXdiSGc2RW9CS3otbVJSNkMycHVaQUlxMnE1a2t2dW9neGJUaG9iOFJYbmZIcEpPVVdhSE9uN1d3TjJKeDJKM0RvdWhMQzdWNmd6cDlCWXZvRjVRZWpFMGthdkc4a3MxTHRF?oc=5"
-  },
-  {
-   "title": "當局料即晚起至周日晚均為過關高峰 將加密相關公共交通班次",
-   "source": "TVB",
-   "date": "10-30 13:39",
-   "iso": "2026-10-30T13:39:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNNjBLMG9zQ0tBbTFlclBtZ0VsTzRmdkJpZU10dEZMQ3ktLU5MVWFUSUtNc0xmWjNyQklNcW1RR1lXcGZiQml5ekh6aTNoTENST0lUNkIyX2ExU0VTOGhvZ1hRaVJkbS1CMmV3TkhOdERHalUyUndCTkJzSUk3dTRHVlVUZS1sOEdIZWVlcngxRTZxUUNCTWdFLUFfeGJNODFIWGNMOGdxYk9aSEttZnhVcXdBeTdsRE04V3RKSmFWVmFfRXNRMm5iNl9sV1VCUkpvX21raENJekVMVFlyV2UzNFpsQzROU0xXNm1Pd2xMUHJHRGJFRWVRRkdQdGRDeVhlWUtuMkQzTXZJS1FHV3R0ampfeXBXYm05cDZRaWdJQ0R5SVl4THpTdzhQLXh4anJVeHRvVzFBOE82UDVhaHJzWFdvRklvR2UyVDZxZGNvNk84VjZZNEY3NDd5dkVUQ2xScUxCYzlrRHJOZXJ3VHVYMmFIc051TjBJVE1iUFVCbEJyQXFIVkJaczRSSQ?oc=5"
   }
  ],
  "ok": true,
@@ -135,7 +135,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "車流",
-   "text": "近 36 小時有 4 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "text": "近 36 小時有 3 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
    "level": "warn"
   },
   {
