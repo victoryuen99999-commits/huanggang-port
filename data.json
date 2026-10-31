@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-31T17:22:14+08:00",
+ "generated_at": "2026-10-31T18:08:19+08:00",
  "date": "2026-10-31",
  "weekday": "星期六",
- "clock": "17:22",
+ "clock": "18:08",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -42,9 +42,9 @@
   }
  },
  "weather": {
-  "temp": 26,
-  "humidity": 69,
-  "wind": 15.7,
+  "temp": 25,
+  "humidity": 74,
+  "wind": 15.3,
   "code": 0,
   "desc": "天晴",
   "tmax": 30,
@@ -54,11 +54,11 @@
  "warnings": [],
  "news": [
   {
-   "title": "萬聖節周末深宵料皇崗口岸出境高峰 陳國基：私家車過關恐等逾1小時",
-   "source": "巴士的報",
-   "date": "10-31 08:55",
-   "iso": "2026-10-31T08:55:52+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQbHBiWFhzVkhnMDNLNllSWDVTREN1bnE1d29uamFHTmtUSVNKWlRmYzJ3aVBYWEZoc0Z0SzQ1YXFLZkd1N1prYWxjVnJvbUxwVGdkeDlSaGFBeHM2VTNqa1FjbWZ4NHJEVDVEYnBwVGd5ZVRoWFNvdVFuUVZVT0NkbkQzMFVHNE1FWTJ4ek9RYzJxTWxnQTA5TWJCeFhOd21KdmZpdTRlSkhJOUJjejV1elJ3cHVreDN3eVNWbDZBVDlKQVNEd3JxRVlBejJ1dW1uR3NDNnAtR05PYWJUZ1FhY1BkdTFOY1FqMTIyMmtObmNiVjNnWkxjSDczWWlmZV9ZME1nTUU4NWY5Mm1JVkJCV1ZVUDdMdVVZQ3EtU2NHaGdOam9Fck9IbWZScjloVER5c0JMVThVMTFQaXAwSHdIbWhiVjFTbTRzV0hDQU5ENk9WeTZWYW5NeWtoVGFrdGhkMUVtTV9CU1l4bXh6QmM0?oc=5"
+   "title": "萬聖節｜入境處：預計今明深宵為皇崗出境高峰 籲旅客錯峰出行",
+   "source": "香港經濟日報HKET",
+   "date": "10-31 09:28",
+   "iso": "2026-10-31T09:28:46+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOcmozTzRNN0dmNDcwNXNtb0pwTjM0S0w4anlBamR3NklhU1VQbjJsclNMaWpZaTB4d2h5bTNDdGI2WHdhdENMRER4cTlVV1dFcm5Oc1RUNXZFRXRRdXdWN2MzVHJYSXp2VlNDYlQxNTJvcEY4R1pEc1Yxd1kwZ3Zxd2VwekFhUEhOX1JLQjNQQ2hQRmtYN0FuWTJzSGRzMUZSXzlEaEtodzJwVC11TlRPQUYwTjlFM3V4N3dic3lLQXFSWV95OVdUVVNpWGV0ZFlfZFVDWUg3MzdZYl9HX2lmbEYwcmJLZVR3ckZfR2xhNDc1ajlDMUVfMFJCbWNvc1hTdFdVZGVYcW9vblI3NjNhM2hMV09hckhCUGJuVk9UOUpyMWJzNmpaUXJEblF2eWJIOTNRWTc1eWpyQ1M0X1N5blU5dXdGUmxySTQwNUo5ODdSMnc4MmloUkhIOUx4UkYzLU96Qk43V1pLZlFJMlptX01YaUFaWmdwc3lfTzlHZExIQXZuX2JHN3VPMHNhV3Q5WjdWRUZsc2w1SXhYa2hGREEwd0RndjZ3X1pEZXBNamtuQzVrRTc4Yg?oc=5"
   },
   {
    "title": "皇崗口岸｜限兩地牌解塞車？ 何敬康質疑本末倒置礙灣區融合",
@@ -82,13 +82,6 @@
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HWUFkMG1URVpJbUlleW1QbDBxWW9qdGpSc3IxOXlpUUZSWDJGTm95SVRvZGowczczcHZsX0RvY1ZkdGtNZEdEQWcyR1hiZjNXaWFkSFVkRlAyTWZ4YldiaUpndkdiYTNIMWlHaVhqWW9qbTFoTU5B?oc=5"
   },
   {
-   "title": "萬聖節前夕皇崗口岸運作暢順入境處料出境高峰持續至明日深宵- 香港",
-   "source": "大公文匯網",
-   "date": "10-31 06:48",
-   "iso": "2026-10-31T06:48:52+00:00",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RcjJFRVBWS1Fxa3Jwcm5jTDFhVFZWak1PV3Y0VkxYejhjUDV4cVZ0d3NQWUh3YVpLQy1XNnhmcWdyNzBqYUp5UEZ2eXMyM094V1o5dXN0ZDU5U0M2dG5JTGhkVzhvSHJoNk9YOWZMWTk?oc=5"
-  },
-  {
    "title": "香港加強往皇崗口岸服務：九巴將於星期日凌晨增設B10S巴士線 - www.5news.com.hk",
    "source": "www.5news.com.hk",
    "date": "10-31 05:33",
@@ -108,6 +101,13 @@
    "date": "10-31 03:31",
    "iso": "2026-10-31T03:31:46+00:00",
    "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPY3Y1RlF4STNPN2V3dThiTTNvUEE4TXp6R1FLQk4xZ2t4cXhlQ3diM0RrMS1aQTk5am04VThEa3lpRy1TNGxUQTFfWUx6UFdWS1EweC1TOW1HbWtKVmhHdjc4WnVVemxuaElseGpfTE1aTFVVd3JwQ3dKMDVuX3Vlcm9kZEhjZG5ZclRveFdBUUZFMTVJNnlOMW94a0lOMHpzWVAtbmY0SG10MFF0ci04VXFabkhfQ202bG9leXNOT0FtaG9mRGhHZFNITHVFc3VhZVU5MlZQeDd5S0ZobGkzOV95eE56Sk5VNm5CVjVkWVZ2elJtdlhZaXZVbUdWRElGSnM5UmxUeXBvV0l6bW55Z2VMRXZXY1NzdmpHMFJuaDBCVzFjNWh6ZVVaamRYc2tSQ29KLUtlOU16UkpaNi1NYWlobmI2ODUtT2E0MmlJRk9GVXRaLUtlcDBlWW5yN2NmOC1jMGVqUk9qZ3BmcFhyOW9lSFpKNjV5SnBUNjg5S3NRWEdZTEljZkFWeU1IMklsQkFWSm0xblNNSEctSUdNSHVvRVV5aVc2?oc=5"
+  },
+  {
+   "title": "萬聖節前夕皇崗口岸運作暢順入境處料出境高峰持續至明日深宵- 港聞",
+   "source": "dotdotnews",
+   "date": "10-31 03:06",
+   "iso": "2026-10-31T03:06:06+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10SkV2MTNIblRNZFdLU0dnLXRfMU12UjRydkdxYjRfT0ptaFFoTkdxNDVhcndkNW5MbmVEekNjQUF0djBTVGRzNE1lU1Y1cTdKeXB1S0JJWld0ZGJIdm42NVl6b0g4MjlKLVJlNmNncHQtSFBSSW9aSWpB?oc=5"
   }
  ],
  "ok": true,
