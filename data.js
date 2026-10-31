@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-01T06:46:40+08:00",
+ "generated_at": "2026-11-01T07:28:59+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "06:46",
+ "clock": "07:28",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -14,8 +14,8 @@ window.HGP_DATA = {
  },
  "others": {
   "HYW": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "HZM": {
    "arr": 0,
@@ -30,8 +30,8 @@ window.HGP_DATA = {
    "dep": 0
   },
   "MKT": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "SBC": {
    "arr": 0,
@@ -44,13 +44,13 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 91,
-  "wind": 10.9,
+  "humidity": 90,
+  "wind": 11.0,
   "code": 0,
   "desc": "天晴",
   "tmax": 29,
   "tmin": 23,
-  "pop": 73
+  "pop": 61
  },
  "warnings": [],
  "news": [
@@ -90,13 +90,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNZW1OdzdfbWJtWDFwMlRaaEVvODhoQ25ZbV9lRWo1V3pKdjh0V2ZxYWgyQlkybUtMVHNwRmhUdVNmNEpTeHV4NGVTd1FGaHBma2FETlNta19fUk5mTzZyN2NlcVN3SndGd3BZV0ozSmp3OHFaeXVWcS12UHh1ZGhNYk02UGoyMDNBMEpZSDdfdXctODhKX3VQbEFpeFZJRG9STkluX3hVaThQS0VvQ0szR1k1WXpXSzNBdVNwSVl5WUlIRURwZzUyVk1weElOU1VSc3hNTVZSMGdidlFkc3czU1NwSDRVUTh3MUJ4OWloSW5MbnV6dGhZZndzUTNtVm4zcHcwVHpHM1ZZNV92T0VrTkpTWGZ6T2lfUmVTTUlqRXZ1aEdNdHdEdUFCTkhyZHB4aWdqRmg4YlZlVHhmcnU0QmpwMEZBb3VLdGNzYzU3NlN2aWxYN0ZpYzh1dFlvdnI1M2FMYzBTYjdESnNnaHNwWVRQMjNMdTB2Wlg1ZEZja2gwZ2tPQzJLZWFnOHFpMlEwVXVFMW93S3Q0RlRKYmlmRGpzWQ?oc=5"
   },
   {
-   "title": "萬聖節交通消息｜新皇崗口岸一度繁忙 出境輪候時間回復正常",
-   "source": "香港01",
-   "date": "10-31 19:11",
-   "iso": "2026-10-31T19:11:26+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNajNZRUhKa1VHTG9OeHE0NEl0UzE5a0s4aDgwT01HemlfRXpRZnVPNWQ0c1REM0prTjhXRjlrZFBHYk5MOXdTY1dGdWlsYUs0cmRDMGRpMGl2dXhINWthN2J4cVBmWVh3cnRfYnVEa3ZJNVQwRzhfd0ZucnR4aDlEUDBOQkprYXFKWnVWTWhrRkVORTdMaGJZd21OTWt1ZDBDYWZialk0RktIeG1XRHdFMUpBZkMzMUducXdSWmk4Z1RXcUN2akRReWdWRGpDXzY1RkdPSEtzb096aEVfa3dtT3d5WHRRRVNpSlE0SEpIcXc2OU9UYzlBZElHeVlZRG5HS3BDM1RKUzN0X1ozT3pyMngtWHN6UHF4dUNiTDFIeG5uc3VYcDdKQlZVQkVmcHVTMHZrTklDSHZNdkxoVHdmZDBBYlRDM2RBd293TjM3b0R1UXRSc1ZBSEJnbUxDbVFHeW0zMGFfU00yV2E2US1DUXZ4VmpKeDZvZjJfMFZoR2Rlb2hBTUp5WERfWXhZdVJOWnVkSWVWSkFjSzRtVUNoUDNEakJTMTF6cUliTGpuRW8?oc=5"
-  },
-  {
    "title": "萬聖節散場北上人潮湧旺角 往皇崗小巴站600人排長龍",
    "source": "星島頭條",
    "date": "10-31 18:35",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "10-31 18:20",
    "iso": "2026-10-31T18:20:24+00:00",
    "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxORzBiRjFnYm85bTROaEp6WjhiWFduaUNXMUNsZjNyeVRGRjVmUXlvZlFKVzQyekN2NUtQcFQzd29wM0tTV0swT1VzTEdaV2t0Z0E3OTdWSm9XYXRYUDlyYmlTY2w3TGhRSDQwd2x2NVhRVkRvczZLYXk3amxQYV9DWmk0YWRwa01MdTUwUVNWenMxbXFuWjNlbU8yT1pXMzZXUUpyYXFGZ1dkdGFaNl9RU2FnajhjemhKWHBYeHpzN0J1bmtwUHhsb1VQaXBSdldCaUJiRzJzR01YQS0ydlFudUIxMThrNmR0UE1SMzJaRzJMUnlJYy1aQktkNVU0U3p0ZmtQSFpwbmkzYnBVZkllbXdfOEVBckpGNTJaSy1ZV1JPaXh2bFAxMXEyMHVIdnNmUURLSWd2MjNFa3BpZ2drd29ka0NrLTkwaTRhVnZkTTljeF9Yb2xFYkI4N3RYMng4RnlIQjBuREZfUTRiVnhaZEE3U0xwWk5lM0RIYmNoZWowUkdKdGc?oc=5"
+  },
+  {
+   "title": "皇崗口岸午夜後迎出境高峰 旅客過關需等45分鐘",
+   "source": "Yahoo",
+   "date": "10-31 18:17",
+   "iso": "2026-10-31T18:17:25+00:00",
+   "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQVGk0aGVPQ29HVTRQeE1IVXJWX3ZVaDFVd0g2QkhPZDQtR0luUm5jb3FYbHpXcWd0REFMYjJJVGwyOGtHTDVnQno5ZWhEc0RJdExEc1gyRHU4akZNbXFydE5NUWl4SVJFd3pOcldyeXBIYnQ3d2VFT25YVGRLRXBjbHYxaGk2TG9yV00zNXZBQWhSN0Z4NThzT1pQWHJKcHdybk5Md09QQ0VEUURwd3RHaGs3eHRxMWtQTUJNWE9fM2RnUUJGMWZPVGRnaXpHWUJSSThJRUE0Nm80d1M0ZmJwZFF5NXktSmpWdDFLWWtiT2l5aUpjZUlrNkNSeEt1NnExbDdjRnhOVWt5clNVSnVSbDd0cDVKYU9uejFJU1QyQnJXNnNtTG8tTnVEVFpicDFmckxmb2Jib3JDTkJNckNZR1NwVDBmQVNrZFBzSVBYTzFsSXNjMU1NTEx1a2lOSXFrOXhlcTZUWGdVaVZhT2xablBDampyY2lqdHUzdUhkV2I2X2pL?oc=5"
   }
  ],
  "ok": true,
@@ -119,19 +119,29 @@ window.HGP_DATA = {
    "level": "ok"
   },
   {
+   "tag": "早更",
+   "text": "跨境上班上學人流集中，出境大堂及 L2 交匯處會出現短時人龍。",
+   "level": "info"
+  },
+  {
    "tag": "週日",
    "text": "傍晚 5 時至 10 時返港高峰，入境大堂壓力最大。",
    "level": "warn"
   },
   {
    "tag": "有雨",
-   "text": "預測降雨機率 73%，室外通道及上落客區會濕滑，提醒旅客及同事小心。",
+   "text": "預測降雨機率 61%，室外通道及上落客區會濕滑，提醒旅客及同事小心。",
    "level": "warn"
   },
   {
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
+  },
+  {
+   "tag": "車流",
+   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "level": "warn"
   },
   {
    "tag": "禁區",
