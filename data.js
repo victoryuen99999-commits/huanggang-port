@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-31T14:47:04+08:00",
+ "generated_at": "2026-10-31T15:46:32+08:00",
  "date": "2026-10-31",
  "weekday": "星期六",
- "clock": "14:47",
+ "clock": "15:46",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 29,
-  "humidity": 51,
-  "wind": 15.9,
+  "temp": 28,
+  "humidity": 58,
+  "wind": 16.5,
   "code": 0,
   "desc": "天晴",
   "tmax": 30,
@@ -55,18 +55,25 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "萬聖節｜深圳灣口岸延通關至凌晨二時 鄧炳強籲遇塞車忍讓 或到蘭桂坊飲多一杯",
+   "source": "星島頭條",
+   "date": "10-31 07:03",
+   "iso": "2026-10-31T07:03:49+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOYUQ5a20zUFZRWXpnQjRDa0kxLUNMaTVRQXRGS0tZWEZOMEVWU0ZOeUJLWFpUclpFekk3Q0JOMW1QNkd1c3FJMDhJZzRuSkNnNHVyUGFRUVB2Z2pEQXZhVjZRZHhjYzlTTVJaZm1iNC1ZMDNjRkV2NVNudXhBVnA5THR6OVloaF9ySHdWVl9pY0hXQjhwOWpCOFR1cTVMeFI2czlwdmVtcU9wVnNyMWowUlZUaE5TSEVwT256MlVPT2NwTG9wMWlUbnhlUDRWYzJ2N0NDUmU0TG5xYldTN3JtbXBjZm14alBFMWpiVjFKMDB3blRsSmhiLUthV29DWUU5TW9tbXFpUmpRN1lqdmx4NEh0R091SUNRWmJJdHMwTlpHaVp0X1E1WXBFMDZteFEydlBvWlpoenMtZGZxQzlTV08yaEU1bGExcDdFODhkZG01RERPVmRzZFV6MWdjakVoMHduS1JYSlMxOHpfdWdEV2lpOHRRcDljdXpWNXVpQ1ludHRvSEdMUEpUZXJPWUlXUjQxMlJHYVlJS2RIWjY2UzFObXBwMnEwQzl0dC16SmU4RnFkVXFsWXZ2QmRxajltUUVZWFNfcGdsT1hTcDVWWVkwZXdUUjBabjVYNHAxWHVEVUd0cFd4TVQ0aXY0aEJm?oc=5"
+  },
+  {
+   "title": "城巴皇崗專線B14全日服務再延長兩星期進一步加密班次- 香港",
+   "source": "香港文匯報",
+   "date": "10-31 07:01",
+   "iso": "2026-10-31T07:01:58+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HWUFkMG1URVpJbUlleW1QbDBxWW9qdGpSc3IxOXlpUUZSWDJGTm95SVRvZGowczczcHZsX0RvY1ZkdGtNZEdEQWcyR1hiZjNXaWFkSFVkRlAyTWZ4YldiaUpndkdiYTNIMWlHaVhqWW9qbTFoTU5B?oc=5"
+  },
+  {
    "title": "香港加強往皇崗口岸服務：九巴將於星期日凌晨增設B10S巴士線 - www.5news.com.hk",
    "source": "www.5news.com.hk",
    "date": "10-31 05:33",
    "iso": "2026-10-31T05:33:47+00:00",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vWnNvS1JlNHZybERfbkV5VWFEaHZCY2FIX3FGYWZ6YTVLSkdmaFhxOG5Xd0V1QV9sNllIUzVGYzF6RFlULVRGQ05lZGc2UkFRX2xZTE1NNlUwclEwZ0xHVmppWGlqRGtHX1JMV0ttOVhETmc?oc=5"
-  },
-  {
-   "title": "城巴皇崗專線B14全日服務延至11·15 班次最密12分鐘一班（附時刻表）",
-   "source": "dotdotnews",
-   "date": "10-31 04:16",
-   "iso": "2026-10-31T04:16:42+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yeHZ4T2x6UmNmVmdDRjhqRmZvYUFjenBzcDFHdVJhS3JtajZabm9mNG1kQWk0bGlKa0x5YlF5N0xWQTJORElBMnhXSVlkdWxNUnRvQVU2TlJkdTFWV3ZwRk1pRmJiYnF2SGpfRFFmZC04T0JlX0VQZk53?oc=5"
   },
   {
    "title": "皇崗｜城巴皇崗專線B14全日服務延長試行至11.15 擬提升為恆常路線",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "10-31 02:26",
    "iso": "2026-10-31T02:26:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxOUHNuVFgxVmg1YlJNbVlvdnV0MTN5Y2tRRjNZY2pQekV4ZDM0bFJfa2gwaXB6bzZsQU1uUFhQWVE0bXE0NkRnQjBMQ0pyUG9wdWJlSExZdkhmdElxQkk5ZTVTVkROOUk3ZTk2Z2NzaV8tdjltd2I4UzlRSEU2WnBMMC1tWDhab0VtRWlpVlVDU3BHZWR0TVpjckNhcWpmN3VSVnF1VGZJWENvcnFvT1k0aXpDbVp5SHRaS3pfMDJ3QTZ2WjMzRldnR0ttb09kcnRHZVRWVHEtNUdCd3FxYklxTU5NVEl0eUw3dXpfWU44Q0pTaEVENW1sUmRCdGFNWWhQbDNFQUhxNHdjUUlXTEFGQXBySWFlSHVmVlBuaUZSdHVtR3lWVzh4U3ljcGZjbm1paURqVElLa0NqVG1ZSlVZN2Z4YVVCNFBZLUxjcE50NlFvbkNMQUVmam1SQnRWcXdRZjFYQnBmTmNuMHllYjd4bXFGVjNrcEZTVTJmdjhvUTF6MWZjRWRpTXI4NDMxdi1fRTVFajFnVzlZYnl6T3pxcXVOaDFIS3RUNk9IcVBDZGY4bC14Q3NHOFNwZ1UtV2g4SHZ2ODFIektPRW9F?oc=5"
-  },
-  {
-   "title": "入境處副處長視察皇崗口岸及深圳灣管制站 深宵出入境大堂整體暢順",
-   "source": "巴士的報",
-   "date": "10-31 02:13",
-   "iso": "2026-10-31T02:13:58+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQemV2ajRZNkpZMW9rdDhsd1ExY1NvQ1RkZEFETEt0a25iNnFCRWpmUndJd2dyT09YRFBmNHpqX3ZwVkZhanNIUHhGaU1uNWRhQkZCWEdpcUxiTy1SQWlBQjRtUjNGbXRRSWtpQUtzT0s0R2lMMkN3dGF1OEYwX0N3YU9TcWZvLWZVSVlxYmRuTGJyYWdZM2pLYl85SDhmQW9hQWE0bmVoTHUtZndEZEdnNi0yQ0dTc3g0X2tmS3Iwd091MGtKV3NENUFlaVAwYjBZaW5qWVNTcXJwS0ZGZ05ZN2hicjAtY1NZX3ZfcHo1MmMtUy01UTQ1YzN5bXdOTEttUFNBLXNxWWJCLWlDb3MxY2lSZHhqdUVhVzY4b0pUUnlxUE9Ud1QzZ1p0aXprc3hXVnJmUEJzN195S2VzcUpvelFfaWUwQldJOW45cTl2dnhmYV9rZWhUUEpVR0FsR1RJMGFvRlNJOHVBdWRDbjRJ?oc=5"
   }
  ],
  "ok": true,
@@ -127,6 +127,11 @@ window.HGP_DATA = {
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
+  },
+  {
+   "tag": "車流",
+   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "level": "warn"
   },
   {
    "tag": "禁區",
