@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-01T02:34:26+08:00",
+ "generated_at": "2026-11-01T03:22:53+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "02:34",
+ "clock": "03:22",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,10 +44,10 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 24,
-  "humidity": 85,
-  "wind": 7.1,
-  "code": 2,
-  "desc": "局部多雲",
+  "humidity": 86,
+  "wind": 7.5,
+  "code": 1,
+  "desc": "大致晴朗",
   "tmax": 29,
   "tmin": 23,
   "pop": 73
@@ -55,11 +55,32 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "萬聖節交通消息｜新皇崗口岸一度繁忙 出境輪候時間回復正常",
+   "source": "香港01",
+   "date": "10-31 19:11",
+   "iso": "2026-10-31T19:11:26+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNajNZRUhKa1VHTG9OeHE0NEl0UzE5a0s4aDgwT01HemlfRXpRZnVPNWQ0c1REM0prTjhXRjlrZFBHYk5MOXdTY1dGdWlsYUs0cmRDMGRpMGl2dXhINWthN2J4cVBmWVh3cnRfYnVEa3ZJNVQwRzhfd0ZucnR4aDlEUDBOQkprYXFKWnVWTWhrRkVORTdMaGJZd21OTWt1ZDBDYWZialk0RktIeG1XRHdFMUpBZkMzMUducXdSWmk4Z1RXcUN2akRReWdWRGpDXzY1RkdPSEtzb096aEVfa3dtT3d5WHRRRVNpSlE0SEpIcXc2OU9UYzlBZElHeVlZRG5HS3BDM1RKUzN0X1ozT3pyMngtWHN6UHF4dUNiTDFIeG5uc3VYcDdKQlZVQkVmcHVTMHZrTklDSHZNdkxoVHdmZDBBYlRDM2RBd293TjM3b0R1UXRSc1ZBSEJnbUxDbVFHeW0zMGFfU00yV2E2US1DUXZ4VmpKeDZvZjJfMFZoR2Rlb2hBTUp5WERfWXhZdVJOWnVkSWVWSkFjSzRtVUNoUDNEakJTMTF6cUliTGpuRW8?oc=5"
+  },
+  {
+   "title": "萬聖節散場北上人潮湧旺角 往皇崗小巴站600人排長龍",
+   "source": "星島頭條",
+   "date": "10-31 18:35",
+   "iso": "2026-10-31T18:35:26+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOSGt3U1hIcEpGRXlvems2S0psYVkyU1FHeWw3VVJGeTdTc1pOUExsQTU0dlU5Q180dHBBNkVpUkM1ems3Nkpib2dVcEZfa3o2ejFTUHcwVWFsTWVfcFFjOEFFN3R5Sk1XLWZWWWVIRE1BWHFHT3ZvZm9nWTJvMTRLcVlYbUc0RW5td0stSS0wRWhJTHE3TXl3UkQ2NjRyWWZpN1VRek1HXzZycE1zN0llYjAxOUJxOFRmZUlYMlliNjczWUJUbXI3V0hXTk1jWnFUdHNaXzBrYlRJX3pCczZzRkZvZThrRDJyb2pGa3MyUGZvSThncU5tTGo5dUt6M25yS2FfMjZ4b2h6SVJtQUdSa0p1Yk0tcDlINVVsWTJGTV9ZTFZBUWNLc0hUVTdzRHR4bjdRYmxMMDNBaEk0WTM1TDRrTFllN1NwWm53SWNURm5NV3Vud0I1M1hSa092cEktbWpWX0ZfbV9HUQ?oc=5"
+  },
+  {
    "title": "萬聖節｜旺角600人等上車去新皇崗口岸 旅客大讚：比預想中快",
    "source": "香港01",
    "date": "10-31 18:20",
    "iso": "2026-10-31T18:20:24+00:00",
    "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxORzBiRjFnYm85bTROaEp6WjhiWFduaUNXMUNsZjNyeVRGRjVmUXlvZlFKVzQyekN2NUtQcFQzd29wM0tTV0swT1VzTEdaV2t0Z0E3OTdWSm9XYXRYUDlyYmlTY2w3TGhRSDQwd2x2NVhRVkRvczZLYXk3amxQYV9DWmk0YWRwa01MdTUwUVNWenMxbXFuWjNlbU8yT1pXMzZXUUpyYXFGZ1dkdGFaNl9RU2FnajhjemhKWHBYeHpzN0J1bmtwUHhsb1VQaXBSdldCaUJiRzJzR01YQS0ydlFudUIxMThrNmR0UE1SMzJaRzJMUnlJYy1aQktkNVU0U3p0ZmtQSFpwbmkzYnBVZkllbXdfOEVBckpGNTJaSy1ZV1JPaXh2bFAxMXEyMHVIdnNmUURLSWd2MjNFa3BpZ2drd29ka0NrLTkwaTRhVnZkTTljeF9Yb2xFYkI4N3RYMng4RnlIQjBuREZfUTRiVnhaZEE3U0xwWk5lM0RIYmNoZWowUkdKdGc?oc=5"
+  },
+  {
+   "title": "皇崗口岸午夜後迎出境高峰 旅客過關需等45分鐘（何嘉駿報道）",
+   "source": "Yahoo",
+   "date": "10-31 18:17",
+   "iso": "2026-10-31T18:17:25+00:00",
+   "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQVGk0aGVPQ29HVTRQeE1IVXJWX3ZVaDFVd0g2QkhPZDQtR0luUm5jb3FYbHpXcWd0REFMYjJJVGwyOGtHTDVnQno5ZWhEc0RJdExEc1gyRHU4akZNbXFydE5NUWl4SVJFd3pOcldyeXBIYnQ3d2VFT25YVGRLRXBjbHYxaGk2TG9yV00zNXZBQWhSN0Z4NThzT1pQWHJKcHdybk5Md09QQ0VEUURwd3RHaGs3eHRxMWtQTUJNWE9fM2RnUUJGMWZPVGRnaXpHWUJSSThJRUE0Nm80d1M0ZmJwZFF5NXktSmpWdDFLWWtiT2l5aUpjZUlrNkNSeEt1NnExbDdjRnhOVWt5clNVSnVSbDd0cDVKYU9uejFJU1QyQnJXNnNtTG8tTnVEVFpicDFmckxmb2Jib3JDTkJNckNZR1NwVDBmQVNrZFBzSVBYTzFsSXNjMU1NTEx1a2lOSXFrOXhlcTZUWGdVaVZhT2xablBDampyY2lqdHUzdUhkV2I2X2pL?oc=5"
   },
   {
    "title": "萬聖節｜皇崗口岸出境輪候時間回復正常 一度顯示等候45分鐘",
@@ -88,27 +109,6 @@ window.HGP_DATA = {
    "date": "10-31 17:59",
    "iso": "2026-10-31T17:59:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIa21wQ0NyeXBNbVJOejNzbHlfLVlzdHQxSGt0TkVqd0tHMzktdTE5VU1Ia1l6QWJHdHpMQ3dHSERIb2h3OFpRRmROX1kwaTJQQ1MtdXNEWE42ck53N2E4N2RjSDVkWkhhWGlGTVdhQQ?oc=5"
-  },
-  {
-   "title": "入境處指，新皇崗口岸現時出境人流相當繁忙，呼籲北上出境旅客，盡量於凌晨二時前改用深圳灣口岸出境",
-   "source": "Now 新聞",
-   "date": "10-31 17:41",
-   "iso": "2026-10-31T17:41:44+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnlwczNkTk16T1VTREhsbEZlRTdfb1pxVVU5cHVBU2R0MU5Rb0JjaV9DdmczVEE1Wksyd2F1WkdfSU1uN05KUTdwUFhNbktyc05icUV5UnFTczYtc1dyMFdjZloyS1ZfYTkzeUhMZzZKaWNxcWI1cFRPbXJyaTAtTkpBckVHeThmeXp2RUx1Q1pmTDhWbHlkeHIzakpRN0VXb3NJ?oc=5"
-  },
-  {
-   "title": "新皇崗口岸往皇崗方向交通繁忙，警方正實施人群及交通管制，前往落客區車輛預計需在口岸附近等候約15至30分鐘",
-   "source": "Now 新聞",
-   "date": "10-31 17:41",
-   "iso": "2026-10-31T17:41:43+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSzZXanhlZ2VJcmY2TnVNQ0loMU03dFRyZTliV01DRWJqYVhka3JrMFdLUUlqYjhicXJOUDl5Z0VNTHA4RGpjTUY0bjllQWUxRk5NUk94VVdOcGZYQXlTRF9IYXhKdUgwQm1sQ2c0TjhaT0h2TmN2N0xZTlppV2MtX2x3VHp1V0h2NzNsUnlhTDdFaW1DeHp2YUN4MnBXSjRSc05n?oc=5"
-  },
-  {
-   "title": "萬聖節｜新皇崗口岸現人潮 旅客離境等45分鐘：比酒吧街還熱鬧",
-   "source": "星島頭條",
-   "date": "10-31 17:27",
-   "iso": "2026-10-31T17:27:53+00:00",
-   "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPTUJwRTF1emJEeE9DOUVja3BxUzU4Q1RIeTFUZHJGTlhlZFJWY3c5aVllVEdNa1dXWjIyYVJNUVpQQU10UkpDM09lckpHd3ZNYXhnTkZ3bTJRMjd0blhzNjliWklSNDZBb29CQ282YmRSQ2p1bDdEaVEzR2ZtV3dPRVFXcnFmTjNEbUcxVHBqOGRKRWVkbkpEZkUtNWtrSVBrNnYzTTcxcG9raVhvcVZKNG9aemcteS1vRG1GVlpPUEZUbkdrQ2psT0R1UFdSSlRCTF9kQmc1cjBJemptTHk0a2MzUzdYSi12aXhqYkwyZ3VjcFJRVmhwNWN6d1VidGtfcGFWWnUwWVZtODNJa21PMFpPRkticFlNZWpKbHhReE8yX1NzV1FpMndKamE3YUFNdEVxLWJwdDJkNWdoQkQzcnZLMU44V0NGckFaUE1MYnhqa3hjeVQ4eGRhWVBnQlI4YVpvWEFQNmNadEMwUU9QY2lmclVqQUs5MzVMdWlKUU5ybmJlYjRaQlVRTXFOZw?oc=5"
   }
  ],
  "ok": true,
