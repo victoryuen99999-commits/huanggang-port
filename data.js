@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-31T21:00:07+08:00",
+ "generated_at": "2026-10-31T21:54:03+08:00",
  "date": "2026-10-31",
  "weekday": "星期六",
- "clock": "21:00",
+ "clock": "21:54",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,10 +44,10 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 24,
-  "humidity": 79,
-  "wind": 12.4,
-  "code": 0,
-  "desc": "天晴",
+  "humidity": 83,
+  "wind": 12.0,
+  "code": 1,
+  "desc": "大致晴朗",
   "tmax": 30,
   "tmin": 22,
   "pop": 0
@@ -55,10 +55,10 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "政府料皇崗口岸今晚為出境高峰 將開放所有自助通道及人工櫃檯疏導人潮 - i-CABLE",
+   "title": "政府料皇崗口岸今晚為出境高峰 有內地客決定提早回程避人潮 - i-CABLE",
    "source": "i-CABLE",
-   "date": "10-31 12:33",
-   "iso": "2026-10-31T12:33:29+00:00",
+   "date": "10-31 13:18",
+   "iso": "2026-10-31T13:18:45+00:00",
    "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPVmxTZzRLa3JIZUxpWUdHNXlLbW9hekpYTmNKaFVTYmVMbG5iVkdZZFJxZkpGXzdwYW4yQ1g1MEhfTy0zVndmelFqY2tDb1BVdEZwNFU3ckpmYzh1Mm5EUG51ZE1FRDJmSjRCMXE2SS1Dd0czZFE4YWtITE82RVZaSmpBazEzREdLUUwtR1pBOUJmdmVrd0NKWjFSZk5fSWNTTFdud3JuNlNXalc4RGFRdS1ITndfaVlrMjAtUzJMMl9XOUdFbS02WFMtUWFCM1VmSnZqQjNPdEZvMHc2LUViWUhXVmgtc2laYzZiYWNiY1c2Z0FPYzVtcWlEbmRqaG9wTzlRallKUU0wYUswSnJ6OUVUYlZsckxxWGJzTlQ2LTVCT2ctMVRVNlZmb20zUDNsTmFVQTRhNlJlanR3UlNxVng2VlNfbk9wYXFUNTltYW9HcnJlcGVBX0Z3d0FwOHBZV3FETTJGX0l1NnQxWFllRnRiMHQ?oc=5"
   },
   {
@@ -90,6 +90,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPcTNnc2dtR2ZmeXVmTG1GRFFhNDdSMkpaRWZlWDdyOTFoV0RVOU81UlBKT3NvamJiUHQ1U1ZNYW9UaTlBOTA4NGl3dVZXV09Vdm1QNVRkNlllSTB6c3M5cHNuNGtfay0tek9DVWQ5WUxEeThoWlVDamUyWFNSbnJac1JGdTdQU3dOU2lFMVVsejVUazA4bkJUcmYxazVZeHVGY1lONTBzaS1aX0VSUkFFUm1QZUQyQmFRVjZpUDBBbEVrY2l0NTBfZk8tMUs0VkM1aUNoZGdxVmFteEphT09nMnh4dVVGQnBMYmtUVmlGa1hHb29rd2hmaEJhVzNyNENudHVsWUtWY2tLcUtxczU1YVFIamhWMEczcjBPMExjalFram0wdVNxM2RrSTY5MGxJaW9OZGg2NFNsa0hHZUN3ZG5fd1ZEb3dOSkhzUHZoTW5NbmUtNEl0V3VIMWNJdl9ycXVxeGt6RGM0Q1gyMWJRekphSTV0NVI5V1NDZ2x0eXFyMzhWY05MZXh1c3FfVGEtNzMxX29QYzJqZWUw?oc=5"
   },
   {
+   "title": "皇崗口岸｜點新聞記者深圳直擊新皇崗口岸南向客流攀升啟德線站台一度百人排隊- 香港",
+   "source": "大公文匯網",
+   "date": "10-31 11:07",
+   "iso": "2026-10-31T11:07:06+00:00",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wR3M3bEsxWnBsQ0lMbEZBeWRzRnl3TW5CMkpES2EtaDEzN0FvWXBhZUMyal9hTjFBeU1Zb0tCekEtbTMwUXh1bnVZRHVXS0VGVVBQMlhXVl95Tkppdk9lbTgxSDg3OEt2S3JOYnAtYmU?oc=5"
+  },
+  {
    "title": "城巴B14來往皇崗啟德 延長全日試行至11‧15 擬提升為恒常路線",
    "source": "on.cc東網",
    "date": "10-31 10:43",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "10-31 10:17",
    "iso": "2026-10-31T10:17:30+00:00",
    "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNR0xHaEZnMUt3WmNfN0wxVFZtbU82RWIxRmtDSTZHTjQ0MVBlV0J2X3pYWFNDSU1OVzNEcVl6SGtTcXo5bGFWSDQzSDVlM2x2aGY2VGl6Um9pd2tpSW13dXVpaFZDSGtHMEo3YVFlczAxNlRhME5lLVZfcHNqbW9VbDFXRjZ2U1RyeGE5dF9zMlJqcWp4VlRCNkJ1MmhHN052QV95ZUhRTnVZd0FCbURodVVlemR2SmpnMW1vUGJ6c1RvVWhac0wwelpPenh2cF84UGdvRkctLXl2RjZSX2ZZRmJ3eVY3eFJKbXAzcGljSVN0MkJQWFdSUGtnNG1ZVUh5dXFQRWVBcjJpWWFzRXk3UnRZTVM0TXBxX2UtQWk5dnJSQUhPYUU3d25VTGR4YThBbkRUN0ZMT2Ztd2xFUE9MZE5RSGhjOG1LdHoyOHRNMlo1amMzbTJkeTVka1JLR0I5RUVQWkFCNVY5dk9xYU1rd2hNTQ?oc=5"
-  },
-  {
-   "title": "萬聖節｜入境處：預計今明深宵為皇崗出境高峰 籲旅客錯峰出行",
-   "source": "香港經濟日報HKET",
-   "date": "10-31 09:28",
-   "iso": "2026-10-31T09:28:46+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOcmozTzRNN0dmNDcwNXNtb0pwTjM0S0w4anlBamR3NklhU1VQbjJsclNMaWpZaTB4d2h5bTNDdGI2WHdhdENMRER4cTlVV1dFcm5Oc1RUNXZFRXRRdXdWN2MzVHJYSXp2VlNDYlQxNTJvcEY4R1pEc1Yxd1kwZ3Zxd2VwekFhUEhOX1JLQjNQQ2hQRmtYN0FuWTJzSGRzMUZSXzlEaEtodzJwVC11TlRPQUYwTjlFM3V4N3dic3lLQXFSWV95OVdUVVNpWGV0ZFlfZFVDWUg3MzdZYl9HX2lmbEYwcmJLZVR3ckZfR2xhNDc1ajlDMUVfMFJCbWNvc1hTdFdVZGVYcW9vblI3NjNhM2hMV09hckhCUGJuVk9UOUpyMWJzNmpaUXJEblF2eWJIOTNRWTc1eWpyQ1M0X1N5blU5dXdGUmxySTQwNUo5ODdSMnc4MmloUkhIOUx4UkYzLU96Qk43V1pLZlFJMlptX01YaUFaWmdwc3lfTzlHZExIQXZuX2JHN3VPMHNhV3Q5WjdWRUZsc2w1SXhYa2hGREEwd0RndjZ3X1pEZXBNamtuQzVrRTc4Yg?oc=5"
   }
  ],
  "ok": true,
@@ -127,11 +127,6 @@ window.HGP_DATA = {
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
-  },
-  {
-   "tag": "車流",
-   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
-   "level": "warn"
   },
   {
    "tag": "禁區",
