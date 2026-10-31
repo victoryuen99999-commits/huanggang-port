@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-31T19:28:31+08:00",
+ "generated_at": "2026-10-31T20:06:46+08:00",
  "date": "2026-10-31",
  "weekday": "星期六",
- "clock": "19:28",
+ "clock": "20:06",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 24,
   "humidity": 77,
-  "wind": 14.5,
+  "wind": 13.4,
   "code": 0,
   "desc": "天晴",
   "tmax": 30,
@@ -62,13 +62,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPcTNnc2dtR2ZmeXVmTG1GRFFhNDdSMkpaRWZlWDdyOTFoV0RVOU81UlBKT3NvamJiUHQ1U1ZNYW9UaTlBOTA4NGl3dVZXV09Vdm1QNVRkNlllSTB6c3M5cHNuNGtfay0tek9DVWQ5WUxEeThoWlVDamUyWFNSbnJac1JGdTdQU3dOU2lFMVVsejVUazA4bkJUcmYxazVZeHVGY1lONTBzaS1aX0VSUkFFUm1QZUQyQmFRVjZpUDBBbEVrY2l0NTBfZk8tMUs0VkM1aUNoZGdxVmFteEphT09nMnh4dVVGQnBMYmtUVmlGa1hHb29rd2hmaEJhVzNyNENudHVsWUtWY2tLcUtxczU1YVFIamhWMEczcjBPMExjalFram0wdVNxM2RrSTY5MGxJaW9OZGg2NFNsa0hHZUN3ZG5fd1ZEb3dOSkhzUHZoTW5NbmUtNEl0V3VIMWNJdl9ycXVxeGt6RGM0Q1gyMWJRekphSTV0NVI5V1NDZ2x0eXFyMzhWY05MZXh1c3FfVGEtNzMxX29QYzJqZWUw?oc=5"
   },
   {
-   "title": "皇崗口岸｜點新聞記者深圳直擊新皇崗口岸南向客流攀升啟德線站台一度百人排隊- 香港",
-   "source": "大公文匯網",
-   "date": "10-31 11:07",
-   "iso": "2026-10-31T11:07:06+00:00",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wR3M3bEsxWnBsQ0lMbEZBeWRzRnl3TW5CMkpES2EtaDEzN0FvWXBhZUMyal9hTjFBeU1Zb0tCekEtbTMwUXh1bnVZRHVXS0VGVVBQMlhXVl95Tkppdk9lbTgxSDg3OEt2S3JOYnAtYmU?oc=5"
-  },
-  {
    "title": "城巴B14來往皇崗啟德 延長全日試行至11‧15 擬提升為恒常路線",
    "source": "on.cc東網",
    "date": "10-31 10:43",
@@ -80,7 +73,7 @@ window.HGP_DATA = {
    "source": "星島頭條",
    "date": "10-31 10:17",
    "iso": "2026-10-31T10:17:30+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOWGVDU3FrYzlzVjJIanRHempSM1hoQlhwcHkxSXJqU2RxeTdKMjF1Szh6cF9vbDVPcmZsZjhDZDFRd3d2ZXBvNDA0dzQxd2dPbDNNeXYydjNpZmZjeGRKRTBxOVNrd1BkMlZKSjdfYWNFQ1ctLWdxakFaeFdKNk5Yamo1THVqd0ZxUjVudTJzN2lNb1NCdGxQdEhQOW0xVEtPeW9IVHJfQU9aVldpWGllOFg2dlVQeGpPYm9QMS1SMnZRMjVRUndWM2RHQmxJazgyVVdKdVlOenRuVklCOVZnSnhTSlZhWGtJOVQyTzlIdm54MV9oU3E0TWlDZEdXM05hNWduakEyc1I0R1dINDBET0FtZi0ydzQzNTNmS0dFcGdDTXRCeUc1b05DOFd6ZkRNUTQ5OGFYeFBpZExZbW5iZXNSejJjRl96M2M0MW9td3NSUWF5aG1Ud1VaZ3dNZ0ROdExsaTAwaVJGdkNvb0tlNkNaMA?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNR0xHaEZnMUt3WmNfN0wxVFZtbU82RWIxRmtDSTZHTjQ0MVBlV0J2X3pYWFNDSU1OVzNEcVl6SGtTcXo5bGFWSDQzSDVlM2x2aGY2VGl6Um9pd2tpSW13dXVpaFZDSGtHMEo3YVFlczAxNlRhME5lLVZfcHNqbW9VbDFXRjZ2U1RyeGE5dF9zMlJqcWp4VlRCNkJ1MmhHN052QV95ZUhRTnVZd0FCbURodVVlemR2SmpnMW1vUGJ6c1RvVWhac0wwelpPenh2cF84UGdvRkctLXl2RjZSX2ZZRmJ3eVY3eFJKbXAzcGljSVN0MkJQWFdSUGtnNG1ZVUh5dXFQRWVBcjJpWWFzRXk3UnRZTVM0TXBxX2UtQWk5dnJSQUhPYUU3d25VTGR4YThBbkRUN0ZMT2Ztd2xFUE9MZE5RSGhjOG1LdHoyOHRNMlo1amMzbTJkeTVka1JLR0I5RUVQWkFCNVY5dk9xYU1rd2hNTQ?oc=5"
   },
   {
    "title": "萬聖節｜入境處：預計今明深宵為皇崗出境高峰 籲旅客錯峰出行",
@@ -88,6 +81,13 @@ window.HGP_DATA = {
    "date": "10-31 09:28",
    "iso": "2026-10-31T09:28:46+00:00",
    "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOcmozTzRNN0dmNDcwNXNtb0pwTjM0S0w4anlBamR3NklhU1VQbjJsclNMaWpZaTB4d2h5bTNDdGI2WHdhdENMRER4cTlVV1dFcm5Oc1RUNXZFRXRRdXdWN2MzVHJYSXp2VlNDYlQxNTJvcEY4R1pEc1Yxd1kwZ3Zxd2VwekFhUEhOX1JLQjNQQ2hQRmtYN0FuWTJzSGRzMUZSXzlEaEtodzJwVC11TlRPQUYwTjlFM3V4N3dic3lLQXFSWV95OVdUVVNpWGV0ZFlfZFVDWUg3MzdZYl9HX2lmbEYwcmJLZVR3ckZfR2xhNDc1ajlDMUVfMFJCbWNvc1hTdFdVZGVYcW9vblI3NjNhM2hMV09hckhCUGJuVk9UOUpyMWJzNmpaUXJEblF2eWJIOTNRWTc1eWpyQ1M0X1N5blU5dXdGUmxySTQwNUo5ODdSMnc4MmloUkhIOUx4UkYzLU96Qk43V1pLZlFJMlptX01YaUFaWmdwc3lfTzlHZExIQXZuX2JHN3VPMHNhV3Q5WjdWRUZsc2w1SXhYa2hGREEwd0RndjZ3X1pEZXBNamtuQzVrRTc4Yg?oc=5"
+  },
+  {
+   "title": "口岸通：下午5時陸路出入境平均輪候時間正常",
+   "source": "香港電台新聞網",
+   "date": "10-31 09:13",
+   "iso": "2026-10-31T09:13:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtQTFmcmFOMkhnMDQ3ZlpXTFl5WlZVcGxIcDgxN3hOSEsxd09jVU1LakF5MnBZOWdJeEZpUV9HTjlvcFpjYjUzekdYLWZaOHNFRHljcG5sN3dlejlpLUZGMUlpbDNwSmVFakNoN1pNaw?oc=5"
   },
   {
    "title": "皇崗口岸｜限兩地牌解塞車？ 何敬康質疑本末倒置礙灣區融合",
@@ -117,11 +117,6 @@ window.HGP_DATA = {
    "tag": "天氣",
    "text": "天文台現時無天氣警告生效。",
    "level": "ok"
-  },
-  {
-   "tag": "傍晚",
-   "text": "雙向高峰：出境（北上）與入境（返港）同時加壓，L2 候車區最擠。",
-   "level": "info"
   },
   {
    "tag": "週六",
