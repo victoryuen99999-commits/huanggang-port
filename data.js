@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-31T16:38:30+08:00",
+ "generated_at": "2026-10-31T17:22:14+08:00",
  "date": "2026-10-31",
  "weekday": "星期六",
- "clock": "16:38",
+ "clock": "17:22",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 27,
-  "humidity": 64,
-  "wind": 16.2,
+  "temp": 26,
+  "humidity": 69,
+  "wind": 15.7,
   "code": 0,
   "desc": "天晴",
   "tmax": 30,
@@ -55,11 +55,11 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "入境處：皇崗口岸出境高峰為今明兩晚深宵 籲旅客避免繁忙時段過關 (16:00) - 20261031 - 港聞",
-   "source": "明報新聞網",
-   "date": "10-31 08:00",
-   "iso": "2026-10-31T08:00:34+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPRFJ3MkNaQWJHZEt6YzZ4aHpMTVpCRkQ1MUZqSzV4empCRWxhUEVsNmtHWmVIZWhoYkxYS1h3QUJrcmhsQnNzT2FHMy05Wk9pZjA0WkZOSXJUNUtIT3kxMnFlOE4tLThtRERiQnFSRWhxNEhScHk2Qzd0TXRFQjVsbkNmdEFwckdKOFltLWR6OHNGYW1PeUZtMlVlVGIxMmJpYVluSXU0TC03WDZzRE9ianFZeWFHWmZiREVDa0FVb3Y5YW5KODB4OFZaa3pUTWZKcUdCRlhGekVUckltTGpERkRZeG5zWDZNZWZnckVrVTM3OTJvM3YwSWRpRTc3UFUyc1RpR1VBZm1CYkJPZnk1cjR5aF8tRW9ONlVnT3lpVDBsQ0RDMjd3OGs4SVJDaDNnb29Ea2NpeW5PYWVLWHdiNzRDajFHTzVSLUJuVFg0YmE2MnVxQktDeFZNdmpkUzhfZzlfTldiVDRybzJjSXZxLUpfSWxlR2FmaWYtbjkwblJEUG1qU2ltYjRNek01UVJIbTR2YzhISFVQbnJIQjFXdWNRVTRzQjFVNWNGQlZRdmpLc3d2dFl0QTVJbE92YWpGcUw0aW1kWXVDblNFMnNqeWhHUnlSSGhFVWRiTFpSQ1NjRFJDcWJDRlN3dnBDUQ?oc=5"
+   "title": "萬聖節周末深宵料皇崗口岸出境高峰 陳國基：私家車過關恐等逾1小時",
+   "source": "巴士的報",
+   "date": "10-31 08:55",
+   "iso": "2026-10-31T08:55:52+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQbHBiWFhzVkhnMDNLNllSWDVTREN1bnE1d29uamFHTmtUSVNKWlRmYzJ3aVBYWEZoc0Z0SzQ1YXFLZkd1N1prYWxjVnJvbUxwVGdkeDlSaGFBeHM2VTNqa1FjbWZ4NHJEVDVEYnBwVGd5ZVRoWFNvdVFuUVZVT0NkbkQzMFVHNE1FWTJ4ek9RYzJxTWxnQTA5TWJCeFhOd21KdmZpdTRlSkhJOUJjejV1elJ3cHVreDN3eVNWbDZBVDlKQVNEd3JxRVlBejJ1dW1uR3NDNnAtR05PYWJUZ1FhY1BkdTFOY1FqMTIyMmtObmNiVjNnWkxjSDczWWlmZV9ZME1nTUU4NWY5Mm1JVkJCV1ZVUDdMdVVZQ3EtU2NHaGdOam9Fck9IbWZScjloVER5c0JMVThVMTFQaXAwSHdIbWhiVjFTbTRzV0hDQU5ENk9WeTZWYW5NeWtoVGFrdGhkMUVtTV9CU1l4bXh6QmM0?oc=5"
   },
   {
    "title": "皇崗口岸｜限兩地牌解塞車？ 何敬康質疑本末倒置礙灣區融合",
@@ -117,6 +117,11 @@ window.HGP_DATA = {
    "tag": "天氣",
    "text": "天文台現時無天氣警告生效。",
    "level": "ok"
+  },
+  {
+   "tag": "傍晚",
+   "text": "雙向高峰：出境（北上）與入境（返港）同時加壓，L2 候車區最擠。",
+   "level": "info"
   },
   {
    "tag": "週六",
