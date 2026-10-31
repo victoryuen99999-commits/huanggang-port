@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-01T06:07:46+08:00",
+ "generated_at": "2026-11-01T06:46:40+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "06:07",
+ "clock": "06:46",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -22,20 +22,20 @@ window.HGP_DATA = {
    "dep": 0
   },
   "LSC": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "LWS": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "MKT": {
    "arr": 99,
    "dep": 99
   },
   "SBC": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "STK": {
    "arr": 99,
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 87,
-  "wind": 10.1,
+  "humidity": 91,
+  "wind": 10.9,
   "code": 0,
   "desc": "天晴",
   "tmax": 29,
@@ -97,18 +97,18 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNajNZRUhKa1VHTG9OeHE0NEl0UzE5a0s4aDgwT01HemlfRXpRZnVPNWQ0c1REM0prTjhXRjlrZFBHYk5MOXdTY1dGdWlsYUs0cmRDMGRpMGl2dXhINWthN2J4cVBmWVh3cnRfYnVEa3ZJNVQwRzhfd0ZucnR4aDlEUDBOQkprYXFKWnVWTWhrRkVORTdMaGJZd21OTWt1ZDBDYWZialk0RktIeG1XRHdFMUpBZkMzMUducXdSWmk4Z1RXcUN2akRReWdWRGpDXzY1RkdPSEtzb096aEVfa3dtT3d5WHRRRVNpSlE0SEpIcXc2OU9UYzlBZElHeVlZRG5HS3BDM1RKUzN0X1ozT3pyMngtWHN6UHF4dUNiTDFIeG5uc3VYcDdKQlZVQkVmcHVTMHZrTklDSHZNdkxoVHdmZDBBYlRDM2RBd293TjM3b0R1UXRSc1ZBSEJnbUxDbVFHeW0zMGFfU00yV2E2US1DUXZ4VmpKeDZvZjJfMFZoR2Rlb2hBTUp5WERfWXhZdVJOWnVkSWVWSkFjSzRtVUNoUDNEakJTMTF6cUliTGpuRW8?oc=5"
   },
   {
+   "title": "萬聖節散場北上人潮湧旺角 往皇崗小巴站600人排長龍",
+   "source": "星島頭條",
+   "date": "10-31 18:35",
+   "iso": "2026-10-31T18:35:26+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOSGt3U1hIcEpGRXlvems2S0psYVkyU1FHeWw3VVJGeTdTc1pOUExsQTU0dlU5Q180dHBBNkVpUkM1ems3Nkpib2dVcEZfa3o2ejFTUHcwVWFsTWVfcFFjOEFFN3R5Sk1XLWZWWWVIRE1BWHFHT3ZvZm9nWTJvMTRLcVlYbUc0RW5td0stSS0wRWhJTHE3TXl3UkQ2NjRyWWZpN1VRek1HXzZycE1zN0llYjAxOUJxOFRmZUlYMlliNjczWUJUbXI3V0hXTk1jWnFUdHNaXzBrYlRJX3pCczZzRkZvZThrRDJyb2pGa3MyUGZvSThncU5tTGo5dUt6M25yS2FfMjZ4b2h6SVJtQUdSa0p1Yk0tcDlINVVsWTJGTV9ZTFZBUWNLc0hUVTdzRHR4bjdRYmxMMDNBaEk0WTM1TDRrTFllN1NwWm53SWNURm5NV3Vud0I1M1hSa092cEktbWpWX0ZfbV9HUQ?oc=5"
+  },
+  {
    "title": "萬聖節｜旺角600人等上車去新皇崗口岸 旅客大讚：比預想中快",
    "source": "香港01",
    "date": "10-31 18:20",
    "iso": "2026-10-31T18:20:24+00:00",
    "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxORzBiRjFnYm85bTROaEp6WjhiWFduaUNXMUNsZjNyeVRGRjVmUXlvZlFKVzQyekN2NUtQcFQzd29wM0tTV0swT1VzTEdaV2t0Z0E3OTdWSm9XYXRYUDlyYmlTY2w3TGhRSDQwd2x2NVhRVkRvczZLYXk3amxQYV9DWmk0YWRwa01MdTUwUVNWenMxbXFuWjNlbU8yT1pXMzZXUUpyYXFGZ1dkdGFaNl9RU2FnajhjemhKWHBYeHpzN0J1bmtwUHhsb1VQaXBSdldCaUJiRzJzR01YQS0ydlFudUIxMThrNmR0UE1SMzJaRzJMUnlJYy1aQktkNVU0U3p0ZmtQSFpwbmkzYnBVZkllbXdfOEVBckpGNTJaSy1ZV1JPaXh2bFAxMXEyMHVIdnNmUURLSWd2MjNFa3BpZ2drd29ka0NrLTkwaTRhVnZkTTljeF9Yb2xFYkI4N3RYMng4RnlIQjBuREZfUTRiVnhaZEE3U0xwWk5lM0RIYmNoZWowUkdKdGc?oc=5"
-  },
-  {
-   "title": "皇崗口岸午夜後迎出境高峰 旅客過關需等45分鐘",
-   "source": "Now 新聞",
-   "date": "10-31 18:17",
-   "iso": "2026-10-31T18:17:25+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11dWROTDVtb2ZKWnhROHptT2duWXUyN0xCY01BLTVaQXcydnh1WlFxWHFDOHUwZnpYZmpTN2hIVVptWndpcU1JSGR1VDBqX3FMSm9jVU1DTW1NN2tjTG1CWHVR?oc=5"
   }
  ],
  "ok": true,
@@ -132,11 +132,6 @@ window.HGP_DATA = {
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
-  },
-  {
-   "tag": "車流",
-   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
-   "level": "warn"
   },
   {
    "tag": "禁區",
