@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-31T13:57:30+08:00",
+ "generated_at": "2026-10-31T14:47:04+08:00",
  "date": "2026-10-31",
  "weekday": "星期六",
- "clock": "13:57",
+ "clock": "14:47",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,8 +43,8 @@
  },
  "weather": {
   "temp": 29,
-  "humidity": 47,
-  "wind": 14.1,
+  "humidity": 51,
+  "wind": 15.9,
   "code": 0,
   "desc": "天晴",
   "tmax": 30,
