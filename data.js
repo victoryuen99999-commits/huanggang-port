@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-31T10:08:49+08:00",
+ "generated_at": "2026-10-31T10:57:43+08:00",
  "date": "2026-10-31",
  "weekday": "星期六",
- "clock": "10:08",
+ "clock": "10:57",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 28,
-  "humidity": 55,
-  "wind": 10.3,
+  "temp": 29,
+  "humidity": 51,
+  "wind": 11.0,
   "code": 0,
   "desc": "天晴",
   "tmax": 30,
@@ -55,11 +55,25 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "入境：皇崗口岸及深圳灣管制站深宵的出入境大堂暢順",
+   "title": "皇崗口岸深宵過關暢順唯有流量上限 鄧炳強籲旅客忍讓",
+   "source": "堅料網",
+   "date": "10-31 02:26",
+   "iso": "2026-10-31T02:26:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxOUHNuVFgxVmg1YlJNbVlvdnV0MTN5Y2tRRjNZY2pQekV4ZDM0bFJfa2gwaXB6bzZsQU1uUFhQWVE0bXE0NkRnQjBMQ0pyUG9wdWJlSExZdkhmdElxQkk5ZTVTVkROOUk3ZTk2Z2NzaV8tdjltd2I4UzlRSEU2WnBMMC1tWDhab0VtRWlpVlVDU3BHZWR0TVpjckNhcWpmN3VSVnF1VGZJWENvcnFvT1k0aXpDbVp5SHRaS3pfMDJ3QTZ2WjMzRldnR0ttb09kcnRHZVRWVHEtNUdCd3FxYklxTU5NVEl0eUw3dXpfWU44Q0pTaEVENW1sUmRCdGFNWWhQbDNFQUhxNHdjUUlXTEFGQXBySWFlSHVmVlBuaUZSdHVtR3lWVzh4U3ljcGZjbm1paURqVElLa0NqVG1ZSlVZN2Z4YVVCNFBZLUxjcE50NlFvbkNMQUVmam1SQnRWcXdRZjFYQnBmTmNuMHllYjd4bXFGVjNrcEZTVTJmdjhvUTF6MWZjRWRpTXI4NDMxdi1fRTVFajFnVzlZYnl6T3pxcXVOaDFIS3RUNk9IcVBDZGY4bC14Q3NHOFNwZ1UtV2g4SHZ2ODFIektPRW9F?oc=5"
+  },
+  {
+   "title": "入境處副處長視察皇崗口岸及深圳灣管制站 深宵出入境大堂整體暢順",
+   "source": "巴士的報",
+   "date": "10-31 02:13",
+   "iso": "2026-10-31T02:13:58+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQemV2ajRZNkpZMW9rdDhsd1ExY1NvQ1RkZEFETEt0a25iNnFCRWpmUndJd2dyT09YRFBmNHpqX3ZwVkZhanNIUHhGaU1uNWRhQkZCWEdpcUxiTy1SQWlBQjRtUjNGbXRRSWtpQUtzT0s0R2lMMkN3dGF1OEYwX0N3YU9TcWZvLWZVSVlxYmRuTGJyYWdZM2pLYl85SDhmQW9hQWE0bmVoTHUtZndEZEdnNi0yQ0dTc3g0X2tmS3Iwd091MGtKV3NENUFlaVAwYjBZaW5qWVNTcXJwS0ZGZ05ZN2hicjAtY1NZX3ZfcHo1MmMtUy01UTQ1YzN5bXdOTEttUFNBLXNxWWJCLWlDb3MxY2lSZHhqdUVhVzY4b0pUUnlxUE9Ud1QzZ1p0aXprc3hXVnJmUEJzN195S2VzcUpvelFfaWUwQldJOW45cTl2dnhmYV9rZWhUUEpVR0FsR1RJMGFvRlNJOHVBdWRDbjRJ?oc=5"
+  },
+  {
+   "title": "入境處：皇崗口岸及深圳灣管制站深宵的出入境大堂暢順",
    "source": "橙新聞",
-   "date": "10-31 01:28",
-   "iso": "2026-10-31T01:28:42+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPaGFOMDlwbWRwREFvcFpEem95QlRhX0FGelRjUlBETnBBWGlKbU9KMnlheTRQOXpBVkFvbTlHRzlXd3lYMVJYZEVyVlBScU94M2U3MGJteVdaY0FWYU9CVUViaFFUdkNUUVllTU05LVUxV2dhMEM1WUJMSGdnSDFieVJ4RzFNQlBWN01EcW5BbHB1bHlmLWxIRm9mZ0QtUkFMd2lJdGhOWFZoZDhqWWg0UmZOVFdyZ2daMkF5b3kxVjhRcGVzeG9sT1I3dE4xX3NSRHNxV3R4UDh0T3dLUWNCWnBjSkdmSE1tVF9CMkI0QjFzM0FQQUY4ejV3TGFPSTRGVVpwWXZqa0dzdV9jcGdYd1JZTUVWZEZDUlhycU1Ubm9iOTk2aG5qU3JObnJZQ2NyajlWNUlXYlNfVFlKbk1oaThTdGNmRDJhYzMwX1lMVUxNaExXTWZmTVB6UThyRGhIQ3M0ZHhjYUVtakk2dXkxcXZHYw?oc=5"
+   "date": "10-31 01:42",
+   "iso": "2026-10-31T01:42:08+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNdzlRNTZyUE8wS0pCR3IzVDRUQWxDUVd3a2h1Wi1ocHRkV1RlT0lMNVZhWHRjcWZGdUdKSXR4OXJWaUp1aW05Z2h2VnNTWTloc2hyQTk2VWZnMnBPcUJFcWJ5S0ZDWU1JclhlcUpQekloZDc2aTBzVnA4Zk1kX2JjbzNEMVNocUpLN3VnOE5rWkRTZDJhdTJBTXBmUXhGdTd2Z240czYzc2FlZVZ5SUhxOE5pbnlrTDZ0RW9vQ3QycXlkbVFheUVOSEdCWm5GZHhEQ1RmU1hHSzdkZkhRR3dfdzlDUVcxTUptNEQ4ZFkzREFEM2RhLTdfRUVuRlNyX0FnZ3cwTTRVQVlnQkNzQkpqVGlxX2Q2eGljeFVkSGtxcW1pZjRSNkR5SFNCQ29yRGRwYlI0WlY5a0EydUR0Z1pCYVQxYkpUSFBBRVJCZFJ5LWJQVUdGTXpUZzJTUngwXzRqVDdOaGdJQjdvZHhwMVRXSzhJQlY0bWFtWmJ3dVFlcw?oc=5"
   },
   {
    "title": "萬聖節交通｜九巴城巴往返皇崗口岸10月31日加強通宵班次【附路線表】 (09:01) - 20261031 - 熱點",
@@ -76,39 +90,25 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxQd09mdnFnUExVUy01eUlDM3MxUTVEVWNUdE1kRjVNLXdibHhCU1U3VzJuRUxTZzkyemZFYzNkMUl5eDhrZDBTbVoxOTVRaDI2U1JPTEExNC1iSlJ4ODNERE5oZ1pwX092LUR1eUxwT2NqaW9hZ0x5clFUSThvWEZSNlFBR3l4MVlNRFA1cXl0VVMzMFRiaEU0Q0p4M0ltbnZSMEdkdkxybFhIWVJxeDVpY0tFcEtmaDN0WGhCNTJpbTA5ZDY2VTBIXzVOZE94cl9mX29hNnhnZEZYSTl4SDJRb1ZVVThLQ2lhS3BNMS0tY3VPWnYzVEdKM3pDd2hHd2NsNHdQUU9LTkg1ZTJZVDBUYmlXeEdlQ1F0X0VnNlh0OTZWMElMbE45V0dBclB0ZEJxMXU3NTRrc1NjY003SWlCUEl0VkVDaEYtTUN4ZnE3Qm5YNzhkS21RaFlCWTdTWFdtRGVVb2tFdWxYSFZ5UUFENXZDNllUZUxqQWFBc21EX3Z0NFltdWs4Xzl1XzhCTE8tZ0dQOVBWdUNoRUNWQnlJb1dVdkI3Z1RRclE3dA?oc=5"
   },
   {
+   "title": "入境處副處長視察皇崗口岸及深圳灣管制站 深宵的出入境大堂暢順",
+   "source": "香港電台新聞網",
+   "date": "10-31 00:23",
+   "iso": "2026-10-31T00:23:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBRTdEUVpMYlNRaEdqMndFRE8wQzdzMDYzTENEaFpNV1FTb2tYYWtqMmN0TEpwM05jbFFZWG1zamRqTFBHbWhxMGN6dVNldjVDampIay1wdlVic01vdTVJVXgyeWRFZFcyZWlIcmZoQQ?oc=5"
+  },
+  {
    "title": "入境處官員到皇崗口岸同深圳灣管制站視察 了解應對客流及車流工作",
    "source": "TVB",
    "date": "10-30 23:25",
    "iso": "2026-10-30T23:25:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQU0lUZjBHM3RWcmQ4SDE1RElOSEU2cU5Rd18tckRka1Nnd0kyd0MxVnlCaGxJV3FUWWVpRE9FTXlYaVc0Q0dlUXJyZXhsQUROeUxyX2xoVlJPVWhDWHJsRjVFcXZROFFIWWhqOVNabmltS0dVakVpeDZHdlNxbm5VQzItbktaLVZhM3JFdkRlU2dia2htb0hNQU1wUDE5UnNYemRGQ0hRMGo3X0VoQXlDMWtsWGRqcWVMZERvNVk3QkxnVUNDWTRBd0Q1eHNSNWZBTDlVdnhLbGhDVWRIWG5GSDRRMjZJVjJvamVxWm51QmVONVE2cHNmaldLZWt2MXFma05hb0dWRV9TR3ZWQ3J3b1pncTZUSnBUOFJLRGJ3X01jaW5SRW4zcGhKMDlhSVItWXZxZFh0emw2TnZ1RkNob3M2TjRWakM4UGtrcm1ZVU1taVNHcGlsQWd2emZuTThqTVhfTGRpU1RJWTU5MUpiMV9MWWRiN3ZONmRlb0ZDSUpWc0htaTl5cUFpQzhEemhQTFB4R0gzeUtoQ2c3enJCclZwQzVDeXFjcHRydEJzQQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOQjJEWXVidFJCNktzd3JPNFM0cmR1VHFIdmRETC1oV1hzNVJFZ3AtY0UzQjhyLXhXeXhsb2tjZDAxVTVZcWJqb1RpcEdGNk56UEZscUp1ekNRVkZ1VUVlOHg0dzdGUlB3NVo1QXpFMndDUU1BY1Y0dC1BLUl2cVJkanpyUEgwYnNXRk4tOF9SaGR1cWltT1Z1Sjk0eTczMHlPSHpFTi1BSktzRFBmcWxBTUJGZGFad1NnRHhFbG1oUUxOSXg4YmlnY2JSaXRVWm9mNXktd0pHc0dpTzVkOHM4MVVVSVFSeFlaU3FzTjV5S2pYWFI4Wm91MC1QUmZRdVJXZVNCUTY1eUpQQmo5YUZWWVNLYVUtMFJIS2dZeWF2Q2JhbV8teEVualJrMHAxZ2tGMHJfUlFoX0hYN3ZqYkJZc0VRWFFKNG5VRXB1WGU4eDBIVlMwT0dBOFBOYW5GcVJ0Q2pSb2QyeU1TemlBRjZVQVZMUWJvQ183Qm9UTjhnQ2FFbkhlMFFXUmFDd18yQ1huMy1PbkNoRkI0ZWRtN2lzUUlJWU1fS3BMWjJ2dmg3cw?oc=5"
   },
   {
-   "title": "口岸大塞車反證新皇崗非大白象， 善用夜繽紛優化疏導一舉數得",
-   "source": "巴士的報",
-   "date": "10-30 23:00",
-   "iso": "2026-10-30T23:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPaVhfT3JnZE9hYVdwV2pjOGJFTkJDMExabG9BT3ctRTJmTDZjNU1XYmNKTjdERzZtUm41YnNBSnBjb0VVRmJ3WmstenpOM055dHJyamduWG1IVkZlSlFWZlV2MFFWYlNkdmY2dDdvLVRsSkw5dURxYnhlcnBIeG5xOGJnb0k5RUp0TEdYbXg0OTNQMEZNQU1CV0JwZkUybFVyTWVWY1BZWkhRSmdlRzZRcTRPRzd3SGpQaHpId2dPYmRWaU9rYkwwM0lSMUl2bV82b1RVVGtWS1ZqTnhqX09jMWJKR1hGcmg1MFF0cURyNEZXdC1PLTJROW14TWZPd2I3OWJ4MmJleksySThZUDFjSUt0X2dfMWJpMmxKYU01OWU3czFxN0FiZjlZdWlPUVNyQkxjMV9MQ09SUlZDRnlpM0FPVllMOGxYUEhjblhPWmNhZTM3anZOYWR5eWRtOWhjbC1iZ3NvRjVFamxIN204?oc=5"
-  },
-  {
-   "title": "新皇崗口岸昨起一連3晚深宵料交通繁忙",
-   "source": "東方日報",
-   "date": "10-30 19:45",
-   "iso": "2026-10-30T19:45:03+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPT2ZpTXExX2szUHVPNlN4Q3NuNHdqU1JZXzM4MEpOZUJqUXJmYTI2TnNOSUZhdDBsNzUyS0hCNVRTcDh0ZVJTeGZ6NnF5VjZObzdIaHI4VGNDQzRYLWFmaGxfd1ByaEJxR19fQmJZRWlveUlPWVE3NjFjUW5GY2NhSmM5MnVCUDBRdUd4Wmc4UXlNUHg0bHFlQk9oQ2dvNWZLZ3RieEJqbE1TTDk5TjVFV0tuNWd2RUtLdEc2Z0w3QURuQ3Q0MVJTVjA1SXFpZDItR05IbEpLU01sX0FXNHIwMmJWTzAzS3dBZE5ybnVFVTdMQUlCeE9TaERPTGYweUZmQ0xsNUxQMjdIeFh1NFk3a2xSV0tMNVBXaE1KaFRZTGEtU0Y4R0ZTakthZnBTbW9sVFd6aFZPLS1YOEJSOE10Y0poYkVad2hndXR0RzZhVVV4c1lyMFNoWU56SVNKaWNaZXdZYXpac0I0ejlGakVIUA?oc=5"
-  },
-  {
-   "title": "太平人語｜口岸大塞車反證新皇崗非大白象 善用夜繽紛優化疏導一舉數得",
-   "source": "星島頭條",
-   "date": "10-30 19:00",
-   "iso": "2026-10-30T19:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxQQk10eDQ1cjhyQU0xSkJ0dlF6R1NnWEduUlFhSW5GZWtnbzAzTjdQT0Vra3U1cjcyLXJYcEFYa0NQMEZEVWhOeG82YXp1VXN5V2RFRVpWUWthWTFEU3FodVN3Z19BNWdnWFdLeVBKUzZYLWpCaG5vaFZrZW8tU0ZhYzItS1hLQXRQNGtxZFNhTkxnUVZKdk9wT1EtclZGRHpUVW03azBnVEhtQVdWVmpEeEQ0ODVncG5hTS1BSmlqeDJfNDY3djlVWHRSNGk4STJjSWx2LVhJS2NzVGI2b2pZTWtUTDZCeVBRaUxmRWphVHN1RFhRd1V6UUhYM1VLcVZCUzR4WEdDM2tfZFpoQ255b0FaWFNaSjBiLWlyamF4ZkdJS1BzTi1NM2dOcl92emxUdXVNb24yUG9ORURHeFFCSnRGSmpLMzBaN1AxVEFWZy1JVWFRNEw4MmFfX1ZYR3h0cTJobURKNHVVa01DVlRyeEhrYS1NYzlwRDI1T2FCRzdoUjFmSmVZdWgyQU05WVYxYWRkRzFibzFaQmdfU1hCN0NuT3ZHQVd0VXVBR0JpRGswRHZwTDV3bjZSWW9ZaU5uaFBMRWpJaEFITHNDM1Vsb0tudzU?oc=5"
-  },
-  {
-   "title": "（有片）萬聖節皇崗口岸大致暢順 有旅客讚「1分鐘通關」",
-   "source": "dotdotnews",
-   "date": "10-30 18:01",
-   "iso": "2026-10-30T18:01:56+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBscW8yeGplandmaXBCZWg3cERlWUZxa1lLRER1T2hxdGhiMU14UkZqVlVCT3pSRksyLVF4ZzVkeEdjRF9lNlI5cmRYWkFYVC1JTy1yMXRIUGpvSDhaYS1GSlJjd1c2NVpnXzB6d1JhM0kyaXliNFJPbkpR?oc=5"
+   "title": "萬聖節｜深圳灣延長通關 鄧炳強︰關口有流量上限籲忍讓 或到蘭桂坊飲多杯",
+   "source": "Now 新聞",
+   "date": "10-30 23:15",
+   "iso": "2026-10-30T23:15:33+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UM2JtWm1mODluUzdDOVdITUFZWW8yMnRtUWRFV3pJREFiSUxoc2ZRaEo5UDk3RlcxbWx2QU4wSk1NYWVDUFY4VkhBaWphN0F0bWtxWC00T05EWl9aQXMwUEJn?oc=5"
   }
  ],
  "ok": true,
@@ -127,11 +127,6 @@ window.HGP_DATA = {
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
-  },
-  {
-   "tag": "車流",
-   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
-   "level": "warn"
   },
   {
    "tag": "禁區",
