@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-01T05:29:25+08:00",
+ "generated_at": "2026-11-01T06:07:46+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "05:29",
+ "clock": "06:07",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 23,
   "humidity": 87,
-  "wind": 9.4,
+  "wind": 10.1,
   "code": 0,
   "desc": "天晴",
   "tmax": 29,
@@ -83,18 +83,18 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYnJJdlBGSHpLUk9pNWowdEJqY2ZFN2hiR3o3ZTZmUkpRTFJBMUZQdkJGeEVRWm5pbzg2aDZmUUFmQUFHQktPQUlSZndkZFFyclgwT1BXdEtvWnhxN2pnRGhRcmp6X3NTRmJ0ZHJBN2g3R1EzbDE5N1BOZXdLZGdsTExDSGx0RXE5NndxWTJPb1o3dkxLLVE?oc=5"
   },
   {
+   "title": "萬聖節｜多區通往皇崗口岸車站一度大排長龍 有旅客冀增加車輛安排",
+   "source": "TVB",
+   "date": "10-31 20:05",
+   "iso": "2026-10-31T20:05:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNZW1OdzdfbWJtWDFwMlRaaEVvODhoQ25ZbV9lRWo1V3pKdjh0V2ZxYWgyQlkybUtMVHNwRmhUdVNmNEpTeHV4NGVTd1FGaHBma2FETlNta19fUk5mTzZyN2NlcVN3SndGd3BZV0ozSmp3OHFaeXVWcS12UHh1ZGhNYk02UGoyMDNBMEpZSDdfdXctODhKX3VQbEFpeFZJRG9STkluX3hVaThQS0VvQ0szR1k1WXpXSzNBdVNwSVl5WUlIRURwZzUyVk1weElOU1VSc3hNTVZSMGdidlFkc3czU1NwSDRVUTh3MUJ4OWloSW5MbnV6dGhZZndzUTNtVm4zcHcwVHpHM1ZZNV92T0VrTkpTWGZ6T2lfUmVTTUlqRXZ1aEdNdHdEdUFCTkhyZHB4aWdqRmg4YlZlVHhmcnU0QmpwMEZBb3VLdGNzYzU3NlN2aWxYN0ZpYzh1dFlvdnI1M2FMYzBTYjdESnNnaHNwWVRQMjNMdTB2Wlg1ZEZja2gwZ2tPQzJLZWFnOHFpMlEwVXVFMW93S3Q0RlRKYmlmRGpzWQ?oc=5"
+  },
+  {
    "title": "萬聖節交通消息｜新皇崗口岸一度繁忙 出境輪候時間回復正常",
    "source": "香港01",
    "date": "10-31 19:11",
    "iso": "2026-10-31T19:11:26+00:00",
    "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNajNZRUhKa1VHTG9OeHE0NEl0UzE5a0s4aDgwT01HemlfRXpRZnVPNWQ0c1REM0prTjhXRjlrZFBHYk5MOXdTY1dGdWlsYUs0cmRDMGRpMGl2dXhINWthN2J4cVBmWVh3cnRfYnVEa3ZJNVQwRzhfd0ZucnR4aDlEUDBOQkprYXFKWnVWTWhrRkVORTdMaGJZd21OTWt1ZDBDYWZialk0RktIeG1XRHdFMUpBZkMzMUducXdSWmk4Z1RXcUN2akRReWdWRGpDXzY1RkdPSEtzb096aEVfa3dtT3d5WHRRRVNpSlE0SEpIcXc2OU9UYzlBZElHeVlZRG5HS3BDM1RKUzN0X1ozT3pyMngtWHN6UHF4dUNiTDFIeG5uc3VYcDdKQlZVQkVmcHVTMHZrTklDSHZNdkxoVHdmZDBBYlRDM2RBd293TjM3b0R1UXRSc1ZBSEJnbUxDbVFHeW0zMGFfU00yV2E2US1DUXZ4VmpKeDZvZjJfMFZoR2Rlb2hBTUp5WERfWXhZdVJOWnVkSWVWSkFjSzRtVUNoUDNEakJTMTF6cUliTGpuRW8?oc=5"
-  },
-  {
-   "title": "旺角深宵再現北上候車人龍 600人擠爆往皇崗小巴站",
-   "source": "星島頭條",
-   "date": "10-31 18:35",
-   "iso": "2026-10-31T18:35:26+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQUjIwOEZRRGVreVNDeHBsN1VJZ2QwaEtqcTZOMmJlSTFLSFZYUHNjaW5sRy1wbmJjT2JaQ2RxZlhFSEZPMkh5MEVEVDNDRllJam4zQURYdWhZWVoxd2dYVThsY29sTXpEQ1Z0eVliYXMzeDlXUTJOaDFzWnJWWVhBczhwNEN1WkJKdFkwajNCcWI4dGxDRHlOYTdYY3RMU25sN1ZDbUxST1BtaUJYaEJyNmJhNm1HSi03azJSWi1BaWRfUTBEUXZFamhZQndvdmxoTWZ0M09LdTNidDFwVWpYamlTNElXUGlTTmdyNnJoQmd5UGpraGFaVnVweGduWElxN25RN1k2Q1FNU3kwTVdtWHhZVW0tRGxJU0hUeURBU3ZaWTBLSzJmblgzMHZzLUVteVUwQV9adUs1MGJCY3FjdFB4ejVmNmptTkc1YW9STmg4Z1ZLSnFTcVloRnE0UQ?oc=5"
   },
   {
    "title": "萬聖節｜旺角600人等上車去新皇崗口岸 旅客大讚：比預想中快",
@@ -119,11 +119,6 @@ window.HGP_DATA = {
    "level": "ok"
   },
   {
-   "tag": "夜更",
-   "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
-   "level": "warn"
-  },
-  {
    "tag": "週日",
    "text": "傍晚 5 時至 10 時返港高峰，入境大堂壓力最大。",
    "level": "warn"
@@ -140,7 +135,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "車流",
-   "text": "近 36 小時有 3 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
    "level": "warn"
   },
   {
