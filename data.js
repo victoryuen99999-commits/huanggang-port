@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-31T18:08:19+08:00",
+ "generated_at": "2026-10-31T18:47:54+08:00",
  "date": "2026-10-31",
  "weekday": "星期六",
- "clock": "18:08",
+ "clock": "18:47",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 25,
-  "humidity": 74,
-  "wind": 15.3,
+  "humidity": 77,
+  "wind": 14.9,
   "code": 0,
   "desc": "天晴",
   "tmax": 30,
@@ -54,6 +54,20 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "城巴B14來往皇崗啟德 延長全日試行至11‧15 擬提升為恒常路線",
+   "source": "on.cc東網",
+   "date": "10-31 10:41",
+   "iso": "2026-10-31T10:41:15+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWll2S1NacWlVQ0wzblZqWEFhZHBoMHplSUdoaU82UTNWNzU3TEtSUlB0a0lvdlBqc1FmOEZtNHc0U3JFdjU2WGtqSTVQUnhjbE5UVHpOMTVNVUhmRVlCNVlmcm0wV2VlclNKTElOdV9qd0VaTjRyTG4tWXhIUmhxRWs1cG8xUHFWNnJv?oc=5"
+  },
+  {
+   "title": "新皇崗口岸再有九巴行錯路撼天花指示牌 兩星期兩宗",
+   "source": "星島頭條",
+   "date": "10-31 10:17",
+   "iso": "2026-10-31T10:17:30+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNR0xHaEZnMUt3WmNfN0wxVFZtbU82RWIxRmtDSTZHTjQ0MVBlV0J2X3pYWFNDSU1OVzNEcVl6SGtTcXo5bGFWSDQzSDVlM2x2aGY2VGl6Um9pd2tpSW13dXVpaFZDSGtHMEo3YVFlczAxNlRhME5lLVZfcHNqbW9VbDFXRjZ2U1RyeGE5dF9zMlJqcWp4VlRCNkJ1MmhHN052QV95ZUhRTnVZd0FCbURodVVlemR2SmpnMW1vUGJ6c1RvVWhac0wwelpPenh2cF84UGdvRkctLXl2RjZSX2ZZRmJ3eVY3eFJKbXAzcGljSVN0MkJQWFdSUGtnNG1ZVUh5dXFQRWVBcjJpWWFzRXk3UnRZTVM0TXBxX2UtQWk5dnJSQUhPYUU3d25VTGR4YThBbkRUN0ZMT2Ztd2xFUE9MZE5RSGhjOG1LdHoyOHRNMlo1amMzbTJkeTVka1JLR0I5RUVQWkFCNVY5dk9xYU1rd2hNTQ?oc=5"
+  },
   {
    "title": "萬聖節｜入境處：預計今明深宵為皇崗出境高峰 籲旅客錯峰出行",
    "source": "香港經濟日報HKET",
@@ -83,32 +97,18 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HWUFkMG1URVpJbUlleW1QbDBxWW9qdGpSc3IxOXlpUUZSWDJGTm95SVRvZGowczczcHZsX0RvY1ZkdGtNZEdEQWcyR1hiZjNXaWFkSFVkRlAyTWZ4YldiaUpndkdiYTNIMWlHaVhqWW9qbTFoTU5B?oc=5"
   },
   {
+   "title": "萬聖節前夕皇崗口岸運作暢順入境處料出境高峰持續至明日深宵- 香港",
+   "source": "大公文匯網",
+   "date": "10-31 06:48",
+   "iso": "2026-10-31T06:48:52+00:00",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RcjJFRVBWS1Fxa3Jwcm5jTDFhVFZWak1PV3Y0VkxYejhjUDV4cVZ0d3NQWUh3YVpLQy1XNnhmcWdyNzBqYUp5UEZ2eXMyM094V1o5dXN0ZDU5U0M2dG5JTGhkVzhvSHJoNk9YOWZMWTk?oc=5"
+  },
+  {
    "title": "香港加強往皇崗口岸服務：九巴將於星期日凌晨增設B10S巴士線 - www.5news.com.hk",
    "source": "www.5news.com.hk",
    "date": "10-31 05:33",
    "iso": "2026-10-31T05:33:47+00:00",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vWnNvS1JlNHZybERfbkV5VWFEaHZCY2FIX3FGYWZ6YTVLSkdmaFhxOG5Xd0V1QV9sNllIUzVGYzF6RFlULVRGQ05lZGc2UkFRX2xZTE1NNlUwclEwZ0xHVmppWGlqRGtHX1JMV0ttOVhETmc?oc=5"
-  },
-  {
-   "title": "皇崗｜城巴皇崗專線B14全日服務延長試行至11.15 擬提升為恆常路線",
-   "source": "香港經濟日報HKET",
-   "date": "10-31 04:11",
-   "iso": "2026-10-31T04:11:56+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPX3lqNWZ4eS1ZTTdHVU93ZG5HaDJqZWlGOF9wLS1peHp6b09YUlRpTm0weU52RWt1QXg3NV9ocTVVajlSTGdLTGhPamM3blBTaXBTVDFpaXpMbmtGN2hFaVBvUmpkbHpRMXd6QXM0WWlPYXd1MHZTRFN4bDhyZDd0b3ZJMFJIU0tXY3l1cDN3STBJZnVibVUyX0Q3a0dpR1FEalRCVGUtblFYNGpxNmhlYlpIczMtUWl4bFVUakhyZVUzemRkaHozMjk4UkExUnVicklId3ctb2tLY0dkLVo2cVNSb0F4a1UwQmhpWlRjcEJSOHBVbjQ2RjRwVlRUVEQzQVEyWFdtMGJmM0xQcnZPWVZGRjlrXzV6cEV5RzhudnAwcGtsQUdzYzJuTDhfRWFFNkZwb0tYeWJ2YWZGVUUzUmlhUEFkMERrYzR3OFdUODg2QllGY2ZwdnR2a2FGRGVSdHd4UHhXOWg4ZWZ0S2pvd2xpOVFMTGtjRm1hZnBzQ1g4Z1E5Wk9jYjZ5Tm1jclpQLWd4MWZ4YlI4Q2NTai1ORmJJQjlGRE1XblNN?oc=5"
-  },
-  {
-   "title": "新皇崗口岸｜城巴往返啟德B14專線試行延長兩周 料改恆常路線",
-   "source": "香港01",
-   "date": "10-31 03:31",
-   "iso": "2026-10-31T03:31:46+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPY3Y1RlF4STNPN2V3dThiTTNvUEE4TXp6R1FLQk4xZ2t4cXhlQ3diM0RrMS1aQTk5am04VThEa3lpRy1TNGxUQTFfWUx6UFdWS1EweC1TOW1HbWtKVmhHdjc4WnVVemxuaElseGpfTE1aTFVVd3JwQ3dKMDVuX3Vlcm9kZEhjZG5ZclRveFdBUUZFMTVJNnlOMW94a0lOMHpzWVAtbmY0SG10MFF0ci04VXFabkhfQ202bG9leXNOT0FtaG9mRGhHZFNITHVFc3VhZVU5MlZQeDd5S0ZobGkzOV95eE56Sk5VNm5CVjVkWVZ2elJtdlhZaXZVbUdWRElGSnM5UmxUeXBvV0l6bW55Z2VMRXZXY1NzdmpHMFJuaDBCVzFjNWh6ZVVaamRYc2tSQ29KLUtlOU16UkpaNi1NYWlobmI2ODUtT2E0MmlJRk9GVXRaLUtlcDBlWW5yN2NmOC1jMGVqUk9qZ3BmcFhyOW9lSFpKNjV5SnBUNjg5S3NRWEdZTEljZkFWeU1IMklsQkFWSm0xblNNSEctSUdNSHVvRVV5aVc2?oc=5"
-  },
-  {
-   "title": "萬聖節前夕皇崗口岸運作暢順入境處料出境高峰持續至明日深宵- 港聞",
-   "source": "dotdotnews",
-   "date": "10-31 03:06",
-   "iso": "2026-10-31T03:06:06+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10SkV2MTNIblRNZFdLU0dnLXRfMU12UjRydkdxYjRfT0ptaFFoTkdxNDVhcndkNW5MbmVEekNjQUF0djBTVGRzNE1lU1Y1cTdKeXB1S0JJWld0ZGJIdm42NVl6b0g4MjlKLVJlNmNncHQtSFBSSW9aSWpB?oc=5"
   }
  ],
  "ok": true,
