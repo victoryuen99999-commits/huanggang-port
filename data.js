@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-10-31T23:08:41+08:00",
+ "generated_at": "2026-10-31T23:46:48+08:00",
  "date": "2026-10-31",
  "weekday": "星期六",
- "clock": "23:08",
+ "clock": "23:46",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 24,
-  "humidity": 84,
-  "wind": 11.0,
+  "humidity": 83,
+  "wind": 10.5,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 30,
@@ -54,6 +54,20 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "內地旅客深夜經皇崗口岸離境",
+   "source": "Now 新聞",
+   "date": "10-31 15:17",
+   "iso": "2026-10-31T15:17:48+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UWkJTUWQ4MmZ4dnM5Z0RlcHVQQ3RaZkJpX0dFOGFmMTl4TTctYXYtWmdhQ0w1amNZSFhZNXItSjdEUlNoSWNuUW5mN1I5QWdjdDdfQ2RGM2ltaGhoWFZMTkl3?oc=5"
+  },
+  {
+   "title": "政府料皇崗口岸今晚為出境高峰 有內地客決定提早回程避人潮 - i-CABLE",
+   "source": "i-CABLE",
+   "date": "10-31 15:11",
+   "iso": "2026-10-31T15:11:15+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPVmxTZzRLa3JIZUxpWUdHNXlLbW9hekpYTmNKaFVTYmVMbG5iVkdZZFJxZkpGXzdwYW4yQ1g1MEhfTy0zVndmelFqY2tDb1BVdEZwNFU3ckpmYzh1Mm5EUG51ZE1FRDJmSjRCMXE2SS1Dd0czZFE4YWtITE82RVZaSmpBazEzREdLUUwtR1pBOUJmdmVrd0NKWjFSZk5fSWNTTFdud3JuNlNXalc4RGFRdS1ITndfaVlrMjAtUzJMMl9XOUdFbS02WFMtUWFCM1VmSnZqQjNPdEZvMHc2LUViWUhXVmgtc2laYzZiYWNiY1c2Z0FPYzVtcWlEbmRqaG9wTzlRallKUU0wYUswSnJ6OUVUYlZsckxxWGJzTlQ2LTVCT2ctMVRVNlZmb20zUDNsTmFVQTRhNlJlanR3UlNxVng2VlNfbk9wYXFUNTltYW9HcnJlcGVBX0Z3d0FwOHBZV3FETTJGX0l1NnQxWFllRnRiMHQ?oc=5"
+  },
   {
    "title": "九巴皇崗口岸駛錯路撞指示牌 半月第二宗 運輸署促加強車長培訓",
    "source": "巴士的報",
@@ -69,11 +83,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5QXRDaWNpT2hzckZiOVNfdm5KWEtCb29RQk43b2MwUXZjSHA5VVM1T0dhT25pOFFrWHNTbWlRcTIzckZwenN1VjNwdmtUWjN5WDNlb0tfbUpycU1tRmJpMFRR?oc=5"
   },
   {
-   "title": "政府料皇崗口岸今晚為出境高峰 有內地客決定提早回程避人潮 - i-CABLE",
-   "source": "i-CABLE",
-   "date": "10-31 13:21",
-   "iso": "2026-10-31T13:21:20+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPVmxTZzRLa3JIZUxpWUdHNXlLbW9hekpYTmNKaFVTYmVMbG5iVkdZZFJxZkpGXzdwYW4yQ1g1MEhfTy0zVndmelFqY2tDb1BVdEZwNFU3ckpmYzh1Mm5EUG51ZE1FRDJmSjRCMXE2SS1Dd0czZFE4YWtITE82RVZaSmpBazEzREdLUUwtR1pBOUJmdmVrd0NKWjFSZk5fSWNTTFdud3JuNlNXalc4RGFRdS1ITndfaVlrMjAtUzJMMl9XOUdFbS02WFMtUWFCM1VmSnZqQjNPdEZvMHc2LUViWUhXVmgtc2laYzZiYWNiY1c2Z0FPYzVtcWlEbmRqaG9wTzlRallKUU0wYUswSnJ6OUVUYlZsckxxWGJzTlQ2LTVCT2ctMVRVNlZmb20zUDNsTmFVQTRhNlJlanR3UlNxVng2VlNfbk9wYXFUNTltYW9HcnJlcGVBX0Z3d0FwOHBZV3FETTJGX0l1NnQxWFllRnRiMHQ?oc=5"
+   "title": "九巴於皇崗口岸疑撞指示牌 運輸署要求專營巴士營辦商加強培訓",
+   "source": "香港電台新聞網",
+   "date": "10-31 13:41",
+   "iso": "2026-10-31T13:41:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TUTNsZjBsUm50eUd5ei1VaDFRcjBMa3hnY3FWdFA3NXE5clNZdVRhakY4UndZN2VQbFRpVmlvRmEzUXV3YkRiSU8tWXZfU3dvSlc4VzdhckRJNDlUbDF4V2FKTWVxa05YM0c5V0l3SQ?oc=5"
   },
   {
    "title": "兩周兩宗新皇崗口岸再有九巴行錯路撞天花指示牌- 香港",
@@ -81,13 +95,6 @@ window.HGP_DATA = {
    "date": "10-31 12:32",
    "iso": "2026-10-31T12:32:01+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44YUU0MTJnb0x3VUVqRmdNM1RhRlFGNW5yN1dONm1VanExV1poM081c1hULWJ6VjdlOXRueVNmOXRTY1Y0ems3TVNVdG0tS1pYbEtMYVNwcGtOajZuZDFTT3hwOGR6dHdTZzMybHNGaFVjM1ZuXzZz?oc=5"
-  },
-  {
-   "title": "新皇崗口岸啟用後兩宗同類事故 九巴B10及B11雙層巴士疑入錯線撞天花標誌",
-   "source": "新假期",
-   "date": "10-31 12:22",
-   "iso": "2026-10-31T12:22:12+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XMFY2SjhnSlNNaWUwbndqTVFrNVpBLUhTVUExckJQaTdIUGNPVjZXcjhHRDV6U0Nxc1NSR21TTWJkdU84RjFLQWZrNWM?oc=5"
   },
   {
    "title": "（有片）現場直擊：新皇崗口岸南向客流攀升啟德線站台一度百人排隊- 新聞",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "10-31 11:16",
    "iso": "2026-10-31T11:16:32+00:00",
    "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPcTNnc2dtR2ZmeXVmTG1GRFFhNDdSMkpaRWZlWDdyOTFoV0RVOU81UlBKT3NvamJiUHQ1U1ZNYW9UaTlBOTA4NGl3dVZXV09Vdm1QNVRkNlllSTB6c3M5cHNuNGtfay0tek9DVWQ5WUxEeThoWlVDamUyWFNSbnJac1JGdTdQU3dOU2lFMVVsejVUazA4bkJUcmYxazVZeHVGY1lONTBzaS1aX0VSUkFFUm1QZUQyQmFRVjZpUDBBbEVrY2l0NTBfZk8tMUs0VkM1aUNoZGdxVmFteEphT09nMnh4dVVGQnBMYmtUVmlGa1hHb29rd2hmaEJhVzNyNENudHVsWUtWY2tLcUtxczU1YVFIamhWMEczcjBPMExjalFram0wdVNxM2RrSTY5MGxJaW9OZGg2NFNsa0hHZUN3ZG5fd1ZEb3dOSkhzUHZoTW5NbmUtNEl0V3VIMWNJdl9ycXVxeGt6RGM0Q1gyMWJRekphSTV0NVI5V1NDZ2x0eXFyMzhWY05MZXh1c3FfVGEtNzMxX29QYzJqZWUw?oc=5"
-  },
-  {
-   "title": "城巴B14來往皇崗啟德 延長全日試行至11‧15 擬提升為恒常路線",
-   "source": "on.cc東網",
-   "date": "10-31 10:43",
-   "iso": "2026-10-31T10:43:33+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWll2S1NacWlVQ0wzblZqWEFhZHBoMHplSUdoaU82UTNWNzU3TEtSUlB0a0lvdlBqc1FmOEZtNHc0U3JFdjU2WGtqSTVQUnhjbE5UVHpOMTVNVUhmRVlCNVlmcm0wV2VlclNKTElOdV9qd0VaTjRyTG4tWXhIUmhxRWs1cG8xUHFWNnJv?oc=5"
   }
  ],
  "ok": true,
