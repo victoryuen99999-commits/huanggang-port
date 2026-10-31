@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-01T00:30:10+08:00",
+ "generated_at": "2026-11-01T01:14:39+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "00:30",
+ "clock": "01:14",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 24,
   "humidity": 83,
-  "wind": 9.1,
+  "wind": 8.1,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 29,
@@ -55,60 +55,60 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "皇崗口岸出境繁忙，訪港旅客須等候約45分鐘",
+   "source": "Now 新聞",
+   "date": "10-31 17:09",
+   "iso": "2026-10-31T17:09:30+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YY3hycXlMVDJadTFYM1JLLVZ6LW1zQi1Pd1lyS0JYX2NMVDlkX2ZxVkM4bFVnaVFIMGdCTVQxaW85ZUw5VnZyR1ZFaTFlQllzUlBGWDVJbHJESDNm?oc=5"
+  },
+  {
+   "title": "新皇崗口岸｜旅客半夜離港需等待45分鐘 內地客︰大家都不睡覺？",
+   "source": "香港01",
+   "date": "10-31 17:01",
+   "iso": "2026-10-31T17:01:20+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQWVRjODNxVC1UZUJoWFVTZUo1RFpDZGZ0eEkyS0Fwak1TZWx5eUJYbHA3MndHdUhCcFVKOXdUQjJ0a2NadUhoRXh4bGM5QUl1cVI5dTZXaUYwa2tZRmVnS0kyaGhad1FOLWpEb3hGalNJZm4wNjBEakRJdVp0aWwtWlFGZm01bWUyUnpscENmS0V6MnZUbTJIUjVlSnFENzFhWkR3OFNYUWpsVWJPQkxIbUp4Y0FXQWpsVGI4Sl8ySU5naU0xbHVMOGhweFlTY2Q2b3VmRGhFXzhkd1hmR1RlbzAzLV84VFpicWNoSGVTYUMxSFFaaVJDYjNwMzFUWHlZNkJsNmczbkkybzd4VEkyVm9zczR4WmJwbmdOSzR6MU9jRnB3UmtKMnFXZm5COVpQY0RQQWZqeWh5akgzNTlqOExPYy1MQm82QmxIMHlPbnVhVHpPdHB6cEJla1FvY3JpQ2VjSkVPZmotUXVaX2dJUGx4QldETUxOaUh1RUYzcVhCTU8wVWljSlcxMDVKakxYdW96b3BtVUdwYTUtcmVQc0VETkVXYkZF?oc=5"
+  },
+  {
+   "title": "皇崗口岸出境繁忙 訪港旅客需等候約45分鐘",
+   "source": "dotdotnews",
+   "date": "10-31 16:56",
+   "iso": "2026-10-31T16:56:40+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PTDBLWEhIRkxtOWs2VGk4ak9VQncwdGw3WllaT0J4RGxkd3pDTXJrRVc4eFduV210bXkycGN3ZV9SOEU5NWtXb1doR3RSN0pxaDN4OUdVZ2ZTa09ZNUE4S1JYXzVrWEhFMmEtRHRpWmMwX2dadk9rd013?oc=5"
+  },
+  {
+   "title": "萬聖節皇崗 不過夜旅客返深圳 交通大致順暢",
+   "source": "集誌社",
+   "date": "10-31 16:52",
+   "iso": "2026-10-31T16:52:04+00:00",
+   "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPSDR5UjZfZUE4dGJnWmVLbkMxUmN5R1FRS0c2Z19NMnVvUUVEZlJYTlk5MEpReHFuTkI3eHFvdDhMc0tqeEVBdks1bzVZZnd3LXNYM1RYOFFiVHRFWGEzaEtPalVmR19vZFVyeU52UlRSRktwQnJCSXlhcFBBaEFucWJJNkdpRDV1c1hXeVdFMHhvUjBmR1laajlCLWt0YktZWk5oeWlZRlcwaExXSTc3TFE2cjNFWFg1VkVUNTdQeHdTMWh2V2FIRTNtTVpmOGtLYl84eW5yVTZlbEVQNUdtZnB4RVFiQmdKd2JGSW5FVGhxNVVsaUN2VkVYbWN1LUpZbkRxdVdZbDFJWVlydm5zSmRDay1xcWpsaGxiMDh1QWZCUGgwenMzTHk3UjRxTWpBcThxX2x4OWtGUl9nVGxn?oc=5"
+  },
+  {
+   "title": "皇崗口岸午夜後出境平均輪候時間為繁忙 卓孝業到場視察",
+   "source": "香港電台新聞網",
+   "date": "10-31 16:50",
+   "iso": "2026-10-31T16:50:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BNm8yQjh6UERXd29uU1dreUhpRU91ZVFQWmdnYVR1VUtDbDQwRDk2ekR5YnFyV1ZyR3BaSEFlYU4tMW5ETjhFbnh6UnBGVWlSLUc4SDFaaTVpWEtWcTdseVdRek81SWNjTHpKOUJGZw?oc=5"
+  },
+  {
+   "title": "萬聖節‧現場｜新皇崗口岸出境繁忙 訪港旅客須等45分鐘",
+   "source": "TVB",
+   "date": "10-31 16:30",
+   "iso": "2026-10-31T16:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPTF9hOU9BWEdBMXFfUTByQkNnWm9kN0ZNRC1Vc2Y3LXRiSnhhS2JGYmtSLU5Xa29fXzZwemU5dHNLTjREUjlfYVhpU1o2SERwem90MERQLWFKWERwc0xJRnJIaGVkaDl1VUVMaEtMY09ja1pkRkx2WlRFb3pWWTh5d3pYLXZZOGppOU5IamVtTS1HTXdSYzg4LThOMEsyM01KdWZwRjZxUVc1TTVxRkJ2UUt4QTNwTEg1ZEJwNHVYZllTV3gxbkpoekJYQlAyWUtfZWNrOGo4QmI4X3ZxNFhWR3lGNUJ1cldna2JLV0t2dDVEZm5RQkVKVk94bG1TaXUzZjhtSHlmbjZqTmoxRWhfVGpkdFo2T1U5ak5Ndk1xcXp5NXhjbU1HXzFqM3RKMkxXT2VJajRycmJXa0t1Z2gzX1RCMFFFQ2pMSVp5S2VORTcwUQ?oc=5"
+  },
+  {
+   "title": "皇崗口岸午夜後出境輪候時間顯示為繁忙",
+   "source": "香港電台新聞網",
+   "date": "10-31 16:28",
+   "iso": "2026-10-31T16:28:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43WW1fTUtfSDE0YTlIUXdQRTNuUTE5WW5IRl8wcnhlMTllQUFucGFfTlZYMTd2WUpFdDE4LUFBVklndS10YlU3Z2d2SDVlaE5pZXdBVFQtbS1WRGh6bWttZ2dFS1RGa0s0S3dfLXhnMA?oc=5"
+  },
+  {
    "title": "萬聖節｜運輸署：午夜赴皇崗口岸需求或增 城巴九巴加開巴士- 港聞",
    "source": "dotdotnews",
    "date": "10-31 16:10",
    "iso": "2026-10-31T16:10:04+00:00",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LYXgybnRFTGJYYUw4aDgwRlBVX2NNX19lRnRCeVh5RXBoZU5najZiX25sR2syd2lHOGxYMks1OEtoVWk0ajJrNExaMEQzS0VCWkJLMVZnSW5jTnVXZTF6aG4tZHNQSTVUVDJ5QkNxbTBxTlY1NDBSUWhR?oc=5"
-  },
-  {
-   "title": "新皇崗口岸深夜北上人流漸增 多輛B11巴士坐滿乘客 (00:04) - 20261101 - 港聞",
-   "source": "明報新聞網",
-   "date": "10-31 16:04",
-   "iso": "2026-10-31T16:04:58+00:00",
-   "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNd25mdUVDejRnYzZkYl8xUERjaEgwU2hxZUcxZmtzR1ZFRTk4Y0ZQSEt3Ti1NbWFpX19xdzcwYXBYdG1ZRDdtVHRINnozUmxnX2VjcHBhUS1fUWlEdk5VVkFaM1piYWxyRUl6RWtaUmZXZjJaZHhONVpXSGp6ckk5OE9GSktKRDFWdlpIeW1NVW1qSGhadjRwbk05M0tOSWJyZ0IzbE5OSEVfSUFYZGlwaGpIQTB5VXRaWHFyZ0pVRTJLWDlrb1dYWWdNal9wYlRWem5TQXhHVEJBN2JQd1R2V3VyWHJ6SktnWDQ5Y3hBeXhRbV9oX0x4YlJDZV8wYmptUXl4NlY0SmkyNUxob1Rsem9tTGQybk9iTmFrQjdHVU1xQ3NnMzhmUnc3UEtSMWJkYTJLOE85cVMzYmkzNExST0c5YlV1dmF1Zm5maWNiSWNUenlHNjVCbGZiRm9TQVhvZ1EzSl9KQ00zX2VQdHEyTXJNbHdYZVhObHB6aWdtU2tLbmw3cTRtbzBJeEZQYXJa?oc=5"
-  },
-  {
-   "title": "政府料皇崗口岸今晚為出境高峰 有內地客決定提早回程避人潮 - i-CABLE",
-   "source": "i-CABLE",
-   "date": "10-31 15:56",
-   "iso": "2026-10-31T15:56:08+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPVmxTZzRLa3JIZUxpWUdHNXlLbW9hekpYTmNKaFVTYmVMbG5iVkdZZFJxZkpGXzdwYW4yQ1g1MEhfTy0zVndmelFqY2tDb1BVdEZwNFU3ckpmYzh1Mm5EUG51ZE1FRDJmSjRCMXE2SS1Dd0czZFE4YWtITE82RVZaSmpBazEzREdLUUwtR1pBOUJmdmVrd0NKWjFSZk5fSWNTTFdud3JuNlNXalc4RGFRdS1ITndfaVlrMjAtUzJMMl9XOUdFbS02WFMtUWFCM1VmSnZqQjNPdEZvMHc2LUViWUhXVmgtc2laYzZiYWNiY1c2Z0FPYzVtcWlEbmRqaG9wTzlRallKUU0wYUswSnJ6OUVUYlZsckxxWGJzTlQ2LTVCT2ctMVRVNlZmb20zUDNsTmFVQTRhNlJlanR3UlNxVng2VlNfbk9wYXFUNTltYW9HcnJlcGVBX0Z3d0FwOHBZV3FETTJGX0l1NnQxWFllRnRiMHQ?oc=5"
-  },
-  {
-   "title": "萬聖節‧現場｜新皇崗口岸過關北上人流不算多 有旅客提早過關",
-   "source": "TVB",
-   "date": "10-31 15:27",
-   "iso": "2026-10-31T15:27:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxObjVRQTQ4dXJFQ19semxlVTZsbF9rd2ZCNkFUd3VkWkJsYTJDUDZhNFJ4SjVUdzY1WnY5RkhPMTJhS0RPVEkxREc5dlFCQTJxWnFUa2doMWFGaWdWUWptMnpPOXFwSzd0bmM0YjdEQWVZMnlYVXMwN2x6ckNCeEk2cGlVZ3VtVjRkN01aTTU0SmxHMmVtSno1blVnYjVEOUdOWEhzenduQjNTdUczOVU0cFZTTmNtMVBRUVFMZG90VGpaUXczVWZneUNDODBZSW5VN2RDeEpzcE1YLUNUUXFUeURlQmNQQ2FWaGk1dG42Ql9iazQ1bGxsM2o0aE02ampDdldMVUhnYm40dzN0eDJCcXBuaTJVa0lKVS04Y1RwYkl3YTVLekF0cXg3UV9Rcm12ZEF5RVE4a3FXOURDU3p4LVBmQzdOVlRNcmt3UGp6ZWQzalZTS08yLURxRzl4cVhETThFN21jQS1MX0RhN0tsNk5hNUtBOWRqYU1KclU2QQ?oc=5"
-  },
-  {
-   "title": "九巴皇崗口岸駛錯路撞指示牌 半月第二宗 運輸署促加強車長培訓",
-   "source": "巴士的報",
-   "date": "10-31 14:18",
-   "iso": "2026-10-31T14:18:46+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQb01EV1BzUHRoWmZ5RFNNVmExUVFSSk45ZFpmOFBhM3JteGUxN1g0bDdtLWl3UlQ3YjIzSEduN2ZIb3FPajRKakhpZmllRnM5M1BUeHA0bGVsalpWOExPQkU3QVZsX3hXM0d2SVNqbWsySEpkNVBHc2tfNUpHWUZQeHFNcUxEdFhDNFpaM01nVXlyWC1rMkNJZ3Jzd1BicGdRWE53aldhVGtwejJiRTVMMlB0c1ltZ2w1aVVaR1dPbjhIT2VhMGozaWxqNXVMQlpZMGstZVROTVRESTZzejRsTTJjSlU5LVR5MXhmWWQ0YVpHS0QxSzhONE1tQm1qelM0TER1dS1fUVpyQWxhc1JtanFrZEd6VVVHakFncXI1RmYyZWx0aE1md1p6QmM0QnBtZjdZMHFxNmV2azNKdnBEeHFWaGJtMEhyRjMtdHljUG1oV1FXNVdYdzBmNFNPQmQ1aTQxY2o4azBBUHNkQk1kVg?oc=5"
-  },
-  {
-   "title": "皇崗口岸再有雙層巴士誤入限高通道撞頂 運輸署要求九巴加強培訓",
-   "source": "Now 新聞",
-   "date": "10-31 14:10",
-   "iso": "2026-10-31T14:10:48+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5QXRDaWNpT2hzckZiOVNfdm5KWEtCb29RQk43b2MwUXZjSHA5VVM1T0dhT25pOFFrWHNTbWlRcTIzckZwenN1VjNwdmtUWjN5WDNlb0tfbUpycU1tRmJpMFRR?oc=5"
-  },
-  {
-   "title": "九巴於皇崗口岸疑撞指示牌 運輸署要求專營巴士營辦商加強培訓",
-   "source": "香港電台新聞網",
-   "date": "10-31 13:41",
-   "iso": "2026-10-31T13:41:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TUTNsZjBsUm50eUd5ei1VaDFRcjBMa3hnY3FWdFA3NXE5clNZdVRhakY4UndZN2VQbFRpVmlvRmEzUXV3YkRiSU8tWXZfU3dvSlc4VzdhckRJNDlUbDF4V2FKTWVxa05YM0c5V0l3SQ?oc=5"
-  },
-  {
-   "title": "兩周兩宗新皇崗口岸再有九巴行錯路撞天花指示牌- 香港",
-   "source": "香港文匯報",
-   "date": "10-31 12:32",
-   "iso": "2026-10-31T12:32:01+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44YUU0MTJnb0x3VUVqRmdNM1RhRlFGNW5yN1dONm1VanExV1poM081c1hULWJ6VjdlOXRueVNmOXRTY1Y0ems3TVNVdG0tS1pYbEtMYVNwcGtOajZuZDFTT3hwOGR6dHdTZzMybHNGaFVjM1ZuXzZz?oc=5"
   }
  ],
  "ok": true,
@@ -137,11 +137,6 @@ window.HGP_DATA = {
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
-  },
-  {
-   "tag": "車流",
-   "text": "近 36 小時有 3 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
-   "level": "warn"
   },
   {
    "tag": "禁區",
