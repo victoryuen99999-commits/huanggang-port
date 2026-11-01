@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-02T02:56:34+08:00",
+ "generated_at": "2026-11-02T03:02:42+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "02:56",
+ "clock": "03:02",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 24,
   "humidity": 93,
-  "wind": 4.9,
+  "wind": 4.8,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 32,
@@ -55,11 +55,11 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "中原：皇崗口岸周邊樓盤租售看漲新關口便利往返 港人置業增28%",
+   "title": "中原：皇崗口岸周邊樓盤租售看漲 新關口便利往返 港人置業增28% 灣區金融發展 - 專題",
    "source": "信報網站",
-   "date": "11-01 17:55",
-   "iso": "2026-11-01T17:55:18+00:00",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQdnh5cTEycTY0NlBKNFFIczRGQ1VjT05nVUdMYzVldjZwWUhONzM5NkUtZzc1WmZKa2NhUzF3M1B1VnhneVBaT2wxNHA5c0tEZHg0Yl9ZbnE0TDVKcFQ2Vmg3Zl9rUWNmNzZaY2N4WjFKdjdEb0hDZ2toU2hrRlBMeDU1YVZRNTJIcnktY3hiT294QkZIb25qQVNabkx1LUdmRm1WaS01cTV3bmsxUk5IUmZvMDlGNVhxLXN4RW55cURmdDQ1R2t3REZQWF9xRkgxcFFZSDV4bTZBaktPSXVBUFkxMzN5RENkWDVvNmtGajFhVUxrRkdMRV9mcnNudk9aUXA1S0pMMzRjT0tIbUxBT0FvUmp0bUJmZGc?oc=5"
+   "date": "11-01 18:58",
+   "iso": "2026-11-01T18:58:35+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQOEVacER2RE9Xd0dSRERMY2I5TWxyUmhJT281bXN2LWJpVmV4MUVDaFNPWnVaRGNhOEVqZjljbUllSGxkcDBjenVXb215SzRXS0YwOGptbnlpUlFXUi1DNUs0QmxOaFAzUF9WbEVfUWRUN25fNXkycFllakhMTmxYbXVsaE5rMmpDZnN4R21lbXhqbVZSNTZEbi1LQnVjNEhORUFZRUtUNHhRMUdrQktVZmRwMkpZNWgxRFVxVi0xeTlRcHFGZHlFbVY3Q3BfWGlPbDBaeU5fY3prSjFxSnBNblFlZEY3dzJjRnVHN1k5OVRlVmNXQ3RoR282RzRJd3FnbmUxUkI1N3llUjltNXpvSzFYa1dRZFZtTE5FUnpNX3lSOUFIekZUYjV3SXBmM2VUVzBRSjlWV29JdkpseWF0Vksxb1Y5WHNzQjVCMTFhR2FQbnp3bjRTNWdHZw?oc=5"
   },
   {
    "title": "萬聖節｜周末最後一天 皇崗口岸路況暢通- 有線寬頻i-CABLE - i-CABLE",
@@ -90,13 +90,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FXzZWX3NVdHc5Q0d1TUhPR1g0MC0zT1R6ZWtCcmpTS2lrVWVBQmZhal94b0IwelN0SXF5T1V3OC1PU1VzbUw4NDk1S0hJQWRzTndfakRqaUw4SHNxa0hOdFZvSFd5NjlCc3Y3MUN0UnVpaGpxX1BF?oc=5"
   },
   {
-   "title": "萬聖節凌晨一度近250人排旺角跨境巴士 等逾40分鐘上車 旅客稱算方便 (07:06) - 20261101 - 港聞",
-   "source": "明報新聞網",
-   "date": "10-31 23:06",
-   "iso": "2026-10-31T23:06:31+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxPQUE1UzJoUDVrdENJdWYwb3BuOFNLdUxpYmNobHZoSkNZbk1nZGc5amNxMDljUlZXMmhSRFFJelI2ZHB3Y2YxeGFvS3h4a0JNRVRNRWstME9fY05pTjFyQjlpQ0N0X1FaUzJLM1p2b0tCMEtEbnYxYVctOEZhd3lFT1VIeS1zdmVxSTgycmVqR1V5UzFzc3dBbWtmYlpRNGhnODF4TFk2RjZjbllEWml4ZGFqUWptdXNQMkM3QTVCeDJfVjhoMktjd2tWMTBIZUtfNWd2ZWZDanFnZUxnNFloZWRJTnBtNlJtMHlJc3lUSFBIY0RwMGRWVEJmaHppT2IwX2FQa1ZPUkdLejc1WE1IczNYWDFORnM5UHJrVXhnR2ZXQjZzWVVUbW1ma0Y3cXZXaU5DWkE3Mm1ZdURwMUROSEFsVW5hdmMxeFFNMVNkX3pPVlJrNkRkZGRnSXU1bEFrcWRidFJCd0ZCWFdyZVZqNUh4WDJQSGFsRVk4VnJoUlRHbHYwYngzUW5lNC1fUHk0a0pKR190YVdkczk2ODdwTm8wMElTMjVPa2NLb2tmbUJCZ3JlWmxFUnJpQlFXbHEtTVdGNExQdHh4bEpXZ1pkT0lNM1FrbEtiVHRUSThncWtJenRhQjlIWg?oc=5"
-  },
-  {
    "title": "萬聖節｜多區通往皇崗口岸車站一度大排長龍 有旅客冀增加車輛安排",
    "source": "TVB",
    "date": "10-31 20:05",
@@ -109,14 +102,21 @@ window.HGP_DATA = {
    "date": "10-31 18:33",
    "iso": "2026-10-31T18:33:50+00:00",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGNoWnRUSGNqNHBUNkhMeVcyRVM5SE1fMDJUWkYyMDFLd0xwZ2JlaEF4endha2hXdllfTHlTZFF3MFo2eFdETy1hbk5Qc25CdFFkV3RfRUI4RUNrZFBmWFE1NjhVMEwzc1c5bmJMOTRUUW1Gek9XMmhNcG04NTc2YmRNc21NTEV5dmhn?oc=5"
+  },
+  {
+   "title": "萬聖節｜旺角600人等上車去新皇崗口岸 旅客大讚：比預想中快",
+   "source": "香港01",
+   "date": "10-31 18:20",
+   "iso": "2026-10-31T18:20:24+00:00",
+   "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxORzBiRjFnYm85bTROaEp6WjhiWFduaUNXMUNsZjNyeVRGRjVmUXlvZlFKVzQyekN2NUtQcFQzd29wM0tTV0swT1VzTEdaV2t0Z0E3OTdWSm9XYXRYUDlyYmlTY2w3TGhRSDQwd2x2NVhRVkRvczZLYXk3amxQYV9DWmk0YWRwa01MdTUwUVNWenMxbXFuWjNlbU8yT1pXMzZXUUpyYXFGZ1dkdGFaNl9RU2FnajhjemhKWHBYeHpzN0J1bmtwUHhsb1VQaXBSdldCaUJiRzJzR01YQS0ydlFudUIxMThrNmR0UE1SMzJaRzJMUnlJYy1aQktkNVU0U3p0ZmtQSFpwbmkzYnBVZkllbXdfOEVBckpGNTJaSy1ZV1JPaXh2bFAxMXEyMHVIdnNmUURLSWd2MjNFa3BpZ2drd29ka0NrLTkwaTRhVnZkTTljeF9Yb2xFYkI4N3RYMng4RnlIQjBuREZfUTRiVnhaZEE3U0xwWk5lM0RIYmNoZWowUkdKdGc?oc=5"
   }
  ],
  "ok": true,
  "vehicle_events": [
   {
-   "t": 1793487991000,
-   "s": "明報新聞網",
-   "ti": "萬聖節凌晨一度近250人排旺角跨境巴士 等逾40分鐘上車 旅客稱算方便 (07:"
+   "t": 1793470824000,
+   "s": "香港01",
+   "ti": "萬聖節｜旺角600人等上車去新皇崗口岸 旅客大讚：比預想中快"
   }
  ],
  "tips": [
@@ -146,5 +146,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 153
+ "history_points": 154
 };
