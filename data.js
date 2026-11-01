@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-01T14:18:56+08:00",
+ "generated_at": "2026-11-01T14:29:34+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "14:18",
+ "clock": "14:29",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -89,13 +89,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSY2FkNVJ3Ymh3ODE3R3RkeTBJeGV1V3BmX3VaY01WMkF2MGJWTzB6eUdIeDFidGMzZ2YyamZ4eEt3Zmh1anV5VG05M2ZpTHRRQl91eDNWWDl4eDJ4LUkxUFdqOGpFWmJMVE9LSWtfZFp2RGc2bzlB?oc=5"
   },
   {
-   "title": "黃昏南向人流攀升巴士站打蛇餅- 香港",
-   "source": "香港文匯報",
-   "date": "10-31 20:51",
-   "iso": "2026-10-31T20:51:52+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03Y2h3SHh2dVpuQ3F0YWJpbTVMVng1MjAxRVVYZGJyWDliOUtIcWxOd1o5eG9xMXBrU3NCbktaQndsZDVLc05Zd2c5eUg5djNhMjh5WGNNMTBLcjk1OC1xTUlZOVdRbFNXSERNWjNzMnIwc2pwNDQ0?oc=5"
-  },
-  {
    "title": "新皇崗口岸再現巴士行錯路撞指示牌 運輸署要求加強車長培訓",
    "source": "Singtaousa",
    "date": "10-31 20:22",
@@ -115,6 +108,13 @@ window.HGP_DATA = {
    "date": "10-31 18:33",
    "iso": "2026-10-31T18:33:50+00:00",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGNoWnRUSGNqNHBUNkhMeVcyRVM5SE1fMDJUWkYyMDFLd0xwZ2JlaEF4endha2hXdllfTHlTZFF3MFo2eFdETy1hbk5Qc25CdFFkV3RfRUI4RUNrZFBmWFE1NjhVMEwzc1c5bmJMOTRUUW1Gek9XMmhNcG04NTc2YmRNc21NTEV5dmhn?oc=5"
+  },
+  {
+   "title": "皇崗口岸午夜後迎出境高峰 旅客過關需等45分鐘",
+   "source": "Now 新聞",
+   "date": "10-31 18:17",
+   "iso": "2026-10-31T18:17:25+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11dWROTDVtb2ZKWnhROHptT2duWXUyN0xCY01BLTVaQXcydnh1WlFxWHFDOHUwZnpYZmpTN2hIVVptWndpcU1JSGR1VDBqX3FMSm9jVU1DTW1NN2tjTG1CWHVR?oc=5"
   }
  ],
  "ok": true,
@@ -149,6 +149,5 @@ window.HGP_DATA = {
    "text": "港方口岸區屬禁區：過境旅客須持有效旅行證件，非過境人士（包括部分承辦商）須持有效禁區通行證。",
    "level": "info"
   }
- ],
- "history_points": 2
+ ]
 };

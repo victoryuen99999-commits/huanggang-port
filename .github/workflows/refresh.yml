@@ -2,8 +2,9 @@ name: 更新皇崗口岸資料
 
 on:
   schedule:
-    # 只負責「叫醒」新一輪；真正更新由 job 內部 loop 每 10 分鐘做一次。
-    - cron: "*/30 * * * *"
+    # 只負責「接力」：每 15 分鐘排一次，如已有 job 在跑就自動排隊，
+    # job 一結束即接手，避免出現空窗。真正刷新由 job 內部 loop 每 10 分鐘做。
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
