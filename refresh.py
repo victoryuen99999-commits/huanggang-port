@@ -244,6 +244,14 @@ def main():
 
     out["warnings"] = fetch_warnings()
     out["news"] = fetch_news()
+    # 車輛擠塞代理指標：媒體報道提及「塞／車龍」的時間分佈（非官方數據）
+    VEH = ("塞", "車龍", "車流", "塞車", "擠塞", "巴士", "排隊", "上車")
+    veh = []
+    for n in out.get("news", []):
+        if n.get("iso") and any(k in n["title"] for k in VEH):
+            veh.append({"t": int(datetime.fromisoformat(n["iso"]).timestamp() * 1000),
+                        "s": n.get("source", ""), "ti": n["title"][:40]})
+    out["vehicle_events"] = veh[-60:]
     out["tips"] = build_tips(now, out["weather"], out["warnings"], out["news"])
     out["history_points"] = len(save_hist(append_hist(out, now)))
 

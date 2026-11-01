@@ -161,6 +161,9 @@
   .trend-bars i.l1{height:26px;background:var(--amber)}
   .trend-bars i.l2{height:40px;background:var(--red)}
   .trend-bars i.lx{height:5px;background:rgba(255,255,255,.14)}
+  .trend-bars i.v1{height:16px;background:var(--amber)}
+  .trend-bars i.v2{height:28px;background:#f08a4b}
+  .trend-bars i.v3{height:40px;background:var(--red)}
   .trend-axis{display:flex;justify-content:space-between;font-size:11px;color:var(--mut2);
     font-variant-numeric:tabular-nums;border-top:1px solid var(--line);padding-top:5px}
   .trend-legend{display:flex;flex-wrap:wrap;gap:14px;font-size:12px;color:var(--mut);margin:10px 0 6px}
@@ -343,6 +346,14 @@
             <span><b style="background:rgba(255,255,255,.14)"></b>無數據</span>
           </div>
           <div class="trend-stats" id="trendStats">載入中…</div>
+        </div>
+
+        <h3 class="h3">過去 48 小時車輛擠塞報道</h3>
+        <div class="panel">
+          <div class="trend-bars" id="vehBars"></div>
+          <div class="trend-axis" id="vehAxis"></div>
+          <div class="trend-stats" id="vehStats">載入中…</div>
+          <p class="note" style="margin-top:8px">以媒體報道提及「塞／車龍／巴士排隊」的次數作代理指標（非官方車輛排隊數據；時間為報道發佈時間）。</p>
         </div>
 
         <h3 class="h3">即時車輛排隊（交通快拍）</h3>
@@ -912,6 +923,38 @@
                    "｜已記錄 <b>" + hist.length + "</b> 筆";
   }
 
+
+  function renderVeh(events){
+    var bars = $("vehBars"), axis = $("vehAxis"), st = $("vehStats");
+    if(!bars) return;
+    var SLOTS = 96, MIN = 30 * 60 * 1000, now = Date.now();
+    var start = Math.floor(now / MIN) * MIN - (SLOTS - 1) * MIN;
+    var cnt = new Array(SLOTS).fill(0);
+    (events || []).forEach(function(e){
+      if(!e || !e.t) return;
+      var i = Math.floor((e.t - start) / MIN);
+      if(i >= 0 && i < SLOTS) cnt[i]++;
+    });
+    var tot = 0, peak = 0;
+    bars.innerHTML = cnt.map(function(c, i){
+      var t = new Date(start + i * MIN);
+      var label = (t.getMonth()+1) + "-" + t.getDate() + " " + pad(t.getHours()) + ":" + pad(t.getMinutes());
+      if(!c) return '<i class="lx" title="' + label + ' 無報道"></i>';
+      tot += c; if(c > peak) peak = c;
+      var cls = c >= 3 ? "v3" : c === 2 ? "v2" : "v1";
+      return '<i class="' + cls + '" title="' + label + ' ' + c + ' 篇報道"></i>';
+    }).join("");
+    var marks = "";
+    for(var k=0;k<SLOTS;k+=12){
+      var td = new Date(start + k * MIN);
+      marks += "<span>" + (td.getMonth()+1) + "/" + td.getDate() + " " + pad(td.getHours()) + ":00</span>";
+    }
+    axis.innerHTML = marks;
+    st.innerHTML = tot
+      ? "過去 48 小時：<b>" + tot + "</b> 篇相關報道，最密時段 <b>" + peak + "</b> 篇／30 分鐘"
+      : "過去 48 小時暫無相關報道（無人龍／車龍新聞即代表冇明顯擠塞）。";
+  }
+
   function renderAll(d){
     if(!d) return;
     renderSignals(d);
@@ -919,6 +962,7 @@
     renderNews(d.news);
     renderWeather(d);
     renderTrend();
+    renderVeh(d.vehicle_events);
     renderWarnings(d.warnings === undefined ? null : d.warnings);
     if(d.generated_at){
       $("footStamp").textContent = "本頁快照產生時間：" + d.generated_at.replace("T"," ") + "（HKT）｜本頁由 GitHub Actions 每 10 分鐘更新一次";
