@@ -918,13 +918,13 @@
     }
     var cov48 = Math.round((cnt[0] + cnt[1] + cnt[2]) / SLOTS * 100);
     var last24 = buckets.slice(-48);
-    var cov24 = Math.round(last24.filter(function(v){ return v !== null; }).length / 48 * 100);
+    var c24 = last24.filter(function(v){ return v !== null; }).length;
+    var cov24 = Math.round(c24 / 48 * 100);
     st.innerHTML = "過去 48 小時：正常 <b>" + cnt[0] + "</b> 段 · 繁忙 <b>" + cnt[1] +
                    "</b> 段 · 非常繁忙 <b>" + cnt[2] + "</b> 段｜最高：<b>" +
-                   (worst === 2 ? "非常繁忙" : worst === 1 ? "繁忙" : "正常") +
-                   "</b>" + (worstAt ? "（" + worstAt + "）" : "") +
-                   "<br>記錄覆蓋：最近 24 小時 <b>" + cov24 + "%</b>（" +
-                   last24.filter(function(v){ return v !== null; }).length + "/48 格）· 48 小時 <b>" +
+                   (worst === 2 ? "非常繁忙" : worst === 1 ? "繁忙" : "正常") + "</b>" +
+                   (worstAt ? "（" + worstAt + "）" : "") +
+                   "<br>記錄覆蓋：最近 24 小時 <b>" + cov24 + "%</b>（" + c24 + "/48 格）· 48 小時 <b>" +
                    cov48 + "%</b>（" + (cnt[0] + cnt[1] + cnt[2]) + "/96 格）· 共 <b>" + hist.length + "</b> 筆" +
                    (cov48 < 100 ? "｜灰色＝當時未開始記錄或抓取失敗" : "");
   }
