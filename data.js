@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-02T07:51:30+08:00",
+ "generated_at": "2026-11-02T07:57:37+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "07:51",
+ "clock": "07:57",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -69,13 +69,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQOEVacER2RE9Xd0dSRERMY2I5TWxyUmhJT281bXN2LWJpVmV4MUVDaFNPWnVaRGNhOEVqZjljbUllSGxkcDBjenVXb215SzRXS0YwOGptbnlpUlFXUi1DNUs0QmxOaFAzUF9WbEVfUWRUN25fNXkycFllakhMTmxYbXVsaE5rMmpDZnN4R21lbXhqbVZSNTZEbi1LQnVjNEhORUFZRUtUNHhRMUdrQktVZmRwMkpZNWgxRFVxVi0xeTlRcHFGZHlFbVY3Q3BfWGlPbDBaeU5fY3prSjFxSnBNblFlZEY3dzJjRnVHN1k5OVRlVmNXQ3RoR282RzRJd3FnbmUxUkI1N3llUjltNXpvSzFYa1dRZFZtTE5FUnpNX3lSOUFIekZUYjV3SXBmM2VUVzBRSjlWV29JdkpseWF0Vksxb1Y5WHNzQjVCMTFhR2FQbnp3bjRTNWdHZw?oc=5"
   },
   {
-   "title": "中原：皇崗口岸周邊樓盤租售看漲新關口便利往返 港人置業增28%",
-   "source": "信報網站",
-   "date": "11-01 17:55",
-   "iso": "2026-11-01T17:55:18+00:00",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQdnh5cTEycTY0NlBKNFFIczRGQ1VjT05nVUdMYzVldjZwWUhONzM5NkUtZzc1WmZKa2NhUzF3M1B1VnhneVBaT2wxNHA5c0tEZHg0Yl9ZbnE0TDVKcFQ2Vmg3Zl9rUWNmNzZaY2N4WjFKdjdEb0hDZ2toU2hrRlBMeDU1YVZRNTJIcnktY3hiT294QkZIb25qQVNabkx1LUdmRm1WaS01cTV3bmsxUk5IUmZvMDlGNVhxLXN4RW55cURmdDQ1R2t3REZQWF9xRkgxcFFZSDV4bTZBaktPSXVBUFkxMzN5RENkWDVvNmtGajFhVUxrRkdMRV9mcnNudk9aUXA1S0pMMzRjT0tIbUxBT0FvUmp0bUJmZGc?oc=5"
-  },
-  {
    "title": "萬聖節｜周末最後一天 皇崗口岸路況暢通- 有線寬頻i-CABLE - i-CABLE",
    "source": "i-CABLE",
    "date": "11-01 16:01",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "10-31 18:20",
    "iso": "2026-10-31T18:20:24+00:00",
    "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxORzBiRjFnYm85bTROaEp6WjhiWFduaUNXMUNsZjNyeVRGRjVmUXlvZlFKVzQyekN2NUtQcFQzd29wM0tTV0swT1VzTEdaV2t0Z0E3OTdWSm9XYXRYUDlyYmlTY2w3TGhRSDQwd2x2NVhRVkRvczZLYXk3amxQYV9DWmk0YWRwa01MdTUwUVNWenMxbXFuWjNlbU8yT1pXMzZXUUpyYXFGZ1dkdGFaNl9RU2FnajhjemhKWHBYeHpzN0J1bmtwUHhsb1VQaXBSdldCaUJiRzJzR01YQS0ydlFudUIxMThrNmR0UE1SMzJaRzJMUnlJYy1aQktkNVU0U3p0ZmtQSFpwbmkzYnBVZkllbXdfOEVBckpGNTJaSy1ZV1JPaXh2bFAxMXEyMHVIdnNmUURLSWd2MjNFa3BpZ2drd29ka0NrLTkwaTRhVnZkTTljeF9Yb2xFYkI4N3RYMng4RnlIQjBuREZfUTRiVnhaZEE3U0xwWk5lM0RIYmNoZWowUkdKdGc?oc=5"
+  },
+  {
+   "title": "皇崗口岸午夜後迎出境高峰 旅客過關需等45分鐘",
+   "source": "Now 新聞",
+   "date": "10-31 18:17",
+   "iso": "2026-10-31T18:17:25+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11dWROTDVtb2ZKWnhROHptT2duWXUyN0xCY01BLTVaQXcydnh1WlFxWHFDOHUwZnpYZmpTN2hIVVptWndpcU1JSGR1VDBqX3FMSm9jVU1DTW1NN2tjTG1CWHVR?oc=5"
   }
  ],
  "ok": true,
@@ -146,5 +146,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 201
+ "history_points": 202
 };
