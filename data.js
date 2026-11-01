@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-01T14:53:48+08:00",
+ "generated_at": "2026-11-01T15:11:35+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "14:53",
+ "clock": "15:11",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -89,6 +89,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSY2FkNVJ3Ymh3ODE3R3RkeTBJeGV1V3BmX3VaY01WMkF2MGJWTzB6eUdIeDFidGMzZ2YyamZ4eEt3Zmh1anV5VG05M2ZpTHRRQl91eDNWWDl4eDJ4LUkxUFdqOGpFWmJMVE9LSWtfZFp2RGc2bzlB?oc=5"
   },
   {
+   "title": "黃昏南向人流攀升巴士站打蛇餅- 香港",
+   "source": "香港文匯報",
+   "date": "10-31 20:51",
+   "iso": "2026-10-31T20:51:52+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03Y2h3SHh2dVpuQ3F0YWJpbTVMVng1MjAxRVVYZGJyWDliOUtIcWxOd1o5eG9xMXBrU3NCbktaQndsZDVLc05Zd2c5eUg5djNhMjh5WGNNMTBLcjk1OC1xTUlZOVdRbFNXSERNWjNzMnIwc2pwNDQ0?oc=5"
+  },
+  {
    "title": "新皇崗口岸再現巴士行錯路撞指示牌 運輸署要求加強車長培訓",
    "source": "Singtaousa",
    "date": "10-31 20:22",
@@ -108,13 +115,6 @@ window.HGP_DATA = {
    "date": "10-31 18:33",
    "iso": "2026-10-31T18:33:50+00:00",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGNoWnRUSGNqNHBUNkhMeVcyRVM5SE1fMDJUWkYyMDFLd0xwZ2JlaEF4endha2hXdllfTHlTZFF3MFo2eFdETy1hbk5Qc25CdFFkV3RfRUI4RUNrZFBmWFE1NjhVMEwzc1c5bmJMOTRUUW1Gek9XMmhNcG04NTc2YmRNc21NTEV5dmhn?oc=5"
-  },
-  {
-   "title": "皇崗口岸午夜後迎出境高峰 旅客過關需等45分鐘",
-   "source": "Now 新聞",
-   "date": "10-31 18:17",
-   "iso": "2026-10-31T18:17:25+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11dWROTDVtb2ZKWnhROHptT2duWXUyN0xCY01BLTVaQXcydnh1WlFxWHFDOHUwZnpYZmpTN2hIVVptWndpcU1JSGR1VDBqX3FMSm9jVU1DTW1NN2tjTG1CWHVR?oc=5"
   }
  ],
  "ok": true,
@@ -123,6 +123,11 @@ window.HGP_DATA = {
    "t": 1793487991000,
    "s": "明報新聞網",
    "ti": "萬聖節凌晨一度近250人排旺角跨境巴士 等逾40分鐘上車 旅客稱算方便 (07:"
+  },
+  {
+   "t": 1793479912000,
+   "s": "香港文匯報",
+   "ti": "黃昏南向人流攀升巴士站打蛇餅- 香港"
   },
   {
    "t": 1793478155000,
@@ -162,5 +167,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 41
+ "history_points": 42
 };
