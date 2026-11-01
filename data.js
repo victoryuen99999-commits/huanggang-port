@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-02T05:11:49+08:00",
+ "generated_at": "2026-11-02T05:17:57+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "05:11",
+ "clock": "05:17",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 23,
   "humidity": 95,
-  "wind": 5.1,
+  "wind": 5.0,
   "code": 3,
   "desc": "多雲",
   "tmax": 32,
@@ -104,21 +104,15 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FXzZWX3NVdHc5Q0d1TUhPR1g0MC0zT1R6ZWtCcmpTS2lrVWVBQmZhal94b0IwelN0SXF5T1V3OC1PU1VzbUw4NDk1S0hJQWRzTndfakRqaUw4SHNxa0hOdFZvSFd5NjlCc3Y3MUN0UnVpaGpxX1BF?oc=5"
   },
   {
-   "title": "萬聖節凌晨一度近250人排旺角跨境巴士 等逾40分鐘上車 旅客稱算方便 (07:06) - 20261101 - 港聞",
-   "source": "明報新聞網",
-   "date": "10-31 23:06",
-   "iso": "2026-10-31T23:06:31+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxPQUE1UzJoUDVrdENJdWYwb3BuOFNLdUxpYmNobHZoSkNZbk1nZGc5amNxMDljUlZXMmhSRFFJelI2ZHB3Y2YxeGFvS3h4a0JNRVRNRWstME9fY05pTjFyQjlpQ0N0X1FaUzJLM1p2b0tCMEtEbnYxYVctOEZhd3lFT1VIeS1zdmVxSTgycmVqR1V5UzFzc3dBbWtmYlpRNGhnODF4TFk2RjZjbllEWml4ZGFqUWptdXNQMkM3QTVCeDJfVjhoMktjd2tWMTBIZUtfNWd2ZWZDanFnZUxnNFloZWRJTnBtNlJtMHlJc3lUSFBIY0RwMGRWVEJmaHppT2IwX2FQa1ZPUkdLejc1WE1IczNYWDFORnM5UHJrVXhnR2ZXQjZzWVVUbW1ma0Y3cXZXaU5DWkE3Mm1ZdURwMUROSEFsVW5hdmMxeFFNMVNkX3pPVlJrNkRkZGRnSXU1bEFrcWRidFJCd0ZCWFdyZVZqNUh4WDJQSGFsRVk4VnJoUlRHbHYwYngzUW5lNC1fUHk0a0pKR190YVdkczk2ODdwTm8wMElTMjVPa2NLb2tmbUJCZ3JlWmxFUnJpQlFXbHEtTVdGNExQdHh4bEpXZ1pkT0lNM1FrbEtiVHRUSThncWtJenRhQjlIWg?oc=5"
+   "title": "新皇崗口岸凌晨出境交通開始繁忙 旅客過關需輪候約45分鐘",
+   "source": "on.cc東網",
+   "date": "10-31 18:33",
+   "iso": "2026-10-31T18:33:50+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGNoWnRUSGNqNHBUNkhMeVcyRVM5SE1fMDJUWkYyMDFLd0xwZ2JlaEF4endha2hXdllfTHlTZFF3MFo2eFdETy1hbk5Qc25CdFFkV3RfRUI4RUNrZFBmWFE1NjhVMEwzc1c5bmJMOTRUUW1Gek9XMmhNcG04NTc2YmRNc21NTEV5dmhn?oc=5"
   }
  ],
  "ok": true,
- "vehicle_events": [
-  {
-   "t": 1793487991000,
-   "s": "明報新聞網",
-   "ti": "萬聖節凌晨一度近250人排旺角跨境巴士 等逾40分鐘上車 旅客稱算方便 (07:"
-  }
- ],
+ "vehicle_events": [],
  "tips": [
   {
    "tag": "天氣",
@@ -146,5 +140,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 175
+ "history_points": 176
 };
