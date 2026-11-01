@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-02T04:59:36+08:00",
+ "generated_at": "2026-11-02T05:05:42+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "04:59",
+ "clock": "05:05",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,7 +44,7 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 94,
+  "humidity": 95,
   "wind": 5.1,
   "code": 3,
   "desc": "多雲",
@@ -67,6 +67,13 @@ window.HGP_DATA = {
    "date": "11-01 18:58",
    "iso": "2026-11-01T18:58:35+00:00",
    "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQOEVacER2RE9Xd0dSRERMY2I5TWxyUmhJT281bXN2LWJpVmV4MUVDaFNPWnVaRGNhOEVqZjljbUllSGxkcDBjenVXb215SzRXS0YwOGptbnlpUlFXUi1DNUs0QmxOaFAzUF9WbEVfUWRUN25fNXkycFllakhMTmxYbXVsaE5rMmpDZnN4R21lbXhqbVZSNTZEbi1LQnVjNEhORUFZRUtUNHhRMUdrQktVZmRwMkpZNWgxRFVxVi0xeTlRcHFGZHlFbVY3Q3BfWGlPbDBaeU5fY3prSjFxSnBNblFlZEY3dzJjRnVHN1k5OVRlVmNXQ3RoR282RzRJd3FnbmUxUkI1N3llUjltNXpvSzFYa1dRZFZtTE5FUnpNX3lSOUFIekZUYjV3SXBmM2VUVzBRSjlWV29JdkpseWF0Vksxb1Y5WHNzQjVCMTFhR2FQbnp3bjRTNWdHZw?oc=5"
+  },
+  {
+   "title": "中原：皇崗口岸周邊樓盤租售看漲新關口便利往返 港人置業增28%",
+   "source": "信報網站",
+   "date": "11-01 17:55",
+   "iso": "2026-11-01T17:55:18+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQdnh5cTEycTY0NlBKNFFIczRGQ1VjT05nVUdMYzVldjZwWUhONzM5NkUtZzc1WmZKa2NhUzF3M1B1VnhneVBaT2wxNHA5c0tEZHg0Yl9ZbnE0TDVKcFQ2Vmg3Zl9rUWNmNzZaY2N4WjFKdjdEb0hDZ2toU2hrRlBMeDU1YVZRNTJIcnktY3hiT294QkZIb25qQVNabkx1LUdmRm1WaS01cTV3bmsxUk5IUmZvMDlGNVhxLXN4RW55cURmdDQ1R2t3REZQWF9xRkgxcFFZSDV4bTZBaktPSXVBUFkxMzN5RENkWDVvNmtGajFhVUxrRkdMRV9mcnNudk9aUXA1S0pMMzRjT0tIbUxBT0FvUmp0bUJmZGc?oc=5"
   },
   {
    "title": "萬聖節｜周末最後一天 皇崗口岸路況暢通- 有線寬頻i-CABLE - i-CABLE",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "10-31 23:06",
    "iso": "2026-10-31T23:06:31+00:00",
    "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxPQUE1UzJoUDVrdENJdWYwb3BuOFNLdUxpYmNobHZoSkNZbk1nZGc5amNxMDljUlZXMmhSRFFJelI2ZHB3Y2YxeGFvS3h4a0JNRVRNRWstME9fY05pTjFyQjlpQ0N0X1FaUzJLM1p2b0tCMEtEbnYxYVctOEZhd3lFT1VIeS1zdmVxSTgycmVqR1V5UzFzc3dBbWtmYlpRNGhnODF4TFk2RjZjbllEWml4ZGFqUWptdXNQMkM3QTVCeDJfVjhoMktjd2tWMTBIZUtfNWd2ZWZDanFnZUxnNFloZWRJTnBtNlJtMHlJc3lUSFBIY0RwMGRWVEJmaHppT2IwX2FQa1ZPUkdLejc1WE1IczNYWDFORnM5UHJrVXhnR2ZXQjZzWVVUbW1ma0Y3cXZXaU5DWkE3Mm1ZdURwMUROSEFsVW5hdmMxeFFNMVNkX3pPVlJrNkRkZGRnSXU1bEFrcWRidFJCd0ZCWFdyZVZqNUh4WDJQSGFsRVk4VnJoUlRHbHYwYngzUW5lNC1fUHk0a0pKR190YVdkczk2ODdwTm8wMElTMjVPa2NLb2tmbUJCZ3JlWmxFUnJpQlFXbHEtTVdGNExQdHh4bEpXZ1pkT0lNM1FrbEtiVHRUSThncWtJenRhQjlIWg?oc=5"
-  },
-  {
-   "title": "萬聖節｜多區通往皇崗口岸車站一度大排長龍 有旅客冀增加車輛安排",
-   "source": "TVB",
-   "date": "10-31 20:05",
-   "iso": "2026-10-31T20:05:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNZW1OdzdfbWJtWDFwMlRaaEVvODhoQ25ZbV9lRWo1V3pKdjh0V2ZxYWgyQlkybUtMVHNwRmhUdVNmNEpTeHV4NGVTd1FGaHBma2FETlNta19fUk5mTzZyN2NlcVN3SndGd3BZV0ozSmp3OHFaeXVWcS12UHh1ZGhNYk02UGoyMDNBMEpZSDdfdXctODhKX3VQbEFpeFZJRG9STkluX3hVaThQS0VvQ0szR1k1WXpXSzNBdVNwSVl5WUlIRURwZzUyVk1weElOU1VSc3hNTVZSMGdidlFkc3czU1NwSDRVUTh3MUJ4OWloSW5MbnV6dGhZZndzUTNtVm4zcHcwVHpHM1ZZNV92T0VrTkpTWGZ6T2lfUmVTTUlqRXZ1aEdNdHdEdUFCTkhyZHB4aWdqRmg4YlZlVHhmcnU0QmpwMEZBb3VLdGNzYzU3NlN2aWxYN0ZpYzh1dFlvdnI1M2FMYzBTYjdESnNnaHNwWVRQMjNMdTB2Wlg1ZEZja2gwZ2tPQzJLZWFnOHFpMlEwVXVFMW93S3Q0RlRKYmlmRGpzWQ?oc=5"
   }
  ],
  "ok": true,
@@ -146,5 +146,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 173
+ "history_points": 174
 };
