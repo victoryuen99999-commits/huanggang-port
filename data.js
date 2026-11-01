@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-01T15:40:42+08:00",
+ "generated_at": "2026-11-01T15:46:50+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "15:40",
+ "clock": "15:46",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 29,
-  "humidity": 59,
-  "wind": 14.1,
+  "humidity": 62,
+  "wind": 13.8,
   "code": 0,
   "desc": "天晴",
   "tmax": 32,
@@ -110,11 +110,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGNoWnRUSGNqNHBUNkhMeVcyRVM5SE1fMDJUWkYyMDFLd0xwZ2JlaEF4endha2hXdllfTHlTZFF3MFo2eFdETy1hbk5Qc25CdFFkV3RfRUI4RUNrZFBmWFE1NjhVMEwzc1c5bmJMOTRUUW1Gek9XMmhNcG04NTc2YmRNc21NTEV5dmhn?oc=5"
   },
   {
-   "title": "皇崗口岸午夜後迎出境高峰 旅客過關需等45分鐘",
-   "source": "Now 新聞",
-   "date": "10-31 18:17",
-   "iso": "2026-10-31T18:17:25+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11dWROTDVtb2ZKWnhROHptT2duWXUyN0xCY01BLTVaQXcydnh1WlFxWHFDOHUwZnpYZmpTN2hIVVptWndpcU1JSGR1VDBqX3FMSm9jVU1DTW1NN2tjTG1CWHVR?oc=5"
+   "title": "萬聖節｜旺角600人等上車去新皇崗口岸 旅客大讚：比預想中快",
+   "source": "香港01",
+   "date": "10-31 18:20",
+   "iso": "2026-10-31T18:20:24+00:00",
+   "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxORzBiRjFnYm85bTROaEp6WjhiWFduaUNXMUNsZjNyeVRGRjVmUXlvZlFKVzQyekN2NUtQcFQzd29wM0tTV0swT1VzTEdaV2t0Z0E3OTdWSm9XYXRYUDlyYmlTY2w3TGhRSDQwd2x2NVhRVkRvczZLYXk3amxQYV9DWmk0YWRwa01MdTUwUVNWenMxbXFuWjNlbU8yT1pXMzZXUUpyYXFGZ1dkdGFaNl9RU2FnajhjemhKWHBYeHpzN0J1bmtwUHhsb1VQaXBSdldCaUJiRzJzR01YQS0ydlFudUIxMThrNmR0UE1SMzJaRzJMUnlJYy1aQktkNVU0U3p0ZmtQSFpwbmkzYnBVZkllbXdfOEVBckpGNTJaSy1ZV1JPaXh2bFAxMXEyMHVIdnNmUURLSWd2MjNFa3BpZ2drd29ka0NrLTkwaTRhVnZkTTljeF9Yb2xFYkI4N3RYMng4RnlIQjBuREZfUTRiVnhaZEE3U0xwWk5lM0RIYmNoZWowUkdKdGc?oc=5"
   }
  ],
  "ok": true,
@@ -128,6 +128,11 @@ window.HGP_DATA = {
    "t": 1793478155000,
    "s": "Singtaousa",
    "ti": "新皇崗口岸再現巴士行錯路撞指示牌 運輸署要求加強車長培訓"
+  },
+  {
+   "t": 1793470824000,
+   "s": "香港01",
+   "ti": "萬聖節｜旺角600人等上車去新皇崗口岸 旅客大讚：比預想中快"
   }
  ],
  "tips": [
@@ -152,15 +157,10 @@ window.HGP_DATA = {
    "level": "info"
   },
   {
-   "tag": "車流",
-   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
-   "level": "warn"
-  },
-  {
    "tag": "禁區",
    "text": "港方口岸區屬禁區：過境旅客須持有效旅行證件，非過境人士（包括部分承辦商）須持有效禁區通行證。",
    "level": "info"
   }
  ],
- "history_points": 43
+ "history_points": 44
 };
