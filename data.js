@@ -104,11 +104,18 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGNoWnRUSGNqNHBUNkhMeVcyRVM5SE1fMDJUWkYyMDFLd0xwZ2JlaEF4endha2hXdllfTHlTZFF3MFo2eFdETy1hbk5Qc25CdFFkV3RfRUI4RUNrZFBmWFE1NjhVMEwzc1c5bmJMOTRUUW1Gek9XMmhNcG04NTc2YmRNc21NTEV5dmhn?oc=5"
   },
   {
-   "title": "萬聖節｜旺角600人等上車去新皇崗口岸 旅客大讚：比預想中快",
-   "source": "香港01",
-   "date": "10-31 18:20",
-   "iso": "2026-10-31T18:20:24+00:00",
-   "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxORzBiRjFnYm85bTROaEp6WjhiWFduaUNXMUNsZjNyeVRGRjVmUXlvZlFKVzQyekN2NUtQcFQzd29wM0tTV0swT1VzTEdaV2t0Z0E3OTdWSm9XYXRYUDlyYmlTY2w3TGhRSDQwd2x2NVhRVkRvczZLYXk3amxQYV9DWmk0YWRwa01MdTUwUVNWenMxbXFuWjNlbU8yT1pXMzZXUUpyYXFGZ1dkdGFaNl9RU2FnajhjemhKWHBYeHpzN0J1bmtwUHhsb1VQaXBSdldCaUJiRzJzR01YQS0ydlFudUIxMThrNmR0UE1SMzJaRzJMUnlJYy1aQktkNVU0U3p0ZmtQSFpwbmkzYnBVZkllbXdfOEVBckpGNTJaSy1ZV1JPaXh2bFAxMXEyMHVIdnNmUURLSWd2MjNFa3BpZ2drd29ka0NrLTkwaTRhVnZkTTljeF9Yb2xFYkI4N3RYMng4RnlIQjBuREZfUTRiVnhaZEE3U0xwWk5lM0RIYmNoZWowUkdKdGc?oc=5"
+   "title": "皇崗口岸午夜後迎出境高峰 旅客過關需等45分鐘",
+   "source": "Now 新聞",
+   "date": "10-31 18:17",
+   "iso": "2026-10-31T18:17:25+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11dWROTDVtb2ZKWnhROHptT2duWXUyN0xCY01BLTVaQXcydnh1WlFxWHFDOHUwZnpYZmpTN2hIVVptWndpcU1JSGR1VDBqX3FMSm9jVU1DTW1NN2tjTG1CWHVR?oc=5"
+  },
+  {
+   "title": "萬聖節｜皇崗口岸出境輪候時間回復正常 一度顯示等候45分鐘",
+   "source": "dotdotnews",
+   "date": "10-31 18:07",
+   "iso": "2026-10-31T18:07:20+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ER21qckRrckZLem0zUmRtbldLdXZsZVctb0V5cDZ0MGtqN3lIcFpsRE5teEhaZnBlMHhGRkNtUzd4RkdqOU5NeFFEOUdnMVlOOVhwQ0R3enY5dzYzcFBCaDBHWFduWi1SZW5ZZV9URXpkVHpya3V4blV3?oc=5"
   }
  ],
  "ok": true,
@@ -144,6 +151,11 @@ window.HGP_DATA = {
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
+  },
+  {
+   "tag": "車流",
+   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "level": "warn"
   },
   {
    "tag": "禁區",
