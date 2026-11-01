@@ -283,7 +283,7 @@
   <!-- 儀表：繁忙程度（最前） -->
   <section id="dash">
     <h2>口岸繁忙程度</h2>
-    <p class="sub">旅客輪候：入境處每 15 分鐘｜警告：天文台即時｜車輛：運輸署交通快拍目測</p>
+    <p class="sub">旅客輪候：入境處每 15 分鐘更新｜車輛：交通快拍每 2 分鐘｜本頁快照：GitHub 排程（實測 30–60 分鐘一次）</p>
 
     <div class="warnbar" id="warnbar">
       <div class="ico" id="warnIco">🛡️</div>
@@ -817,7 +817,7 @@
     renderWeather(d);
     renderWarnings(d.warnings === undefined ? null : d.warnings);
     if(d.generated_at){
-      $("footStamp").textContent = "本頁快照產生時間：" + d.generated_at.replace("T"," ") + "（HKT）";
+      $("footStamp").textContent = "本頁快照產生時間：" + d.generated_at.replace("T"," ") + "（HKT）｜GitHub 排程更新，實測 30–60 分鐘一次；要即時數據請用本機版";
     }
   }
 
