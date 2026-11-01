@@ -25,13 +25,13 @@ jobs:
         with:
           python-version: "3.12"
 
-      # 公開 repo 的 Actions 分鐘數不限，所以可以長時間連續刷新，
-      # 每 10 分鐘一次（=6 次/小時，低於 GitHub Pages 每小時 10 次建置上限）。
-      - name: 連續刷新（每 10 分鐘一次，共 5 次）
+      # 公開 repo 的 Actions 分鐘數不限，所以可以長時間連續刷新。
+      # 每 6 分鐘一次（=10 次/小時，剛好 GitHub Pages 每小時建置上限）。
+      - name: 連續刷新（每 6 分鐘一次，共 9 次）
         run: |
           git config user.name  "hgp-bot"
           git config user.email "hgp-bot@users.noreply.github.com"
-          for i in 1 2 3 4 5; do
+          for i in 1 2 3 4 5 6 7 8 9; do
             echo "::group::第 $i 次刷新 $(date -u '+%H:%M UTC')"
             python refresh.py
             if [ -n "$(git status --porcelain data.js data.json history.js)" ]; then
@@ -43,6 +43,6 @@ jobs:
               echo "沒有變更"
             fi
             echo "::endgroup::"
-            if [ "$i" -lt 5 ]; then sleep 600; fi
+            if [ "$i" -lt 9 ]; then sleep 360; fi
           done
 
