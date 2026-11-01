@@ -43,8 +43,8 @@
  },
  "weather": {
   "temp": 28,
-  "humidity": 65,
-  "wind": 12.9,
+  "humidity": 66,
+  "wind": 12.1,
   "code": 0,
   "desc": "天晴",
   "tmax": 32,
@@ -79,6 +79,13 @@
    "date": "10-31 23:06",
    "iso": "2026-10-31T23:06:31+00:00",
    "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxPQUE1UzJoUDVrdENJdWYwb3BuOFNLdUxpYmNobHZoSkNZbk1nZGc5amNxMDljUlZXMmhSRFFJelI2ZHB3Y2YxeGFvS3h4a0JNRVRNRWstME9fY05pTjFyQjlpQ0N0X1FaUzJLM1p2b0tCMEtEbnYxYVctOEZhd3lFT1VIeS1zdmVxSTgycmVqR1V5UzFzc3dBbWtmYlpRNGhnODF4TFk2RjZjbllEWml4ZGFqUWptdXNQMkM3QTVCeDJfVjhoMktjd2tWMTBIZUtfNWd2ZWZDanFnZUxnNFloZWRJTnBtNlJtMHlJc3lUSFBIY0RwMGRWVEJmaHppT2IwX2FQa1ZPUkdLejc1WE1IczNYWDFORnM5UHJrVXhnR2ZXQjZzWVVUbW1ma0Y3cXZXaU5DWkE3Mm1ZdURwMUROSEFsVW5hdmMxeFFNMVNkX3pPVlJrNkRkZGRnSXU1bEFrcWRidFJCd0ZCWFdyZVZqNUh4WDJQSGFsRVk4VnJoUlRHbHYwYngzUW5lNC1fUHk0a0pKR190YVdkczk2ODdwTm8wMElTMjVPa2NLb2tmbUJCZ3JlWmxFUnJpQlFXbHEtTVdGNExQdHh4bEpXZ1pkT0lNM1FrbEtiVHRUSThncWtJenRhQjlIWg?oc=5"
+  },
+  {
+   "title": "再現九巴迷路撞天花指示牌- 香港",
+   "source": "香港文匯報",
+   "date": "10-31 20:52",
+   "iso": "2026-10-31T20:52:12+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSY2FkNVJ3Ymh3ODE3R3RkeTBJeGV1V3BmX3VaY01WMkF2MGJWTzB6eUdIeDFidGMzZ2YyamZ4eEt3Zmh1anV5VG05M2ZpTHRRQl91eDNWWDl4eDJ4LUkxUFdqOGpFWmJMVE9LSWtfZFp2RGc2bzlB?oc=5"
   },
   {
    "title": "新皇崗口岸再現巴士行錯路撞指示牌 運輸署要求加強車長培訓",
