@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-01T20:17:04+08:00",
+ "generated_at": "2026-11-01T20:23:13+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "20:17",
+ "clock": "20:23",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,10 +44,10 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 25,
-  "humidity": 79,
+  "humidity": 85,
   "wind": 9.4,
-  "code": 2,
-  "desc": "局部多雲",
+  "code": 1,
+  "desc": "大致晴朗",
   "tmax": 32,
   "tmin": 23,
   "pop": 4
@@ -67,13 +67,6 @@ window.HGP_DATA = {
    "date": "11-01 01:33",
    "iso": "2026-11-01T01:33:32+00:00",
    "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQRGVLRVNZcV9BSXRFU1RVX1JHWDRrdnVKcU84aVlMMEMwS3Y5UW5udlltNDhyWDVRM05pODhPdlhzckFSdXVEV0dxYVBqakRMRzBOQTk5U21RWTJzczdJWXQzRHlmV3JPN3NrN3ZSY2NOcmZlM3FnVnlTWm44MXJFaXhnRFVWU0M0clV4SmUtd1VJQ3JNZWsyZlpxdTA2Qkg4OWdGb2QxWUJuY2wybHJQUm1hYUNtZmFzVXBJQmVQQUxPYkFWLVFDRGZUN0dnRGJDWDU0T25NYkxxUlBtZDgzRVVNWlhlRURNaENZYm5yLTkxTmxsRDJGNkVXMWxBbThLbGxra2RORlNuQzhXazM0dkRWSVBtWWtBZDF6TXFSLVFwM1BvODRPSFBlZW5USWNZdVZtaFZVN0FYZ1dBMmlxVHlpX1g0QmtDdEo5LXpqaWlYdWRqN3M3enc4MUJUMkhrX3ozanMtMTZVdEk4X2s5ek5zTQ?oc=5"
-  },
-  {
-   "title": "深圳灣加時通關有效分流盛事周末新皇崗15分鐘過關- 灣區生活",
-   "source": "香港文匯報",
-   "date": "11-01 00:31",
-   "iso": "2026-11-01T00:31:11+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FXzZWX3NVdHc5Q0d1TUhPR1g0MC0zT1R6ZWtCcmpTS2lrVWVBQmZhal94b0IwelN0SXF5T1V3OC1PU1VzbUw4NDk1S0hJQWRzTndfakRqaUw4SHNxa0hOdFZvSFd5NjlCc3Y3MUN0UnVpaGpxX1BF?oc=5"
   },
   {
    "title": "萬聖節凌晨一度近250人排旺角跨境巴士 等逾40分鐘上車 旅客稱算方便 (07:06) - 20261101 - 港聞",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "10-31 18:33",
    "iso": "2026-10-31T18:33:50+00:00",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGNoWnRUSGNqNHBUNkhMeVcyRVM5SE1fMDJUWkYyMDFLd0xwZ2JlaEF4endha2hXdllfTHlTZFF3MFo2eFdETy1hbk5Qc25CdFFkV3RfRUI4RUNrZFBmWFE1NjhVMEwzc1c5bmJMOTRUUW1Gek9XMmhNcG04NTc2YmRNc21NTEV5dmhn?oc=5"
+  },
+  {
+   "title": "萬聖節｜旺角600人等上車去新皇崗口岸 旅客大讚：比預想中快",
+   "source": "香港01",
+   "date": "10-31 18:20",
+   "iso": "2026-10-31T18:20:24+00:00",
+   "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxORzBiRjFnYm85bTROaEp6WjhiWFduaUNXMUNsZjNyeVRGRjVmUXlvZlFKVzQyekN2NUtQcFQzd29wM0tTV0swT1VzTEdaV2t0Z0E3OTdWSm9XYXRYUDlyYmlTY2w3TGhRSDQwd2x2NVhRVkRvczZLYXk3amxQYV9DWmk0YWRwa01MdTUwUVNWenMxbXFuWjNlbU8yT1pXMzZXUUpyYXFGZ1dkdGFaNl9RU2FnajhjemhKWHBYeHpzN0J1bmtwUHhsb1VQaXBSdldCaUJiRzJzR01YQS0ydlFudUIxMThrNmR0UE1SMzJaRzJMUnlJYy1aQktkNVU0U3p0ZmtQSFpwbmkzYnBVZkllbXdfOEVBckpGNTJaSy1ZV1JPaXh2bFAxMXEyMHVIdnNmUURLSWd2MjNFa3BpZ2drd29ka0NrLTkwaTRhVnZkTTljeF9Yb2xFYkI4N3RYMng4RnlIQjBuREZfUTRiVnhaZEE3U0xwWk5lM0RIYmNoZWowUkdKdGc?oc=5"
   }
  ],
  "ok": true,
@@ -122,6 +122,11 @@ window.HGP_DATA = {
    "t": 1793478155000,
    "s": "Singtaousa",
    "ti": "新皇崗口岸再現巴士行錯路撞指示牌 運輸署要求加強車長培訓"
+  },
+  {
+   "t": 1793470824000,
+   "s": "香港01",
+   "ti": "萬聖節｜旺角600人等上車去新皇崗口岸 旅客大讚：比預想中快"
   }
  ],
  "tips": [
@@ -146,5 +151,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 88
+ "history_points": 89
 };
