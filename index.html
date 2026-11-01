@@ -152,6 +152,22 @@
     background:#0d1a2a;border:1px solid var(--line);padding:9px 16px;border-radius:10px;font-size:13px;transition:.25s;z-index:99}
   .toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
 
+
+  /* 48 小時繁忙程度走勢 */
+  .trend-bars{display:flex;align-items:flex-end;gap:2px;height:44px;margin:4px 0 6px}
+  .trend-bars i{flex:1 1 0;border-radius:2px 2px 0 0;display:block;min-height:4px}
+  .trend-bars i.l0{height:14px;background:var(--teal)}
+  .trend-bars i.l1{height:26px;background:var(--amber)}
+  .trend-bars i.l2{height:40px;background:var(--red)}
+  .trend-bars i.lx{height:5px;background:rgba(255,255,255,.14)}
+  .trend-axis{display:flex;justify-content:space-between;font-size:11px;color:var(--mut2);
+    font-variant-numeric:tabular-nums;border-top:1px solid var(--line);padding-top:5px}
+  .trend-legend{display:flex;flex-wrap:wrap;gap:14px;font-size:12px;color:var(--mut);margin:10px 0 6px}
+  .trend-legend span{display:inline-flex;align-items:center;gap:6px}
+  .trend-legend b{width:10px;height:10px;border-radius:2px;display:inline-block}
+  .trend-stats{font-size:13px;color:var(--mut)}
+  .trend-stats b{color:var(--fg)}
+
   /* 繁忙程度：主欄 + 突發新聞側欄 */
   .dash-grid{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:14px;align-items:start}
   .dash-main{min-width:0;display:grid;gap:12px}
@@ -271,7 +287,7 @@
   <!-- 儀表：繁忙程度（最前） -->
   <section id="dash">
     <h2>口岸繁忙程度</h2>
-    <p class="sub">旅客輪候：入境處每 15 分鐘更新｜車輛：交通快拍每 2 分鐘｜本頁快照：GitHub 排程（實測 30–60 分鐘一次）</p>
+    <p class="sub">旅客輪候：入境處每 15 分鐘｜車輛：交通快拍每 2 分鐘｜本頁：每 10 分鐘自動更新</p>
 
     <div class="warnbar" id="warnbar" role="status" aria-live="polite">
       <div class="ico" id="warnIco">🛡️</div>
@@ -342,6 +358,24 @@
           </div>
         </div>
       </aside>
+    </div>
+  </section>
+
+
+  <!-- 48 小時走勢 -->
+  <section id="trend">
+    <h2>過去 48 小時繁忙程度</h2>
+    <p class="sub">每 30 分鐘一格；高度及顏色＝該時段最高級別（記錄由本站開始抓取時累積）</p>
+    <div class="panel">
+      <div class="trend-bars" id="trendBars"></div>
+      <div class="trend-axis" id="trendAxis"></div>
+      <div class="trend-legend">
+        <span><b style="background:var(--teal)"></b>正常</span>
+        <span><b style="background:var(--amber)"></b>繁忙</span>
+        <span><b style="background:var(--red)"></b>非常繁忙</span>
+        <span><b style="background:rgba(255,255,255,.14)"></b>無數據</span>
+      </div>
+      <div class="trend-stats" id="trendStats">載入中…</div>
     </div>
   </section>
 
@@ -595,6 +629,7 @@
 <div class="toast" id="toast"></div>
 
 <script src="data.js"></script>
+<script src="history.js"></script>
 <script>
 (function(){
   "use strict";
@@ -814,15 +849,70 @@
     }
   }
 
+  function renderTrend(){
+    var hist = window.HGP_HIST || [];
+    var bars = $("trendBars"), axis = $("trendAxis"), st = $("trendStats");
+    if(!bars) return;
+    var SLOTS = 96, MIN = 30 * 60 * 1000;
+    var now = Date.now();
+    var start = Math.floor(now / MIN) * MIN - (SLOTS - 1) * MIN;
+    var buckets = [];
+    for(var i=0;i<SLOTS;i++) buckets.push(null);
+
+    hist.forEach(function(p){
+      if(!p || !p.t) return;
+      var idx = Math.floor((p.t - start) / MIN);
+      if(idx < 0 || idx >= SLOTS) return;
+      var lv = Math.max(p.a, p.d, p.va === undefined ? -1 : p.va, p.vd === undefined ? -1 : p.vd);
+      if(lv !== 0 && lv !== 1 && lv !== 2) return;
+      if(buckets[idx] === null || lv > buckets[idx]) buckets[idx] = lv;
+    });
+
+    var cnt = [0,0,0,0], worst = -1, worstAt = "";
+    bars.innerHTML = buckets.map(function(lv, i){
+      var t = new Date(start + i * MIN);
+      var hh = pad(t.getHours()) + ":" + pad(t.getMinutes());
+      var label = (t.getMonth()+1) + "-" + t.getDate() + " " + hh;
+      if(lv === null){
+        cnt[3]++;
+        return '<i class="lx" title="' + label + ' 無數據"></i>';
+      }
+      cnt[lv]++;
+      if(lv > worst){ worst = lv; worstAt = label; }
+      var nm = lv === 2 ? "非常繁忙" : lv === 1 ? "繁忙" : "正常";
+      return '<i class="l' + lv + '" title="' + label + ' ' + nm + '"></i>';
+    }).join("");
+
+    // 時間軸：每隔 8 格（4 小時）一個標記
+    var marks = "";
+    for(var k=0;k<SLOTS;k+=12){
+      var td = new Date(start + k * MIN);
+      marks += "<span>" + ((td.getMonth()+1)) + "/" + td.getDate() + " " + pad(td.getHours()) + ":00</span>";
+    }
+    axis.innerHTML = marks;
+
+    var total = cnt[0] + cnt[1] + cnt[2];
+    if(total === 0){
+      st.innerHTML = "暫未有記錄（已累積 <b>0</b> 筆）；10 分鐘一筆，約 48 小時後填滿。";
+      return;
+    }
+    st.innerHTML = "過去 48 小時：正常 <b>" + cnt[0] + "</b> 段 · 繁忙 <b>" + cnt[1] +
+                   "</b> 段 · 非常繁忙 <b>" + cnt[2] + "</b> 段 · 無數據 " + cnt[3] +
+                   " 段｜最高：<b>" + (worst === 2 ? "非常繁忙" : worst === 1 ? "繁忙" : "正常") +
+                   "</b>" + (worstAt ? "（" + worstAt + "）" : "") +
+                   "｜已記錄 <b>" + hist.length + "</b> 筆";
+  }
+
   function renderAll(d){
     if(!d) return;
     renderSignals(d);
     renderTips(d.tips);
     renderNews(d.news);
     renderWeather(d);
+    renderTrend();
     renderWarnings(d.warnings === undefined ? null : d.warnings);
     if(d.generated_at){
-      $("footStamp").textContent = "本頁快照產生時間：" + d.generated_at.replace("T"," ") + "（HKT）｜GitHub 排程更新，實測 30–60 分鐘一次；要即時數據請用本機版";
+      $("footStamp").textContent = "本頁快照產生時間：" + d.generated_at.replace("T"," ") + "（HKT）｜本頁由 GitHub Actions 每 10 分鐘更新一次";
     }
   }
 
@@ -916,6 +1006,7 @@
 
   tick(); setInterval(tick, 1000);
   buildCameras(); setInterval(cameraTick, 120000);
+  renderTrend();
   renderCountdowns(); setInterval(renderCountdowns, 30000);
   if(DATA){ renderAll(DATA); }
   else {

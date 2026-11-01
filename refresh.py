@@ -21,6 +21,8 @@ WEATHER = ("https://api.open-meteo.com/v1/forecast?latitude=22.5317&longitude=11
            "&timezone=Asia%2FHong_Kong&forecast_days=2")
 WARN_RSS = "https://rss.weather.gov.hk/rss/WeatherWarningSummaryv2_uc.xml"
 NEWS_QUERIES = ("皇崗口岸", "皇崗 通關 高峰")
+HIST = os.path.join(BASE, "history.js")
+HIST_MAX = 288          # 每 10 分鐘一筆 → 約 48 小時
 
 STATUS = {0: "正常", 1: "繁忙", 2: "非常繁忙", 4: "系統維護", 99: "非服務時間"}
 WMO = {0:"天晴",1:"大致晴朗",2:"局部多雲",3:"多雲",45:"有霧",48:"霧凇",51:"毛毛雨",53:"毛毛雨",55:"毛毛雨",
@@ -126,6 +128,39 @@ def queue_block(q):
     return {"arr": int(q.get("arrQueue", -1)), "dep": int(q.get("depQueue", -1))}
 
 
+def load_hist():
+    try:
+        m = re.search(r"window\.HGP_HIST\s*=\s*(\[.*\]);", open(HIST, encoding="utf-8").read(), re.S)
+        return json.loads(m.group(1)) if m else []
+    except Exception:           # noqa: BLE001
+        return []
+
+
+def append_hist(out, now):
+    """每次成功抓取記錄一筆；5 分鐘內重複則覆蓋，最多保留 HIST_MAX 筆"""
+    if not out.get("ok") or not out.get("queue"):
+        return load_hist()
+    h = load_hist()
+    pt = {"t": int(now.timestamp() * 1000),
+          "a": out["queue"]["arr"], "d": out["queue"]["dep"],
+          "va": (out.get("queue_visitor") or {}).get("arr", -1),
+          "vd": (out.get("queue_visitor") or {}).get("dep", -1),
+          "tp": (out.get("weather") or {}).get("temp"),
+          "w": len(out.get("warnings") or [])}
+    if h and (pt["t"] - h[-1]["t"]) < 5 * 60 * 1000:
+        h[-1] = pt
+    else:
+        h.append(pt)
+    return h[-HIST_MAX:]
+
+
+def save_hist(h):
+    with open(HIST, "w", encoding="utf-8") as f:
+        f.write("/* 自動生成：過去約 48 小時記錄 — 請勿手改 */\n")
+        f.write("window.HGP_HIST = " + json.dumps(h, ensure_ascii=False, separators=(",", ":")) + ";\n")
+    return h
+
+
 def build_tips(now, weather, warnings, news):
     """值班提示（規則式，非官方預測）"""
     tips = []
@@ -210,6 +245,7 @@ def main():
     out["warnings"] = fetch_warnings()
     out["news"] = fetch_news()
     out["tips"] = build_tips(now, out["weather"], out["warnings"], out["news"])
+    out["history_points"] = len(save_hist(append_hist(out, now)))
 
     payload = json.dumps(out, ensure_ascii=False, indent=1)
     with open(os.path.join(BASE, "data.json"), "w", encoding="utf-8") as f:

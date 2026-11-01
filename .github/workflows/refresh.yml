@@ -33,8 +33,8 @@ jobs:
           for i in 1 2 3 4 5; do
             echo "::group::第 $i 次刷新 $(date -u '+%H:%M UTC')"
             python refresh.py
-            if [ -n "$(git status --porcelain data.js data.json)" ]; then
-              git add data.js data.json
+            if [ -n "$(git status --porcelain data.js data.json history.js)" ]; then
+              git add data.js data.json history.js
               git commit -m "data: refresh $(date -u '+%Y-%m-%d %H:%M UTC')"
               git pull --rebase -X ours origin main || true
               git push || echo "push 失敗，下一輪再試"

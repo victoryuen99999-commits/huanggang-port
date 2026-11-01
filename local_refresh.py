@@ -69,8 +69,8 @@ def run_once(force=False):
                        encoding="utf-8", errors="ignore")
     log(r.stdout.strip() or r.stderr.strip()[-200:])
 
-    sh("git", "add", "data.js", "data.json")
-    st = sh("git", "status", "--porcelain", "data.js", "data.json")
+    sh("git", "add", "data.js", "data.json", "history.js")
+    st = sh("git", "status", "--porcelain", "data.js", "data.json", "history.js")
     if st:
         stamp = datetime.now(HKT).strftime("%Y-%m-%d %H:%M HKT")
         sh("git", "commit", "-m", "data: 本機補時 %s" % stamp)
