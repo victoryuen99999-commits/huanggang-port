@@ -895,11 +895,11 @@
 
     var note = $("trendNote");
     if(note){
-      if(hist.length < 12 && hist.length){
-        var f = new Date(hist[0].t);
+      var have = cnt[0] + cnt[1] + cnt[2];
+      if(have < 72){
         note.style.display = "";
-        note.textContent = "記錄由 " + (f.getMonth()+1) + "-" + f.getDate() + " " + pad(f.getHours()) + ":" +
-                           pad(f.getMinutes()) + " 開始，10 分鐘一筆，圖表會在 48 小時內逐步填滿。";
+        note.textContent = "已有記錄 " + have + "/96 格（官方歷史檔案只保留少量時間點；" +
+                           "其餘會隨每 10 分鐘一筆自動填滿，未有的時段以灰色表示）。";
       } else { note.style.display = "none"; }
     }
 
