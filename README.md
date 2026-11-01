@@ -99,3 +99,24 @@ python push_update2.py       # 自動 rebase → push → 等 Pages 建置 → �
 - 移除：`cmdkey /delete:LegacyGeneric:target=git:https://github.com`
 - GitHub Actions 每 15 分鐘會自己 commit `data.js`／`data.json`，所以推送前一定要 rebase；
   `push_update2.py` 已用 `-c rebase.autoStash=true -X ours` 處理（衝突時採用遠端資料檔）
+
+## 更新頻率：現行做法
+
+| 層 | 頻率 | 說明 |
+|---|---|---|
+| GitHub Actions cron | **每 5 分鐘**（`*/5`，GitHub 最短間隔） | 實際會被 throttle，可能 10–60 分鐘 |
+| 本機補時 `local_refresh.py` | 每 5 分鐘檢查 | **只在遠端快照超過 12 分鐘**才更新＋推送，避免撞單 |
+| 瀏覽器 | 每 60 秒讀 `data.js` | 唔會打政府網站 |
+| 資料源（入境處） | 每 15 分鐘 | 追更密都無新數據 |
+
+### 本機補時（建議長開）
+
+雙擊 `本機補時.bat`，或加入 Windows 工作排程器：
+
+```bat
+schtasks /create /tn "HGP本機補時" /sc minute /mo 5 ^
+  /tr "python \"C:\Users\Neuron\OneDrive - Neuron Operations Limited\Desktop\huanggang-port\local_refresh.py\""
+```
+
+- 用已存喺 Windows 認證管理員嘅憑證推送，唔會再問授權
+- 電腦熄機／離線時唔會影響網站，只係少一層保險
