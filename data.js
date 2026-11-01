@@ -61,6 +61,13 @@ window.HGP_DATA = {
  ],
  "news": [
   {
+   "title": "萬聖節前夜約13.1萬人次內地客入境香港",
+   "source": "www.hkcna.hk",
+   "date": "11-01 02:27",
+   "iso": "2026-11-01T02:27:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2WGI2TXBqT3ZaZl91YlpGT0pXM0pXS1BodGVpQmVGWS1Cb2JGeVhLQWFDc3ptNVU5MzZYRlV6X0hDcmZIaTcwbUdNWEhSTjY0LW1ENUxhQnhCVXBwLXRpeEdadnVWRXN3S1BBMWtyOA?oc=5"
+  },
+  {
    "title": "萬聖節凌晨北上人流增多 皇崗口岸一度排起出境人龍",
    "source": "橙新聞",
    "date": "11-01 01:33",
@@ -167,5 +174,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 40
+ "history_points": 41
 };
