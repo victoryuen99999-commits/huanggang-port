@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-02T07:39:17+08:00",
+ "generated_at": "2026-11-02T07:45:25+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "07:39",
+ "clock": "07:45",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 24,
-  "humidity": 89,
-  "wind": 5.7,
+  "temp": 25,
+  "humidity": 87,
+  "wind": 5.2,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 32,
@@ -97,7 +97,7 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FXzZWX3NVdHc5Q0d1TUhPR1g0MC0zT1R6ZWtCcmpTS2lrVWVBQmZhal94b0IwelN0SXF5T1V3OC1PU1VzbUw4NDk1S0hJQWRzTndfakRqaUw4SHNxa0hOdFZvSFd5NjlCc3Y3MUN0UnVpaGpxX1BF?oc=5"
   },
   {
-   "title": "新皇崗口岸凌晨出境交通開始繁忙 旅客過關需輪候約45分鐘",
+   "title": "新皇崗口岸凌晨出境 過關輪候時間需45分鐘",
    "source": "on.cc東網",
    "date": "10-31 18:33",
    "iso": "2026-10-31T18:33:50+00:00",
@@ -146,5 +146,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 199
+ "history_points": 200
 };
