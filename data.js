@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-01T18:44:43+08:00",
+ "generated_at": "2026-11-01T18:50:50+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "18:44",
+ "clock": "18:50",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,17 +43,24 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 26,
-  "humidity": 77,
-  "wind": 9.8,
-  "code": 1,
-  "desc": "大致晴朗",
+  "temp": 25,
+  "humidity": 78,
+  "wind": 9.3,
+  "code": 2,
+  "desc": "局部多雲",
   "tmax": 32,
   "tmin": 23,
   "pop": 49
  },
  "warnings": [],
  "news": [
+  {
+   "title": "新皇崗口岸｜城巴往返啟德B14專線試行延長兩周 料改恆常路線",
+   "source": "香港01",
+   "date": "11-01 09:16",
+   "iso": "2026-11-01T09:16:04+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPY3Y1RlF4STNPN2V3dThiTTNvUEE4TXp6R1FLQk4xZ2t4cXhlQ3diM0RrMS1aQTk5am04VThEa3lpRy1TNGxUQTFfWUx6UFdWS1EweC1TOW1HbWtKVmhHdjc4WnVVemxuaElseGpfTE1aTFVVd3JwQ3dKMDVuX3Vlcm9kZEhjZG5ZclRveFdBUUZFMTVJNnlOMW94a0lOMHpzWVAtbmY0SG10MFF0ci04VXFabkhfQ202bG9leXNOT0FtaG9mRGhHZFNITHVFc3VhZVU5MlZQeDd5S0ZobGkzOV95eE56Sk5VNm5CVjVkWVZ2elJtdlhZaXZVbUdWRElGSnM5UmxUeXBvV0l6bW55Z2VMRXZXY1NzdmpHMFJuaDBCVzFjNWh6ZVVaamRYc2tSQ29KLUtlOU16UkpaNi1NYWlobmI2ODUtT2E0MmlJRk9GVXRaLUtlcDBlWW5yN2NmOC1jMGVqUk9qZ3BmcFhyOW9lSFpKNjV5SnBUNjg5S3NRWEdZTEljZkFWeU1IMklsQkFWSm0xblNNSEctSUdNSHVvRVV5aVc2?oc=5"
+  },
   {
    "title": "萬聖節凌晨北上人流增多 皇崗口岸一度排起出境人龍",
    "source": "橙新聞",
@@ -69,11 +76,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FXzZWX3NVdHc5Q0d1TUhPR1g0MC0zT1R6ZWtCcmpTS2lrVWVBQmZhal94b0IwelN0SXF5T1V3OC1PU1VzbUw4NDk1S0hJQWRzTndfakRqaUw4SHNxa0hOdFZvSFd5NjlCc3Y3MUN0UnVpaGpxX1BF?oc=5"
   },
   {
-   "title": "萬聖節凌晨一度近250人排旺角跨境巴士 等逾40分鐘上車 旅客稱算方便 (07:06) - 20261101 - 港聞",
-   "source": "明報新聞網",
-   "date": "10-31 23:06",
-   "iso": "2026-10-31T23:06:31+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxPQUE1UzJoUDVrdENJdWYwb3BuOFNLdUxpYmNobHZoSkNZbk1nZGc5amNxMDljUlZXMmhSRFFJelI2ZHB3Y2YxeGFvS3h4a0JNRVRNRWstME9fY05pTjFyQjlpQ0N0X1FaUzJLM1p2b0tCMEtEbnYxYVctOEZhd3lFT1VIeS1zdmVxSTgycmVqR1V5UzFzc3dBbWtmYlpRNGhnODF4TFk2RjZjbllEWml4ZGFqUWptdXNQMkM3QTVCeDJfVjhoMktjd2tWMTBIZUtfNWd2ZWZDanFnZUxnNFloZWRJTnBtNlJtMHlJc3lUSFBIY0RwMGRWVEJmaHppT2IwX2FQa1ZPUkdLejc1WE1IczNYWDFORnM5UHJrVXhnR2ZXQjZzWVVUbW1ma0Y3cXZXaU5DWkE3Mm1ZdURwMUROSEFsVW5hdmMxeFFNMVNkX3pPVlJrNkRkZGRnSXU1bEFrcWRidFJCd0ZCWFdyZVZqNUh4WDJQSGFsRVk4VnJoUlRHbHYwYngzUW5lNC1fUHk0a0pKR190YVdkczk2ODdwTm8wMElTMjVPa2NLb2tmbUJCZ3JlWmxFUnJpQlFXbHEtTVdGNExQdHh4bEpXZ1pkT0lNM1FrbEtiVHRUSThncWtJenRhQjlIWg?oc=5"
+   "title": "再現九巴迷路撞天花指示牌- 香港",
+   "source": "香港文匯報",
+   "date": "10-31 20:52",
+   "iso": "2026-10-31T20:52:12+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSY2FkNVJ3Ymh3ODE3R3RkeTBJeGV1V3BmX3VaY01WMkF2MGJWTzB6eUdIeDFidGMzZ2YyamZ4eEt3Zmh1anV5VG05M2ZpTHRRQl91eDNWWDl4eDJ4LUkxUFdqOGpFWmJMVE9LSWtfZFp2RGc2bzlB?oc=5"
   },
   {
    "title": "新皇崗口岸再現巴士行錯路撞指示牌 運輸署要求加強車長培訓",
@@ -102,22 +109,10 @@ window.HGP_DATA = {
    "date": "10-31 18:20",
    "iso": "2026-10-31T18:20:24+00:00",
    "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxORzBiRjFnYm85bTROaEp6WjhiWFduaUNXMUNsZjNyeVRGRjVmUXlvZlFKVzQyekN2NUtQcFQzd29wM0tTV0swT1VzTEdaV2t0Z0E3OTdWSm9XYXRYUDlyYmlTY2w3TGhRSDQwd2x2NVhRVkRvczZLYXk3amxQYV9DWmk0YWRwa01MdTUwUVNWenMxbXFuWjNlbU8yT1pXMzZXUUpyYXFGZ1dkdGFaNl9RU2FnajhjemhKWHBYeHpzN0J1bmtwUHhsb1VQaXBSdldCaUJiRzJzR01YQS0ydlFudUIxMThrNmR0UE1SMzJaRzJMUnlJYy1aQktkNVU0U3p0ZmtQSFpwbmkzYnBVZkllbXdfOEVBckpGNTJaSy1ZV1JPaXh2bFAxMXEyMHVIdnNmUURLSWd2MjNFa3BpZ2drd29ka0NrLTkwaTRhVnZkTTljeF9Yb2xFYkI4N3RYMng4RnlIQjBuREZfUTRiVnhaZEE3U0xwWk5lM0RIYmNoZWowUkdKdGc?oc=5"
-  },
-  {
-   "title": "皇崗口岸午夜後迎出境高峰 旅客過關需等45分鐘",
-   "source": "Now 新聞",
-   "date": "10-31 18:17",
-   "iso": "2026-10-31T18:17:25+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11dWROTDVtb2ZKWnhROHptT2duWXUyN0xCY01BLTVaQXcydnh1WlFxWHFDOHUwZnpYZmpTN2hIVVptWndpcU1JSGR1VDBqX3FMSm9jVU1DTW1NN2tjTG1CWHVR?oc=5"
   }
  ],
  "ok": true,
  "vehicle_events": [
-  {
-   "t": 1793487991000,
-   "s": "明報新聞網",
-   "ti": "萬聖節凌晨一度近250人排旺角跨境巴士 等逾40分鐘上車 旅客稱算方便 (07:"
-  },
   {
    "t": 1793478155000,
    "s": "Singtaousa",
@@ -151,15 +146,10 @@ window.HGP_DATA = {
    "level": "info"
   },
   {
-   "tag": "車流",
-   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
-   "level": "warn"
-  },
-  {
    "tag": "禁區",
    "text": "港方口岸區屬禁區：過境旅客須持有效旅行證件，非過境人士（包括部分承辦商）須持有效禁區通行證。",
    "level": "info"
   }
  ],
- "history_points": 73
+ "history_points": 74
 };
