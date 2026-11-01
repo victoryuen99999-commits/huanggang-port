@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-01T21:43:09+08:00",
+ "generated_at": "2026-11-01T21:49:16+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "21:43",
+ "clock": "21:49",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 25,
-  "humidity": 86,
-  "wind": 7.7,
+  "humidity": 87,
+  "wind": 7.6,
   "code": 0,
   "desc": "天晴",
   "tmax": 32,
@@ -69,11 +69,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQRGVLRVNZcV9BSXRFU1RVX1JHWDRrdnVKcU84aVlMMEMwS3Y5UW5udlltNDhyWDVRM05pODhPdlhzckFSdXVEV0dxYVBqakRMRzBOQTk5U21RWTJzczdJWXQzRHlmV3JPN3NrN3ZSY2NOcmZlM3FnVnlTWm44MXJFaXhnRFVWU0M0clV4SmUtd1VJQ3JNZWsyZlpxdTA2Qkg4OWdGb2QxWUJuY2wybHJQUm1hYUNtZmFzVXBJQmVQQUxPYkFWLVFDRGZUN0dnRGJDWDU0T25NYkxxUlBtZDgzRVVNWlhlRURNaENZYm5yLTkxTmxsRDJGNkVXMWxBbThLbGxra2RORlNuQzhXazM0dkRWSVBtWWtBZDF6TXFSLVFwM1BvODRPSFBlZW5USWNZdVZtaFZVN0FYZ1dBMmlxVHlpX1g0QmtDdEo5LXpqaWlYdWRqN3M3enc4MUJUMkhrX3ozanMtMTZVdEk4X2s5ek5zTQ?oc=5"
   },
   {
-   "title": "深圳灣加時通關有效分流盛事周末新皇崗15分鐘過關- 灣區生活",
-   "source": "香港文匯報",
-   "date": "11-01 00:31",
-   "iso": "2026-11-01T00:31:11+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FXzZWX3NVdHc5Q0d1TUhPR1g0MC0zT1R6ZWtCcmpTS2lrVWVBQmZhal94b0IwelN0SXF5T1V3OC1PU1VzbUw4NDk1S0hJQWRzTndfakRqaUw4SHNxa0hOdFZvSFd5NjlCc3Y3MUN0UnVpaGpxX1BF?oc=5"
+   "title": "萬聖節凌晨一度近250人排旺角跨境巴士 等逾40分鐘上車 旅客稱算方便 (07:06) - 20261101 - 港聞",
+   "source": "明報新聞網",
+   "date": "10-31 23:06",
+   "iso": "2026-10-31T23:06:31+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxPQUE1UzJoUDVrdENJdWYwb3BuOFNLdUxpYmNobHZoSkNZbk1nZGc5amNxMDljUlZXMmhSRFFJelI2ZHB3Y2YxeGFvS3h4a0JNRVRNRWstME9fY05pTjFyQjlpQ0N0X1FaUzJLM1p2b0tCMEtEbnYxYVctOEZhd3lFT1VIeS1zdmVxSTgycmVqR1V5UzFzc3dBbWtmYlpRNGhnODF4TFk2RjZjbllEWml4ZGFqUWptdXNQMkM3QTVCeDJfVjhoMktjd2tWMTBIZUtfNWd2ZWZDanFnZUxnNFloZWRJTnBtNlJtMHlJc3lUSFBIY0RwMGRWVEJmaHppT2IwX2FQa1ZPUkdLejc1WE1IczNYWDFORnM5UHJrVXhnR2ZXQjZzWVVUbW1ma0Y3cXZXaU5DWkE3Mm1ZdURwMUROSEFsVW5hdmMxeFFNMVNkX3pPVlJrNkRkZGRnSXU1bEFrcWRidFJCd0ZCWFdyZVZqNUh4WDJQSGFsRVk4VnJoUlRHbHYwYngzUW5lNC1fUHk0a0pKR190YVdkczk2ODdwTm8wMElTMjVPa2NLb2tmbUJCZ3JlWmxFUnJpQlFXbHEtTVdGNExQdHh4bEpXZ1pkT0lNM1FrbEtiVHRUSThncWtJenRhQjlIWg?oc=5"
   },
   {
    "title": "新皇崗口岸再現巴士行錯路撞指示牌 運輸署要求加強車長培訓",
@@ -114,6 +114,11 @@ window.HGP_DATA = {
  "ok": true,
  "vehicle_events": [
   {
+   "t": 1793487991000,
+   "s": "明報新聞網",
+   "ti": "萬聖節凌晨一度近250人排旺角跨境巴士 等逾40分鐘上車 旅客稱算方便 (07:"
+  },
+  {
    "t": 1793478155000,
    "s": "Singtaousa",
    "ti": "新皇崗口岸再現巴士行錯路撞指示牌 運輸署要求加強車長培訓"
@@ -151,5 +156,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 102
+ "history_points": 103
 };
