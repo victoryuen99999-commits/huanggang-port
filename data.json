@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-02T01:36:29+08:00",
+ "generated_at": "2026-11-02T01:42:54+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "01:36",
+ "clock": "01:42",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -54,13 +54,6 @@
  "warnings": [],
  "news": [
   {
-   "title": "萬聖節｜周末最後一天 皇崗口岸路況暢通- 有線寬頻i-CABLE - i-CABLE",
-   "source": "i-CABLE",
-   "date": "11-01 16:01",
-   "iso": "2026-11-01T16:01:38+00:00",
-   "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPVmFveGdzMEhOU19mUnVWRVAyMHJCUzRMVklGamN0ajd1ZEhEYzRGYVlrQlRBd1NSTlQxZ1pyRmdtX0ZDSFNzUUNiUmZUUVlEMGFzWHdlWGMtclFWaTFSSGNuYkZJRFRyUXJWZURtRFdJYWE0aVFaM24xbXZQU3dtUXhnYjNwT0FHRlc1UWZheHV0czR2SVhGaXhZYTN1QUhkcDgzQVd3Zk1qQkNreU9Zajg2Q0c4ZG9US0FCaGlUZWhpSnRfS29WMndGTkRqbnd3blBSR0lkZUZFWWZzTFp5RGtJaXZqTU9EUjFtczNnVG8zRzBidG00eDJkS1MyRFVZamp0WkZtRDdhSXQ0NmtDMVl5d3c3STlJWEpmTW9rYUJqZHBnYzFTcEVYaXpwdVJVbWhUTkZUOEFrYnlvOFNidkxLU2l3dw?oc=5"
-  },
-  {
    "title": "新皇崗口岸｜城巴往返啟德B14專線試行延長兩周 料改恆常路線",
    "source": "香港01",
    "date": "11-01 09:16",
@@ -93,14 +86,7 @@
    "source": "TVB",
    "date": "10-31 20:05",
    "iso": "2026-10-31T20:05:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNMDNsZTgzSERKQ2FHWFN4UERNYk9Wc1dyQ3l0bjR0UmZPcGZLQ3ZScUNRZTJ2b2xCTzNUMV9ETElXaERFMVVSRklacnl6bllrQ0tRbmdfMWRNWEhyMWwxVHRPOHNQRXY5QmRpY09PZ3U1bThQTDVva2E2Nkh1UjFhaXVZTFRtVHRCVW15M2lqUlhLdFJxS194V0d1TXBjcHJyd2cxR1dDVVgyLWg4V3ZmcVpyZHgxa193RGkzWl9RODNlODNYdWRiWlRmaWtLZVFvMTN5TjM5YlFJQ2xVRW5Wel9PNm5USTRmeXhoMEFWcHItOW1JSE1VaE1pbnN6MkltS2JfT3R5T1BneDU5TnUwUDNqa1dDRzBpT2dVWFlsU0tUS2E2aDlXTUhUZEpkRnJqYmlRaVpQcTVId3I3V2xINnpXU0NJalVIVHZpQ3BqdlhsMjB1cW1ySEZSUGxPeUZXTENuMlRyVnNOMS1Bb1ZYVEtmN3dKa01DWEQxSXZvQnJLSVlDOVo5Y3E0X0FMOXVCRXhNanBHaU9mei1CdFgzajZoQQ?oc=5"
-  },
-  {
-   "title": "新皇崗口岸凌晨出境交通開始繁忙 旅客過關需輪候約45分鐘",
-   "source": "on.cc東網",
-   "date": "10-31 18:33",
-   "iso": "2026-10-31T18:33:50+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGNoWnRUSGNqNHBUNkhMeVcyRVM5SE1fMDJUWkYyMDFLd0xwZ2JlaEF4endha2hXdllfTHlTZFF3MFo2eFdETy1hbk5Qc25CdFFkV3RfRUI4RUNrZFBmWFE1NjhVMEwzc1c5bmJMOTRUUW1Gek9XMmhNcG04NTc2YmRNc21NTEV5dmhn?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNZW1OdzdfbWJtWDFwMlRaaEVvODhoQ25ZbV9lRWo1V3pKdjh0V2ZxYWgyQlkybUtMVHNwRmhUdVNmNEpTeHV4NGVTd1FGaHBma2FETlNta19fUk5mTzZyN2NlcVN3SndGd3BZV0ozSmp3OHFaeXVWcS12UHh1ZGhNYk02UGoyMDNBMEpZSDdfdXctODhKX3VQbEFpeFZJRG9STkluX3hVaThQS0VvQ0szR1k1WXpXSzNBdVNwSVl5WUlIRURwZzUyVk1weElOU1VSc3hNTVZSMGdidlFkc3czU1NwSDRVUTh3MUJ4OWloSW5MbnV6dGhZZndzUTNtVm4zcHcwVHpHM1ZZNV92T0VrTkpTWGZ6T2lfUmVTTUlqRXZ1aEdNdHdEdUFCTkhyZHB4aWdqRmg4YlZlVHhmcnU0QmpwMEZBb3VLdGNzYzU3NlN2aWxYN0ZpYzh1dFlvdnI1M2FMYzBTYjdESnNnaHNwWVRQMjNMdTB2Wlg1ZEZja2gwZ2tPQzJLZWFnOHFpMlEwVXVFMW93S3Q0RlRKYmlmRGpzWQ?oc=5"
   },
   {
    "title": "皇崗口岸午夜後迎出境高峰 旅客過關需等45分鐘",
@@ -115,6 +101,13 @@
    "date": "10-31 18:07",
    "iso": "2026-10-31T18:07:20+00:00",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ER21qckRrckZLem0zUmRtbldLdXZsZVctb0V5cDZ0MGtqN3lIcFpsRE5teEhaZnBlMHhGRkNtUzd4RkdqOU5NeFFEOUdnMVlOOVhwQ0R3enY5dzYzcFBCaDBHWFduWi1SZW5ZZV9URXpkVHpya3V4blV3?oc=5"
+  },
+  {
+   "title": "（有片）凌晨北上人流湧現 皇崗口岸加闊通道應對高峰 記者實測15分鐘通關",
+   "source": "dotdotnews",
+   "date": "10-31 18:04",
+   "iso": "2026-10-31T18:04:08+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zNF9lNGQ2bG1MRXFBLUwwVExzdjNQdzA0dGdrcHo5NEhnVGs2NWJpUEhaUnJTbU14aEZHV0xFRm1tdFJwZ1c2dmlCVHN1Z29VaVduOUkyc19nQlA2Wi00Yi0yQ1MzSzZvYlNabVJreGlrZkZTUVpMVGx3?oc=5"
   }
  ],
  "ok": true,
@@ -123,11 +116,6 @@
    "t": 1793487991000,
    "s": "明報新聞網",
    "ti": "萬聖節凌晨一度近250人排旺角跨境巴士 等逾40分鐘上車 旅客稱算方便 (07:"
-  },
-  {
-   "t": 1793470824000,
-   "s": "香港01",
-   "ti": "萬聖節｜旺角600人等上車去新皇崗口岸 旅客大讚：比預想中快"
   }
  ],
  "tips": [
@@ -153,7 +141,7 @@
   },
   {
    "tag": "車流",
-   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "text": "近 36 小時有 3 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
    "level": "warn"
   },
   {
@@ -162,5 +150,5 @@
    "level": "info"
   }
  ],
- "history_points": 140
+ "history_points": 141
 }
