@@ -155,7 +155,7 @@
 
   /* 48 小時繁忙程度走勢 */
   .trend-note{font-size:12.5px;color:var(--amber);margin:0 0 8px;line-height:1.6}
-  .trend-bars{display:flex;align-items:flex-end;gap:2px;height:44px;margin:4px 0 6px}
+  .trend-bars{display:flex;align-items:flex-end;gap:2px;height:40px;margin:2px 0 6px}
   .trend-bars i{flex:1 1 0;border-radius:2px 2px 0 0;display:block;min-height:4px}
   .trend-bars i.l0{height:14px;background:var(--teal)}
   .trend-bars i.l1{height:26px;background:var(--amber)}
@@ -331,6 +331,20 @@
           <div class="stat st-na" id="s-v-out"><div class="lab">訪港旅客 · 出境</div><div class="val">—</div><div class="hint">等待數據</div></div>
         </div>
 
+        <h3 class="h3">過去 48 小時旅客輪候走勢</h3>
+        <div class="panel">
+          <p class="trend-note" id="trendNote" style="display:none"></p>
+          <div class="trend-bars" id="trendBars"></div>
+          <div class="trend-axis" id="trendAxis"></div>
+          <div class="trend-legend">
+            <span><b style="background:var(--teal)"></b>正常</span>
+            <span><b style="background:var(--amber)"></b>繁忙</span>
+            <span><b style="background:var(--red)"></b>非常繁忙</span>
+            <span><b style="background:rgba(255,255,255,.14)"></b>無數據</span>
+          </div>
+          <div class="trend-stats" id="trendStats">載入中…</div>
+        </div>
+
         <h3 class="h3">即時車輛排隊（交通快拍）</h3>
         <div class="cam-row" id="camRow">
           <div class="cam-card"><div class="cam-t">載入中…</div></div>
@@ -364,23 +378,6 @@
 
 
   <!-- 48 小時走勢 -->
-  <section id="trend">
-    <h2>過去 48 小時繁忙程度</h2>
-    <p class="sub">每 30 分鐘一格；高度及顏色＝該時段最高級別（記錄由本站開始抓取時累積）</p>
-    <div class="panel">
-      <p class="trend-note" id="trendNote" style="display:none"></p>
-      <div class="trend-bars" id="trendBars"></div>
-      <div class="trend-axis" id="trendAxis"></div>
-      <div class="trend-legend">
-        <span><b style="background:var(--teal)"></b>正常</span>
-        <span><b style="background:var(--amber)"></b>繁忙</span>
-        <span><b style="background:var(--red)"></b>非常繁忙</span>
-        <span><b style="background:rgba(255,255,255,.14)"></b>無數據</span>
-      </div>
-      <div class="trend-stats" id="trendStats">載入中…</div>
-    </div>
-  </section>
-
   <!-- 值班提示 + 收工倒數 -->
   <section id="duty">
     <h2>值班提示・收工交通</h2>
