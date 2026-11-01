@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-01T17:00:33+08:00",
+ "generated_at": "2026-11-01T17:06:40+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "17:00",
+ "clock": "17:06",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -68,13 +68,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQRGVLRVNZcV9BSXRFU1RVX1JHWDRrdnVKcU84aVlMMEMwS3Y5UW5udlltNDhyWDVRM05pODhPdlhzckFSdXVEV0dxYVBqakRMRzBOQTk5U21RWTJzczdJWXQzRHlmV3JPN3NrN3ZSY2NOcmZlM3FnVnlTWm44MXJFaXhnRFVWU0M0clV4SmUtd1VJQ3JNZWsyZlpxdTA2Qkg4OWdGb2QxWUJuY2wybHJQUm1hYUNtZmFzVXBJQmVQQUxPYkFWLVFDRGZUN0dnRGJDWDU0T25NYkxxUlBtZDgzRVVNWlhlRURNaENZYm5yLTkxTmxsRDJGNkVXMWxBbThLbGxra2RORlNuQzhXazM0dkRWSVBtWWtBZDF6TXFSLVFwM1BvODRPSFBlZW5USWNZdVZtaFZVN0FYZ1dBMmlxVHlpX1g0QmtDdEo5LXpqaWlYdWRqN3M3enc4MUJUMkhrX3ozanMtMTZVdEk4X2s5ek5zTQ?oc=5"
   },
   {
-   "title": "深圳灣加時通關有效分流盛事周末新皇崗15分鐘過關- 灣區生活",
-   "source": "香港文匯報",
-   "date": "11-01 00:31",
-   "iso": "2026-11-01T00:31:11+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FXzZWX3NVdHc5Q0d1TUhPR1g0MC0zT1R6ZWtCcmpTS2lrVWVBQmZhal94b0IwelN0SXF5T1V3OC1PU1VzbUw4NDk1S0hJQWRzTndfakRqaUw4SHNxa0hOdFZvSFd5NjlCc3Y3MUN0UnVpaGpxX1BF?oc=5"
-  },
-  {
    "title": "新皇崗口岸再現巴士行錯路撞指示牌 運輸署要求加強車長培訓",
    "source": "Singtaousa",
    "date": "10-31 20:22",
@@ -115,6 +108,13 @@ window.HGP_DATA = {
    "date": "10-31 18:07",
    "iso": "2026-10-31T18:07:20+00:00",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ER21qckRrckZLem0zUmRtbldLdXZsZVctb0V5cDZ0MGtqN3lIcFpsRE5teEhaZnBlMHhGRkNtUzd4RkdqOU5NeFFEOUdnMVlOOVhwQ0R3enY5dzYzcFBCaDBHWFduWi1SZW5ZZV9URXpkVHpya3V4blV3?oc=5"
+  },
+  {
+   "title": "（有片）凌晨北上人流湧現 皇崗口岸加闊通道應對高峰 記者實測15分鐘通關",
+   "source": "dotdotnews",
+   "date": "10-31 18:04",
+   "iso": "2026-10-31T18:04:08+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zNF9lNGQ2bG1MRXFBLUwwVExzdjNQdzA0dGdrcHo5NEhnVGs2NWJpUEhaUnJTbU14aEZHV0xFRm1tdFJwZ1c2dmlCVHN1Z29VaVduOUkyc19nQlA2Wi00Yi0yQ1MzSzZvYlNabVJreGlrZkZTUVpMVGx3?oc=5"
   }
  ],
  "ok": true,
@@ -158,7 +158,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "車流",
-   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "text": "近 36 小時有 3 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
    "level": "warn"
   },
   {
@@ -167,5 +167,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 56
+ "history_points": 57
 };
