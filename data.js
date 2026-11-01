@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-01T07:28:59+08:00",
+ "generated_at": "2026-11-01T08:03:44+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "07:28",
+ "clock": "08:03",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 23,
-  "humidity": 90,
-  "wind": 11.0,
+  "temp": 24,
+  "humidity": 83,
+  "wind": 10.7,
   "code": 0,
   "desc": "天晴",
   "tmax": 29,
@@ -54,6 +54,13 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "萬聖節凌晨一度近250人排旺角跨境巴士 等逾40分鐘上車 旅客稱算方便 (07:06) - 20261101 - 港聞",
+   "source": "明報新聞網",
+   "date": "10-31 23:06",
+   "iso": "2026-10-31T23:06:31+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxPQUE1UzJoUDVrdENJdWYwb3BuOFNLdUxpYmNobHZoSkNZbk1nZGc5amNxMDljUlZXMmhSRFFJelI2ZHB3Y2YxeGFvS3h4a0JNRVRNRWstME9fY05pTjFyQjlpQ0N0X1FaUzJLM1p2b0tCMEtEbnYxYVctOEZhd3lFT1VIeS1zdmVxSTgycmVqR1V5UzFzc3dBbWtmYlpRNGhnODF4TFk2RjZjbllEWml4ZGFqUWptdXNQMkM3QTVCeDJfVjhoMktjd2tWMTBIZUtfNWd2ZWZDanFnZUxnNFloZWRJTnBtNlJtMHlJc3lUSFBIY0RwMGRWVEJmaHppT2IwX2FQa1ZPUkdLejc1WE1IczNYWDFORnM5UHJrVXhnR2ZXQjZzWVVUbW1ma0Y3cXZXaU5DWkE3Mm1ZdURwMUROSEFsVW5hdmMxeFFNMVNkX3pPVlJrNkRkZGRnSXU1bEFrcWRidFJCd0ZCWFdyZVZqNUh4WDJQSGFsRVk4VnJoUlRHbHYwYngzUW5lNC1fUHk0a0pKR190YVdkczk2ODdwTm8wMElTMjVPa2NLb2tmbUJCZ3JlWmxFUnJpQlFXbHEtTVdGNExQdHh4bEpXZ1pkT0lNM1FrbEtiVHRUSThncWtJenRhQjlIWg?oc=5"
+  },
   {
    "title": "周末夜北上新皇崗15分鐘過關深圳灣加時通關有效分流旅客指出行體驗良好- 香港",
    "source": "香港文匯報",
@@ -88,13 +95,6 @@ window.HGP_DATA = {
    "date": "10-31 20:05",
    "iso": "2026-10-31T20:05:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNZW1OdzdfbWJtWDFwMlRaaEVvODhoQ25ZbV9lRWo1V3pKdjh0V2ZxYWgyQlkybUtMVHNwRmhUdVNmNEpTeHV4NGVTd1FGaHBma2FETlNta19fUk5mTzZyN2NlcVN3SndGd3BZV0ozSmp3OHFaeXVWcS12UHh1ZGhNYk02UGoyMDNBMEpZSDdfdXctODhKX3VQbEFpeFZJRG9STkluX3hVaThQS0VvQ0szR1k1WXpXSzNBdVNwSVl5WUlIRURwZzUyVk1weElOU1VSc3hNTVZSMGdidlFkc3czU1NwSDRVUTh3MUJ4OWloSW5MbnV6dGhZZndzUTNtVm4zcHcwVHpHM1ZZNV92T0VrTkpTWGZ6T2lfUmVTTUlqRXZ1aEdNdHdEdUFCTkhyZHB4aWdqRmg4YlZlVHhmcnU0QmpwMEZBb3VLdGNzYzU3NlN2aWxYN0ZpYzh1dFlvdnI1M2FMYzBTYjdESnNnaHNwWVRQMjNMdTB2Wlg1ZEZja2gwZ2tPQzJLZWFnOHFpMlEwVXVFMW93S3Q0RlRKYmlmRGpzWQ?oc=5"
-  },
-  {
-   "title": "萬聖節散場北上人潮湧旺角 往皇崗小巴站600人排長龍",
-   "source": "星島頭條",
-   "date": "10-31 18:35",
-   "iso": "2026-10-31T18:35:26+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOSGt3U1hIcEpGRXlvems2S0psYVkyU1FHeWw3VVJGeTdTc1pOUExsQTU0dlU5Q180dHBBNkVpUkM1ems3Nkpib2dVcEZfa3o2ejFTUHcwVWFsTWVfcFFjOEFFN3R5Sk1XLWZWWWVIRE1BWHFHT3ZvZm9nWTJvMTRLcVlYbUc0RW5td0stSS0wRWhJTHE3TXl3UkQ2NjRyWWZpN1VRek1HXzZycE1zN0llYjAxOUJxOFRmZUlYMlliNjczWUJUbXI3V0hXTk1jWnFUdHNaXzBrYlRJX3pCczZzRkZvZThrRDJyb2pGa3MyUGZvSThncU5tTGo5dUt6M25yS2FfMjZ4b2h6SVJtQUdSa0p1Yk0tcDlINVVsWTJGTV9ZTFZBUWNLc0hUVTdzRHR4bjdRYmxMMDNBaEk0WTM1TDRrTFllN1NwWm53SWNURm5NV3Vud0I1M1hSa092cEktbWpWX0ZfbV9HUQ?oc=5"
   },
   {
    "title": "萬聖節｜旺角600人等上車去新皇崗口岸 旅客大讚：比預想中快",
