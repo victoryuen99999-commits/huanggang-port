@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-01T20:04:49+08:00",
+ "generated_at": "2026-11-01T20:10:56+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "20:04",
+ "clock": "20:10",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -93,7 +93,7 @@
    "source": "TVB",
    "date": "10-31 20:05",
    "iso": "2026-10-31T20:05:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNZW1OdzdfbWJtWDFwMlRaaEVvODhoQ25ZbV9lRWo1V3pKdjh0V2ZxYWgyQlkybUtMVHNwRmhUdVNmNEpTeHV4NGVTd1FGaHBma2FETlNta19fUk5mTzZyN2NlcVN3SndGd3BZV0ozSmp3OHFaeXVWcS12UHh1ZGhNYk02UGoyMDNBMEpZSDdfdXctODhKX3VQbEFpeFZJRG9STkluX3hVaThQS0VvQ0szR1k1WXpXSzNBdVNwSVl5WUlIRURwZzUyVk1weElOU1VSc3hNTVZSMGdidlFkc3czU1NwSDRVUTh3MUJ4OWloSW5MbnV6dGhZZndzUTNtVm4zcHcwVHpHM1ZZNV92T0VrTkpTWGZ6T2lfUmVTTUlqRXZ1aEdNdHdEdUFCTkhyZHB4aWdqRmg4YlZlVHhmcnU0QmpwMEZBb3VLdGNzYzU3NlN2aWxYN0ZpYzh1dFlvdnI1M2FMYzBTYjdESnNnaHNwWVRQMjNMdTB2Wlg1ZEZja2gwZ2tPQzJLZWFnOHFpMlEwVXVFMW93S3Q0RlRKYmlmRGpzWQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNMDNsZTgzSERKQ2FHWFN4UERNYk9Wc1dyQ3l0bjR0UmZPcGZLQ3ZScUNRZTJ2b2xCTzNUMV9ETElXaERFMVVSRklacnl6bllrQ0tRbmdfMWRNWEhyMWwxVHRPOHNQRXY5QmRpY09PZ3U1bThQTDVva2E2Nkh1UjFhaXVZTFRtVHRCVW15M2lqUlhLdFJxS194V0d1TXBjcHJyd2cxR1dDVVgyLWg4V3ZmcVpyZHgxa193RGkzWl9RODNlODNYdWRiWlRmaWtLZVFvMTN5TjM5YlFJQ2xVRW5Wel9PNm5USTRmeXhoMEFWcHItOW1JSE1VaE1pbnN6MkltS2JfT3R5T1BneDU5TnUwUDNqa1dDRzBpT2dVWFlsU0tUS2E2aDlXTUhUZEpkRnJqYmlRaVpQcTVId3I3V2xINnpXU0NJalVIVHZpQ3BqdlhsMjB1cW1ySEZSUGxPeUZXTENuMlRyVnNOMS1Bb1ZYVEtmN3dKa01DWEQxSXZvQnJLSVlDOVo5Y3E0X0FMOXVCRXhNanBHaU9mei1CdFgzajZoQQ?oc=5"
   },
   {
    "title": "新皇崗口岸凌晨出境交通開始繁忙 旅客過關需輪候約45分鐘",
@@ -150,5 +150,5 @@
    "level": "info"
   }
  ],
- "history_points": 86
+ "history_points": 87
 }
