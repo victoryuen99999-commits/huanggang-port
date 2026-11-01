@@ -7,6 +7,7 @@
 <meta name="description" content="皇崗口岸值班資訊站：給口岸工作人員與跨境從業員用。即時出入境輪候、天文台天氣警告、口岸新聞、收工尾班車倒數、港深接駁時間票價、部門熱線與惡劣天氣安排。">
 <meta name="theme-color" content="#060b14">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='15' fill='%232fd4b6'/%3E%3Ctext x='32' y='45' font-size='38' font-family='sans-serif' font-weight='bold' text-anchor='middle' fill='%23041221'%3E%E7%9A%87%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://tdcctv.data.one.gov.hk" crossorigin>
 <style>
   :root{
     --bg:#060b14; --bg2:#0a1421; --card:rgba(255,255,255,.05); --card2:rgba(255,255,255,.03);
@@ -47,16 +48,6 @@
     padding:7px 13px; border-radius:9px; font-size:12.5px; cursor:pointer; font-family:inherit}
   .btn:hover{background:rgba(47,212,182,.14); border-color:rgba(47,212,182,.45)}
 
-  .hero{padding:34px 0 6px}
-  .kicker{display:inline-flex;align-items:center;gap:8px;font-size:12px;letter-spacing:.14em;color:var(--teal);font-weight:600}
-  h1{font-size:clamp(27px,4.4vw,40px); line-height:1.2; letter-spacing:-.02em; margin:10px 0 10px; font-weight:800}
-  h1 em{font-style:normal; background:linear-gradient(100deg,var(--teal),#7fe3ff 55%,var(--blue));
-    -webkit-background-clip:text; background-clip:text; color:transparent}
-  .lede{color:var(--mut); max-width:66ch; font-size:15px}
-  .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
-  .chip{font-size:12.5px;padding:5px 12px;border-radius:999px;border:1px solid var(--line);background:var(--card2);color:var(--mut)}
-  .chip b{color:var(--fg);font-weight:600}
-  .chip.hot{border-color:rgba(246,178,60,.45); background:rgba(246,178,60,.12); color:#fbcf88}
 
   section{padding:30px 0 6px}
   h2{font-size:19px; margin:0 0 4px; font-weight:700; display:flex; align-items:center; gap:9px}
@@ -239,7 +230,6 @@
   }
   @media(max-width:560px){
     .wrap{padding:0 15px}
-    .hero{padding:24px 0 4px}
     .brand span{display:none}
     .brand b{font-size:14.5px}
     .logo{width:34px;height:34px;font-size:15px}
@@ -255,10 +245,8 @@
     .openbar .small{font-size:12.5px}
     .count-item{padding:10px 12px}
     .count-item .c{font-size:15px}
-    h1{font-size:26px}
     summary{padding:13px 13px;font-size:13.6px}
     details .ans{padding:0 13px 13px 38px}
-    .chip{font-size:12px;padding:4px 10px}
   }
 </style>
 </head>
@@ -285,7 +273,7 @@
     <h2>口岸繁忙程度</h2>
     <p class="sub">旅客輪候：入境處每 15 分鐘更新｜車輛：交通快拍每 2 分鐘｜本頁快照：GitHub 排程（實測 30–60 分鐘一次）</p>
 
-    <div class="warnbar" id="warnbar">
+    <div class="warnbar" id="warnbar" role="status" aria-live="polite">
       <div class="ico" id="warnIco">🛡️</div>
       <div style="flex:1">
         <div class="t" id="warnTitle">讀取天文台警告…</div>
@@ -301,7 +289,7 @@
       <div class="sep"></div>
       <div class="small">香港時間 <b class="t" id="hkt">--:--:--</b></div>
       <div class="sep"></div>
-      <div class="small">資料更新 <b class="t" id="updated">--</b></div>
+      <div class="small">資料更新 <b class="t" id="updated">--</b><span id="ageTxt" style="color:var(--mut2)"></span></div>
       <div class="sep"></div>
       <div class="small">天氣 <b class="t" id="wxMini">--</b></div>
       <div class="sep"></div>
@@ -319,7 +307,7 @@
           <div class="agg-meter" id="aggMeter"><span></span><span></span><span></span></div>
         </div>
 
-        <div class="status-grid">
+        <div class="status-grid" aria-live="polite">
           <div class="stat st-na" id="s-r-in"><div class="lab">香港居民 · 入境</div><div class="val">—</div><div class="hint">等待數據</div></div>
           <div class="stat st-na" id="s-r-out"><div class="lab">香港居民 · 出境</div><div class="val">—</div><div class="hint">等待數據</div></div>
           <div class="stat st-na" id="s-v-in"><div class="lab">訪港旅客 · 入境</div><div class="val">—</div><div class="hint">等待數據</div></div>
@@ -498,6 +486,7 @@
       <div class="mini"><h4>八號或以上風球</h4><p>跨境巴士一般停運，信號解除後約 2 小時內陸續恢復（各營辦商不同）；本地巴士及小巴亦會削減或停駛。</p></div>
       <div class="mini"><h4>內地颱風預警</h4><p>深圳發出颱風橙色／紅色預警時，深圳口岸跨境巴士暫停運行；恢復時間視預警解除及路況。</p></div>
       <div class="mini"><h4>港鐵接駁</h4><p>八號風球發出約 3 小時後港鐵巴士停駛；九號或以上露天段即時暫停。</p></div>
+  <div class="mini" id="fireCard"><h4>火災危險警告</h4><p>黃色：山火／雜草火風險高；紅色：極高。期間停止戶外明火、焊接及燃燒作業，加強巡查垃圾及雜草堆，吸煙須到指定區。</p><p style="margin-top:6px;color:var(--mut2)" id="fireNow">現時：—</p></div>
     </div>
     <div class="callout">
       <b>交更提醒</b>：口岸本身 24 小時運作，但接駁交通會在惡劣天氣下先停後復，尾班／頭班車時間亦可能臨時改動。
@@ -631,6 +620,7 @@
     {n:"深圳地鐵 7 號線", to:"深大麗湖", t:"23:23"}
   ];
   var DATA = window.HGP_DATA || null;
+  var liveApi = null;   // null = 未探測；false = 靜態託管冇 /api/live
   var nextPull = Date.now() + 60000;
 
   function $(id){ return document.getElementById(id); }
@@ -671,6 +661,7 @@
       $("warnIco").textContent = "⚠️";
       $("warnTitle").textContent = "未能讀取天文台警告";
       $("warnDesc").textContent = "請直接查閱天文台網站。";
+      if($("fireNow")) $("fireNow").textContent = "現時：未能讀取（請查天文台）";
       $("warnTags").innerHTML = "";
       return;
     }
@@ -679,6 +670,7 @@
       $("warnIco").textContent = "🛡️";
       $("warnTitle").textContent = "天文台：現時無天氣警告生效";
       $("warnDesc").textContent = "戶外崗位仍須留意突發雷雨及強風。";
+      if($("fireNow")) $("fireNow").textContent = "現時：無火災危險警告";
       $("warnTags").innerHTML = "";
       return;
     }
@@ -688,6 +680,9 @@
     var d0 = String(w[0].desc || "").replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
     $("warnDesc").textContent = d0 ? d0.slice(0, 170) : "詳情見天文台公布。";
     $("warnTags").innerHTML = w.map(function(x){ return '<span class="wtag">'+x.title+'</span>'; }).join("");
+    var fire = w.filter(function(x){ return String(x.title).indexOf("火災危險") >= 0; });
+    var fn = $("fireNow");
+    if(fn) fn.textContent = fire.length ? ("現時：" + fire[0].title) : "現時：無火災危險警告";
   }
 
   var BRK = ["塞","擠","車龍","意外","事故","突發","停駛","停運","封閉","故障","火警","延誤","迫爆","人潮","打架"];
@@ -700,7 +695,7 @@
   function buildCameras(){
     var t = Date.now();
     $("camRow").innerHTML = CAMS.map(function(c){
-      return '<div class="cam-card"><img id="cam-'+c.k+'" alt="'+c.n+' 交通快拍" loading="lazy" '
+      return '<div class="cam-card"><img id="cam-'+c.k+'" alt="'+c.n+' 交通快拍" width="320" height="240" loading="lazy" '
            + 'src="https://tdcctv.data.one.gov.hk/'+c.k+'.JPG?t='+t+'">'
            + '<div class="cam-t">'+c.n+'</div>'
            + '<div class="cam-s">'+c.d+' · 每 2 分鐘更新</div></div>';
@@ -807,6 +802,15 @@
     if(d && d.generated_at){
       var t = new Date(d.generated_at);
       $("updated").textContent = pad(t.getHours())+":"+pad(t.getMinutes());
+      var mins = Math.max(0, Math.round((Date.now() - t.getTime())/60000));
+      var age = $("ageTxt");
+      if(age){
+        age.textContent = mins < 1 ? "（剛剛）"
+                        : mins < 60 ? "（" + mins + " 分鐘前）"
+                        : "（" + Math.floor(mins/60) + " 小時前）";
+        age.style.color = mins > 180 ? "var(--red)" : mins > 45 ? "var(--amber)" : "var(--mut2)";
+      }
+      if(mins > 45) setLive(false, "快照 · " + mins + " 分鐘前");
     }
   }
 
@@ -867,10 +871,16 @@
     if(!snapTimer) snapTimer = setInterval(refreshSnapshot, 60000);
   }
 
-  function pullLive(manual){
+  function pullLive(manual, force){
     if(location.protocol !== "http:" && location.protocol !== "https:"){
       setLive(false, "離線快照");
       if(manual) toast("離線模式：顯示最後快照（用 start.bat 可啟用即時更新）");
+      return;
+    }
+    // 靜態託管（GitHub Pages）冇 /api/live：探測一次就記住，之後只換 data.js，省請求
+    if(!force && liveApi === false){
+      refreshSnapshot();
+      if(manual) toast("已重新載入最新快照");
       return;
     }
     fetch("api/live", {cache:"no-store"}).then(function(r){
@@ -878,12 +888,14 @@
       return r.json();
     }).then(function(j){
       if(!j || !j.ok) throw new Error("bad payload");
+      liveApi = true;
       renderSignals(j);
       if(j.warnings !== undefined) renderWarnings(j.warnings);
       if(j.weather) renderWeather({weather:j.weather});
       setLive(true, "即時 · "+j.clock);
       if(manual) toast("已更新至 "+j.clock);
     }).catch(function(){
+      if(liveApi !== true) liveApi = false;
       setLive(false, "自動更新中");
       refreshSnapshot();
       if(manual) toast("已重新載入最新快照");
@@ -892,10 +904,18 @@
 
   function pullLoop(){ nextPull = Date.now() + 60000; pullLive(false); }
 
-  $("refreshBtn").addEventListener("click", function(){ pullLive(true); });
+  // 相機區唔在畫面內就唔刷新，省流動數據
+  function cameraTick(){
+    var row = $("camRow");
+    if(!row) return;
+    var r = row.getBoundingClientRect();
+    if(r.bottom > 0 && r.top < (window.innerHeight || 800)) refreshCameras();
+  }
+
+  $("refreshBtn").addEventListener("click", function(){ pullLive(true, true); });
 
   tick(); setInterval(tick, 1000);
-  buildCameras(); setInterval(refreshCameras, 120000);
+  buildCameras(); setInterval(cameraTick, 120000);
   renderCountdowns(); setInterval(renderCountdowns, 30000);
   if(DATA){ renderAll(DATA); }
   else {

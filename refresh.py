@@ -134,6 +134,8 @@ def build_tips(now, weather, warnings, news):
     if warnings:
         joined = "、".join(w["title"] for w in warnings)
         tips.append(("警告", "天文台現正生效：" + joined + "。戶外崗位（上落客區、落馬洲大橋、交匯處）注意強風、雷擊及地滑。", "warn"))
+        if any("火災危險" in w["title"] for w in warnings):
+            tips.append(("防火", "火災危險警告生效：吸煙、明火、戶外焊接及燃燒作業須停止或按程序審批；留意雜草及垃圾堆積起火風險。", "warn"))
     elif warnings is not None:
         tips.append(("天氣", "天文台現時無天氣警告生效。", "ok"))
 
