@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-01T18:26:24+08:00",
+ "generated_at": "2026-11-01T18:32:31+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "18:26",
+ "clock": "18:32",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 26,
-  "humidity": 76,
-  "wind": 10.5,
+  "humidity": 77,
+  "wind": 9.8,
   "code": 1,
   "desc": "大致晴朗",
   "tmax": 32,
@@ -67,6 +67,20 @@ window.HGP_DATA = {
    "date": "11-01 00:31",
    "iso": "2026-11-01T00:31:11+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FXzZWX3NVdHc5Q0d1TUhPR1g0MC0zT1R6ZWtCcmpTS2lrVWVBQmZhal94b0IwelN0SXF5T1V3OC1PU1VzbUw4NDk1S0hJQWRzTndfakRqaUw4SHNxa0hOdFZvSFd5NjlCc3Y3MUN0UnVpaGpxX1BF?oc=5"
+  },
+  {
+   "title": "再現九巴迷路撞天花指示牌- 香港",
+   "source": "香港文匯報",
+   "date": "10-31 20:52",
+   "iso": "2026-10-31T20:52:12+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSY2FkNVJ3Ymh3ODE3R3RkeTBJeGV1V3BmX3VaY01WMkF2MGJWTzB6eUdIeDFidGMzZ2YyamZ4eEt3Zmh1anV5VG05M2ZpTHRRQl91eDNWWDl4eDJ4LUkxUFdqOGpFWmJMVE9LSWtfZFp2RGc2bzlB?oc=5"
+  },
+  {
+   "title": "黃昏南向人流攀升巴士站打蛇餅- 香港",
+   "source": "香港文匯報",
+   "date": "10-31 20:51",
+   "iso": "2026-10-31T20:51:52+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03Y2h3SHh2dVpuQ3F0YWJpbTVMVng1MjAxRVVYZGJyWDliOUtIcWxOd1o5eG9xMXBrU3NCbktaQndsZDVLc05Zd2c5eUg5djNhMjh5WGNNMTBLcjk1OC1xTUlZOVdRbFNXSERNWjNzMnIwc2pwNDQ0?oc=5"
   },
   {
    "title": "新皇崗口岸再現巴士行錯路撞指示牌 運輸署要求加強車長培訓",
@@ -95,24 +109,15 @@ window.HGP_DATA = {
    "date": "10-31 18:20",
    "iso": "2026-10-31T18:20:24+00:00",
    "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxORzBiRjFnYm85bTROaEp6WjhiWFduaUNXMUNsZjNyeVRGRjVmUXlvZlFKVzQyekN2NUtQcFQzd29wM0tTV0swT1VzTEdaV2t0Z0E3OTdWSm9XYXRYUDlyYmlTY2w3TGhRSDQwd2x2NVhRVkRvczZLYXk3amxQYV9DWmk0YWRwa01MdTUwUVNWenMxbXFuWjNlbU8yT1pXMzZXUUpyYXFGZ1dkdGFaNl9RU2FnajhjemhKWHBYeHpzN0J1bmtwUHhsb1VQaXBSdldCaUJiRzJzR01YQS0ydlFudUIxMThrNmR0UE1SMzJaRzJMUnlJYy1aQktkNVU0U3p0ZmtQSFpwbmkzYnBVZkllbXdfOEVBckpGNTJaSy1ZV1JPaXh2bFAxMXEyMHVIdnNmUURLSWd2MjNFa3BpZ2drd29ka0NrLTkwaTRhVnZkTTljeF9Yb2xFYkI4N3RYMng4RnlIQjBuREZfUTRiVnhaZEE3U0xwWk5lM0RIYmNoZWowUkdKdGc?oc=5"
-  },
-  {
-   "title": "皇崗口岸午夜後迎出境高峰 旅客過關需等45分鐘",
-   "source": "Now 新聞",
-   "date": "10-31 18:17",
-   "iso": "2026-10-31T18:17:25+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11dWROTDVtb2ZKWnhROHptT2duWXUyN0xCY01BLTVaQXcydnh1WlFxWHFDOHUwZnpYZmpTN2hIVVptWndpcU1JSGR1VDBqX3FMSm9jVU1DTW1NN2tjTG1CWHVR?oc=5"
-  },
-  {
-   "title": "萬聖節｜皇崗口岸出境輪候時間回復正常 一度顯示等候45分鐘",
-   "source": "dotdotnews",
-   "date": "10-31 18:07",
-   "iso": "2026-10-31T18:07:20+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ER21qckRrckZLem0zUmRtbldLdXZsZVctb0V5cDZ0MGtqN3lIcFpsRE5teEhaZnBlMHhGRkNtUzd4RkdqOU5NeFFEOUdnMVlOOVhwQ0R3enY5dzYzcFBCaDBHWFduWi1SZW5ZZV9URXpkVHpya3V4blV3?oc=5"
   }
  ],
  "ok": true,
  "vehicle_events": [
+  {
+   "t": 1793479912000,
+   "s": "香港文匯報",
+   "ti": "黃昏南向人流攀升巴士站打蛇餅- 香港"
+  },
   {
    "t": 1793478155000,
    "s": "Singtaousa",
@@ -156,5 +161,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 70
+ "history_points": 71
 };
