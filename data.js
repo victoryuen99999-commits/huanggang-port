@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-02T04:41:03+08:00",
+ "generated_at": "2026-11-02T04:47:10+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "04:41",
+ "clock": "04:47",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 23,
   "humidity": 94,
-  "wind": 4.9,
+  "wind": 5.1,
   "code": 3,
   "desc": "多雲",
   "tmax": 32,
@@ -97,28 +97,22 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FXzZWX3NVdHc5Q0d1TUhPR1g0MC0zT1R6ZWtCcmpTS2lrVWVBQmZhal94b0IwelN0SXF5T1V3OC1PU1VzbUw4NDk1S0hJQWRzTndfakRqaUw4SHNxa0hOdFZvSFd5NjlCc3Y3MUN0UnVpaGpxX1BF?oc=5"
   },
   {
+   "title": "萬聖節｜多區通往皇崗口岸車站一度大排長龍 有旅客冀增加車輛安排",
+   "source": "TVB",
+   "date": "10-31 20:05",
+   "iso": "2026-10-31T20:05:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNZW1OdzdfbWJtWDFwMlRaaEVvODhoQ25ZbV9lRWo1V3pKdjh0V2ZxYWgyQlkybUtMVHNwRmhUdVNmNEpTeHV4NGVTd1FGaHBma2FETlNta19fUk5mTzZyN2NlcVN3SndGd3BZV0ozSmp3OHFaeXVWcS12UHh1ZGhNYk02UGoyMDNBMEpZSDdfdXctODhKX3VQbEFpeFZJRG9STkluX3hVaThQS0VvQ0szR1k1WXpXSzNBdVNwSVl5WUlIRURwZzUyVk1weElOU1VSc3hNTVZSMGdidlFkc3czU1NwSDRVUTh3MUJ4OWloSW5MbnV6dGhZZndzUTNtVm4zcHcwVHpHM1ZZNV92T0VrTkpTWGZ6T2lfUmVTTUlqRXZ1aEdNdHdEdUFCTkhyZHB4aWdqRmg4YlZlVHhmcnU0QmpwMEZBb3VLdGNzYzU3NlN2aWxYN0ZpYzh1dFlvdnI1M2FMYzBTYjdESnNnaHNwWVRQMjNMdTB2Wlg1ZEZja2gwZ2tPQzJLZWFnOHFpMlEwVXVFMW93S3Q0RlRKYmlmRGpzWQ?oc=5"
+  },
+  {
    "title": "新皇崗口岸凌晨出境交通開始繁忙 旅客過關需輪候約45分鐘",
    "source": "on.cc東網",
    "date": "10-31 18:33",
    "iso": "2026-10-31T18:33:50+00:00",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGNoWnRUSGNqNHBUNkhMeVcyRVM5SE1fMDJUWkYyMDFLd0xwZ2JlaEF4endha2hXdllfTHlTZFF3MFo2eFdETy1hbk5Qc25CdFFkV3RfRUI4RUNrZFBmWFE1NjhVMEwzc1c5bmJMOTRUUW1Gek9XMmhNcG04NTc2YmRNc21NTEV5dmhn?oc=5"
-  },
-  {
-   "title": "萬聖節｜旺角600人等上車去新皇崗口岸 旅客大讚：比預想中快",
-   "source": "香港01",
-   "date": "10-31 18:20",
-   "iso": "2026-10-31T18:20:24+00:00",
-   "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxORzBiRjFnYm85bTROaEp6WjhiWFduaUNXMUNsZjNyeVRGRjVmUXlvZlFKVzQyekN2NUtQcFQzd29wM0tTV0swT1VzTEdaV2t0Z0E3OTdWSm9XYXRYUDlyYmlTY2w3TGhRSDQwd2x2NVhRVkRvczZLYXk3amxQYV9DWmk0YWRwa01MdTUwUVNWenMxbXFuWjNlbU8yT1pXMzZXUUpyYXFGZ1dkdGFaNl9RU2FnajhjemhKWHBYeHpzN0J1bmtwUHhsb1VQaXBSdldCaUJiRzJzR01YQS0ydlFudUIxMThrNmR0UE1SMzJaRzJMUnlJYy1aQktkNVU0U3p0ZmtQSFpwbmkzYnBVZkllbXdfOEVBckpGNTJaSy1ZV1JPaXh2bFAxMXEyMHVIdnNmUURLSWd2MjNFa3BpZ2drd29ka0NrLTkwaTRhVnZkTTljeF9Yb2xFYkI4N3RYMng4RnlIQjBuREZfUTRiVnhaZEE3U0xwWk5lM0RIYmNoZWowUkdKdGc?oc=5"
   }
  ],
  "ok": true,
- "vehicle_events": [
-  {
-   "t": 1793470824000,
-   "s": "香港01",
-   "ti": "萬聖節｜旺角600人等上車去新皇崗口岸 旅客大讚：比預想中快"
-  }
- ],
+ "vehicle_events": [],
  "tips": [
   {
    "tag": "天氣",
@@ -146,5 +140,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 170
+ "history_points": 171
 };
