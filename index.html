@@ -685,7 +685,8 @@
     bar.className = "warnbar alert";
     $("warnIco").textContent = "⚠️";
     $("warnTitle").textContent = "天氣警告生效 " + w.length + " 項";
-    $("warnDesc").textContent = w[0].desc ? w[0].desc.slice(0,160) : "詳情見天文台公布。";
+    var d0 = String(w[0].desc || "").replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
+    $("warnDesc").textContent = d0 ? d0.slice(0, 170) : "詳情見天文台公布。";
     $("warnTags").innerHTML = w.map(function(x){ return '<span class="wtag">'+x.title+'</span>'; }).join("");
   }
 

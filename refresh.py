@@ -70,6 +70,12 @@ def fetch_warnings():
         if "並無警告" in title or "no warning" in title.lower():
             continue
         name = re.sub(r"\s*[（(].*?[)）]\s*$", "", title).strip()
+        if name.startswith("取消"):
+            continue
+        name = re.sub(r"^(發出|現正生效|生效中)[：: ]*", "", name).strip()
+        desc = re.sub(r"<[^>]+>", " ", desc)          # 清走 <br/> 等 HTML
+        desc = htmllib.unescape(desc)
+        desc = re.sub(r"[\s\u3000]+", " ", desc).strip()
         out.append({"title": name, "desc": desc[:300], "updated": rss_field(it, "pubDate")})
     return out
 
