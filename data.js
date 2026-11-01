@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-01T17:56:52+08:00",
+ "generated_at": "2026-11-01T18:02:58+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "17:56",
+ "clock": "18:02",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,7 +44,7 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 26,
-  "humidity": 74,
+  "humidity": 75,
   "wind": 10.8,
   "code": 0,
   "desc": "天晴",
@@ -52,13 +52,7 @@ window.HGP_DATA = {
   "tmin": 23,
   "pop": 49
  },
- "warnings": [
-  {
-   "title": "黃色火災危險警告",
-   "desc": "黃色火災危險警告在09時45分發出( 2026年11月1日 )。",
-   "updated": "Sun, 01 Nov 2026 09:45:00 +0800"
-  }
- ],
+ "warnings": [],
  "news": [
   {
    "title": "萬聖節凌晨北上人流增多 皇崗口岸一度排起出境人龍",
@@ -137,14 +131,9 @@ window.HGP_DATA = {
  ],
  "tips": [
   {
-   "tag": "警告",
-   "text": "天文台現正生效：黃色火災危險警告。戶外崗位（上落客區、落馬洲大橋、交匯處）注意強風、雷擊及地滑。",
-   "level": "warn"
-  },
-  {
-   "tag": "防火",
-   "text": "火災危險警告生效：吸煙、明火、戶外焊接及燃燒作業須停止或按程序審批；留意雜草及垃圾堆積起火風險。",
-   "level": "warn"
+   "tag": "天氣",
+   "text": "天文台現時無天氣警告生效。",
+   "level": "ok"
   },
   {
    "tag": "傍晚",
@@ -167,5 +156,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 65
+ "history_points": 66
 };
