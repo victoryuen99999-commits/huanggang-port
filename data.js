@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-01T09:23:07+08:00",
+ "generated_at": "2026-11-01T10:20:46+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "09:23",
+ "clock": "10:20",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,23 +43,36 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 27,
-  "humidity": 70,
-  "wind": 10.9,
-  "code": 2,
-  "desc": "局部多雲",
+  "temp": 28,
+  "humidity": 65,
+  "wind": 8.4,
+  "code": 3,
+  "desc": "多雲",
   "tmax": 29,
   "tmin": 23,
   "pop": 61
  },
- "warnings": [],
+ "warnings": [
+  {
+   "title": "發出黃色火災危險警告",
+   "desc": "黃色火災危險警告在09時45分發出( 2026年11月1日 )。 <br/><br/>",
+   "updated": "Sun, 01 Nov 2026 09:45:00 +0800"
+  }
+ ],
  "news": [
   {
-   "title": "深圳灣加時通關有效分流盛事周末新皇崗15分鐘過關- 灣區生活",
-   "source": "香港文匯報",
-   "date": "11-01 00:31",
-   "iso": "2026-11-01T00:31:11+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FXzZWX3NVdHc5Q0d1TUhPR1g0MC0zT1R6ZWtCcmpTS2lrVWVBQmZhal94b0IwelN0SXF5T1V3OC1PU1VzbUw4NDk1S0hJQWRzTndfakRqaUw4SHNxa0hOdFZvSFd5NjlCc3Y3MUN0UnVpaGpxX1BF?oc=5"
+   "title": "萬聖節凌晨北上人流增多 皇崗口岸一度排起出境人龍",
+   "source": "橙新聞",
+   "date": "11-01 01:33",
+   "iso": "2026-11-01T01:33:32+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQRGVLRVNZcV9BSXRFU1RVX1JHWDRrdnVKcU84aVlMMEMwS3Y5UW5udlltNDhyWDVRM05pODhPdlhzckFSdXVEV0dxYVBqakRMRzBOQTk5U21RWTJzczdJWXQzRHlmV3JPN3NrN3ZSY2NOcmZlM3FnVnlTWm44MXJFaXhnRFVWU0M0clV4SmUtd1VJQ3JNZWsyZlpxdTA2Qkg4OWdGb2QxWUJuY2wybHJQUm1hYUNtZmFzVXBJQmVQQUxPYkFWLVFDRGZUN0dnRGJDWDU0T25NYkxxUlBtZDgzRVVNWlhlRURNaENZYm5yLTkxTmxsRDJGNkVXMWxBbThLbGxra2RORlNuQzhXazM0dkRWSVBtWWtBZDF6TXFSLVFwM1BvODRPSFBlZW5USWNZdVZtaFZVN0FYZ1dBMmlxVHlpX1g0QmtDdEo5LXpqaWlYdWRqN3M3enc4MUJUMkhrX3ozanMtMTZVdEk4X2s5ek5zTQ?oc=5"
+  },
+  {
+   "title": "萬聖節皇崗 不過夜旅客返深圳 交通大致順暢 口岸兩次亮起「黃燈」",
+   "source": "集誌社",
+   "date": "11-01 00:04",
+   "iso": "2026-11-01T00:04:17+00:00",
+   "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPSDR5UjZfZUE4dGJnWmVLbkMxUmN5R1FRS0c2Z19NMnVvUUVEZlJYTlk5MEpReHFuTkI3eHFvdDhMc0tqeEVBdks1bzVZZnd3LXNYM1RYOFFiVHRFWGEzaEtPalVmR19vZFVyeU52UlRSRktwQnJCSXlhcFBBaEFucWJJNkdpRDV1c1hXeVdFMHhvUjBmR1laajlCLWt0YktZWk5oeWlZRlcwaExXSTc3TFE2cjNFWFg1VkVUNTdQeHdTMWh2V2FIRTNtTVpmOGtLYl84eW5yVTZlbEVQNUdtZnB4RVFiQmdKd2JGSW5FVGhxNVVsaUN2VkVYbWN1LUpZbkRxdVdZbDFJWVlydm5zSmRDay1xcWpsaGxiMDh1QWZCUGgwenMzTHk3UjRxTWpBcThxX2x4OWtGUl9nVGxn?oc=5"
   },
   {
    "title": "再現九巴迷路撞天花指示牌- 香港",
@@ -90,13 +103,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNZW1OdzdfbWJtWDFwMlRaaEVvODhoQ25ZbV9lRWo1V3pKdjh0V2ZxYWgyQlkybUtMVHNwRmhUdVNmNEpTeHV4NGVTd1FGaHBma2FETlNta19fUk5mTzZyN2NlcVN3SndGd3BZV0ozSmp3OHFaeXVWcS12UHh1ZGhNYk02UGoyMDNBMEpZSDdfdXctODhKX3VQbEFpeFZJRG9STkluX3hVaThQS0VvQ0szR1k1WXpXSzNBdVNwSVl5WUlIRURwZzUyVk1weElOU1VSc3hNTVZSMGdidlFkc3czU1NwSDRVUTh3MUJ4OWloSW5MbnV6dGhZZndzUTNtVm4zcHcwVHpHM1ZZNV92T0VrTkpTWGZ6T2lfUmVTTUlqRXZ1aEdNdHdEdUFCTkhyZHB4aWdqRmg4YlZlVHhmcnU0QmpwMEZBb3VLdGNzYzU3NlN2aWxYN0ZpYzh1dFlvdnI1M2FMYzBTYjdESnNnaHNwWVRQMjNMdTB2Wlg1ZEZja2gwZ2tPQzJLZWFnOHFpMlEwVXVFMW93S3Q0RlRKYmlmRGpzWQ?oc=5"
   },
   {
-   "title": "旺角深宵再現北上候車人龍 600人擠爆往皇崗小巴站",
-   "source": "星島頭條",
-   "date": "10-31 18:35",
-   "iso": "2026-10-31T18:35:26+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQUjIwOEZRRGVreVNDeHBsN1VJZ2QwaEtqcTZOMmJlSTFLSFZYUHNjaW5sRy1wbmJjT2JaQ2RxZlhFSEZPMkh5MEVEVDNDRllJam4zQURYdWhZWVoxd2dYVThsY29sTXpEQ1Z0eVliYXMzeDlXUTJOaDFzWnJWWVhBczhwNEN1WkJKdFkwajNCcWI4dGxDRHlOYTdYY3RMU25sN1ZDbUxST1BtaUJYaEJyNmJhNm1HSi03azJSWi1BaWRfUTBEUXZFamhZQndvdmxoTWZ0M09LdTNidDFwVWpYamlTNElXUGlTTmdyNnJoQmd5UGpraGFaVnVweGduWElxN25RN1k2Q1FNU3kwTVdtWHhZVW0tRGxJU0hUeURBU3ZaWTBLSzJmblgzMHZzLUVteVUwQV9adUs1MGJCY3FjdFB4ejVmNmptTkc1YW9STmg4Z1ZLSnFTcVloRnE0UQ?oc=5"
-  },
-  {
    "title": "新皇崗口岸凌晨出境 過關輪候時間需45分鐘",
    "source": "on.cc東網",
    "date": "10-31 18:33",
@@ -114,9 +120,9 @@ window.HGP_DATA = {
  "ok": true,
  "tips": [
   {
-   "tag": "天氣",
-   "text": "天文台現時無天氣警告生效。",
-   "level": "ok"
+   "tag": "警告",
+   "text": "天文台現正生效：發出黃色火災危險警告。戶外崗位（上落客區、落馬洲大橋、交匯處）注意強風、雷擊及地滑。",
+   "level": "warn"
   },
   {
    "tag": "週日",
