@@ -2,22 +2,21 @@ name: 更新皇崗口岸資料
 
 on:
   schedule:
-    # 每 5 分鐘（GitHub 最短間隔）。大量排程會被 throttle，實際仍可能延遲，
-    # 所以同時有 local_refresh.py 在本機補時。
-    - cron: "*/5 * * * *"
-  workflow_dispatch:            # 亦可手動觸發
+    # 只負責「叫醒」新一輪；真正更新由 job 內部 loop 每 10 分鐘做一次。
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: refresh
+  group: refresh          # 同時只准一個 job；新一輪會排隊接住跑
   cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 6
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
 
@@ -25,17 +24,24 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: 抓取入境處輪候 + 天氣
-        run: python refresh.py
-
-      - name: 有變更才提交
+      # 公開 repo 的 Actions 分鐘數不限，所以可以長時間連續刷新，
+      # 每 10 分鐘一次（=6 次/小時，低於 GitHub Pages 每小時 10 次建置上限）。
+      - name: 連續刷新（每 10 分鐘一次，共 5 次）
         run: |
           git config user.name  "hgp-bot"
           git config user.email "hgp-bot@users.noreply.github.com"
-          if [ -n "$(git status --porcelain data.js data.json)" ]; then
-            git add data.js data.json
-            git commit -m "data: refresh $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push
-          else
-            echo "沒有變更"
-          fi
+          for i in 1 2 3 4 5; do
+            echo "::group::第 $i 次刷新 $(date -u '+%H:%M UTC')"
+            python refresh.py
+            if [ -n "$(git status --porcelain data.js data.json)" ]; then
+              git add data.js data.json
+              git commit -m "data: refresh $(date -u '+%Y-%m-%d %H:%M UTC')"
+              git pull --rebase -X ours origin main || true
+              git push || echo "push 失敗，下一輪再試"
+            else
+              echo "沒有變更"
+            fi
+            echo "::endgroup::"
+            if [ "$i" -lt 5 ]; then sleep 600; fi
+          done
+
