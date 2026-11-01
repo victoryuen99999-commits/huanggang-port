@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-01T13:33:42+08:00",
+ "generated_at": "2026-11-01T13:38:27+08:00",
  "date": "2026-11-01",
  "weekday": "星期日",
- "clock": "13:33",
+ "clock": "13:38",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -110,7 +110,7 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNZW1OdzdfbWJtWDFwMlRaaEVvODhoQ25ZbV9lRWo1V3pKdjh0V2ZxYWgyQlkybUtMVHNwRmhUdVNmNEpTeHV4NGVTd1FGaHBma2FETlNta19fUk5mTzZyN2NlcVN3SndGd3BZV0ozSmp3OHFaeXVWcS12UHh1ZGhNYk02UGoyMDNBMEpZSDdfdXctODhKX3VQbEFpeFZJRG9STkluX3hVaThQS0VvQ0szR1k1WXpXSzNBdVNwSVl5WUlIRURwZzUyVk1weElOU1VSc3hNTVZSMGdidlFkc3czU1NwSDRVUTh3MUJ4OWloSW5MbnV6dGhZZndzUTNtVm4zcHcwVHpHM1ZZNV92T0VrTkpTWGZ6T2lfUmVTTUlqRXZ1aEdNdHdEdUFCTkhyZHB4aWdqRmg4YlZlVHhmcnU0QmpwMEZBb3VLdGNzYzU3NlN2aWxYN0ZpYzh1dFlvdnI1M2FMYzBTYjdESnNnaHNwWVRQMjNMdTB2Wlg1ZEZja2gwZ2tPQzJLZWFnOHFpMlEwVXVFMW93S3Q0RlRKYmlmRGpzWQ?oc=5"
   },
   {
-   "title": "新皇崗口岸凌晨出境 過關輪候時間需45分鐘",
+   "title": "新皇崗口岸凌晨出境交通開始繁忙 旅客過關需輪候約45分鐘",
    "source": "on.cc東網",
    "date": "10-31 18:33",
    "iso": "2026-10-31T18:33:50+00:00",
