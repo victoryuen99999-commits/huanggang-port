@@ -2,7 +2,9 @@ name: 更新皇崗口岸資料
 
 on:
   schedule:
-    - cron: "*/15 * * * *"      # 每 15 分鐘（與入境處更新頻率一致）
+    # 每 5 分鐘（GitHub 最短間隔）。大量排程會被 throttle，實際仍可能延遲，
+    # 所以同時有 local_refresh.py 在本機補時。
+    - cron: "*/5 * * * *"
   workflow_dispatch:            # 亦可手動觸發
 
 permissions:
@@ -15,6 +17,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 6
     steps:
       - uses: actions/checkout@v4
 
