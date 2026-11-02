@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-02T13:14:03+08:00",
+ "generated_at": "2026-11-02T13:20:13+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "13:14",
+ "clock": "13:20",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,10 +43,10 @@
  },
  "weather": {
   "temp": 32,
-  "humidity": 44,
-  "wind": 6.5,
-  "code": 3,
-  "desc": "多雲",
+  "humidity": 43,
+  "wind": 6.2,
+  "code": 51,
+  "desc": "毛毛雨",
   "tmax": 32,
   "tmin": 23,
   "pop": 98
@@ -134,5 +134,5 @@
    "level": "info"
   }
  ],
- "history_points": 250
+ "history_points": 251
 }
