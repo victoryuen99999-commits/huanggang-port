@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-02T08:34:35+08:00",
+ "generated_at": "2026-11-02T08:40:43+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "08:34",
+ "clock": "08:40",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,18 +55,18 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "萬聖夜皇崗過關等45分鐘 當局一度籲用深圳灣 - 20261102 - 要聞",
-   "source": "明報新聞網",
-   "date": "11-01 20:30",
-   "iso": "2026-11-01T20:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQb3ZiRjkteHVPZkRPZDZ3c3Bka3pobVRHcmgwTm1iRUlHZGtGcnN3NWkxTVRDaEhhVDdFVVdKX1FmenlPaEt2RkF0U3BPNlpuVm5aQWlkRkNvMml4X2Z0M2syUnQtX2tmWUVLb1RoXy0talZIeVlvTkxTdnZYeVQyVnpVNGxrc1ZfQjRhSWVsbk1yME9LblB4dTd5Q3VDcGNQeG1aeDNqQTNpNzRuTmdSUVJCMFp3YWRhVWxRT1Y4ZkJkZ1A0T2hKRExlYXVlV01iQ0xQNXhLNXlQem9WLTBEVHVmN0hKMHVQb3FEZ1NDa2k3RDhpWHBjVnVjcnY3YWctcGkzU2d1YW5zMTM1MDBlQWFucVFjWnZzU01yOHdUTVc4elBlUUlrTnVFdXJhS1pPaWRqNXBtV1RnUXlqT2l1YkNCQTB5Sjhrc2JjaVlHQUcwUTB6VkxxZmJJYVdWV3FnamtLQ3N3aHBra3RqSlRKN0xQNkdZTXc?oc=5"
-  },
-  {
    "title": "社評：皇崗口岸過關暢順 事前部署考驗過關 - 20261102 - 社評",
    "source": "明報新聞網",
    "date": "11-01 20:30",
    "iso": "2026-11-01T20:30:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPZXdWWnE2VUhhd1RCY2swWmRvS1RiaUYzdnpFR1F5eFpNS2w1dGZDdmRmYXpULXh1dmt4RmNiOXoxVHNCaG1HZUNRSjJUSnZLNkhNVmtIVUY5TEdua011S1VSOUFsMTEyTnBMR01lYUdQR3ZESDFDRGdhYmhRWkhZQVF5UGJnbFNXcXp4QVF0RjNhclN1V0xTd2Z4UkU2aWNBNUhkS1FNX0xsVWp2akx0UU9TMXB5aHFITTVCaXgzeTRUWVVmaVlFRUJISGhabDcxcGhWNEVvcUVjV0l3ZG5RSWh5cTl5cXJ0SWtPNkVHSWl0RXNtV0t4bXh5U0lHV3V3TVNqSXBpVmFWcVJsQnloVE8xZllfZEphV19PM0pnNFFRZXlRODRrOHlNcHlNTzRFLV9NTk1lZXFmdXIzaHYxcUpfSzVpcWxjRVNwZnFNYzRFOTdmdHhCMnFnX08tamVYYzdSS2tMYzAydw?oc=5"
+  },
+  {
+   "title": "萬聖夜皇崗過關等45分鐘 當局一度籲用深圳灣 - 20261102 - 要聞",
+   "source": "明報新聞網",
+   "date": "11-01 20:30",
+   "iso": "2026-11-01T20:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQb3ZiRjkteHVPZkRPZDZ3c3Bka3pobVRHcmgwTm1iRUlHZGtGcnN3NWkxTVRDaEhhVDdFVVdKX1FmenlPaEt2RkF0U3BPNlpuVm5aQWlkRkNvMml4X2Z0M2syUnQtX2tmWUVLb1RoXy0talZIeVlvTkxTdnZYeVQyVnpVNGxrc1ZfQjRhSWVsbk1yME9LblB4dTd5Q3VDcGNQeG1aeDNqQTNpNzRuTmdSUVJCMFp3YWRhVWxRT1Y4ZkJkZ1A0T2hKRExlYXVlV01iQ0xQNXhLNXlQem9WLTBEVHVmN0hKMHVQb3FEZ1NDa2k3RDhpWHBjVnVjcnY3YWctcGkzU2d1YW5zMTM1MDBlQWFucVFjWnZzU01yOHdUTVc4elBlUUlrTnVFdXJhS1pPaWRqNXBtV1RnUXlqT2l1YkNCQTB5Sjhrc2JjaVlHQUcwUTB6VkxxZmJJYVdWV3FnamtLQ3N3aHBra3RqSlRKN0xQNkdZTXc?oc=5"
   },
   {
    "title": "中原：皇崗口岸周邊樓盤租售看漲 新關口便利往返 港人置業增28% 灣區金融發展 - 專題",
@@ -90,13 +90,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPY3Y1RlF4STNPN2V3dThiTTNvUEE4TXp6R1FLQk4xZ2t4cXhlQ3diM0RrMS1aQTk5am04VThEa3lpRy1TNGxUQTFfWUx6UFdWS1EweC1TOW1HbWtKVmhHdjc4WnVVemxuaElseGpfTE1aTFVVd3JwQ3dKMDVuX3Vlcm9kZEhjZG5ZclRveFdBUUZFMTVJNnlOMW94a0lOMHpzWVAtbmY0SG10MFF0ci04VXFabkhfQ202bG9leXNOT0FtaG9mRGhHZFNITHVFc3VhZVU5MlZQeDd5S0ZobGkzOV95eE56Sk5VNm5CVjVkWVZ2elJtdlhZaXZVbUdWRElGSnM5UmxUeXBvV0l6bW55Z2VMRXZXY1NzdmpHMFJuaDBCVzFjNWh6ZVVaamRYc2tSQ29KLUtlOU16UkpaNi1NYWlobmI2ODUtT2E0MmlJRk9GVXRaLUtlcDBlWW5yN2NmOC1jMGVqUk9qZ3BmcFhyOW9lSFpKNjV5SnBUNjg5S3NRWEdZTEljZkFWeU1IMklsQkFWSm0xblNNSEctSUdNSHVvRVV5aVc2?oc=5"
   },
   {
-   "title": "萬聖節凌晨北上人流增多 皇崗口岸一度排起出境人龍",
-   "source": "橙新聞",
-   "date": "11-01 01:33",
-   "iso": "2026-11-01T01:33:32+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQRGVLRVNZcV9BSXRFU1RVX1JHWDRrdnVKcU84aVlMMEMwS3Y5UW5udlltNDhyWDVRM05pODhPdlhzckFSdXVEV0dxYVBqakRMRzBOQTk5U21RWTJzczdJWXQzRHlmV3JPN3NrN3ZSY2NOcmZlM3FnVnlTWm44MXJFaXhnRFVWU0M0clV4SmUtd1VJQ3JNZWsyZlpxdTA2Qkg4OWdGb2QxWUJuY2wybHJQUm1hYUNtZmFzVXBJQmVQQUxPYkFWLVFDRGZUN0dnRGJDWDU0T25NYkxxUlBtZDgzRVVNWlhlRURNaENZYm5yLTkxTmxsRDJGNkVXMWxBbThLbGxra2RORlNuQzhXazM0dkRWSVBtWWtBZDF6TXFSLVFwM1BvODRPSFBlZW5USWNZdVZtaFZVN0FYZ1dBMmlxVHlpX1g0QmtDdEo5LXpqaWlYdWRqN3M3enc4MUJUMkhrX3ozanMtMTZVdEk4X2s5ek5zTQ?oc=5"
-  },
-  {
    "title": "深圳灣加時通關有效分流盛事周末新皇崗15分鐘過關- 灣區生活",
    "source": "香港文匯報",
    "date": "11-01 00:31",
@@ -108,7 +101,14 @@ window.HGP_DATA = {
    "source": "TVB",
    "date": "10-31 20:05",
    "iso": "2026-10-31T20:05:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNZW1OdzdfbWJtWDFwMlRaaEVvODhoQ25ZbV9lRWo1V3pKdjh0V2ZxYWgyQlkybUtMVHNwRmhUdVNmNEpTeHV4NGVTd1FGaHBma2FETlNta19fUk5mTzZyN2NlcVN3SndGd3BZV0ozSmp3OHFaeXVWcS12UHh1ZGhNYk02UGoyMDNBMEpZSDdfdXctODhKX3VQbEFpeFZJRG9STkluX3hVaThQS0VvQ0szR1k1WXpXSzNBdVNwSVl5WUlIRURwZzUyVk1weElOU1VSc3hNTVZSMGdidlFkc3czU1NwSDRVUTh3MUJ4OWloSW5MbnV6dGhZZndzUTNtVm4zcHcwVHpHM1ZZNV92T0VrTkpTWGZ6T2lfUmVTTUlqRXZ1aEdNdHdEdUFCTkhyZHB4aWdqRmg4YlZlVHhmcnU0QmpwMEZBb3VLdGNzYzU3NlN2aWxYN0ZpYzh1dFlvdnI1M2FMYzBTYjdESnNnaHNwWVRQMjNMdTB2Wlg1ZEZja2gwZ2tPQzJLZWFnOHFpMlEwVXVFMW93S3Q0RlRKYmlmRGpzWQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNMDNsZTgzSERKQ2FHWFN4UERNYk9Wc1dyQ3l0bjR0UmZPcGZLQ3ZScUNRZTJ2b2xCTzNUMV9ETElXaERFMVVSRklacnl6bllrQ0tRbmdfMWRNWEhyMWwxVHRPOHNQRXY5QmRpY09PZ3U1bThQTDVva2E2Nkh1UjFhaXVZTFRtVHRCVW15M2lqUlhLdFJxS194V0d1TXBjcHJyd2cxR1dDVVgyLWg4V3ZmcVpyZHgxa193RGkzWl9RODNlODNYdWRiWlRmaWtLZVFvMTN5TjM5YlFJQ2xVRW5Wel9PNm5USTRmeXhoMEFWcHItOW1JSE1VaE1pbnN6MkltS2JfT3R5T1BneDU5TnUwUDNqa1dDRzBpT2dVWFlsU0tUS2E2aDlXTUhUZEpkRnJqYmlRaVpQcTVId3I3V2xINnpXU0NJalVIVHZpQ3BqdlhsMjB1cW1ySEZSUGxPeUZXTENuMlRyVnNOMS1Bb1ZYVEtmN3dKa01DWEQxSXZvQnJLSVlDOVo5Y3E0X0FMOXVCRXhNanBHaU9mei1CdFgzajZoQQ?oc=5"
+  },
+  {
+   "title": "新皇崗口岸凌晨出境 過關輪候時間需45分鐘",
+   "source": "on.cc東網",
+   "date": "10-31 18:33",
+   "iso": "2026-10-31T18:33:50+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGNoWnRUSGNqNHBUNkhMeVcyRVM5SE1fMDJUWkYyMDFLd0xwZ2JlaEF4endha2hXdllfTHlTZFF3MFo2eFdETy1hbk5Qc25CdFFkV3RfRUI4RUNrZFBmWFE1NjhVMEwzc1c5bmJMOTRUUW1Gek9XMmhNcG04NTc2YmRNc21NTEV5dmhn?oc=5"
   }
  ],
  "ok": true,
@@ -140,5 +140,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 208
+ "history_points": 209
 };
