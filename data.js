@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-02T18:47:06+08:00",
+ "generated_at": "2026-11-02T18:53:13+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "18:47",
+ "clock": "18:53",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -69,6 +69,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zTE4wdGdLRFhPREhkbFA5WFpHa3BjNWtsUkEweEk3MFotS3JUYXFqV3VOS2xQMmlsbUJHbDVIZWlyNllwN0lLb0U4cjJfbE9kbUhaR0tkQkpFSkpETC04b1VB?oc=5"
   },
   {
+   "title": "時事全方位｜萬聖節周末口岸情況(一)",
+   "source": "Now 新聞",
+   "date": "11-02 05:41",
+   "iso": "2026-11-02T05:41:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sRFdaLXhwYU5QODQ3Um9BejRzNTFXdUxEODJqcFE4UUJBQ3gwUV9FTWI4YUl1QTVrX2xhcEdxZ0d4eTlfNUdkT2ZEeEdLQ19SRFR6SkMzakZtRTRIZHRqY3V3?oc=5"
+  },
+  {
    "title": "皇崗口岸「合作查驗、一次放行」懶人包！一文睇清「香港e-道」預先登記步驟/資格條件/通關流程",
    "source": "utravel.com.hk",
    "date": "11-02 05:17",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-01 20:30",
    "iso": "2026-11-01T20:30:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQb3ZiRjkteHVPZkRPZDZ3c3Bka3pobVRHcmgwTm1iRUlHZGtGcnN3NWkxTVRDaEhhVDdFVVdKX1FmenlPaEt2RkF0U3BPNlpuVm5aQWlkRkNvMml4X2Z0M2syUnQtX2tmWUVLb1RoXy0talZIeVlvTkxTdnZYeVQyVnpVNGxrc1ZfQjRhSWVsbk1yME9LblB4dTd5Q3VDcGNQeG1aeDNqQTNpNzRuTmdSUVJCMFp3YWRhVWxRT1Y4ZkJkZ1A0T2hKRExlYXVlV01iQ0xQNXhLNXlQem9WLTBEVHVmN0hKMHVQb3FEZ1NDa2k3RDhpWHBjVnVjcnY3YWctcGkzU2d1YW5zMTM1MDBlQWFucVFjWnZzU01yOHdUTVc4elBlUUlrTnVFdXJhS1pPaWRqNXBtV1RnUXlqT2l1YkNCQTB5Sjhrc2JjaVlHQUcwUTB6VkxxZmJJYVdWV3FnamtLQ3N3aHBra3RqSlRKN0xQNkdZTXc?oc=5"
-  },
-  {
-   "title": "中原：皇崗口岸周邊樓盤租售看漲 新關口便利往返 港人置業增28% 灣區金融發展 - 專題",
-   "source": "信報網站",
-   "date": "11-01 18:58",
-   "iso": "2026-11-01T18:58:35+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQOEVacER2RE9Xd0dSRERMY2I5TWxyUmhJT281bXN2LWJpVmV4MUVDaFNPWnVaRGNhOEVqZjljbUllSGxkcDBjenVXb215SzRXS0YwOGptbnlpUlFXUi1DNUs0QmxOaFAzUF9WbEVfUWRUN25fNXkycFllakhMTmxYbXVsaE5rMmpDZnN4R21lbXhqbVZSNTZEbi1LQnVjNEhORUFZRUtUNHhRMUdrQktVZmRwMkpZNWgxRFVxVi0xeTlRcHFGZHlFbVY3Q3BfWGlPbDBaeU5fY3prSjFxSnBNblFlZEY3dzJjRnVHN1k5OVRlVmNXQ3RoR282RzRJd3FnbmUxUkI1N3llUjltNXpvSzFYa1dRZFZtTE5FUnpNX3lSOUFIekZUYjV3SXBmM2VUVzBRSjlWV29JdkpseWF0Vksxb1Y5WHNzQjVCMTFhR2FQbnp3bjRTNWdHZw?oc=5"
   }
  ],
  "ok": true,
@@ -140,5 +140,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 293
+ "history_points": 294
 };
