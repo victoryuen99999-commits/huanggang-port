@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-02T14:46:23+08:00",
+ "generated_at": "2026-11-02T15:20:29+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "14:46",
+ "clock": "15:20",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -42,9 +42,9 @@
   }
  },
  "weather": {
-  "temp": 32,
-  "humidity": 47,
-  "wind": 3.1,
+  "temp": 31,
+  "humidity": 50,
+  "wind": 3.3,
   "code": 51,
   "desc": "毛毛雨",
   "tmax": 32,
@@ -89,7 +89,7 @@
    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOdTI4OHUwUTBkblJhR1RSREwwdmwtUlp2TFc3NG4tWnlHZlczSnlSaVZOV1pCVWdlLUxjVGZ4N0ZpcktzQlhpNmhFTXRJaDloTzJXZU9TLV9VM2dNcHV3aDdxbkFwLTc4OGN3Ymh4ZDhEdzFvRFBpSW8tY3YyTU4wbmY4NjNWNTUyZWhqNVRkQTVaakJlSGdQREk1T3NFZ09oSTVaZlVQTFRFV01CdUtKb3NWS2dDdFY4M2g2RjdKbTA4M29Wa090b0oxQXA2U3NsX2RDcHZRWnczRHNPTEFhSm0tRnJnVnp0dDlRVjZHUU9CMnA1UkM4SkxNckJRTDRrSE1kYXZSempTSzJ0cXpZMlJmR1d5OWthSTVDOU9UNDZWa2ltdHZfYXBMSkQ0b2tIMHNGSUNfTnB2VnpsbTJzWUtuNHF6VmhkV3R2RXNuREdlbU1lYUI3XzNqMXRnZllLekVvdjNTQTJLcVd4OWxB?oc=5"
   },
   {
-   "title": "雙雙破紀錄！深圳邊檢單日查驗114.5萬人次皇崗口岸單日16.1萬人次出入境- 港聞",
+   "title": "雙雙創新高！深圳邊檢單日查驗114.5萬人次皇崗口岸單日16.1萬人次出入境- 港聞",
    "source": "dotdotnews",
    "date": "11-02 01:12",
    "iso": "2026-11-02T01:12:01+00:00",
@@ -134,5 +134,5 @@
    "level": "info"
   }
  ],
- "history_points": 264
+ "history_points": 265
 }
