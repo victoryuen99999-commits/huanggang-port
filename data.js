@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-02T11:10:26+08:00",
+ "generated_at": "2026-11-02T11:16:35+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "11:10",
+ "clock": "11:16",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 30,
-  "humidity": 54,
-  "wind": 7.8,
+  "temp": 31,
+  "humidity": 52,
+  "wind": 7.9,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 32,
@@ -54,6 +54,13 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "新皇崗口岸：提升效率，應急變常態",
+   "source": "am730",
+   "date": "11-02 03:11",
+   "iso": "2026-11-02T03:11:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxON1lOLW5SWUtOeXdwN25rb05IZlg2V0Z0OEQzLWI1LV9WQUtENDZxVTZhZXdiTVp3Z3dRSVdJOFFPWGJ2UGhBekxwcHEwdW1KUHU0NGdUc0JmMVNYSUNTbmhxM0hHazhFbV9MNFprandlTEFpWVpCaWI1bVJoSmhfTmFkVWhxcVFjOXVPcnRMeldIR0xRTVZqVTdxb0g1QlhIVmx1NlNjeGU3cnNGYjVWZGo4eTNWOWFvbUR0eU1qVjlwVFdXWEU4Vm5LNnoxcGJmbV81aGFDa3dSMDh1SVh6dWxpREZleS02dHliNVJWUnlNNklMNUlOMm9tYjZLX0dpQXVEQmlfVXRzVUxsanQwQW1yc3UtQQ?oc=5"
+  },
   {
    "title": "民安隊萬聖節周末進駐新皇崗口岸 全力疏導人流保通關暢順",
    "source": "巴士的報",
@@ -81,13 +88,6 @@ window.HGP_DATA = {
    "date": "11-01 20:30",
    "iso": "2026-11-01T20:30:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQb3ZiRjkteHVPZkRPZDZ3c3Bka3pobVRHcmgwTm1iRUlHZGtGcnN3NWkxTVRDaEhhVDdFVVdKX1FmenlPaEt2RkF0U3BPNlpuVm5aQWlkRkNvMml4X2Z0M2syUnQtX2tmWUVLb1RoXy0talZIeVlvTkxTdnZYeVQyVnpVNGxrc1ZfQjRhSWVsbk1yME9LblB4dTd5Q3VDcGNQeG1aeDNqQTNpNzRuTmdSUVJCMFp3YWRhVWxRT1Y4ZkJkZ1A0T2hKRExlYXVlV01iQ0xQNXhLNXlQem9WLTBEVHVmN0hKMHVQb3FEZ1NDa2k3RDhpWHBjVnVjcnY3YWctcGkzU2d1YW5zMTM1MDBlQWFucVFjWnZzU01yOHdUTVc4elBlUUlrTnVFdXJhS1pPaWRqNXBtV1RnUXlqT2l1YkNCQTB5Sjhrc2JjaVlHQUcwUTB6VkxxZmJJYVdWV3FnamtLQ3N3aHBra3RqSlRKN0xQNkdZTXc?oc=5"
-  },
-  {
-   "title": "萬聖節深宵再現候車離境人龍",
-   "source": "星島頭條",
-   "date": "11-01 19:00",
-   "iso": "2026-11-01T19:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcXF4cWZYSGpKLUVxSWlybjJfSWozZk04RnpiWm5PQ2p2dDNyNU1Yd3FtUGREV0dCUjFneVRFSXg0YU9nMlJSaWdrM2RMZ2JQRUROQ1pXZk1haFp3RmhlcUhMLXR2UWtOcTJDVFUtSmU1dGc1b1JnbThjUWtObFdpbk1PQlN5UmwzOXNDbzFPRV9hVmdaNWpid3dFdERLQ0hKYmMxMnFJbmdBTmhaem9kRlRhdk94amVZOGJFcGJxaVlrQlE1SHhMT1RZMkVLM25mTzdESjM1Z3RpdEtlZ0RkaVZ1MW5FamIxRDVFU09xa3FFTkUzVmFzaE1XZw?oc=5"
   },
   {
    "title": "中原：皇崗口岸周邊樓盤租售看漲 新關口便利往返 港人置業增28% 灣區金融發展 - 專題",
@@ -135,5 +135,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 232
+ "history_points": 233
 };
