@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-02T09:23:48+08:00",
+ "generated_at": "2026-11-02T09:29:55+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "09:23",
+ "clock": "09:29",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -69,6 +69,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IU3lOZHg3Y3NyQ3RpcG1DNml2eXR1REhMQ0MwaFJtZU5oa3BqeUljMFd5MExma0NvRHdYWkQ2eGhGZGpNeThzVWZtZ29jZVpUSUJyR2hfZzNYYnc0MzN1YUwycU5WbTNLcHRsNWlLMW5fcFJXbzZzMGZR?oc=5"
   },
   {
+   "title": "社評：皇崗口岸過關暢順 事前部署考驗過關 - 20261102 - 社評",
+   "source": "明報新聞網",
+   "date": "11-01 20:30",
+   "iso": "2026-11-01T20:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPZXdWWnE2VUhhd1RCY2swWmRvS1RiaUYzdnpFR1F5eFpNS2w1dGZDdmRmYXpULXh1dmt4RmNiOXoxVHNCaG1HZUNRSjJUSnZLNkhNVmtIVUY5TEdua011S1VSOUFsMTEyTnBMR01lYUdQR3ZESDFDRGdhYmhRWkhZQVF5UGJnbFNXcXp4QVF0RjNhclN1V0xTd2Z4UkU2aWNBNUhkS1FNX0xsVWp2akx0UU9TMXB5aHFITTVCaXgzeTRUWVVmaVlFRUJISGhabDcxcGhWNEVvcUVjV0l3ZG5RSWh5cTl5cXJ0SWtPNkVHSWl0RXNtV0t4bXh5U0lHV3V3TVNqSXBpVmFWcVJsQnloVE8xZllfZEphV19PM0pnNFFRZXlRODRrOHlNcHlNTzRFLV9NTk1lZXFmdXIzaHYxcUpfSzVpcWxjRVNwZnFNYzRFOTdmdHhCMnFnX08tamVYYzdSS2tMYzAydw?oc=5"
+  },
+  {
    "title": "萬聖夜皇崗過關等45分鐘 當局一度籲用深圳灣 - 20261102 - 要聞",
    "source": "明報新聞網",
    "date": "11-01 20:30",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-01 00:31",
    "iso": "2026-11-01T00:31:11+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FXzZWX3NVdHc5Q0d1TUhPR1g0MC0zT1R6ZWtCcmpTS2lrVWVBQmZhal94b0IwelN0SXF5T1V3OC1PU1VzbUw4NDk1S0hJQWRzTndfakRqaUw4SHNxa0hOdFZvSFd5NjlCc3Y3MUN0UnVpaGpxX1BF?oc=5"
-  },
-  {
-   "title": "新皇崗口岸凌晨出境 過關輪候時間需45分鐘",
-   "source": "on.cc東網",
-   "date": "10-31 18:33",
-   "iso": "2026-10-31T18:33:50+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGNoWnRUSGNqNHBUNkhMeVcyRVM5SE1fMDJUWkYyMDFLd0xwZ2JlaEF4endha2hXdllfTHlTZFF3MFo2eFdETy1hbk5Qc25CdFFkV3RfRUI4RUNrZFBmWFE1NjhVMEwzc1c5bmJMOTRUUW1Gek9XMmhNcG04NTc2YmRNc21NTEV5dmhn?oc=5"
   }
  ],
  "ok": true,
@@ -135,5 +135,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 216
+ "history_points": 217
 };
