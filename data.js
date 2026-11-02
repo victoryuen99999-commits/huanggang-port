@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-03T04:47:26+08:00",
+ "generated_at": "2026-11-03T04:53:33+08:00",
  "date": "2026-11-03",
  "weekday": "星期二",
- "clock": "04:47",
+ "clock": "04:53",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,22 +44,22 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 88,
-  "wind": 9.7,
+  "humidity": 93,
+  "wind": 10.3,
   "code": 2,
   "desc": "局部多雲",
-  "tmax": 29,
+  "tmax": 28,
   "tmin": 23,
   "pop": 52
  },
  "warnings": [],
  "news": [
   {
-   "title": "皇崗周末日均15萬人次出入境創新高 陳國基稱旺丁旺財",
-   "source": "Yahoo",
-   "date": "11-02 12:19",
-   "iso": "2026-11-02T12:19:27+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQNnpIUmxueDUxc3NzdjZMaHhRRzJySEhyNUdrbnpwcmtWdWpOWVMxMlRXMFduUG9tUG4zUmpoajZ1TlRWTEp6MHdyN1dHcnY2V0xrMXlscXVfUjV0VENjUFhfNV9teXo2b3owcEF2YUU3Ty13V0tKdXR3dmRkMm54UDg1bjNFRUVWV1gyN3dZODlWN2JwYnN2ZGJvSjdZQUJJZ01FUW1MSURQVkpfSi1GREVoU2ZPQThRa3FZT1hSM001cXg3SWgyYXNYZUVyT0JDS0xIeTVjUFdRSTZ4azVsSXVUNlZ2LU0xZUg2akxBa3FPT0dUdjhkSnZ2V1NHb3dseXhFQjdSR2R6d0ZiblZocFRMdW05Mk9ZeE5uZmVKeWkzQXZXbU9HU0M0RDZjLUVIWjhxZng3MGdtT2tXbU5WbnZVWUNNV1dGaWlhRTJPcTNuT3RNRW14ZkR6WS1MdThiNTdzd0JEVnJvSjA?oc=5"
+   "title": "過去三日訪港旅客約60萬人次按年升34% 陳國基：丁財兩旺",
+   "source": "香港電台新聞網",
+   "date": "11-02 10:02",
+   "iso": "2026-11-02T10:02:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wRHUtaks4eEJBdkN2MHpzRG94NWFqRmZzb3YxMFpKTjBRVmZYQ3FyRFpJZVFXSEJrS1NCbElMR3NuTzZjMnF5SHBCc2ZsNDdTUHF1bVcyT1FmeVd5M3dkcmxpSzluTG5LQ2FfMXpYaw?oc=5"
   },
   {
    "title": "旅客讚皇崗口岸過關暢順 深圳灣口岸延長通關助疏導",
@@ -83,13 +83,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxOeFhSQUVvZEtLQy1wMVJLTEFnVHp1em41Wmg1QWVXM2JwclA3X3JjVUpNbzYydFlBUFRWajB6aGpPS0UyUThmT1VxM05vSF9iQzZ5MkdTb3Z5ekVVbS00b3VLdVB3MGRfTERaaXFPQmlvNXlWczVPOUFxckdxb3MxWWhaUW5reDdfYWZEejFmXzc4NURreFZQYlIzUUZXZnllTHV1YVpKWkZndWRyMW4xT1VKdXJ5RTRBcEJvVDFUTkkwTUFjTDdzNGw3OHVFZjNnalV6X0NlQVc0NDhpZXZCNHMtV2NQR2oxSm5CNGZ0UmVZbnYtTzZkUjV4dmpqQVpocl9KU2twNHlQM0hxRVc4UmdKZXo1Q0U2Y3V4bm95OXpkTmRXZ3VqRlJMQXpfWW5LT2YxV0JXX09Fb1pzZWpmMVlPR0xBVllLTGNfQ3ZKaWlWb01MRGZBZG5CV3FvVHlpSzFSamxRblUzNXUwRlZIeE44SWxIRGptamtHR2RwNUl5ZlNwRWhLNVpXbkFFaEpzaVZEX05iSVcyXzlCYnEwSWp4bmJSZzRsMUhkc2lWV3pFYlc2MG5PSVF4TmlOSmdRVlRHOFhwdXlFVHZoalFaM0ZhT1JFaTRzaVhCTEFubDRidl9PaFpYZVU2aHp4TWw0c0dINTdSeUpoQm9lWUQtNE56VFdPcWd6X1QtMmpQZEhIVlFG?oc=5"
   },
   {
-   "title": "新皇崗口岸：提升效率，應急變常態",
-   "source": "am730",
-   "date": "11-02 03:11",
-   "iso": "2026-11-02T03:11:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxON1lOLW5SWUtOeXdwN25rb05IZlg2V0Z0OEQzLWI1LV9WQUtENDZxVTZhZXdiTVp3Z3dRSVdJOFFPWGJ2UGhBekxwcHEwdW1KUHU0NGdUc0JmMVNYSUNTbmhxM0hHazhFbV9MNFprandlTEFpWVpCaWI1bVJoSmhfTmFkVWhxcVFjOXVPcnRMeldIR0xRTVZqVTdxb0g1QlhIVmx1NlNjeGU3cnNGYjVWZGo4eTNWOWFvbUR0eU1qVjlwVFdXWEU4Vm5LNnoxcGJmbV81aGFDa3dSMDh1SVh6dWxpREZleS02dHliNVJWUnlNNklMNUlOMm9tYjZLX0dpQXVEQmlfVXRzVUxsanQwQW1yc3UtQQ?oc=5"
-  },
-  {
    "title": "雙雙創新高！深圳邊檢單日查驗114.5萬人次皇崗口岸單日16.1萬人次出入境- 港聞",
    "source": "dotdotnews",
    "date": "11-02 01:12",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "11-01 18:58",
    "iso": "2026-11-01T18:58:35+00:00",
    "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQOEVacER2RE9Xd0dSRERMY2I5TWxyUmhJT281bXN2LWJpVmV4MUVDaFNPWnVaRGNhOEVqZjljbUllSGxkcDBjenVXb215SzRXS0YwOGptbnlpUlFXUi1DNUs0QmxOaFAzUF9WbEVfUWRUN25fNXkycFllakhMTmxYbXVsaE5rMmpDZnN4R21lbXhqbVZSNTZEbi1LQnVjNEhORUFZRUtUNHhRMUdrQktVZmRwMkpZNWgxRFVxVi0xeTlRcHFGZHlFbVY3Q3BfWGlPbDBaeU5fY3prSjFxSnBNblFlZEY3dzJjRnVHN1k5OVRlVmNXQ3RoR282RzRJd3FnbmUxUkI1N3llUjltNXpvSzFYa1dRZFZtTE5FUnpNX3lSOUFIekZUYjV3SXBmM2VUVzBRSjlWV29JdkpseWF0Vksxb1Y5WHNzQjVCMTFhR2FQbnp3bjRTNWdHZw?oc=5"
+  },
+  {
+   "title": "新皇崗口岸｜城巴往返啟德B14專線試行延長兩周 料改恆常路線",
+   "source": "香港01",
+   "date": "11-01 09:16",
+   "iso": "2026-11-01T09:16:04+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPY3Y1RlF4STNPN2V3dThiTTNvUEE4TXp6R1FLQk4xZ2t4cXhlQ3diM0RrMS1aQTk5am04VThEa3lpRy1TNGxUQTFfWUx6UFdWS1EweC1TOW1HbWtKVmhHdjc4WnVVemxuaElseGpfTE1aTFVVd3JwQ3dKMDVuX3Vlcm9kZEhjZG5ZclRveFdBUUZFMTVJNnlOMW94a0lOMHpzWVAtbmY0SG10MFF0ci04VXFabkhfQ202bG9leXNOT0FtaG9mRGhHZFNITHVFc3VhZVU5MlZQeDd5S0ZobGkzOV95eE56Sk5VNm5CVjVkWVZ2elJtdlhZaXZVbUdWRElGSnM5UmxUeXBvV0l6bW55Z2VMRXZXY1NzdmpHMFJuaDBCVzFjNWh6ZVVaamRYc2tSQ29KLUtlOU16UkpaNi1NYWlobmI2ODUtT2E0MmlJRk9GVXRaLUtlcDBlWW5yN2NmOC1jMGVqUk9qZ3BmcFhyOW9lSFpKNjV5SnBUNjg5S3NRWEdZTEljZkFWeU1IMklsQkFWSm0xblNNSEctSUdNSHVvRVV5aVc2?oc=5"
   }
  ],
  "ok": true,
@@ -135,5 +135,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 382
+ "history_points": 383
 };
