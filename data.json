@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-02T23:26:11+08:00",
+ "generated_at": "2026-11-02T23:32:18+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "23:26",
+ "clock": "23:32",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -42,11 +42,11 @@
   }
  },
  "weather": {
-  "temp": 25,
-  "humidity": 88,
+  "temp": 24,
+  "humidity": 89,
   "wind": 7.0,
-  "code": 0,
-  "desc": "天晴",
+  "code": 1,
+  "desc": "大致晴朗",
   "tmax": 33,
   "tmin": 23,
   "pop": 75
@@ -103,11 +103,11 @@
    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxON1lOLW5SWUtOeXdwN25rb05IZlg2V0Z0OEQzLWI1LV9WQUtENDZxVTZhZXdiTVp3Z3dRSVdJOFFPWGJ2UGhBekxwcHEwdW1KUHU0NGdUc0JmMVNYSUNTbmhxM0hHazhFbV9MNFprandlTEFpWVpCaWI1bVJoSmhfTmFkVWhxcVFjOXVPcnRMeldIR0xRTVZqVTdxb0g1QlhIVmx1NlNjeGU3cnNGYjVWZGo4eTNWOWFvbUR0eU1qVjlwVFdXWEU4Vm5LNnoxcGJmbV81aGFDa3dSMDh1SVh6dWxpREZleS02dHliNVJWUnlNNklMNUlOMm9tYjZLX0dpQXVEQmlfVXRzVUxsanQwQW1yc3UtQQ?oc=5"
   },
   {
-   "title": "民安隊萬聖節周末進駐新皇崗口岸 全力疏導人流保通關暢順",
-   "source": "巴士的報",
-   "date": "11-02 01:19",
-   "iso": "2026-11-02T01:19:21+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOdTI4OHUwUTBkblJhR1RSREwwdmwtUlp2TFc3NG4tWnlHZlczSnlSaVZOV1pCVWdlLUxjVGZ4N0ZpcktzQlhpNmhFTXRJaDloTzJXZU9TLV9VM2dNcHV3aDdxbkFwLTc4OGN3Ymh4ZDhEdzFvRFBpSW8tY3YyTU4wbmY4NjNWNTUyZWhqNVRkQTVaakJlSGdQREk1T3NFZ09oSTVaZlVQTFRFV01CdUtKb3NWS2dDdFY4M2g2RjdKbTA4M29Wa090b0oxQXA2U3NsX2RDcHZRWnczRHNPTEFhSm0tRnJnVnp0dDlRVjZHUU9CMnA1UkM4SkxNckJRTDRrSE1kYXZSempTSzJ0cXpZMlJmR1d5OWthSTVDOU9UNDZWa2ltdHZfYXBMSkQ0b2tIMHNGSUNfTnB2VnpsbTJzWUtuNHF6VmhkV3R2RXNuREdlbU1lYUI3XzNqMXRnZllLekVvdjNTQTJLcVd4OWxB?oc=5"
+   "title": "雙雙創新高！深圳邊檢單日查驗114.5萬人次皇崗口岸單日16.1萬人次出入境- 港聞",
+   "source": "dotdotnews",
+   "date": "11-02 01:12",
+   "iso": "2026-11-02T01:12:01+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IU3lOZHg3Y3NyQ3RpcG1DNml2eXR1REhMQ0MwaFJtZU5oa3BqeUljMFd5MExma0NvRHdYWkQ2eGhGZGpNeThzVWZtZ29jZVpUSUJyR2hfZzNYYnc0MzN1YUwycU5WbTNLcHRsNWlLMW5fcFJXbzZzMGZR?oc=5"
   }
  ],
  "ok": true,
@@ -144,5 +144,5 @@
    "level": "info"
   }
  ],
- "history_points": 333
+ "history_points": 334
 }
