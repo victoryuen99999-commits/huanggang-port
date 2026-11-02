@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-02T19:17:45+08:00",
+ "generated_at": "2026-11-02T19:23:51+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "19:17",
+ "clock": "19:23",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -77,7 +77,7 @@ window.HGP_DATA = {
   },
   {
    "title": "皇崗口岸「合作查驗、一次放行」懶人包！一文睇清「香港e-道」預先登記步驟/資格條件/通關流程",
-   "source": "utravel.com.hk",
+   "source": "U Travel",
    "date": "11-02 05:17",
    "iso": "2026-11-02T05:17:18+00:00",
    "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxOeFhSQUVvZEtLQy1wMVJLTEFnVHp1em41Wmg1QWVXM2JwclA3X3JjVUpNbzYydFlBUFRWajB6aGpPS0UyUThmT1VxM05vSF9iQzZ5MkdTb3Z5ekVVbS00b3VLdVB3MGRfTERaaXFPQmlvNXlWczVPOUFxckdxb3MxWWhaUW5reDdfYWZEejFmXzc4NURreFZQYlIzUUZXZnllTHV1YVpKWkZndWRyMW4xT1VKdXJ5RTRBcEJvVDFUTkkwTUFjTDdzNGw3OHVFZjNnalV6X0NlQVc0NDhpZXZCNHMtV2NQR2oxSm5CNGZ0UmVZbnYtTzZkUjV4dmpqQVpocl9KU2twNHlQM0hxRVc4UmdKZXo1Q0U2Y3V4bm95OXpkTmRXZ3VqRlJMQXpfWW5LT2YxV0JXX09Fb1pzZWpmMVlPR0xBVllLTGNfQ3ZKaWlWb01MRGZBZG5CV3FvVHlpSzFSamxRblUzNXUwRlZIeE44SWxIRGptamtHR2RwNUl5ZlNwRWhLNVpXbkFFaEpzaVZEX05iSVcyXzlCYnEwSWp4bmJSZzRsMUhkc2lWV3pFYlc2MG5PSVF4TmlOSmdRVlRHOFhwdXlFVHZoalFaM0ZhT1JFaTRzaVhCTEFubDRidl9PaFpYZVU2aHp4TWw0c0dINTdSeUpoQm9lWUQtNE56VFdPcWd6X1QtMmpQZEhIVlFG?oc=5"
@@ -140,5 +140,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 298
+ "history_points": 299
 };
