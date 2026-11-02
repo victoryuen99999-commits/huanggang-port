@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T07:32:17+08:00",
+ "generated_at": "2026-11-03T07:38:24+08:00",
  "date": "2026-11-03",
  "weekday": "星期二",
- "clock": "07:32",
+ "clock": "07:38",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -61,11 +61,11 @@
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGeGtNdDQxMVVjSmtCUm5ERFpXcTdOTUs0cFVQVmtCamRZX1Myejl4bVphTEtKNnBtbmFPMXRVU1pvZFRYOG5oZ1pFcGZkald3VHZIQWxndnk4OXhQc24zXzBTZUZ6QQ?oc=5"
   },
   {
-   "title": "時事全方位｜萬聖節周末口岸情況(二)",
+   "title": "時事全方位｜萬聖節周末口岸情況(一)",
    "source": "Now 新聞",
-   "date": "11-02 05:42",
-   "iso": "2026-11-02T05:42:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zTE4wdGdLRFhPREhkbFA5WFpHa3BjNWtsUkEweEk3MFotS3JUYXFqV3VOS2xQMmlsbUJHbDVIZWlyNllwN0lLb0U4cjJfbE9kbUhaR0tkQkpFSkpETC04b1VB?oc=5"
+   "date": "11-02 05:41",
+   "iso": "2026-11-02T05:41:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sRFdaLXhwYU5QODQ3Um9BejRzNTFXdUxEODJqcFE4UUJBQ3gwUV9FTWI4YUl1QTVrX2xhcEdxZ0d4eTlfNUdkT2ZEeEdLQ19SRFR6SkMzakZtRTRIZHRqY3V3?oc=5"
   },
   {
    "title": "皇崗口岸「合作查驗、一次放行」懶人包！一文睇清「香港e-道」預先登記步驟/資格條件/通關流程",
@@ -139,5 +139,5 @@
    "level": "info"
   }
  ],
- "history_points": 409
+ "history_points": 410
 }
