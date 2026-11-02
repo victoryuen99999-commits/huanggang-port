@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-02T08:40:43+08:00",
+ "generated_at": "2026-11-02T08:46:50+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "08:40",
+ "clock": "08:46",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 26,
-  "humidity": 77,
-  "wind": 6.3,
+  "temp": 27,
+  "humidity": 74,
+  "wind": 6.4,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 32,
@@ -55,18 +55,18 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "社評：皇崗口岸過關暢順 事前部署考驗過關 - 20261102 - 社評",
-   "source": "明報新聞網",
-   "date": "11-01 20:30",
-   "iso": "2026-11-01T20:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPZXdWWnE2VUhhd1RCY2swWmRvS1RiaUYzdnpFR1F5eFpNS2w1dGZDdmRmYXpULXh1dmt4RmNiOXoxVHNCaG1HZUNRSjJUSnZLNkhNVmtIVUY5TEdua011S1VSOUFsMTEyTnBMR01lYUdQR3ZESDFDRGdhYmhRWkhZQVF5UGJnbFNXcXp4QVF0RjNhclN1V0xTd2Z4UkU2aWNBNUhkS1FNX0xsVWp2akx0UU9TMXB5aHFITTVCaXgzeTRUWVVmaVlFRUJISGhabDcxcGhWNEVvcUVjV0l3ZG5RSWh5cTl5cXJ0SWtPNkVHSWl0RXNtV0t4bXh5U0lHV3V3TVNqSXBpVmFWcVJsQnloVE8xZllfZEphV19PM0pnNFFRZXlRODRrOHlNcHlNTzRFLV9NTk1lZXFmdXIzaHYxcUpfSzVpcWxjRVNwZnFNYzRFOTdmdHhCMnFnX08tamVYYzdSS2tMYzAydw?oc=5"
-  },
-  {
    "title": "萬聖夜皇崗過關等45分鐘 當局一度籲用深圳灣 - 20261102 - 要聞",
    "source": "明報新聞網",
    "date": "11-01 20:30",
    "iso": "2026-11-01T20:30:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQb3ZiRjkteHVPZkRPZDZ3c3Bka3pobVRHcmgwTm1iRUlHZGtGcnN3NWkxTVRDaEhhVDdFVVdKX1FmenlPaEt2RkF0U3BPNlpuVm5aQWlkRkNvMml4X2Z0M2syUnQtX2tmWUVLb1RoXy0talZIeVlvTkxTdnZYeVQyVnpVNGxrc1ZfQjRhSWVsbk1yME9LblB4dTd5Q3VDcGNQeG1aeDNqQTNpNzRuTmdSUVJCMFp3YWRhVWxRT1Y4ZkJkZ1A0T2hKRExlYXVlV01iQ0xQNXhLNXlQem9WLTBEVHVmN0hKMHVQb3FEZ1NDa2k3RDhpWHBjVnVjcnY3YWctcGkzU2d1YW5zMTM1MDBlQWFucVFjWnZzU01yOHdUTVc4elBlUUlrTnVFdXJhS1pPaWRqNXBtV1RnUXlqT2l1YkNCQTB5Sjhrc2JjaVlHQUcwUTB6VkxxZmJJYVdWV3FnamtLQ3N3aHBra3RqSlRKN0xQNkdZTXc?oc=5"
+  },
+  {
+   "title": "社評：皇崗口岸過關暢順 事前部署考驗過關 - 20261102 - 社評",
+   "source": "明報新聞網",
+   "date": "11-01 20:30",
+   "iso": "2026-11-01T20:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPZXdWWnE2VUhhd1RCY2swWmRvS1RiaUYzdnpFR1F5eFpNS2w1dGZDdmRmYXpULXh1dmt4RmNiOXoxVHNCaG1HZUNRSjJUSnZLNkhNVmtIVUY5TEdua011S1VSOUFsMTEyTnBMR01lYUdQR3ZESDFDRGdhYmhRWkhZQVF5UGJnbFNXcXp4QVF0RjNhclN1V0xTd2Z4UkU2aWNBNUhkS1FNX0xsVWp2akx0UU9TMXB5aHFITTVCaXgzeTRUWVVmaVlFRUJISGhabDcxcGhWNEVvcUVjV0l3ZG5RSWh5cTl5cXJ0SWtPNkVHSWl0RXNtV0t4bXh5U0lHV3V3TVNqSXBpVmFWcVJsQnloVE8xZllfZEphV19PM0pnNFFRZXlRODRrOHlNcHlNTzRFLV9NTk1lZXFmdXIzaHYxcUpfSzVpcWxjRVNwZnFNYzRFOTdmdHhCMnFnX08tamVYYzdSS2tMYzAydw?oc=5"
   },
   {
    "title": "中原：皇崗口岸周邊樓盤租售看漲 新關口便利往返 港人置業增28% 灣區金融發展 - 專題",
@@ -97,22 +97,28 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FXzZWX3NVdHc5Q0d1TUhPR1g0MC0zT1R6ZWtCcmpTS2lrVWVBQmZhal94b0IwelN0SXF5T1V3OC1PU1VzbUw4NDk1S0hJQWRzTndfakRqaUw4SHNxa0hOdFZvSFd5NjlCc3Y3MUN0UnVpaGpxX1BF?oc=5"
   },
   {
-   "title": "萬聖節｜多區通往皇崗口岸車站一度大排長龍 有旅客冀增加車輛安排",
-   "source": "TVB",
-   "date": "10-31 20:05",
-   "iso": "2026-10-31T20:05:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNMDNsZTgzSERKQ2FHWFN4UERNYk9Wc1dyQ3l0bjR0UmZPcGZLQ3ZScUNRZTJ2b2xCTzNUMV9ETElXaERFMVVSRklacnl6bllrQ0tRbmdfMWRNWEhyMWwxVHRPOHNQRXY5QmRpY09PZ3U1bThQTDVva2E2Nkh1UjFhaXVZTFRtVHRCVW15M2lqUlhLdFJxS194V0d1TXBjcHJyd2cxR1dDVVgyLWg4V3ZmcVpyZHgxa193RGkzWl9RODNlODNYdWRiWlRmaWtLZVFvMTN5TjM5YlFJQ2xVRW5Wel9PNm5USTRmeXhoMEFWcHItOW1JSE1VaE1pbnN6MkltS2JfT3R5T1BneDU5TnUwUDNqa1dDRzBpT2dVWFlsU0tUS2E2aDlXTUhUZEpkRnJqYmlRaVpQcTVId3I3V2xINnpXU0NJalVIVHZpQ3BqdlhsMjB1cW1ySEZSUGxPeUZXTENuMlRyVnNOMS1Bb1ZYVEtmN3dKa01DWEQxSXZvQnJLSVlDOVo5Y3E0X0FMOXVCRXhNanBHaU9mei1CdFgzajZoQQ?oc=5"
-  },
-  {
    "title": "新皇崗口岸凌晨出境 過關輪候時間需45分鐘",
    "source": "on.cc東網",
    "date": "10-31 18:33",
    "iso": "2026-10-31T18:33:50+00:00",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGNoWnRUSGNqNHBUNkhMeVcyRVM5SE1fMDJUWkYyMDFLd0xwZ2JlaEF4endha2hXdllfTHlTZFF3MFo2eFdETy1hbk5Qc25CdFFkV3RfRUI4RUNrZFBmWFE1NjhVMEwzc1c5bmJMOTRUUW1Gek9XMmhNcG04NTc2YmRNc21NTEV5dmhn?oc=5"
+  },
+  {
+   "title": "萬聖節｜旺角600人等上車去新皇崗口岸 旅客大讚：比預想中快",
+   "source": "香港01",
+   "date": "10-31 18:20",
+   "iso": "2026-10-31T18:20:24+00:00",
+   "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxORzBiRjFnYm85bTROaEp6WjhiWFduaUNXMUNsZjNyeVRGRjVmUXlvZlFKVzQyekN2NUtQcFQzd29wM0tTV0swT1VzTEdaV2t0Z0E3OTdWSm9XYXRYUDlyYmlTY2w3TGhRSDQwd2x2NVhRVkRvczZLYXk3amxQYV9DWmk0YWRwa01MdTUwUVNWenMxbXFuWjNlbU8yT1pXMzZXUUpyYXFGZ1dkdGFaNl9RU2FnajhjemhKWHBYeHpzN0J1bmtwUHhsb1VQaXBSdldCaUJiRzJzR01YQS0ydlFudUIxMThrNmR0UE1SMzJaRzJMUnlJYy1aQktkNVU0U3p0ZmtQSFpwbmkzYnBVZkllbXdfOEVBckpGNTJaSy1ZV1JPaXh2bFAxMXEyMHVIdnNmUURLSWd2MjNFa3BpZ2drd29ka0NrLTkwaTRhVnZkTTljeF9Yb2xFYkI4N3RYMng4RnlIQjBuREZfUTRiVnhaZEE3U0xwWk5lM0RIYmNoZWowUkdKdGc?oc=5"
   }
  ],
  "ok": true,
- "vehicle_events": [],
+ "vehicle_events": [
+  {
+   "t": 1793470824000,
+   "s": "香港01",
+   "ti": "萬聖節｜旺角600人等上車去新皇崗口岸 旅客大讚：比預想中快"
+  }
+ ],
  "tips": [
   {
    "tag": "天氣",
@@ -140,5 +146,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 209
+ "history_points": 210
 };
