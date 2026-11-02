@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-02T19:55:14+08:00",
+ "generated_at": "2026-11-02T20:01:21+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "19:55",
+ "clock": "20:01",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 26,
-  "humidity": 79,
-  "wind": 5.5,
+  "humidity": 80,
+  "wind": 5.3,
   "code": 3,
   "desc": "多雲",
   "tmax": 32,
@@ -120,11 +120,6 @@ window.HGP_DATA = {
    "level": "ok"
   },
   {
-   "tag": "傍晚",
-   "text": "雙向高峰：出境（北上）與入境（返港）同時加壓，L2 候車區最擠。",
-   "level": "info"
-  },
-  {
    "tag": "有雨",
    "text": "預測降雨機率 97%，室外通道及上落客區會濕滑，提醒旅客及同事小心。",
    "level": "warn"
@@ -140,5 +135,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 304
+ "history_points": 305
 };
