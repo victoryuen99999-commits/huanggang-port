@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-02T09:36:02+08:00",
+ "generated_at": "2026-11-02T09:42:11+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "09:36",
+ "clock": "09:42",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -83,13 +83,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQb3ZiRjkteHVPZkRPZDZ3c3Bka3pobVRHcmgwTm1iRUlHZGtGcnN3NWkxTVRDaEhhVDdFVVdKX1FmenlPaEt2RkF0U3BPNlpuVm5aQWlkRkNvMml4X2Z0M2syUnQtX2tmWUVLb1RoXy0talZIeVlvTkxTdnZYeVQyVnpVNGxrc1ZfQjRhSWVsbk1yME9LblB4dTd5Q3VDcGNQeG1aeDNqQTNpNzRuTmdSUVJCMFp3YWRhVWxRT1Y4ZkJkZ1A0T2hKRExlYXVlV01iQ0xQNXhLNXlQem9WLTBEVHVmN0hKMHVQb3FEZ1NDa2k3RDhpWHBjVnVjcnY3YWctcGkzU2d1YW5zMTM1MDBlQWFucVFjWnZzU01yOHdUTVc4elBlUUlrTnVFdXJhS1pPaWRqNXBtV1RnUXlqT2l1YkNCQTB5Sjhrc2JjaVlHQUcwUTB6VkxxZmJJYVdWV3FnamtLQ3N3aHBra3RqSlRKN0xQNkdZTXc?oc=5"
   },
   {
-   "title": "萬聖節深宵再現候車離境人龍",
-   "source": "星島頭條",
-   "date": "11-01 19:00",
-   "iso": "2026-11-01T19:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcXF4cWZYSGpKLUVxSWlybjJfSWozZk04RnpiWm5PQ2p2dDNyNU1Yd3FtUGREV0dCUjFneVRFSXg0YU9nMlJSaWdrM2RMZ2JQRUROQ1pXZk1haFp3RmhlcUhMLXR2UWtOcTJDVFUtSmU1dGc1b1JnbThjUWtObFdpbk1PQlN5UmwzOXNDbzFPRV9hVmdaNWpid3dFdERLQ0hKYmMxMnFJbmdBTmhaem9kRlRhdk94amVZOGJFcGJxaVlrQlE1SHhMT1RZMkVLM25mTzdESjM1Z3RpdEtlZ0RkaVZ1MW5FamIxRDVFU09xa3FFTkUzVmFzaE1XZw?oc=5"
-  },
-  {
    "title": "中原：皇崗口岸周邊樓盤租售看漲 新關口便利往返 港人置業增28% 灣區金融發展 - 專題",
    "source": "信報網站",
    "date": "11-01 18:58",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "11-01 09:16",
    "iso": "2026-11-01T09:16:04+00:00",
    "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPY3Y1RlF4STNPN2V3dThiTTNvUEE4TXp6R1FLQk4xZ2t4cXhlQ3diM0RrMS1aQTk5am04VThEa3lpRy1TNGxUQTFfWUx6UFdWS1EweC1TOW1HbWtKVmhHdjc4WnVVemxuaElseGpfTE1aTFVVd3JwQ3dKMDVuX3Vlcm9kZEhjZG5ZclRveFdBUUZFMTVJNnlOMW94a0lOMHpzWVAtbmY0SG10MFF0ci04VXFabkhfQ202bG9leXNOT0FtaG9mRGhHZFNITHVFc3VhZVU5MlZQeDd5S0ZobGkzOV95eE56Sk5VNm5CVjVkWVZ2elJtdlhZaXZVbUdWRElGSnM5UmxUeXBvV0l6bW55Z2VMRXZXY1NzdmpHMFJuaDBCVzFjNWh6ZVVaamRYc2tSQ29KLUtlOU16UkpaNi1NYWlobmI2ODUtT2E0MmlJRk9GVXRaLUtlcDBlWW5yN2NmOC1jMGVqUk9qZ3BmcFhyOW9lSFpKNjV5SnBUNjg5S3NRWEdZTEljZkFWeU1IMklsQkFWSm0xblNNSEctSUdNSHVvRVV5aVc2?oc=5"
+  },
+  {
+   "title": "深圳灣加時通關有效分流盛事周末新皇崗15分鐘過關- 灣區生活",
+   "source": "香港文匯報",
+   "date": "11-01 00:31",
+   "iso": "2026-11-01T00:31:11+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FXzZWX3NVdHc5Q0d1TUhPR1g0MC0zT1R6ZWtCcmpTS2lrVWVBQmZhal94b0IwelN0SXF5T1V3OC1PU1VzbUw4NDk1S0hJQWRzTndfakRqaUw4SHNxa0hOdFZvSFd5NjlCc3Y3MUN0UnVpaGpxX1BF?oc=5"
   }
  ],
  "ok": true,
@@ -135,5 +135,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 218
+ "history_points": 219
 };
