@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-02T23:44:35+08:00",
+ "generated_at": "2026-11-02T23:56:18+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "23:44",
+ "clock": "23:56",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 24,
   "humidity": 89,
-  "wind": 7.0,
+  "wind": 6.8,
   "code": 1,
   "desc": "大致晴朗",
   "tmax": 33,
@@ -76,13 +76,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGeGtNdDQxMVVjSmtCUm5ERFpXcTdOTUs0cFVQVmtCamRZX1Myejl4bVphTEtKNnBtbmFPMXRVU1pvZFRYOG5oZ1pFcGZkald3VHZIQWxndnk4OXhQc24zXzBTZUZ6QQ?oc=5"
   },
   {
-   "title": "時事全方位｜萬聖節周末口岸情況(二)",
-   "source": "Now 新聞",
-   "date": "11-02 05:42",
-   "iso": "2026-11-02T05:42:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zTE4wdGdLRFhPREhkbFA5WFpHa3BjNWtsUkEweEk3MFotS3JUYXFqV3VOS2xQMmlsbUJHbDVIZWlyNllwN0lLb0U4cjJfbE9kbUhaR0tkQkpFSkpETC04b1VB?oc=5"
-  },
-  {
    "title": "時事全方位｜萬聖節周末口岸情況(一)",
    "source": "Now 新聞",
    "date": "11-02 05:41",
@@ -102,6 +95,13 @@ window.HGP_DATA = {
    "date": "11-02 03:11",
    "iso": "2026-11-02T03:11:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxON1lOLW5SWUtOeXdwN25rb05IZlg2V0Z0OEQzLWI1LV9WQUtENDZxVTZhZXdiTVp3Z3dRSVdJOFFPWGJ2UGhBekxwcHEwdW1KUHU0NGdUc0JmMVNYSUNTbmhxM0hHazhFbV9MNFprandlTEFpWVpCaWI1bVJoSmhfTmFkVWhxcVFjOXVPcnRMeldIR0xRTVZqVTdxb0g1QlhIVmx1NlNjeGU3cnNGYjVWZGo4eTNWOWFvbUR0eU1qVjlwVFdXWEU4Vm5LNnoxcGJmbV81aGFDa3dSMDh1SVh6dWxpREZleS02dHliNVJWUnlNNklMNUlOMm9tYjZLX0dpQXVEQmlfVXRzVUxsanQwQW1yc3UtQQ?oc=5"
+  },
+  {
+   "title": "民安隊萬聖節周末進駐新皇崗口岸 全力疏導人流保通關暢順",
+   "source": "巴士的報",
+   "date": "11-02 01:19",
+   "iso": "2026-11-02T01:19:21+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOdTI4OHUwUTBkblJhR1RSREwwdmwtUlp2TFc3NG4tWnlHZlczSnlSaVZOV1pCVWdlLUxjVGZ4N0ZpcktzQlhpNmhFTXRJaDloTzJXZU9TLV9VM2dNcHV3aDdxbkFwLTc4OGN3Ymh4ZDhEdzFvRFBpSW8tY3YyTU4wbmY4NjNWNTUyZWhqNVRkQTVaakJlSGdQREk1T3NFZ09oSTVaZlVQTFRFV01CdUtKb3NWS2dDdFY4M2g2RjdKbTA4M29Wa090b0oxQXA2U3NsX2RDcHZRWnczRHNPTEFhSm0tRnJnVnp0dDlRVjZHUU9CMnA1UkM4SkxNckJRTDRrSE1kYXZSempTSzJ0cXpZMlJmR1d5OWthSTVDOU9UNDZWa2ltdHZfYXBMSkQ0b2tIMHNGSUNfTnB2VnpsbTJzWUtuNHF6VmhkV3R2RXNuREdlbU1lYUI3XzNqMXRnZllLekVvdjNTQTJLcVd4OWxB?oc=5"
   },
   {
    "title": "雙雙創新高！深圳邊檢單日查驗114.5萬人次皇崗口岸單日16.1萬人次出入境- 港聞",
@@ -145,5 +145,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 336
+ "history_points": 337
 };
