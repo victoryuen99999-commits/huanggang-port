@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-03T07:08:40+08:00",
+ "generated_at": "2026-11-03T07:13:54+08:00",
  "date": "2026-11-03",
  "weekday": "星期二",
- "clock": "07:08",
+ "clock": "07:13",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,20 +55,6 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "皇崗周末日均15萬人次出入境創新高 陳國基稱旺丁旺財",
-   "source": "Yahoo",
-   "date": "11-02 12:19",
-   "iso": "2026-11-02T12:19:27+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQNnpIUmxueDUxc3NzdjZMaHhRRzJySEhyNUdrbnpwcmtWdWpOWVMxMlRXMFduUG9tUG4zUmpoajZ1TlRWTEp6MHdyN1dHcnY2V0xrMXlscXVfUjV0VENjUFhfNV9teXo2b3owcEF2YUU3Ty13V0tKdXR3dmRkMm54UDg1bjNFRUVWV1gyN3dZODlWN2JwYnN2ZGJvSjdZQUJJZ01FUW1MSURQVkpfSi1GREVoU2ZPQThRa3FZT1hSM001cXg3SWgyYXNYZUVyT0JDS0xIeTVjUFdRSTZ4azVsSXVUNlZ2LU0xZUg2akxBa3FPT0dUdjhkSnZ2V1NHb3dseXhFQjdSR2R6d0ZiblZocFRMdW05Mk9ZeE5uZmVKeWkzQXZXbU9HU0M0RDZjLUVIWjhxZng3MGdtT2tXbU5WbnZVWUNNV1dGaWlhRTJPcTNuT3RNRW14ZkR6WS1MdThiNTdzd0JEVnJvSjA?oc=5"
-  },
-  {
-   "title": "過去三日訪港旅客約60萬人次按年升34% 陳國基：丁財兩旺",
-   "source": "香港電台新聞網",
-   "date": "11-02 10:02",
-   "iso": "2026-11-02T10:02:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wRHUtaks4eEJBdkN2MHpzRG94NWFqRmZzb3YxMFpKTjBRVmZYQ3FyRFpJZVFXSEJrS1NCbElMR3NuTzZjMnF5SHBCc2ZsNDdTUHF1bVcyT1FmeVd5M3dkcmxpSzluTG5LQ2FfMXpYaw?oc=5"
-  },
-  {
    "title": "旅客讚皇崗口岸過關暢順 深圳灣口岸延長通關助疏導",
    "source": "成報",
    "date": "11-02 08:50",
@@ -97,11 +83,25 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxOeFhSQUVvZEtLQy1wMVJLTEFnVHp1em41Wmg1QWVXM2JwclA3X3JjVUpNbzYydFlBUFRWajB6aGpPS0UyUThmT1VxM05vSF9iQzZ5MkdTb3Z5ekVVbS00b3VLdVB3MGRfTERaaXFPQmlvNXlWczVPOUFxckdxb3MxWWhaUW5reDdfYWZEejFmXzc4NURreFZQYlIzUUZXZnllTHV1YVpKWkZndWRyMW4xT1VKdXJ5RTRBcEJvVDFUTkkwTUFjTDdzNGw3OHVFZjNnalV6X0NlQVc0NDhpZXZCNHMtV2NQR2oxSm5CNGZ0UmVZbnYtTzZkUjV4dmpqQVpocl9KU2twNHlQM0hxRVc4UmdKZXo1Q0U2Y3V4bm95OXpkTmRXZ3VqRlJMQXpfWW5LT2YxV0JXX09Fb1pzZWpmMVlPR0xBVllLTGNfQ3ZKaWlWb01MRGZBZG5CV3FvVHlpSzFSamxRblUzNXUwRlZIeE44SWxIRGptamtHR2RwNUl5ZlNwRWhLNVpXbkFFaEpzaVZEX05iSVcyXzlCYnEwSWp4bmJSZzRsMUhkc2lWV3pFYlc2MG5PSVF4TmlOSmdRVlRHOFhwdXlFVHZoalFaM0ZhT1JFaTRzaVhCTEFubDRidl9PaFpYZVU2aHp4TWw0c0dINTdSeUpoQm9lWUQtNE56VFdPcWd6X1QtMmpQZEhIVlFG?oc=5"
   },
   {
-   "title": "雙雙創新高！深圳邊檢單日查驗114.5萬人次皇崗口岸單日16.1萬人次出入境- 港聞",
-   "source": "dotdotnews",
-   "date": "11-02 01:12",
-   "iso": "2026-11-02T01:12:01+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IU3lOZHg3Y3NyQ3RpcG1DNml2eXR1REhMQ0MwaFJtZU5oa3BqeUljMFd5MExma0NvRHdYWkQ2eGhGZGpNeThzVWZtZ29jZVpUSUJyR2hfZzNYYnc0MzN1YUwycU5WbTNLcHRsNWlLMW5fcFJXbzZzMGZR?oc=5"
+   "title": "新皇崗口岸：提升效率，應急變常態",
+   "source": "am730",
+   "date": "11-02 03:11",
+   "iso": "2026-11-02T03:11:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxON1lOLW5SWUtOeXdwN25rb05IZlg2V0Z0OEQzLWI1LV9WQUtENDZxVTZhZXdiTVp3Z3dRSVdJOFFPWGJ2UGhBekxwcHEwdW1KUHU0NGdUc0JmMVNYSUNTbmhxM0hHazhFbV9MNFprandlTEFpWVpCaWI1bVJoSmhfTmFkVWhxcVFjOXVPcnRMeldIR0xRTVZqVTdxb0g1QlhIVmx1NlNjeGU3cnNGYjVWZGo4eTNWOWFvbUR0eU1qVjlwVFdXWEU4Vm5LNnoxcGJmbV81aGFDa3dSMDh1SVh6dWxpREZleS02dHliNVJWUnlNNklMNUlOMm9tYjZLX0dpQXVEQmlfVXRzVUxsanQwQW1yc3UtQQ?oc=5"
+  },
+  {
+   "title": "民安隊萬聖節周末進駐新皇崗口岸 全力疏導人流保通關暢順",
+   "source": "巴士的報",
+   "date": "11-02 01:19",
+   "iso": "2026-11-02T01:19:21+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOdTI4OHUwUTBkblJhR1RSREwwdmwtUlp2TFc3NG4tWnlHZlczSnlSaVZOV1pCVWdlLUxjVGZ4N0ZpcktzQlhpNmhFTXRJaDloTzJXZU9TLV9VM2dNcHV3aDdxbkFwLTc4OGN3Ymh4ZDhEdzFvRFBpSW8tY3YyTU4wbmY4NjNWNTUyZWhqNVRkQTVaakJlSGdQREk1T3NFZ09oSTVaZlVQTFRFV01CdUtKb3NWS2dDdFY4M2g2RjdKbTA4M29Wa090b0oxQXA2U3NsX2RDcHZRWnczRHNPTEFhSm0tRnJnVnp0dDlRVjZHUU9CMnA1UkM4SkxNckJRTDRrSE1kYXZSempTSzJ0cXpZMlJmR1d5OWthSTVDOU9UNDZWa2ltdHZfYXBMSkQ0b2tIMHNGSUNfTnB2VnpsbTJzWUtuNHF6VmhkV3R2RXNuREdlbU1lYUI3XzNqMXRnZllLekVvdjNTQTJLcVd4OWxB?oc=5"
+  },
+  {
+   "title": "萬聖夜皇崗過關等45分鐘 當局一度籲用深圳灣 - 20261102 - 要聞",
+   "source": "明報新聞網",
+   "date": "11-01 20:30",
+   "iso": "2026-11-01T20:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQb3ZiRjkteHVPZkRPZDZ3c3Bka3pobVRHcmgwTm1iRUlHZGtGcnN3NWkxTVRDaEhhVDdFVVdKX1FmenlPaEt2RkF0U3BPNlpuVm5aQWlkRkNvMml4X2Z0M2syUnQtX2tmWUVLb1RoXy0talZIeVlvTkxTdnZYeVQyVnpVNGxrc1ZfQjRhSWVsbk1yME9LblB4dTd5Q3VDcGNQeG1aeDNqQTNpNzRuTmdSUVJCMFp3YWRhVWxRT1Y4ZkJkZ1A0T2hKRExlYXVlV01iQ0xQNXhLNXlQem9WLTBEVHVmN0hKMHVQb3FEZ1NDa2k3RDhpWHBjVnVjcnY3YWctcGkzU2d1YW5zMTM1MDBlQWFucVFjWnZzU01yOHdUTVc4elBlUUlrTnVFdXJhS1pPaWRqNXBtV1RnUXlqT2l1YkNCQTB5Sjhrc2JjaVlHQUcwUTB6VkxxZmJJYVdWV3FnamtLQ3N3aHBra3RqSlRKN0xQNkdZTXc?oc=5"
   },
   {
    "title": "中原：皇崗口岸周邊樓盤租售看漲 新關口便利往返 港人置業增28% 灣區金融發展 - 專題",
@@ -140,5 +140,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 405
+ "history_points": 406
 };
