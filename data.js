@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-02T13:32:28+08:00",
+ "generated_at": "2026-11-02T13:38:35+08:00",
  "date": "2026-11-02",
  "weekday": "星期一",
- "clock": "13:32",
+ "clock": "13:38",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -90,6 +90,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IU3lOZHg3Y3NyQ3RpcG1DNml2eXR1REhMQ0MwaFJtZU5oa3BqeUljMFd5MExma0NvRHdYWkQ2eGhGZGpNeThzVWZtZ29jZVpUSUJyR2hfZzNYYnc0MzN1YUwycU5WbTNLcHRsNWlLMW5fcFJXbzZzMGZR?oc=5"
   },
   {
+   "title": "社評：皇崗口岸過關暢順 事前部署考驗過關 - 20261102 - 社評",
+   "source": "明報新聞網",
+   "date": "11-01 20:30",
+   "iso": "2026-11-01T20:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPZXdWWnE2VUhhd1RCY2swWmRvS1RiaUYzdnpFR1F5eFpNS2w1dGZDdmRmYXpULXh1dmt4RmNiOXoxVHNCaG1HZUNRSjJUSnZLNkhNVmtIVUY5TEdua011S1VSOUFsMTEyTnBMR01lYUdQR3ZESDFDRGdhYmhRWkhZQVF5UGJnbFNXcXp4QVF0RjNhclN1V0xTd2Z4UkU2aWNBNUhkS1FNX0xsVWp2akx0UU9TMXB5aHFITTVCaXgzeTRUWVVmaVlFRUJISGhabDcxcGhWNEVvcUVjV0l3ZG5RSWh5cTl5cXJ0SWtPNkVHSWl0RXNtV0t4bXh5U0lHV3V3TVNqSXBpVmFWcVJsQnloVE8xZllfZEphV19PM0pnNFFRZXlRODRrOHlNcHlNTzRFLV9NTk1lZXFmdXIzaHYxcUpfSzVpcWxjRVNwZnFNYzRFOTdmdHhCMnFnX08tamVYYzdSS2tMYzAydw?oc=5"
+  },
+  {
    "title": "萬聖夜皇崗過關等45分鐘 當局一度籲用深圳灣 - 20261102 - 要聞",
    "source": "明報新聞網",
    "date": "11-01 20:30",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-01 18:58",
    "iso": "2026-11-01T18:58:35+00:00",
    "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQOEVacER2RE9Xd0dSRERMY2I5TWxyUmhJT281bXN2LWJpVmV4MUVDaFNPWnVaRGNhOEVqZjljbUllSGxkcDBjenVXb215SzRXS0YwOGptbnlpUlFXUi1DNUs0QmxOaFAzUF9WbEVfUWRUN25fNXkycFllakhMTmxYbXVsaE5rMmpDZnN4R21lbXhqbVZSNTZEbi1LQnVjNEhORUFZRUtUNHhRMUdrQktVZmRwMkpZNWgxRFVxVi0xeTlRcHFGZHlFbVY3Q3BfWGlPbDBaeU5fY3prSjFxSnBNblFlZEY3dzJjRnVHN1k5OVRlVmNXQ3RoR282RzRJd3FnbmUxUkI1N3llUjltNXpvSzFYa1dRZFZtTE5FUnpNX3lSOUFIekZUYjV3SXBmM2VUVzBRSjlWV29JdkpseWF0Vksxb1Y5WHNzQjVCMTFhR2FQbnp3bjRTNWdHZw?oc=5"
-  },
-  {
-   "title": "萬聖節｜周末最後一天 皇崗口岸路況暢通- 有線寬頻i-CABLE - i-CABLE",
-   "source": "i-CABLE",
-   "date": "11-01 16:01",
-   "iso": "2026-11-01T16:01:38+00:00",
-   "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPVmFveGdzMEhOU19mUnVWRVAyMHJCUzRMVklGamN0ajd1ZEhEYzRGYVlrQlRBd1NSTlQxZ1pyRmdtX0ZDSFNzUUNiUmZUUVlEMGFzWHdlWGMtclFWaTFSSGNuYkZJRFRyUXJWZURtRFdJYWE0aVFaM24xbXZQU3dtUXhnYjNwT0FHRlc1UWZheHV0czR2SVhGaXhZYTN1QUhkcDgzQVd3Zk1qQkNreU9Zajg2Q0c4ZG9US0FCaGlUZWhpSnRfS29WMndGTkRqbnd3blBSR0lkZUZFWWZzTFp5RGtJaXZqTU9EUjFtczNnVG8zRzBidG00eDJkS1MyRFVZamp0WkZtRDdhSXQ0NmtDMVl5d3c3STlJWEpmTW9rYUJqZHBnYzFTcEVYaXpwdVJVbWhUTkZUOEFrYnlvOFNidkxLU2l3dw?oc=5"
   }
  ],
  "ok": true,
@@ -135,5 +135,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 253
+ "history_points": 254
 };
