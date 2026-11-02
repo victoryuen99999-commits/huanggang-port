@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-02T23:56:18+08:00",
- "date": "2026-11-02",
- "weekday": "星期一",
- "clock": "23:56",
+ "generated_at": "2026-11-03T00:02:25+08:00",
+ "date": "2026-11-03",
+ "weekday": "星期二",
+ "clock": "00:02",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,13 +44,13 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 24,
-  "humidity": 89,
-  "wind": 6.8,
+  "humidity": 90,
+  "wind": 6.9,
   "code": 1,
   "desc": "大致晴朗",
-  "tmax": 33,
+  "tmax": 29,
   "tmin": 23,
-  "pop": 75
+  "pop": 52
  },
  "warnings": [],
  "news": [
@@ -125,16 +125,6 @@ window.HGP_DATA = {
    "level": "warn"
   },
   {
-   "tag": "有雨",
-   "text": "預測降雨機率 75%，室外通道及上落客區會濕滑，提醒旅客及同事小心。",
-   "level": "warn"
-  },
-  {
-   "tag": "酷熱",
-   "text": "最高約 33°C，露天崗位注意補水及輪換。",
-   "level": "info"
-  },
-  {
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
@@ -145,5 +135,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 337
+ "history_points": 338
 };
