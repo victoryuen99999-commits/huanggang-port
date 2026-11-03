@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-03T22:36:32+08:00",
+ "generated_at": "2026-11-03T22:42:39+08:00",
  "date": "2026-11-03",
  "weekday": "星期二",
- "clock": "22:36",
+ "clock": "22:42",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -62,6 +62,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BeFk5OTJXZktVUDdtdlR6QVo0bC1fLXJVeno4TkI5Nmkybk5ZMlZOeDRrRmMxQjBPRS1UZEthaHB6aHlEdlJ6aU95YWV0Qk13NUpGaTFTWVctTXdMMkRveGt3?oc=5"
   },
   {
+   "title": "時事全方位｜跨境白牌車問題(一)",
+   "source": "Now 新聞",
+   "date": "11-03 05:53",
+   "iso": "2026-11-03T05:53:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55d3dzSE5DNkIxMTIwZUNseTJlRnAwNGQySzVKWFc5Q0xQd2RhZWQyZm9EdjVqU1JJa3gwTURKRHd6UmNlVy1KbThCTTJCZmNCM3NIc3NaMHgteWFlWlRsUTJ3?oc=5"
+  },
+  {
    "title": "新聞透視．延伸閱讀｜皇崗口岸重建後實施一地兩檢 設計通關流量達20萬人次",
    "source": "TVB",
    "date": "11-03 00:30",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-01 20:30",
    "iso": "2026-11-01T20:30:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQb3ZiRjkteHVPZkRPZDZ3c3Bka3pobVRHcmgwTm1iRUlHZGtGcnN3NWkxTVRDaEhhVDdFVVdKX1FmenlPaEt2RkF0U3BPNlpuVm5aQWlkRkNvMml4X2Z0M2syUnQtX2tmWUVLb1RoXy0talZIeVlvTkxTdnZYeVQyVnpVNGxrc1ZfQjRhSWVsbk1yME9LblB4dTd5Q3VDcGNQeG1aeDNqQTNpNzRuTmdSUVJCMFp3YWRhVWxRT1Y4ZkJkZ1A0T2hKRExlYXVlV01iQ0xQNXhLNXlQem9WLTBEVHVmN0hKMHVQb3FEZ1NDa2k3RDhpWHBjVnVjcnY3YWctcGkzU2d1YW5zMTM1MDBlQWFucVFjWnZzU01yOHdUTVc4elBlUUlrTnVFdXJhS1pPaWRqNXBtV1RnUXlqT2l1YkNCQTB5Sjhrc2JjaVlHQUcwUTB6VkxxZmJJYVdWV3FnamtLQ3N3aHBra3RqSlRKN0xQNkdZTXc?oc=5"
-  },
-  {
-   "title": "中原：皇崗口岸周邊樓盤租售看漲 新關口便利往返 港人置業增28% 灣區金融發展 - 專題",
-   "source": "信報網站",
-   "date": "11-01 18:58",
-   "iso": "2026-11-01T18:58:35+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQOEVacER2RE9Xd0dSRERMY2I5TWxyUmhJT281bXN2LWJpVmV4MUVDaFNPWnVaRGNhOEVqZjljbUllSGxkcDBjenVXb215SzRXS0YwOGptbnlpUlFXUi1DNUs0QmxOaFAzUF9WbEVfUWRUN25fNXkycFllakhMTmxYbXVsaE5rMmpDZnN4R21lbXhqbVZSNTZEbi1LQnVjNEhORUFZRUtUNHhRMUdrQktVZmRwMkpZNWgxRFVxVi0xeTlRcHFGZHlFbVY3Q3BfWGlPbDBaeU5fY3prSjFxSnBNblFlZEY3dzJjRnVHN1k5OVRlVmNXQ3RoR282RzRJd3FnbmUxUkI1N3llUjltNXpvSzFYa1dRZFZtTE5FUnpNX3lSOUFIekZUYjV3SXBmM2VUVzBRSjlWV29JdkpseWF0Vksxb1Y5WHNzQjVCMTFhR2FQbnp3bjRTNWdHZw?oc=5"
   }
  ],
  "ok": true,
