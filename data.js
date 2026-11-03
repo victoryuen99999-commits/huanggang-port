@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-03T13:56:32+08:00",
+ "generated_at": "2026-11-03T14:02:39+08:00",
  "date": "2026-11-03",
  "weekday": "星期二",
- "clock": "13:56",
+ "clock": "14:02",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 28,
   "humidity": 63,
-  "wind": 16.3,
+  "wind": 16.4,
   "code": 1,
   "desc": "大致晴朗",
   "tmax": 28,
@@ -76,6 +76,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGeGtNdDQxMVVjSmtCUm5ERFpXcTdOTUs0cFVQVmtCamRZX1Myejl4bVphTEtKNnBtbmFPMXRVU1pvZFRYOG5oZ1pFcGZkald3VHZIQWxndnk4OXhQc24zXzBTZUZ6QQ?oc=5"
   },
   {
+   "title": "時事全方位｜萬聖節周末口岸情況(二)",
+   "source": "Now 新聞",
+   "date": "11-02 05:42",
+   "iso": "2026-11-02T05:42:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zTE4wdGdLRFhPREhkbFA5WFpHa3BjNWtsUkEweEk3MFotS3JUYXFqV3VOS2xQMmlsbUJHbDVIZWlyNllwN0lLb0U4cjJfbE9kbUhaR0tkQkpFSkpETC04b1VB?oc=5"
+  },
+  {
    "title": "民安隊萬聖節周末進駐新皇崗口岸 全力疏導人流保通關暢順",
    "source": "巴士的報",
    "date": "11-02 01:19",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-01 17:55",
    "iso": "2026-11-01T17:55:18+00:00",
    "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOSld6MlE1YmcyUlBsWHQ3MS1HazFXZG5CNjR4NmxaOS16NjRRU09oeG9QbHV0TTJzOFJ4MVJxMVFTalR4Xzg5TVBrX2VUOTZXMGZ3TS1STTB3NHNITWJZR2VHVVhTQmd0UXZ2bkhBVjNtX1M2VmtfX0xkNXZqOURqcUhHWm5uSmJCTEVtekVrT1B5SHNUVEoyNExQekhGcl9LVWZkYXVIUjRjWVZlT29XbTZ3MjZmbGE2UlRleU55cVNQVmhDN2tiZmh3czBnbEFFM2VSODdoUE1RUmQtcnkxdEYzZFlzMGxHOWdsNnQ0Ylkza21Gd1pMOVpMRkw2UmdQV1p3a1NlbkxLLTBmVmZLaEQ0QWZWOWxiNjluclJRdkQwS05xb0pDeFR4X3lrWjRtYWRQeXcwWWREU3BncUZIYWY0YXl4dWhCV0V2azFTaDZUZ0ktUTl4U2x3R25kNVo4QWhlTnI1RFFqSzZpblg3LThfUGhVcnNDR0Z5S0F3aw?oc=5"
-  },
-  {
-   "title": "新皇崗口岸｜城巴往返啟德B14專線試行延長兩周 料改恆常路線",
-   "source": "香港01",
-   "date": "11-01 09:16",
-   "iso": "2026-11-01T09:16:04+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPY3Y1RlF4STNPN2V3dThiTTNvUEE4TXp6R1FLQk4xZ2t4cXhlQ3diM0RrMS1aQTk5am04VThEa3lpRy1TNGxUQTFfWUx6UFdWS1EweC1TOW1HbWtKVmhHdjc4WnVVemxuaElseGpfTE1aTFVVd3JwQ3dKMDVuX3Vlcm9kZEhjZG5ZclRveFdBUUZFMTVJNnlOMW94a0lOMHpzWVAtbmY0SG10MFF0ci04VXFabkhfQ202bG9leXNOT0FtaG9mRGhHZFNITHVFc3VhZVU5MlZQeDd5S0ZobGkzOV95eE56Sk5VNm5CVjVkWVZ2elJtdlhZaXZVbUdWRElGSnM5UmxUeXBvV0l6bW55Z2VMRXZXY1NzdmpHMFJuaDBCVzFjNWh6ZVVaamRYc2tSQ29KLUtlOU16UkpaNi1NYWlobmI2ODUtT2E0MmlJRk9GVXRaLUtlcDBlWW5yN2NmOC1jMGVqUk9qZ3BmcFhyOW9lSFpKNjV5SnBUNjg5S3NRWEdZTEljZkFWeU1IMklsQkFWSm0xblNNSEctSUdNSHVvRVV5aVc2?oc=5"
   }
  ],
  "ok": true,
@@ -135,5 +135,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 467
+ "history_points": 468
 };
