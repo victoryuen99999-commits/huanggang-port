@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-03T08:39:48+08:00",
+ "generated_at": "2026-11-03T08:45:56+08:00",
  "date": "2026-11-03",
  "weekday": "星期二",
- "clock": "08:39",
+ "clock": "08:45",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 25,
-  "humidity": 84,
-  "wind": 13.8,
+  "humidity": 82,
+  "wind": 14.2,
   "code": 51,
   "desc": "毛毛雨",
   "tmax": 28,
@@ -59,7 +59,7 @@ window.HGP_DATA = {
    "source": "TVB",
    "date": "11-03 00:30",
    "iso": "2026-11-03T00:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOb0Q5d05sMXFLMi1vdEpYZUtFcFRmdzMzbE8zcS1CdWh6UkRwMng2aS12TDNCVHlGMzdBQTlFaHc5Zm4ySkptX0tXMG9xbGl2UDQ5Tm9haG41bXFkMWRDSnlaLV9EekpJNFlnVUJ4OEcyd0F2X19MbU9lLXZockIzcWFyTmg1NG1TT2NQc3lzcnBmdzcwRDhoSV9nUUNyRVI2OVltWjZwd25RUVR0MmVjdVRWTEdMem91ZVJZdlk1S3A1d1pxbzZxeGlhSmZyRkhpdnJtczY0ek5kdzRjZjNNVW9YcEpTUFZXckZyemdWRExKWTV2MS1mbGY4clVtS2xSNEZTbjJDS3RiRjdlNjUwSzlBa3ByaHphTHlaaFd3VWEyOGFPd2ZqcldFa04wc2lWV05zRXR0TVlPR2Yzcm1FdDJEV3pwNDF1dk1pYkhGRjBwMGJnd3N3dmNVT0lNUFdqRi1SWVRFN2Y3NVpVa1NUY1ZMSldtT0F0X3BwZ1pVbHFLYXhhWHc1WmtSUWdVcm5sNk5sVGpfekxLNTJNZTB3cnRLTGtZc1BrRG5wR1JhcVlRSkxQQUVmSUt1TFZYUQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOVXg0LXhZU0k5QXFOSnF6eTRKZ09XYklVcmI5M0o3aHFDWDZ0S0FWRmRzWHU0aUxOVGlyZ2R5VHZKemxlU0tHS0ltTTNLTEc5d0dTSHBlZnprLTk1dGtSeERMcmpLUmxHaVQ0U0REeXJhblpFMDljWkxocVA0SjVNQnBtMXl6Qk9BN1c1UVRZX09rUG5JMVZlOE5kZHRueFZ0ZlFFc3NLSHNLOXdFN09VXzJFeGFCTGVPNVFjZ3JXVlF0MmczR1JNbVdkYkhZNmd6TjRMOHhJaEJJMWdzTkJyZnBNcC00WE9mdVJhajRGeWxBdEswRGR4Nl96T0VRcmZXY3F2WGtfOTFRYTloRmo2U2UtX0dMZ3RNeWZvWHozNXh1clVEYWdYOHNYWXh2dHgtSi1veWJieHdTVmF4blRTM0pkTXpYemdWaUhLWHVXRWdnWGJzS3hwQXQ1dWY2dXFYbF93TG5Hanl0R2dOQlpQZkVGdnNpdHJxYXpUZ0pycGZRdk9DNDhRMm52eERRZkJOTTNZSDJqcHp2RTlaXzJiZk1wUWlxVW5iWmFVMmRydDU4RkV4amIyTDEybXZLUQ?oc=5"
   },
   {
    "title": "皇崗周末日均15萬人次出入境創新高 陳國基稱旺丁旺財",
@@ -140,5 +140,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 420
+ "history_points": 421
 };
