@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-03T17:35:02+08:00",
+ "generated_at": "2026-11-03T17:41:07+08:00",
  "date": "2026-11-03",
  "weekday": "星期二",
- "clock": "17:35",
+ "clock": "17:41",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -90,13 +90,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zTE4wdGdLRFhPREhkbFA5WFpHa3BjNWtsUkEweEk3MFotS3JUYXFqV3VOS2xQMmlsbUJHbDVIZWlyNllwN0lLb0U4cjJfbE9kbUhaR0tkQkpFSkpETC04b1VB?oc=5"
   },
   {
-   "title": "時事全方位｜萬聖節周末口岸情況(一)",
-   "source": "Now 新聞",
-   "date": "11-02 05:41",
-   "iso": "2026-11-02T05:41:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sRFdaLXhwYU5QODQ3Um9BejRzNTFXdUxEODJqcFE4UUJBQ3gwUV9FTWI4YUl1QTVrX2xhcEdxZ0d4eTlfNUdkT2ZEeEdLQ19SRFR6SkMzakZtRTRIZHRqY3V3?oc=5"
-  },
-  {
    "title": "皇崗口岸「合作查驗、一次放行」懶人包！一文睇清「香港e-道」預先登記步驟/資格條件/通關流程",
    "source": "U Travel",
    "date": "11-02 05:17",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "11-02 01:19",
    "iso": "2026-11-02T01:19:21+00:00",
    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOdTI4OHUwUTBkblJhR1RSREwwdmwtUlp2TFc3NG4tWnlHZlczSnlSaVZOV1pCVWdlLUxjVGZ4N0ZpcktzQlhpNmhFTXRJaDloTzJXZU9TLV9VM2dNcHV3aDdxbkFwLTc4OGN3Ymh4ZDhEdzFvRFBpSW8tY3YyTU4wbmY4NjNWNTUyZWhqNVRkQTVaakJlSGdQREk1T3NFZ09oSTVaZlVQTFRFV01CdUtKb3NWS2dDdFY4M2g2RjdKbTA4M29Wa090b0oxQXA2U3NsX2RDcHZRWnczRHNPTEFhSm0tRnJnVnp0dDlRVjZHUU9CMnA1UkM4SkxNckJRTDRrSE1kYXZSempTSzJ0cXpZMlJmR1d5OWthSTVDOU9UNDZWa2ltdHZfYXBMSkQ0b2tIMHNGSUNfTnB2VnpsbTJzWUtuNHF6VmhkV3R2RXNuREdlbU1lYUI3XzNqMXRnZllLekVvdjNTQTJLcVd4OWxB?oc=5"
+  },
+  {
+   "title": "雙雙創新高！深圳邊檢單日查驗114.5萬人次皇崗口岸單日16.1萬人次出入境- 港聞",
+   "source": "dotdotnews",
+   "date": "11-02 01:12",
+   "iso": "2026-11-02T01:12:01+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IU3lOZHg3Y3NyQ3RpcG1DNml2eXR1REhMQ0MwaFJtZU5oa3BqeUljMFd5MExma0NvRHdYWkQ2eGhGZGpNeThzVWZtZ29jZVpUSUJyR2hfZzNYYnc0MzN1YUwycU5WbTNLcHRsNWlLMW5fcFJXbzZzMGZR?oc=5"
   }
  ],
  "ok": true,
