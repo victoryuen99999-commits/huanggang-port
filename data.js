@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-04T05:42:55+08:00",
+ "generated_at": "2026-11-04T05:49:13+08:00",
  "date": "2026-11-04",
  "weekday": "星期三",
- "clock": "05:42",
+ "clock": "05:49",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 24,
   "humidity": 92,
-  "wind": 13.0,
+  "wind": 13.2,
   "code": 1,
   "desc": "大致晴朗",
   "tmax": 28,
@@ -54,6 +54,13 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "新皇崗口岸出發 深圳逛超市揀好物 - 20261104 - 圖片看世界",
+   "source": "明報新聞網",
+   "date": "11-03 20:30",
+   "iso": "2026-11-03T20:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR05qUHg4TkZFQnFHSXFjbmU0T1lQVWVxbXk5bzhlQXdwcjBlZk5WRnVnbXFuMDQ2YktOckhYNVFaYUJlMjB1ZlZyOFI4RmpOSzRWcHVRbHB0Vk5KUFduNGM2a2JpMXJ0SnpHRWNMWnNyOHdBVzBGRDhScDVERnkxdEpTM1dMR0ZCdzVvZ2YyLVhadXpRQlBnOVllRHNKN1U?oc=5"
+  },
   {
    "title": "口岸疏導宜標本兼治更好承接盛事人潮- 評論",
    "source": "香港文匯報",
@@ -97,18 +104,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGeGtNdDQxMVVjSmtCUm5ERFpXcTdOTUs0cFVQVmtCamRZX1Myejl4bVphTEtKNnBtbmFPMXRVU1pvZFRYOG5oZ1pFcGZkald3VHZIQWxndnk4OXhQc24zXzBTZUZ6QQ?oc=5"
   },
   {
-   "title": "民安隊萬聖節周末進駐新皇崗口岸 全力疏導人流保通關暢順",
-   "source": "巴士的報",
-   "date": "11-02 01:19",
-   "iso": "2026-11-02T01:19:21+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOdTI4OHUwUTBkblJhR1RSREwwdmwtUlp2TFc3NG4tWnlHZlczSnlSaVZOV1pCVWdlLUxjVGZ4N0ZpcktzQlhpNmhFTXRJaDloTzJXZU9TLV9VM2dNcHV3aDdxbkFwLTc4OGN3Ymh4ZDhEdzFvRFBpSW8tY3YyTU4wbmY4NjNWNTUyZWhqNVRkQTVaakJlSGdQREk1T3NFZ09oSTVaZlVQTFRFV01CdUtKb3NWS2dDdFY4M2g2RjdKbTA4M29Wa090b0oxQXA2U3NsX2RDcHZRWnczRHNPTEFhSm0tRnJnVnp0dDlRVjZHUU9CMnA1UkM4SkxNckJRTDRrSE1kYXZSempTSzJ0cXpZMlJmR1d5OWthSTVDOU9UNDZWa2ltdHZfYXBMSkQ0b2tIMHNGSUNfTnB2VnpsbTJzWUtuNHF6VmhkV3R2RXNuREdlbU1lYUI3XzNqMXRnZllLekVvdjNTQTJLcVd4OWxB?oc=5"
-  },
-  {
-   "title": "社評：皇崗口岸過關暢順 事前部署考驗過關 - 20261102 - 社評",
-   "source": "明報新聞網",
-   "date": "11-01 20:30",
-   "iso": "2026-11-01T20:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPZXdWWnE2VUhhd1RCY2swWmRvS1RiaUYzdnpFR1F5eFpNS2w1dGZDdmRmYXpULXh1dmt4RmNiOXoxVHNCaG1HZUNRSjJUSnZLNkhNVmtIVUY5TEdua011S1VSOUFsMTEyTnBMR01lYUdQR3ZESDFDRGdhYmhRWkhZQVF5UGJnbFNXcXp4QVF0RjNhclN1V0xTd2Z4UkU2aWNBNUhkS1FNX0xsVWp2akx0UU9TMXB5aHFITTVCaXgzeTRUWVVmaVlFRUJISGhabDcxcGhWNEVvcUVjV0l3ZG5RSWh5cTl5cXJ0SWtPNkVHSWl0RXNtV0t4bXh5U0lHV3V3TVNqSXBpVmFWcVJsQnloVE8xZllfZEphV19PM0pnNFFRZXlRODRrOHlNcHlNTzRFLV9NTk1lZXFmdXIzaHYxcUpfSzVpcWxjRVNwZnFNYzRFOTdmdHhCMnFnX08tamVYYzdSS2tMYzAydw?oc=5"
+   "title": "時事全方位｜萬聖節周末口岸情況(二)",
+   "source": "Now 新聞",
+   "date": "11-02 05:42",
+   "iso": "2026-11-02T05:42:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zTE4wdGdLRFhPREhkbFA5WFpHa3BjNWtsUkEweEk3MFotS3JUYXFqV3VOS2xQMmlsbUJHbDVIZWlyNllwN0lLb0U4cjJfbE9kbUhaR0tkQkpFSkpETC04b1VB?oc=5"
   }
  ],
  "ok": true,
