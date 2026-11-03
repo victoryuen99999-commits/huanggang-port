@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-03T12:56:28+08:00",
+ "generated_at": "2026-11-03T13:02:34+08:00",
  "date": "2026-11-03",
  "weekday": "星期二",
- "clock": "12:56",
+ "clock": "13:02",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 28,
   "humidity": 64,
-  "wind": 16.2,
+  "wind": 16.4,
   "code": 0,
   "desc": "天晴",
   "tmax": 28,
@@ -76,27 +76,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGeGtNdDQxMVVjSmtCUm5ERFpXcTdOTUs0cFVQVmtCamRZX1Myejl4bVphTEtKNnBtbmFPMXRVU1pvZFRYOG5oZ1pFcGZkald3VHZIQWxndnk4OXhQc24zXzBTZUZ6QQ?oc=5"
   },
   {
-   "title": "時事全方位｜萬聖節周末口岸情況(二)",
-   "source": "Now 新聞",
-   "date": "11-02 05:42",
-   "iso": "2026-11-02T05:42:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zTE4wdGdLRFhPREhkbFA5WFpHa3BjNWtsUkEweEk3MFotS3JUYXFqV3VOS2xQMmlsbUJHbDVIZWlyNllwN0lLb0U4cjJfbE9kbUhaR0tkQkpFSkpETC04b1VB?oc=5"
-  },
-  {
-   "title": "時事全方位｜萬聖節周末口岸情況(一)",
-   "source": "Now 新聞",
-   "date": "11-02 05:41",
-   "iso": "2026-11-02T05:41:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sRFdaLXhwYU5QODQ3Um9BejRzNTFXdUxEODJqcFE4UUJBQ3gwUV9FTWI4YUl1QTVrX2xhcEdxZ0d4eTlfNUdkT2ZEeEdLQ19SRFR6SkMzakZtRTRIZHRqY3V3?oc=5"
-  },
-  {
-   "title": "皇崗口岸「合作查驗、一次放行」懶人包！一文睇清「香港e-道」預先登記步驟/資格條件/通關流程",
-   "source": "U Travel",
-   "date": "11-02 05:17",
-   "iso": "2026-11-02T05:17:18+00:00",
-   "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxOeFhSQUVvZEtLQy1wMVJLTEFnVHp1em41Wmg1QWVXM2JwclA3X3JjVUpNbzYydFlBUFRWajB6aGpPS0UyUThmT1VxM05vSF9iQzZ5MkdTb3Z5ekVVbS00b3VLdVB3MGRfTERaaXFPQmlvNXlWczVPOUFxckdxb3MxWWhaUW5reDdfYWZEejFmXzc4NURreFZQYlIzUUZXZnllTHV1YVpKWkZndWRyMW4xT1VKdXJ5RTRBcEJvVDFUTkkwTUFjTDdzNGw3OHVFZjNnalV6X0NlQVc0NDhpZXZCNHMtV2NQR2oxSm5CNGZ0UmVZbnYtTzZkUjV4dmpqQVpocl9KU2twNHlQM0hxRVc4UmdKZXo1Q0U2Y3V4bm95OXpkTmRXZ3VqRlJMQXpfWW5LT2YxV0JXX09Fb1pzZWpmMVlPR0xBVllLTGNfQ3ZKaWlWb01MRGZBZG5CV3FvVHlpSzFSamxRblUzNXUwRlZIeE44SWxIRGptamtHR2RwNUl5ZlNwRWhLNVpXbkFFaEpzaVZEX05iSVcyXzlCYnEwSWp4bmJSZzRsMUhkc2lWV3pFYlc2MG5PSVF4TmlOSmdRVlRHOFhwdXlFVHZoalFaM0ZhT1JFaTRzaVhCTEFubDRidl9PaFpYZVU2aHp4TWw0c0dINTdSeUpoQm9lWUQtNE56VFdPcWd6X1QtMmpQZEhIVlFG?oc=5"
-  },
-  {
    "title": "民安隊萬聖節周末進駐新皇崗口岸 全力疏導人流保通關暢順",
    "source": "巴士的報",
    "date": "11-02 01:19",
@@ -104,11 +83,32 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOdTI4OHUwUTBkblJhR1RSREwwdmwtUlp2TFc3NG4tWnlHZlczSnlSaVZOV1pCVWdlLUxjVGZ4N0ZpcktzQlhpNmhFTXRJaDloTzJXZU9TLV9VM2dNcHV3aDdxbkFwLTc4OGN3Ymh4ZDhEdzFvRFBpSW8tY3YyTU4wbmY4NjNWNTUyZWhqNVRkQTVaakJlSGdQREk1T3NFZ09oSTVaZlVQTFRFV01CdUtKb3NWS2dDdFY4M2g2RjdKbTA4M29Wa090b0oxQXA2U3NsX2RDcHZRWnczRHNPTEFhSm0tRnJnVnp0dDlRVjZHUU9CMnA1UkM4SkxNckJRTDRrSE1kYXZSempTSzJ0cXpZMlJmR1d5OWthSTVDOU9UNDZWa2ltdHZfYXBMSkQ0b2tIMHNGSUNfTnB2VnpsbTJzWUtuNHF6VmhkV3R2RXNuREdlbU1lYUI3XzNqMXRnZllLekVvdjNTQTJLcVd4OWxB?oc=5"
   },
   {
-   "title": "雙雙創新高！深圳邊檢單日查驗114.5萬人次皇崗口岸單日16.1萬人次出入境- 港聞",
-   "source": "dotdotnews",
-   "date": "11-02 01:12",
-   "iso": "2026-11-02T01:12:01+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IU3lOZHg3Y3NyQ3RpcG1DNml2eXR1REhMQ0MwaFJtZU5oa3BqeUljMFd5MExma0NvRHdYWkQ2eGhGZGpNeThzVWZtZ29jZVpUSUJyR2hfZzNYYnc0MzN1YUwycU5WbTNLcHRsNWlLMW5fcFJXbzZzMGZR?oc=5"
+   "title": "萬聖夜皇崗過關等45分鐘 當局一度籲用深圳灣 - 20261102 - 要聞",
+   "source": "明報新聞網",
+   "date": "11-01 20:30",
+   "iso": "2026-11-01T20:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQb3ZiRjkteHVPZkRPZDZ3c3Bka3pobVRHcmgwTm1iRUlHZGtGcnN3NWkxTVRDaEhhVDdFVVdKX1FmenlPaEt2RkF0U3BPNlpuVm5aQWlkRkNvMml4X2Z0M2syUnQtX2tmWUVLb1RoXy0talZIeVlvTkxTdnZYeVQyVnpVNGxrc1ZfQjRhSWVsbk1yME9LblB4dTd5Q3VDcGNQeG1aeDNqQTNpNzRuTmdSUVJCMFp3YWRhVWxRT1Y4ZkJkZ1A0T2hKRExlYXVlV01iQ0xQNXhLNXlQem9WLTBEVHVmN0hKMHVQb3FEZ1NDa2k3RDhpWHBjVnVjcnY3YWctcGkzU2d1YW5zMTM1MDBlQWFucVFjWnZzU01yOHdUTVc4elBlUUlrTnVFdXJhS1pPaWRqNXBtV1RnUXlqT2l1YkNCQTB5Sjhrc2JjaVlHQUcwUTB6VkxxZmJJYVdWV3FnamtLQ3N3aHBra3RqSlRKN0xQNkdZTXc?oc=5"
+  },
+  {
+   "title": "中原：皇崗口岸周邊樓盤租售看漲 新關口便利往返 港人置業增28% 灣區金融發展 - 專題",
+   "source": "信報網站",
+   "date": "11-01 18:58",
+   "iso": "2026-11-01T18:58:35+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQOEVacER2RE9Xd0dSRERMY2I5TWxyUmhJT281bXN2LWJpVmV4MUVDaFNPWnVaRGNhOEVqZjljbUllSGxkcDBjenVXb215SzRXS0YwOGptbnlpUlFXUi1DNUs0QmxOaFAzUF9WbEVfUWRUN25fNXkycFllakhMTmxYbXVsaE5rMmpDZnN4R21lbXhqbVZSNTZEbi1LQnVjNEhORUFZRUtUNHhRMUdrQktVZmRwMkpZNWgxRFVxVi0xeTlRcHFGZHlFbVY3Q3BfWGlPbDBaeU5fY3prSjFxSnBNblFlZEY3dzJjRnVHN1k5OVRlVmNXQ3RoR282RzRJd3FnbmUxUkI1N3llUjltNXpvSzFYa1dRZFZtTE5FUnpNX3lSOUFIekZUYjV3SXBmM2VUVzBRSjlWV29JdkpseWF0Vksxb1Y5WHNzQjVCMTFhR2FQbnp3bjRTNWdHZw?oc=5"
+  },
+  {
+   "title": "新皇崗口岸｜城巴往返啟德B14專線試行延長兩周 料改恆常路線",
+   "source": "香港01",
+   "date": "11-01 09:16",
+   "iso": "2026-11-01T09:16:04+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPY3Y1RlF4STNPN2V3dThiTTNvUEE4TXp6R1FLQk4xZ2t4cXhlQ3diM0RrMS1aQTk5am04VThEa3lpRy1TNGxUQTFfWUx6UFdWS1EweC1TOW1HbWtKVmhHdjc4WnVVemxuaElseGpfTE1aTFVVd3JwQ3dKMDVuX3Vlcm9kZEhjZG5ZclRveFdBUUZFMTVJNnlOMW94a0lOMHpzWVAtbmY0SG10MFF0ci04VXFabkhfQ202bG9leXNOT0FtaG9mRGhHZFNITHVFc3VhZVU5MlZQeDd5S0ZobGkzOV95eE56Sk5VNm5CVjVkWVZ2elJtdlhZaXZVbUdWRElGSnM5UmxUeXBvV0l6bW55Z2VMRXZXY1NzdmpHMFJuaDBCVzFjNWh6ZVVaamRYc2tSQ29KLUtlOU16UkpaNi1NYWlobmI2ODUtT2E0MmlJRk9GVXRaLUtlcDBlWW5yN2NmOC1jMGVqUk9qZ3BmcFhyOW9lSFpKNjV5SnBUNjg5S3NRWEdZTEljZkFWeU1IMklsQkFWSm0xblNNSEctSUdNSHVvRVV5aVc2?oc=5"
+  },
+  {
+   "title": "深圳灣加時通關有效分流盛事周末新皇崗15分鐘過關- 灣區生活",
+   "source": "香港文匯報",
+   "date": "11-01 00:31",
+   "iso": "2026-11-01T00:31:11+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FXzZWX3NVdHc5Q0d1TUhPR1g0MC0zT1R6ZWtCcmpTS2lrVWVBQmZhal94b0IwelN0SXF5T1V3OC1PU1VzbUw4NDk1S0hJQWRzTndfakRqaUw4SHNxa0hOdFZvSFd5NjlCc3Y3MUN0UnVpaGpxX1BF?oc=5"
   }
  ],
  "ok": true,
@@ -135,5 +135,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 458
+ "history_points": 459
 };
