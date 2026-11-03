@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-03T14:14:50+08:00",
+ "generated_at": "2026-11-03T14:20:56+08:00",
  "date": "2026-11-03",
  "weekday": "星期二",
- "clock": "14:14",
+ "clock": "14:20",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -59,7 +59,7 @@ window.HGP_DATA = {
    "source": "Now 新聞",
    "date": "11-03 05:53",
    "iso": "2026-11-03T05:53:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lWGowZDl6djRDWXNEemJhcndBcGswc0JpRFVBUDZzT0E1OGtzR3hzSndENFd5RDg2aklyUkJwa2dGeHN5NnpnNHZ2d2dsY19CUE1iYkJ1UG9kNFFhV2M4UW5VUlVGQ1dyb3JF?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55d3dzSE5DNkIxMTIwZUNseTJlRnAwNGQySzVKWFc5Q0xQd2RhZWQyZm9EdjVqU1JJa3gwTURKRHd6UmNlVy1KbThCTTJCZmNCM3NIc3NaMHgteWFlWlRsUTJ3?oc=5"
   },
   {
    "title": "新聞透視．延伸閱讀｜皇崗口岸重建後實施一地兩檢 設計通關流量達20萬人次",
@@ -135,5 +135,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 470
+ "history_points": 471
 };
