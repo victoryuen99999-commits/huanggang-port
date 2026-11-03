@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-03T19:03:13+08:00",
+ "generated_at": "2026-11-03T19:09:21+08:00",
  "date": "2026-11-03",
  "weekday": "星期二",
- "clock": "19:03",
+ "clock": "19:09",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -62,13 +62,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BeFk5OTJXZktVUDdtdlR6QVo0bC1fLXJVeno4TkI5Nmkybk5ZMlZOeDRrRmMxQjBPRS1UZEthaHB6aHlEdlJ6aU95YWV0Qk13NUpGaTFTWVctTXdMMkRveGt3?oc=5"
   },
   {
-   "title": "運輸署：咪表泊車系統故障 正緊急搶修",
-   "source": "TVB",
-   "date": "11-03 03:30",
-   "iso": "2026-11-03T03:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQldIcUJ4ZS0tUXB2LWVKdTFiM3FCMFg0cTQ0Mjl2dzl0aWVMMWRvZlljY1pKdzUwTWtYUHZWYkJEemFJUDIwaDg4eF82RnY3eXlka0hmbE03NjE1SDJvcml6Z3BfdWtHUTlsT1JsazBDSmVEODdnS3dXSW5XVnJGdDZMTjB0QmRTbVh1bDdOSE9hX25rYXQ1WnVtVVhQTk11WGtPZmtSWTlNejNsa2tuRWFtRXVndDhlM0k5UzlrZHpTcnJjSDJHWUw5NXYtdXBmLS1scHNRaTVuSEV0TEwxcmdCd0pUelNtMDRVdkdBRXVxU2JRWXZOc0NUbnU4T0ljVklpM2M3cw?oc=5"
-  },
-  {
    "title": "新聞透視．延伸閱讀｜皇崗口岸重建後實施一地兩檢 設計通關流量達20萬人次",
    "source": "TVB",
    "date": "11-03 00:30",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "11-02 05:17",
    "iso": "2026-11-02T05:17:18+00:00",
    "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxOeFhSQUVvZEtLQy1wMVJLTEFnVHp1em41Wmg1QWVXM2JwclA3X3JjVUpNbzYydFlBUFRWajB6aGpPS0UyUThmT1VxM05vSF9iQzZ5MkdTb3Z5ekVVbS00b3VLdVB3MGRfTERaaXFPQmlvNXlWczVPOUFxckdxb3MxWWhaUW5reDdfYWZEejFmXzc4NURreFZQYlIzUUZXZnllTHV1YVpKWkZndWRyMW4xT1VKdXJ5RTRBcEJvVDFUTkkwTUFjTDdzNGw3OHVFZjNnalV6X0NlQVc0NDhpZXZCNHMtV2NQR2oxSm5CNGZ0UmVZbnYtTzZkUjV4dmpqQVpocl9KU2twNHlQM0hxRVc4UmdKZXo1Q0U2Y3V4bm95OXpkTmRXZ3VqRlJMQXpfWW5LT2YxV0JXX09Fb1pzZWpmMVlPR0xBVllLTGNfQ3ZKaWlWb01MRGZBZG5CV3FvVHlpSzFSamxRblUzNXUwRlZIeE44SWxIRGptamtHR2RwNUl5ZlNwRWhLNVpXbkFFaEpzaVZEX05iSVcyXzlCYnEwSWp4bmJSZzRsMUhkc2lWV3pFYlc2MG5PSVF4TmlOSmdRVlRHOFhwdXlFVHZoalFaM0ZhT1JFaTRzaVhCTEFubDRidl9PaFpYZVU2aHp4TWw0c0dINTdSeUpoQm9lWUQtNE56VFdPcWd6X1QtMmpQZEhIVlFG?oc=5"
+  },
+  {
+   "title": "民安隊萬聖節周末進駐新皇崗口岸 全力疏導人流保通關暢順",
+   "source": "巴士的報",
+   "date": "11-02 01:19",
+   "iso": "2026-11-02T01:19:21+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOdTI4OHUwUTBkblJhR1RSREwwdmwtUlp2TFc3NG4tWnlHZlczSnlSaVZOV1pCVWdlLUxjVGZ4N0ZpcktzQlhpNmhFTXRJaDloTzJXZU9TLV9VM2dNcHV3aDdxbkFwLTc4OGN3Ymh4ZDhEdzFvRFBpSW8tY3YyTU4wbmY4NjNWNTUyZWhqNVRkQTVaakJlSGdQREk1T3NFZ09oSTVaZlVQTFRFV01CdUtKb3NWS2dDdFY4M2g2RjdKbTA4M29Wa090b0oxQXA2U3NsX2RDcHZRWnczRHNPTEFhSm0tRnJnVnp0dDlRVjZHUU9CMnA1UkM4SkxNckJRTDRrSE1kYXZSempTSzJ0cXpZMlJmR1d5OWthSTVDOU9UNDZWa2ltdHZfYXBMSkQ0b2tIMHNGSUNfTnB2VnpsbTJzWUtuNHF6VmhkV3R2RXNuREdlbU1lYUI3XzNqMXRnZllLekVvdjNTQTJLcVd4OWxB?oc=5"
   }
  ],
  "ok": true,
