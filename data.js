@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-03T21:08:43+08:00",
+ "generated_at": "2026-11-03T21:40:21+08:00",
  "date": "2026-11-03",
  "weekday": "星期二",
- "clock": "21:08",
+ "clock": "21:40",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 24,
-  "humidity": 87,
-  "wind": 11.1,
+  "humidity": 88,
+  "wind": 11.0,
   "code": 0,
   "desc": "天晴",
   "tmax": 29,
@@ -70,10 +70,10 @@ window.HGP_DATA = {
   },
   {
    "title": "皇崗周末日均15萬人次出入境創新高 陳國基稱旺丁旺財",
-   "source": "Now 新聞",
+   "source": "Yahoo",
    "date": "11-02 12:19",
    "iso": "2026-11-02T12:19:27+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OanJYVzRQWXVDQmF2cXFpTlczTk5JbElsYjFiUDI4OTBMUkppVV9zcmRKRWJKeWlTblVkWDRRWG43TnUyR294R1RoVjczdlVfa0paRWZCQjJSWG9kODJrQjF3?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQNnpIUmxueDUxc3NzdjZMaHhRRzJySEhyNUdrbnpwcmtWdWpOWVMxMlRXMFduUG9tUG4zUmpoajZ1TlRWTEp6MHdyN1dHcnY2V0xrMXlscXVfUjV0VENjUFhfNV9teXo2b3owcEF2YUU3Ty13V0tKdXR3dmRkMm54UDg1bjNFRUVWV1gyN3dZODlWN2JwYnN2ZGJvSjdZQUJJZ01FUW1MSURQVkpfSi1GREVoU2ZPQThRa3FZT1hSM001cXg3SWgyYXNYZUVyT0JDS0xIeTVjUFdRSTZ4azVsSXVUNlZ2LU0xZUg2akxBa3FPT0dUdjhkSnZ2V1NHb3dseXhFQjdSR2R6d0ZiblZocFRMdW05Mk9ZeE5uZmVKeWkzQXZXbU9HU0M0RDZjLUVIWjhxZng3MGdtT2tXbU5WbnZVWUNNV1dGaWlhRTJPcTNuT3RNRW14ZkR6WS1MdThiNTdzd0JEVnJvSjA?oc=5"
   },
   {
    "title": "旅客讚皇崗口岸過關暢順 深圳灣口岸延長通關助疏導",
@@ -90,6 +90,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOdTI4OHUwUTBkblJhR1RSREwwdmwtUlp2TFc3NG4tWnlHZlczSnlSaVZOV1pCVWdlLUxjVGZ4N0ZpcktzQlhpNmhFTXRJaDloTzJXZU9TLV9VM2dNcHV3aDdxbkFwLTc4OGN3Ymh4ZDhEdzFvRFBpSW8tY3YyTU4wbmY4NjNWNTUyZWhqNVRkQTVaakJlSGdQREk1T3NFZ09oSTVaZlVQTFRFV01CdUtKb3NWS2dDdFY4M2g2RjdKbTA4M29Wa090b0oxQXA2U3NsX2RDcHZRWnczRHNPTEFhSm0tRnJnVnp0dDlRVjZHUU9CMnA1UkM4SkxNckJRTDRrSE1kYXZSempTSzJ0cXpZMlJmR1d5OWthSTVDOU9UNDZWa2ltdHZfYXBMSkQ0b2tIMHNGSUNfTnB2VnpsbTJzWUtuNHF6VmhkV3R2RXNuREdlbU1lYUI3XzNqMXRnZllLekVvdjNTQTJLcVd4OWxB?oc=5"
   },
   {
+   "title": "社評：皇崗口岸過關暢順 事前部署考驗過關 - 20261102 - 社評",
+   "source": "明報新聞網",
+   "date": "11-01 20:30",
+   "iso": "2026-11-01T20:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPZXdWWnE2VUhhd1RCY2swWmRvS1RiaUYzdnpFR1F5eFpNS2w1dGZDdmRmYXpULXh1dmt4RmNiOXoxVHNCaG1HZUNRSjJUSnZLNkhNVmtIVUY5TEdua011S1VSOUFsMTEyTnBMR01lYUdQR3ZESDFDRGdhYmhRWkhZQVF5UGJnbFNXcXp4QVF0RjNhclN1V0xTd2Z4UkU2aWNBNUhkS1FNX0xsVWp2akx0UU9TMXB5aHFITTVCaXgzeTRUWVVmaVlFRUJISGhabDcxcGhWNEVvcUVjV0l3ZG5RSWh5cTl5cXJ0SWtPNkVHSWl0RXNtV0t4bXh5U0lHV3V3TVNqSXBpVmFWcVJsQnloVE8xZllfZEphV19PM0pnNFFRZXlRODRrOHlNcHlNTzRFLV9NTk1lZXFmdXIzaHYxcUpfSzVpcWxjRVNwZnFNYzRFOTdmdHhCMnFnX08tamVYYzdSS2tMYzAydw?oc=5"
+  },
+  {
    "title": "萬聖夜皇崗過關等45分鐘 當局一度籲用深圳灣 - 20261102 - 要聞",
    "source": "明報新聞網",
    "date": "11-01 20:30",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-01 18:58",
    "iso": "2026-11-01T18:58:35+00:00",
    "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQOEVacER2RE9Xd0dSRERMY2I5TWxyUmhJT281bXN2LWJpVmV4MUVDaFNPWnVaRGNhOEVqZjljbUllSGxkcDBjenVXb215SzRXS0YwOGptbnlpUlFXUi1DNUs0QmxOaFAzUF9WbEVfUWRUN25fNXkycFllakhMTmxYbXVsaE5rMmpDZnN4R21lbXhqbVZSNTZEbi1LQnVjNEhORUFZRUtUNHhRMUdrQktVZmRwMkpZNWgxRFVxVi0xeTlRcHFGZHlFbVY3Q3BfWGlPbDBaeU5fY3prSjFxSnBNblFlZEY3dzJjRnVHN1k5OVRlVmNXQ3RoR282RzRJd3FnbmUxUkI1N3llUjltNXpvSzFYa1dRZFZtTE5FUnpNX3lSOUFIekZUYjV3SXBmM2VUVzBRSjlWV29JdkpseWF0Vksxb1Y5WHNzQjVCMTFhR2FQbnp3bjRTNWdHZw?oc=5"
-  },
-  {
-   "title": "中原：皇崗口岸周邊樓盤租售看漲新關口便利往返 港人置業增28%",
-   "source": "信報網站",
-   "date": "11-01 17:55",
-   "iso": "2026-11-01T17:55:18+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOSld6MlE1YmcyUlBsWHQ3MS1HazFXZG5CNjR4NmxaOS16NjRRU09oeG9QbHV0TTJzOFJ4MVJxMVFTalR4Xzg5TVBrX2VUOTZXMGZ3TS1STTB3NHNITWJZR2VHVVhTQmd0UXZ2bkhBVjNtX1M2VmtfX0xkNXZqOURqcUhHWm5uSmJCTEVtekVrT1B5SHNUVEoyNExQekhGcl9LVWZkYXVIUjRjWVZlT29XbTZ3MjZmbGE2UlRleU55cVNQVmhDN2tiZmh3czBnbEFFM2VSODdoUE1RUmQtcnkxdEYzZFlzMGxHOWdsNnQ0Ylkza21Gd1pMOVpMRkw2UmdQV1p3a1NlbkxLLTBmVmZLaEQ0QWZWOWxiNjluclJRdkQwS05xb0pDeFR4X3lrWjRtYWRQeXcwWWREU3BncUZIYWY0YXl4dWhCV0V2azFTaDZUZ0ktUTl4U2x3R25kNVo4QWhlTnI1RFFqSzZpblg3LThfUGhVcnNDR0Z5S0F3aw?oc=5"
   }
  ],
  "ok": true,
