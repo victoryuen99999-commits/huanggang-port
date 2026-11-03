@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-04T03:52:29+08:00",
+ "generated_at": "2026-11-04T03:58:57+08:00",
  "date": "2026-11-04",
  "weekday": "星期三",
- "clock": "03:52",
+ "clock": "03:58",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,23 +44,16 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 24,
-  "humidity": 92,
-  "wind": 11.7,
-  "code": 2,
-  "desc": "局部多雲",
+  "humidity": 90,
+  "wind": 11.6,
+  "code": 3,
+  "desc": "多雲",
   "tmax": 28,
   "tmin": 24,
   "pop": 61
  },
  "warnings": [],
  "news": [
-  {
-   "title": "時事全方位｜跨境白牌車問題(二)",
-   "source": "Now 新聞",
-   "date": "11-03 05:54",
-   "iso": "2026-11-03T05:54:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BeFk5OTJXZktVUDdtdlR6QVo0bC1fLXJVeno4TkI5Nmkybk5ZMlZOeDRrRmMxQjBPRS1UZEthaHB6aHlEdlJ6aU95YWV0Qk13NUpGaTFTWVctTXdMMkRveGt3?oc=5"
-  },
   {
    "title": "時事全方位｜跨境白牌車問題(一)",
    "source": "Now 新聞",
@@ -88,6 +81,13 @@ window.HGP_DATA = {
    "date": "11-02 08:50",
    "iso": "2026-11-02T08:50:05+00:00",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGeGtNdDQxMVVjSmtCUm5ERFpXcTdOTUs0cFVQVmtCamRZX1Myejl4bVphTEtKNnBtbmFPMXRVU1pvZFRYOG5oZ1pFcGZkald3VHZIQWxndnk4OXhQc24zXzBTZUZ6QQ?oc=5"
+  },
+  {
+   "title": "皇崗口岸「合作查驗、一次放行」懶人包！一文睇清「香港e-道」預先登記步驟/資格條件/通關流程",
+   "source": "U Travel",
+   "date": "11-02 05:17",
+   "iso": "2026-11-02T05:17:18+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxOeFhSQUVvZEtLQy1wMVJLTEFnVHp1em41Wmg1QWVXM2JwclA3X3JjVUpNbzYydFlBUFRWajB6aGpPS0UyUThmT1VxM05vSF9iQzZ5MkdTb3Z5ekVVbS00b3VLdVB3MGRfTERaaXFPQmlvNXlWczVPOUFxckdxb3MxWWhaUW5reDdfYWZEejFmXzc4NURreFZQYlIzUUZXZnllTHV1YVpKWkZndWRyMW4xT1VKdXJ5RTRBcEJvVDFUTkkwTUFjTDdzNGw3OHVFZjNnalV6X0NlQVc0NDhpZXZCNHMtV2NQR2oxSm5CNGZ0UmVZbnYtTzZkUjV4dmpqQVpocl9KU2twNHlQM0hxRVc4UmdKZXo1Q0U2Y3V4bm95OXpkTmRXZ3VqRlJMQXpfWW5LT2YxV0JXX09Fb1pzZWpmMVlPR0xBVllLTGNfQ3ZKaWlWb01MRGZBZG5CV3FvVHlpSzFSamxRblUzNXUwRlZIeE44SWxIRGptamtHR2RwNUl5ZlNwRWhLNVpXbkFFaEpzaVZEX05iSVcyXzlCYnEwSWp4bmJSZzRsMUhkc2lWV3pFYlc2MG5PSVF4TmlOSmdRVlRHOFhwdXlFVHZoalFaM0ZhT1JFaTRzaVhCTEFubDRidl9PaFpYZVU2aHp4TWw0c0dINTdSeUpoQm9lWUQtNE56VFdPcWd6X1QtMmpQZEhIVlFG?oc=5"
   },
   {
    "title": "民安隊萬聖節周末進駐新皇崗口岸 全力疏導人流保通關暢順",
