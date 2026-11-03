@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-04T00:27:24+08:00",
+ "generated_at": "2026-11-04T00:33:31+08:00",
  "date": "2026-11-04",
  "weekday": "星期三",
- "clock": "00:27",
+ "clock": "00:33",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,7 +44,7 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 24,
-  "humidity": 88,
+  "humidity": 89,
   "wind": 10.7,
   "code": 1,
   "desc": "大致晴朗",
@@ -55,11 +55,11 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "時事全方位｜跨境白牌車問題(二)",
+   "title": "時事全方位｜跨境白牌車問題(一)",
    "source": "Now 新聞",
-   "date": "11-03 05:54",
-   "iso": "2026-11-03T05:54:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BeFk5OTJXZktVUDdtdlR6QVo0bC1fLXJVeno4TkI5Nmkybk5ZMlZOeDRrRmMxQjBPRS1UZEthaHB6aHlEdlJ6aU95YWV0Qk13NUpGaTFTWVctTXdMMkRveGt3?oc=5"
+   "date": "11-03 05:53",
+   "iso": "2026-11-03T05:53:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55d3dzSE5DNkIxMTIwZUNseTJlRnAwNGQySzVKWFc5Q0xQd2RhZWQyZm9EdjVqU1JJa3gwTURKRHd6UmNlVy1KbThCTTJCZmNCM3NIc3NaMHgteWFlWlRsUTJ3?oc=5"
   },
   {
    "title": "新聞透視．延伸閱讀｜皇崗口岸重建後實施一地兩檢 設計通關流量達20萬人次",
