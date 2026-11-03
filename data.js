@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-03T09:17:46+08:00",
+ "generated_at": "2026-11-03T09:23:53+08:00",
  "date": "2026-11-03",
  "weekday": "星期二",
- "clock": "09:17",
+ "clock": "09:23",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -62,13 +62,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOVXg0LXhZU0k5QXFOSnF6eTRKZ09XYklVcmI5M0o3aHFDWDZ0S0FWRmRzWHU0aUxOVGlyZ2R5VHZKemxlU0tHS0ltTTNLTEc5d0dTSHBlZnprLTk1dGtSeERMcmpLUmxHaVQ0U0REeXJhblpFMDljWkxocVA0SjVNQnBtMXl6Qk9BN1c1UVRZX09rUG5JMVZlOE5kZHRueFZ0ZlFFc3NLSHNLOXdFN09VXzJFeGFCTGVPNVFjZ3JXVlF0MmczR1JNbVdkYkhZNmd6TjRMOHhJaEJJMWdzTkJyZnBNcC00WE9mdVJhajRGeWxBdEswRGR4Nl96T0VRcmZXY3F2WGtfOTFRYTloRmo2U2UtX0dMZ3RNeWZvWHozNXh1clVEYWdYOHNYWXh2dHgtSi1veWJieHdTVmF4blRTM0pkTXpYemdWaUhLWHVXRWdnWGJzS3hwQXQ1dWY2dXFYbF93TG5Hanl0R2dOQlpQZkVGdnNpdHJxYXpUZ0pycGZRdk9DNDhRMm52eERRZkJOTTNZSDJqcHp2RTlaXzJiZk1wUWlxVW5iWmFVMmRydDU4RkV4amIyTDEybXZLUQ?oc=5"
   },
   {
-   "title": "皇崗周末日均15萬人次出入境創新高 陳國基稱旺丁旺財",
-   "source": "Now 新聞",
-   "date": "11-02 12:19",
-   "iso": "2026-11-02T12:19:27+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OanJYVzRQWXVDQmF2cXFpTlczTk5JbElsYjFiUDI4OTBMUkppVV9zcmRKRWJKeWlTblVkWDRRWG43TnUyR294R1RoVjczdlVfa0paRWZCQjJSWG9kODJrQjF3?oc=5"
-  },
-  {
    "title": "旅客讚皇崗口岸過關暢順 深圳灣口岸延長通關助疏導",
    "source": "成報",
    "date": "11-02 08:50",
@@ -88,6 +81,13 @@ window.HGP_DATA = {
    "date": "11-02 03:11",
    "iso": "2026-11-02T03:11:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxON1lOLW5SWUtOeXdwN25rb05IZlg2V0Z0OEQzLWI1LV9WQUtENDZxVTZhZXdiTVp3Z3dRSVdJOFFPWGJ2UGhBekxwcHEwdW1KUHU0NGdUc0JmMVNYSUNTbmhxM0hHazhFbV9MNFprandlTEFpWVpCaWI1bVJoSmhfTmFkVWhxcVFjOXVPcnRMeldIR0xRTVZqVTdxb0g1QlhIVmx1NlNjeGU3cnNGYjVWZGo4eTNWOWFvbUR0eU1qVjlwVFdXWEU4Vm5LNnoxcGJmbV81aGFDa3dSMDh1SVh6dWxpREZleS02dHliNVJWUnlNNklMNUlOMm9tYjZLX0dpQXVEQmlfVXRzVUxsanQwQW1yc3UtQQ?oc=5"
+  },
+  {
+   "title": "民安隊萬聖節周末進駐新皇崗口岸 全力疏導人流保通關暢順",
+   "source": "巴士的報",
+   "date": "11-02 01:19",
+   "iso": "2026-11-02T01:19:21+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOdTI4OHUwUTBkblJhR1RSREwwdmwtUlp2TFc3NG4tWnlHZlczSnlSaVZOV1pCVWdlLUxjVGZ4N0ZpcktzQlhpNmhFTXRJaDloTzJXZU9TLV9VM2dNcHV3aDdxbkFwLTc4OGN3Ymh4ZDhEdzFvRFBpSW8tY3YyTU4wbmY4NjNWNTUyZWhqNVRkQTVaakJlSGdQREk1T3NFZ09oSTVaZlVQTFRFV01CdUtKb3NWS2dDdFY4M2g2RjdKbTA4M29Wa090b0oxQXA2U3NsX2RDcHZRWnczRHNPTEFhSm0tRnJnVnp0dDlRVjZHUU9CMnA1UkM4SkxNckJRTDRrSE1kYXZSempTSzJ0cXpZMlJmR1d5OWthSTVDOU9UNDZWa2ltdHZfYXBMSkQ0b2tIMHNGSUNfTnB2VnpsbTJzWUtuNHF6VmhkV3R2RXNuREdlbU1lYUI3XzNqMXRnZllLekVvdjNTQTJLcVd4OWxB?oc=5"
   },
   {
    "title": "社評：皇崗口岸過關暢順 事前部署考驗過關 - 20261102 - 社評",
@@ -135,5 +135,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 426
+ "history_points": 427
 };
