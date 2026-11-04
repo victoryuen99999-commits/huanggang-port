@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-04T12:34:09+08:00",
+ "generated_at": "2026-11-04T12:40:18+08:00",
  "date": "2026-11-04",
  "weekday": "星期三",
- "clock": "12:34",
+ "clock": "12:40",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -97,18 +97,18 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOVXg0LXhZU0k5QXFOSnF6eTRKZ09XYklVcmI5M0o3aHFDWDZ0S0FWRmRzWHU0aUxOVGlyZ2R5VHZKemxlU0tHS0ltTTNLTEc5d0dTSHBlZnprLTk1dGtSeERMcmpLUmxHaVQ0U0REeXJhblpFMDljWkxocVA0SjVNQnBtMXl6Qk9BN1c1UVRZX09rUG5JMVZlOE5kZHRueFZ0ZlFFc3NLSHNLOXdFN09VXzJFeGFCTGVPNVFjZ3JXVlF0MmczR1JNbVdkYkhZNmd6TjRMOHhJaEJJMWdzTkJyZnBNcC00WE9mdVJhajRGeWxBdEswRGR4Nl96T0VRcmZXY3F2WGtfOTFRYTloRmo2U2UtX0dMZ3RNeWZvWHozNXh1clVEYWdYOHNYWXh2dHgtSi1veWJieHdTVmF4blRTM0pkTXpYemdWaUhLWHVXRWdnWGJzS3hwQXQ1dWY2dXFYbF93TG5Hanl0R2dOQlpQZkVGdnNpdHJxYXpUZ0pycGZRdk9DNDhRMm52eERRZkJOTTNZSDJqcHp2RTlaXzJiZk1wUWlxVW5iWmFVMmRydDU4RkV4amIyTDEybXZLUQ?oc=5"
   },
   {
+   "title": "Editorial : Huanggang Passed Halloween Test With Forward Planning - 20261103 - 英文",
+   "source": "明報新聞網",
+   "date": "11-02 20:30",
+   "iso": "2026-11-02T20:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ2doWWs1TkQ3cC1feUVMYWlDLXlWQVdKSmR0Q1Z0empnbk9FOE1mbS1JVDBMRUdyVlBxc3Uydmtlam5wRG9jR3g0Zk9jXzRSRXBUc0VsaVN6TDF0Vk14X0cwVzBNeXZqWDVuQTB5RDY1cUxfZEo4UXdlY3ktNTI5bkFLWWpIX0IzejROMWRoZFljajBvRDBYYjZkSmo0VWlUOG5sX3FjbUdMVXRSM2JIZDBoWUt6ZkpJNkpfWlJRMWFsam1CalJsYkFvMHRaeVBTTXhQMWRPZ1hCQUoxalR0MmJ6VQ?oc=5"
+  },
+  {
    "title": "皇崗周末日均15萬人次出入境創新高 陳國基稱旺丁旺財",
    "source": "Now 新聞",
    "date": "11-02 12:19",
    "iso": "2026-11-02T12:19:27+00:00",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OanJYVzRQWXVDQmF2cXFpTlczTk5JbElsYjFiUDI4OTBMUkppVV9zcmRKRWJKeWlTblVkWDRRWG43TnUyR294R1RoVjczdlVfa0paRWZCQjJSWG9kODJrQjF3?oc=5"
-  },
-  {
-   "title": "過去三日訪港旅客約60萬人次按年升34% 陳國基：丁財兩旺",
-   "source": "RTHK News",
-   "date": "11-02 10:02",
-   "iso": "2026-11-02T10:02:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wRHUtaks4eEJBdkN2MHpzRG94NWFqRmZzb3YxMFpKTjBRVmZYQ3FyRFpJZVFXSEJrS1NCbElMR3NuTzZjMnF5SHBCc2ZsNDdTUHF1bVcyT1FmeVd5M3dkcmxpSzluTG5LQ2FfMXpYaw?oc=5"
   }
  ],
  "ok": true,
