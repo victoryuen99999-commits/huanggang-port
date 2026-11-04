@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-05T07:14:59+08:00",
+ "generated_at": "2026-11-05T07:21:07+08:00",
  "date": "2026-11-05",
  "weekday": "星期四",
- "clock": "07:14",
+ "clock": "07:21",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -97,18 +97,18 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rOE51QU5Vb0xMYkcxUVlKN20yTUlnUU9iWGFLZmp1RkhkNGY4Q3YtZUZERTZMbF90VEduRmx0WW5jYjFGWnBJN280bmtEcmFBRVlSM3ZaRDU2WTIzb1ZhM3hWZHdzVDBfSnBmYjlKUkZEMDlpUkRIbkx3?oc=5"
   },
   {
+   "title": "新皇崗口岸開通近一個月 當局認部分旅客初用自助通道「卡關」",
+   "source": "on.cc東網",
+   "date": "11-04 06:14",
+   "iso": "2026-11-04T06:14:46+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHdyRDkwSFVpX1gycEFnMDVyTVZ3cFVoMWJnWG8wREF6VEh2alZvTzZRcE1uY3Y0MDZFREtnc3ZtNVE2cXRWdHpNbUMxUXhLdGZpeTVqMkI5UEZoZ3ByWHFPc3dpM3UwaVBkb2JQWlJNSUFudWRqN2RMNXA2SDdERUwySDdxT2VCNzZZ?oc=5"
+  },
+  {
    "title": "鄧炳強稱皇崗口岸港方口岸區禁區式管理是最有效運用有限空間做法",
    "source": "RTHK News",
    "date": "11-04 04:59",
    "iso": "2026-11-04T04:59:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSUjA0b05reTBaWVphM1FqNXRzMVNTdnFZYnIxaW53cU1ab2ZyMWpERTl6TWFXbG1GWkw4X0o3UkY0dFB2aWN1MVlnd1lUeVdmZGw3LWZMa05kWDR2ZVlKdE1iMGs4Uzh3eDhxc2hzSQ?oc=5"
-  },
-  {
-   "title": "港漂大讚新皇崗口岸慳時間 惟兩地通勤仍疲憊 嘆錯過夜生活 盼月薪6萬搬港島",
-   "source": "星島頭條",
-   "date": "11-03 22:00",
-   "iso": "2026-11-03T22:00:30+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxOVGo5bkhVaDRWUXpoUVlPVnVPZHo5eU41TjNHdi1YbVRqVDlubEJab3VRdWM4RllDNl9wSVVQOE1CV212WUdtVUJQTlhkS3NuLUdZWl8xSDNzd2U3QW16V2E3ajJPZGtJNzJyaXRIeVJvUEhRSnYtOVNBclk1alh3enZ4Uzc3TEx2TE9YUmhITllWOUZNZTN3WGxZbnVYRElxOENocUVmVXFZM0IxVzF4QXhwaGpZTzByX3dZZV9Fd2tzTkZlYTdNc1BzNWwzQmx2djVUNkhsU2FKY0x4T1Rvb1NTcGtDQjFBdndwZDVUYV9Xc2pocFcxTERFZUFYc3A4TzRlWm5ZRE43M3RrMDhrLVNyb0NkUHJvWThQaXNtNE41TXNmUEp6ZVBob1pzWTBfbGJvVFdmX1VveXY0WVJXQVFMRjA4Y2V1TDFXUnF5OWtka21MdEwzelNGaTVXU0xRNWNuRmstR3czMEU1cWZUek5wV3kxRnhyaHY3UUdURVVqcG1HRWI1enhQWHVGS2g4QW9YV20wYlhvczYtMmtmd3NhT1ZJcjBrLUdzY0RIenBBT1lTWHl5elp4cEZuUzhVRVBmc3AtQTBTekJmcFZfQzJhU0RDUlVjUmFEZUtQVEg5WWI2eXk5UW1pbw?oc=5"
   }
  ],
  "ok": true,
