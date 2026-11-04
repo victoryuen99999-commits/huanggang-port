@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-05T06:35:08+08:00",
+ "generated_at": "2026-11-05T06:44:23+08:00",
  "date": "2026-11-05",
  "weekday": "星期四",
- "clock": "06:35",
+ "clock": "06:44",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -72,7 +72,7 @@ window.HGP_DATA = {
    "title": "鄧炳強：皇崗口岸港方區域不設網約車上落客區",
    "source": "香港商报",
    "date": "11-04 08:51",
-   "iso": "2026-11-04T08:51:16+00:00",
+   "iso": "2026-11-04T08:51:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XQmtDN3pzSXZmY0p2bFdfYkJZcjh3S0tXSUxhN2tlYk5ZYVIxY2JJaVFPLUhfZjVjZ2NhbzRkLWl4NGViMXNuUVRKNmljaC0tV25laldQekJReVNXSGFjMW00djZsR0tNQnctX0pIYjQyeWR4eUQtTGFSdw?oc=5"
   },
   {
