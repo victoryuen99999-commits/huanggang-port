@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-04T15:09:44+08:00",
+ "generated_at": "2026-11-04T15:15:51+08:00",
  "date": "2026-11-04",
  "weekday": "星期三",
- "clock": "15:09",
+ "clock": "15:15",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,10 +44,10 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 28,
-  "humidity": 66,
-  "wind": 14.8,
-  "code": 51,
-  "desc": "毛毛雨",
+  "humidity": 67,
+  "wind": 15.0,
+  "code": 1,
+  "desc": "大致晴朗",
   "tmax": 29,
   "tmin": 23,
   "pop": 86
@@ -55,11 +55,18 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "鄧炳強：新皇崗口岸日均逾8.6萬人次出入境節假日近14萬人次- 香港",
+   "source": "大公文匯網",
+   "date": "11-04 07:12",
+   "iso": "2026-11-04T07:12:52+00:00",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OaTBwQWwxTHhXYVZEVlpHNFBRZi1ramk1YUpKVWprQjZRM0lKSzBOYVh1a0NSb2JTNk83U1NDbW1ZYUtjOG1mR1VjeTVoVDJRTkJjeFBVMDhhN1pyamZMdnlTM3dqQnFGT0JkZUNicF8?oc=5"
+  },
+  {
    "title": "新皇崗口岸丨鄧炳強:日均逾8.6萬人次 周末及假期近14萬",
    "source": "信報網站",
-   "date": "11-04 07:04",
-   "iso": "2026-11-04T07:04:04+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxPZ29oSF9VTGJQRDFOVEhzN2dqU01sTmY0WWNaeWFiSU1NRXJKUFFQeEthazVrYV9sdWUzMXpkU2F3N1YwNUJEd1JLdDA3QzlldkpHaHo0OXBHLVBlN2U3XzNNdUFyVWROMTFZaW5IanEyN0dvSDF3WFZzV1ZhZENYTXdBZVREdXFnZ2pzbU44dGd2SWltbkZJSTJwMGNZeTU5WlRyM1gzQWJta1VuQk5UNXd0SDFCWTUtS3JFWjJMdWRhSXRuSUxJdVZGaDhWNU00enVLeVVpYWJVVlNsQ3NkaFR6NHB2SEpkNW5tei1wbEZPLUdoeUhvUktpMHRCdkpVMDF0MFA0d0lvc1lJeWNQNFo4VmVoZW13YnpxYU0wc2RNMVRlQ09aQVNDN0Zmd2d1NVJSNnI2VW5GNHhvTGxsTXpsNnRsSEJlQ0huMHpFaEV0SC1nb3dZTnB4TURjdkFQZTB6T0xNRDB2Mjh3cTNnZkRMYnp4Qkp2TWU4bllkbmxuRld0SnJYTHgyTFM0T1AyaHpLMFdqbW9DZ3FSTTd2bWpQMFlpNVloMGtxaUNSWjJhUkVtdnBadmNoY2d2N1J2blUwekhvZDc4TVZHSC1BYlVTbjNXT2toUkxvQ001VEFfdm44c2NXS3gxQnBzb0FXYnV5cFhFYk9yRURJOVh2eFMzaGZac2pfZnJReTU0VFNRdmR5TFVwR1h4YUdSMXRwbHRBUUZYbzR5MWc?oc=5"
+   "date": "11-04 07:12",
+   "iso": "2026-11-04T07:12:50+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNbjE0Y3hSclkzdmduUHozUGxPYzY4NHh6SV85OG9jaXliYmszOW5DVzB4ejlGNkRaNTVIa2FSQ0VKOWVRMnFxdXlrUzBpeGlmMVYyWG4tMk5zRzI4SlljU2VraG9TWE5lS1dfU0IwX2NpWFRid3FEOGw5YnNLc3NjOUlHaEJyN1ZVX0JMMzB5REZBMzV0aGFsQXdBZHp0aHc4NXpHeFZMMDI5SjBEYTRFelRDSWpuMl81bjc1bFZSTGxjUGtxUTR0ZW1lSFk1MEZURldjZG5MTk45dmVreG9NV1NfR2Jyb1g5OVdLLTBOSGFsWldhdENZTWtydjlzSFhOT1MtQkNEOS1ZaDM3d1NqYW8tdTZGSWRMMmU0dnB4VWlVMEY1RHlUeGpSRUxaRDhtRU9NWjZWWFBDOWV6WG80QXNGQkVzRkNPRms1SFd4cGRubE8xTDVJWGliMVItMXJQc3FleDF3dWxJaEdHLVd2WU9RRQ?oc=5"
   },
   {
    "title": "鄧炳強：新皇崗口岸日均逾8.6萬人次出入境節假日近14萬人次- 港聞",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-03 20:16",
    "iso": "2026-11-03T20:16:38+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ldkh3eFBMTW1fUk1FRHllN0t1WDEwaVdjUE80Z2lEWG1yR1NQSWFmRjF2ZWhZTTQ4bF9FZUpmdG00eXdSNXZ4MnNINFgxNUxHamNTeWlWeGJrT3lzYThCdWNNQ3ZTaEc4VXE3S3NsbjZCbEtKczFr?oc=5"
-  },
-  {
-   "title": "新聞透視．延伸閱讀｜皇崗口岸重建後實施一地兩檢 設計通關流量達20萬人次",
-   "source": "TVB",
-   "date": "11-03 00:30",
-   "iso": "2026-11-03T00:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOVXg0LXhZU0k5QXFOSnF6eTRKZ09XYklVcmI5M0o3aHFDWDZ0S0FWRmRzWHU0aUxOVGlyZ2R5VHZKemxlU0tHS0ltTTNLTEc5d0dTSHBlZnprLTk1dGtSeERMcmpLUmxHaVQ0U0REeXJhblpFMDljWkxocVA0SjVNQnBtMXl6Qk9BN1c1UVRZX09rUG5JMVZlOE5kZHRueFZ0ZlFFc3NLSHNLOXdFN09VXzJFeGFCTGVPNVFjZ3JXVlF0MmczR1JNbVdkYkhZNmd6TjRMOHhJaEJJMWdzTkJyZnBNcC00WE9mdVJhajRGeWxBdEswRGR4Nl96T0VRcmZXY3F2WGtfOTFRYTloRmo2U2UtX0dMZ3RNeWZvWHozNXh1clVEYWdYOHNYWXh2dHgtSi1veWJieHdTVmF4blRTM0pkTXpYemdWaUhLWHVXRWdnWGJzS3hwQXQ1dWY2dXFYbF93TG5Hanl0R2dOQlpQZkVGdnNpdHJxYXpUZ0pycGZRdk9DNDhRMm52eERRZkJOTTNZSDJqcHp2RTlaXzJiZk1wUWlxVW5iWmFVMmRydDU4RkV4amIyTDEybXZLUQ?oc=5"
   }
  ],
  "ok": true,
