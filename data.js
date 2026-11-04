@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-04T15:03:38+08:00",
+ "generated_at": "2026-11-04T15:09:44+08:00",
  "date": "2026-11-04",
  "weekday": "星期三",
- "clock": "15:03",
+ "clock": "15:09",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,20 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "新皇崗口岸丨鄧炳強:日均逾8.6萬人次 周末及假期近14萬",
+   "source": "信報網站",
+   "date": "11-04 07:04",
+   "iso": "2026-11-04T07:04:04+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxPZ29oSF9VTGJQRDFOVEhzN2dqU01sTmY0WWNaeWFiSU1NRXJKUFFQeEthazVrYV9sdWUzMXpkU2F3N1YwNUJEd1JLdDA3QzlldkpHaHo0OXBHLVBlN2U3XzNNdUFyVWROMTFZaW5IanEyN0dvSDF3WFZzV1ZhZENYTXdBZVREdXFnZ2pzbU44dGd2SWltbkZJSTJwMGNZeTU5WlRyM1gzQWJta1VuQk5UNXd0SDFCWTUtS3JFWjJMdWRhSXRuSUxJdVZGaDhWNU00enVLeVVpYWJVVlNsQ3NkaFR6NHB2SEpkNW5tei1wbEZPLUdoeUhvUktpMHRCdkpVMDF0MFA0d0lvc1lJeWNQNFo4VmVoZW13YnpxYU0wc2RNMVRlQ09aQVNDN0Zmd2d1NVJSNnI2VW5GNHhvTGxsTXpsNnRsSEJlQ0huMHpFaEV0SC1nb3dZTnB4TURjdkFQZTB6T0xNRDB2Mjh3cTNnZkRMYnp4Qkp2TWU4bllkbmxuRld0SnJYTHgyTFM0T1AyaHpLMFdqbW9DZ3FSTTd2bWpQMFlpNVloMGtxaUNSWjJhUkVtdnBadmNoY2d2N1J2blUwekhvZDc4TVZHSC1BYlVTbjNXT2toUkxvQ001VEFfdm44c2NXS3gxQnBzb0FXYnV5cFhFYk9yRURJOVh2eFMzaGZac2pfZnJReTU0VFNRdmR5TFVwR1h4YUdSMXRwbHRBUUZYbzR5MWc?oc=5"
+  },
+  {
+   "title": "鄧炳強：新皇崗口岸日均逾8.6萬人次出入境節假日近14萬人次- 港聞",
+   "source": "dotdotnews",
+   "date": "11-04 07:02",
+   "iso": "2026-11-04T07:02:37+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rOE51QU5Vb0xMYkcxUVlKN20yTUlnUU9iWGFLZmp1RkhkNGY4Q3YtZUZERTZMbF90VEduRmx0WW5jYjFGWnBJN280bmtEcmFBRVlSM3ZaRDU2WTIzb1ZhM3hWZHdzVDBfSnBmYjlKUkZEMDlpUkRIbkx3?oc=5"
+  },
+  {
    "title": "鄧炳強：皇崗口岸港方口岸以禁區式管理 平日日均出入境逾8.6 萬人次",
    "source": "巴士的報",
    "date": "11-04 06:54",
@@ -83,13 +97,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxOVGo5bkhVaDRWUXpoUVlPVnVPZHo5eU41TjNHdi1YbVRqVDlubEJab3VRdWM4RllDNl9wSVVQOE1CV212WUdtVUJQTlhkS3NuLUdZWl8xSDNzd2U3QW16V2E3ajJPZGtJNzJyaXRIeVJvUEhRSnYtOVNBclk1alh3enZ4Uzc3TEx2TE9YUmhITllWOUZNZTN3WGxZbnVYRElxOENocUVmVXFZM0IxVzF4QXhwaGpZTzByX3dZZV9Fd2tzTkZlYTdNc1BzNWwzQmx2djVUNkhsU2FKY0x4T1Rvb1NTcGtDQjFBdndwZDVUYV9Xc2pocFcxTERFZUFYc3A4TzRlWm5ZRE43M3RrMDhrLVNyb0NkUHJvWThQaXNtNE41TXNmUEp6ZVBob1pzWTBfbGJvVFdmX1VveXY0WVJXQVFMRjA4Y2V1TDFXUnF5OWtka21MdEwzelNGaTVXU0xRNWNuRmstR3czMEU1cWZUek5wV3kxRnhyaHY3UUdURVVqcG1HRWI1enhQWHVGS2g4QW9YV20wYlhvczYtMmtmd3NhT1ZJcjBrLUdzY0RIenBBT1lTWHl5elp4cEZuUzhVRVBmc3AtQTBTekJmcFZfQzJhU0RDUlVjUmFEZUtQVEg5WWI2eXk5UW1pbw?oc=5"
   },
   {
-   "title": "新皇崗口岸出發 深圳逛超市揀好物 - 20261104 - 圖片看世界",
-   "source": "明報新聞網",
-   "date": "11-03 20:30",
-   "iso": "2026-11-03T20:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR05qUHg4TkZFQnFHSXFjbmU0T1lQVWVxbXk5bzhlQXdwcjBlZk5WRnVnbXFuMDQ2YktOckhYNVFaYUJlMjB1ZlZyOFI4RmpOSzRWcHVRbHB0Vk5KUFduNGM2a2JpMXJ0SnpHRWNMWnNyOHdBVzBGRDhScDVERnkxdEpTM1dMR0ZCdzVvZ2YyLVhadXpRQlBnOVllRHNKN1U?oc=5"
-  },
-  {
    "title": "口岸疏導宜標本兼治更好承接盛事人潮- 評論",
    "source": "香港文匯報",
    "date": "11-03 20:16",
@@ -97,18 +104,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ldkh3eFBMTW1fUk1FRHllN0t1WDEwaVdjUE80Z2lEWG1yR1NQSWFmRjF2ZWhZTTQ4bF9FZUpmdG00eXdSNXZ4MnNINFgxNUxHamNTeWlWeGJrT3lzYThCdWNNQ3ZTaEc4VXE3S3NsbjZCbEtKczFr?oc=5"
   },
   {
-   "title": "時事全方位｜跨境白牌車問題(二)",
-   "source": "Now 新聞",
-   "date": "11-03 05:54",
-   "iso": "2026-11-03T05:54:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BeFk5OTJXZktVUDdtdlR6QVo0bC1fLXJVeno4TkI5Nmkybk5ZMlZOeDRrRmMxQjBPRS1UZEthaHB6aHlEdlJ6aU95YWV0Qk13NUpGaTFTWVctTXdMMkRveGt3?oc=5"
-  },
-  {
-   "title": "時事全方位｜跨境白牌車問題(一)",
-   "source": "Now 新聞",
-   "date": "11-03 05:53",
-   "iso": "2026-11-03T05:53:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55d3dzSE5DNkIxMTIwZUNseTJlRnAwNGQySzVKWFc5Q0xQd2RhZWQyZm9EdjVqU1JJa3gwTURKRHd6UmNlVy1KbThCTTJCZmNCM3NIc3NaMHgteWFlWlRsUTJ3?oc=5"
+   "title": "新聞透視．延伸閱讀｜皇崗口岸重建後實施一地兩檢 設計通關流量達20萬人次",
+   "source": "TVB",
+   "date": "11-03 00:30",
+   "iso": "2026-11-03T00:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOVXg0LXhZU0k5QXFOSnF6eTRKZ09XYklVcmI5M0o3aHFDWDZ0S0FWRmRzWHU0aUxOVGlyZ2R5VHZKemxlU0tHS0ltTTNLTEc5d0dTSHBlZnprLTk1dGtSeERMcmpLUmxHaVQ0U0REeXJhblpFMDljWkxocVA0SjVNQnBtMXl6Qk9BN1c1UVRZX09rUG5JMVZlOE5kZHRueFZ0ZlFFc3NLSHNLOXdFN09VXzJFeGFCTGVPNVFjZ3JXVlF0MmczR1JNbVdkYkhZNmd6TjRMOHhJaEJJMWdzTkJyZnBNcC00WE9mdVJhajRGeWxBdEswRGR4Nl96T0VRcmZXY3F2WGtfOTFRYTloRmo2U2UtX0dMZ3RNeWZvWHozNXh1clVEYWdYOHNYWXh2dHgtSi1veWJieHdTVmF4blRTM0pkTXpYemdWaUhLWHVXRWdnWGJzS3hwQXQ1dWY2dXFYbF93TG5Hanl0R2dOQlpQZkVGdnNpdHJxYXpUZ0pycGZRdk9DNDhRMm52eERRZkJOTTNZSDJqcHp2RTlaXzJiZk1wUWlxVW5iWmFVMmRydDU4RkV4amIyTDEybXZLUQ?oc=5"
   }
  ],
  "ok": true,
