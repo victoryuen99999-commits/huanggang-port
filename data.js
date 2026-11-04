@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-05T03:11:39+08:00",
+ "generated_at": "2026-11-05T03:17:46+08:00",
  "date": "2026-11-05",
  "weekday": "星期四",
- "clock": "03:11",
+ "clock": "03:17",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 23,
   "humidity": 96,
-  "wind": 5.8,
+  "wind": 5.9,
   "code": 0,
   "desc": "天晴",
   "tmax": 30,
@@ -104,11 +104,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OaTBwQWwxTHhXYVZEVlpHNFBRZi1ramk1YUpKVWprQjZRM0lKSzBOYVh1a0NSb2JTNk83U1NDbW1ZYUtjOG1mR1VjeTVoVDJRTkJjeFBVMDhhN1pyamZMdnlTM3dqQnFGT0JkZUNicF8?oc=5"
   },
   {
-   "title": "新皇崗口岸丨鄧炳強:日均逾8.6萬人次 周末及假期近14萬",
-   "source": "信報網站",
-   "date": "11-04 07:00",
-   "iso": "2026-11-04T07:00:20+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNdkxXY25wUjFMbmF0Rm1wUUJ5RmJIT05WMDRxcGZ4TjRJSUNEcmxuODR0SG9VUERVN2JUYjlDUHhZVXR5N1VrOVl2YzBtZTRjXzdGT0lyREduT0dFa2syVFAxSGdpUlZUZ254SnpFTEJKXzZMdEJJT1FGLW83SWZjdUVHZk5kXzh6SVZrTjlLWjFNMGRXWGxhQUtPMmJCVGttMk00cFI1THNJT3JiREQ0cTV6NkJabE9VVU1xSmpOSnhNUTVCQ0lTYnF2dk5Xa3JncHNZREk2czczbndHeUxObW15SURsVUdKY0tWeEpZOTNuejRDbi1qS3k4eVBMMWQ5UnFTUEJxRFhWaFFZaDhiUEdaaWlzZ3VLdDh5WHRhSWdCZWpXRGhqYkV2U2FBNFo0TXJZMV9KUUp0dmRyTEd6RDdSQlNGOWl5bVI5MW9Gb1NDOWxJVHhDSThpVDJHM3ZJbFpkX3hiWjR3elFZVVg0MUlrdjBwZDdONm1HNw?oc=5"
+   "title": "鄧炳強：新皇崗口岸日均逾8.6萬人次出入境節假日近14萬人次- 港聞",
+   "source": "dotdotnews",
+   "date": "11-04 07:02",
+   "iso": "2026-11-04T07:02:37+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rOE51QU5Vb0xMYkcxUVlKN20yTUlnUU9iWGFLZmp1RkhkNGY4Q3YtZUZERTZMbF90VEduRmx0WW5jYjFGWnBJN280bmtEcmFBRVlSM3ZaRDU2WTIzb1ZhM3hWZHdzVDBfSnBmYjlKUkZEMDlpUkRIbkx3?oc=5"
   }
  ],
  "ok": true,
