@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-04T09:58:40+08:00",
+ "generated_at": "2026-11-04T10:04:47+08:00",
  "date": "2026-11-04",
  "weekday": "星期三",
- "clock": "09:58",
+ "clock": "10:04",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 26,
-  "humidity": 77,
-  "wind": 14.7,
+  "humidity": 76,
+  "wind": 14.9,
   "code": 51,
   "desc": "毛毛雨",
   "tmax": 28,
@@ -60,13 +60,6 @@ window.HGP_DATA = {
    "date": "11-03 22:00",
    "iso": "2026-11-03T22:00:30+00:00",
    "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxOVGo5bkhVaDRWUXpoUVlPVnVPZHo5eU41TjNHdi1YbVRqVDlubEJab3VRdWM4RllDNl9wSVVQOE1CV212WUdtVUJQTlhkS3NuLUdZWl8xSDNzd2U3QW16V2E3ajJPZGtJNzJyaXRIeVJvUEhRSnYtOVNBclk1alh3enZ4Uzc3TEx2TE9YUmhITllWOUZNZTN3WGxZbnVYRElxOENocUVmVXFZM0IxVzF4QXhwaGpZTzByX3dZZV9Fd2tzTkZlYTdNc1BzNWwzQmx2djVUNkhsU2FKY0x4T1Rvb1NTcGtDQjFBdndwZDVUYV9Xc2pocFcxTERFZUFYc3A4TzRlWm5ZRE43M3RrMDhrLVNyb0NkUHJvWThQaXNtNE41TXNmUEp6ZVBob1pzWTBfbGJvVFdmX1VveXY0WVJXQVFMRjA4Y2V1TDFXUnF5OWtka21MdEwzelNGaTVXU0xRNWNuRmstR3czMEU1cWZUek5wV3kxRnhyaHY3UUdURVVqcG1HRWI1enhQWHVGS2g4QW9YV20wYlhvczYtMmtmd3NhT1ZJcjBrLUdzY0RIenBBT1lTWHl5elp4cEZuUzhVRVBmc3AtQTBTekJmcFZfQzJhU0RDUlVjUmFEZUtQVEg5WWI2eXk5UW1pbw?oc=5"
-  },
-  {
-   "title": "新皇崗口岸出發 深圳逛超市揀好物 - 20261104 - 圖片看世界",
-   "source": "明報新聞網",
-   "date": "11-03 20:30",
-   "iso": "2026-11-03T20:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR05qUHg4TkZFQnFHSXFjbmU0T1lQVWVxbXk5bzhlQXdwcjBlZk5WRnVnbXFuMDQ2YktOckhYNVFaYUJlMjB1ZlZyOFI4RmpOSzRWcHVRbHB0Vk5KUFduNGM2a2JpMXJ0SnpHRWNMWnNyOHdBVzBGRDhScDVERnkxdEpTM1dMR0ZCdzVvZ2YyLVhadXpRQlBnOVllRHNKN1U?oc=5"
   },
   {
    "title": "口岸疏導宜標本兼治更好承接盛事人潮- 評論",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "11-02 08:50",
    "iso": "2026-11-02T08:50:05+00:00",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGeGtNdDQxMVVjSmtCUm5ERFpXcTdOTUs0cFVQVmtCamRZX1Myejl4bVphTEtKNnBtbmFPMXRVU1pvZFRYOG5oZ1pFcGZkald3VHZIQWxndnk4OXhQc24zXzBTZUZ6QQ?oc=5"
+  },
+  {
+   "title": "民安隊萬聖節周末進駐新皇崗口岸 全力疏導人流保通關暢順",
+   "source": "巴士的報",
+   "date": "11-02 01:19",
+   "iso": "2026-11-02T01:19:21+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOdTI4OHUwUTBkblJhR1RSREwwdmwtUlp2TFc3NG4tWnlHZlczSnlSaVZOV1pCVWdlLUxjVGZ4N0ZpcktzQlhpNmhFTXRJaDloTzJXZU9TLV9VM2dNcHV3aDdxbkFwLTc4OGN3Ymh4ZDhEdzFvRFBpSW8tY3YyTU4wbmY4NjNWNTUyZWhqNVRkQTVaakJlSGdQREk1T3NFZ09oSTVaZlVQTFRFV01CdUtKb3NWS2dDdFY4M2g2RjdKbTA4M29Wa090b0oxQXA2U3NsX2RDcHZRWnczRHNPTEFhSm0tRnJnVnp0dDlRVjZHUU9CMnA1UkM4SkxNckJRTDRrSE1kYXZSempTSzJ0cXpZMlJmR1d5OWthSTVDOU9UNDZWa2ltdHZfYXBMSkQ0b2tIMHNGSUNfTnB2VnpsbTJzWUtuNHF6VmhkV3R2RXNuREdlbU1lYUI3XzNqMXRnZllLekVvdjNTQTJLcVd4OWxB?oc=5"
   }
  ],
  "ok": true,
