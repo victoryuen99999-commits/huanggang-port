@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-04T20:57:49+08:00",
+ "generated_at": "2026-11-04T21:03:56+08:00",
  "date": "2026-11-04",
  "weekday": "星期三",
- "clock": "20:57",
+ "clock": "21:03",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -62,13 +62,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XSmdoZ0dLd3BWMFF0NF9Ldm1KR29RS2dOTm9wS0M1RzV5NnJodExabjVfMVRDYWhrN2p5V1EwRkhvakhpNUoyTWthcmJfN1Y0Y1dndmF2djBVSV9fLWhnbllwWlVQbl83TVdNTlhFbw?oc=5"
   },
   {
-   "title": "保安局：新皇崗口岸通關大致暢順 惟個別旅客不熟新查驗模式",
-   "source": "Yahoo",
-   "date": "11-04 09:09",
-   "iso": "2026-11-04T09:09:24+00:00",
-   "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQSi1kUlBUWlN3Y0JMSzRYRHUxWDRLLTZ6UVRwbi1ONlBYalM5SnpIdjFtRFN3bTRtRlFEMml4VFVCeGhlOXlCZHhFem04WmFQSE5QdmF0c2JiZ053aFJMWklrTUUtNGdaYUMzZVd6UjdCQVpWUXlnZWR1UEtraEprNjhvc2h2RUtGMW1MU0JNUnpkN0tadFl1bDNDYlFISE1UTm1uQ1pCTUFWaVJkYlFHRkZsYXctNm9rZmVjSDNVYVNjMWZGQTY1RVZkY21FcWtkT2h5QzZaZG83TWhQLXAyRGFGU0xpQWxYOVVLRDlJZWtiXy13NzdLc1I4Y1NiVzhEUTFxTFhLcVVZVUQzR28wTjhFbUxEZ19wOU5UZzI4UGRUbVdzeUk5aTBNOWhKMUNZWE90T2w2Qk5hQU5jTXhGcHQxNThxQnBYWFFFVG56aGZ6X29YTm9lSzZDQ0tZV0NpZGpnSGlLc2RuOGdqRWNXbVZnX2RlWnJXbDI0VFFpWHl4UXJ6b3M5TFRnUFE2UQ?oc=5"
-  },
-  {
    "title": "新皇崗口岸「輕微卡關」 鄧炳強：個別旅客未預先登記「合作查驗」",
    "source": "獨立媒體",
    "date": "11-04 08:51",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "11-04 04:59",
    "iso": "2026-11-04T04:59:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSUjA0b05reTBaWVphM1FqNXRzMVNTdnFZYnIxaW53cU1ab2ZyMWpERTl6TWFXbG1GWkw4X0o3UkY0dFB2aWN1MVlnd1lUeVdmZGw3LWZMa05kWDR2ZVlKdE1iMGs4Uzh3eDhxc2hzSQ?oc=5"
+  },
+  {
+   "title": "新皇崗口岸啟用近一個月 保安局形容整體通關情況大致暢順",
+   "source": "TVB",
+   "date": "11-04 03:57",
+   "iso": "2026-11-04T03:57:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOaFhBUEhjY29haVIyZTctMENnY09IamFfZkJ3WVdIVnkxZmdhaDZIMk1rcTVGOTJsaF9NYmdWb25GbGpRaVM5T0VjLWpyQnFZaEd2VWJhS0UxWlZJMzhXN0dGSVQ1cUtjOWxMOEpMNkV4UmRESnYyWjBpTEhXWWJvak9MX0kzdFNacTlCZnctcjdiQm9ueG9xd2tRcHhtcmxHTEh5NFNwcTQyZGctRG1jQU5KVEItN201elEzVm9XQ0hjcTFkRGZWVlB5VVdwNnJOM3NlRTM1SE1SNVpEcXpvOUp2U0dJWXo4NVJBeG5acTNjMnZhc0NXVlh0LTdwNTNZbDRwSjRCOExXZXl5RFhVR3JaRTN3ekRwMzVMdWp0Z1Npbnc5Ni1lcE80UGZzbC1OdGlTbmN5Q1Yza1RGWC1nR2stX1JtallkamtvSF8weHl1VEt6TEI5bUR2eUhfb25IUlZTODVndEtBdDQ3a1U1cDI0YzJaa2FtUUw3Mlc5QQ?oc=5"
   }
  ],
  "ok": true,
