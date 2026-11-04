@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-04T14:51:23+08:00",
+ "generated_at": "2026-11-04T14:57:31+08:00",
  "date": "2026-11-04",
  "weekday": "星期三",
- "clock": "14:51",
+ "clock": "14:57",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,17 +43,24 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 27,
-  "humidity": 70,
-  "wind": 14.8,
+  "temp": 28,
+  "humidity": 66,
+  "wind": 13.5,
   "code": 51,
   "desc": "毛毛雨",
-  "tmax": 28,
+  "tmax": 29,
   "tmin": 23,
   "pop": 86
  },
  "warnings": [],
  "news": [
+  {
+   "title": "鄧炳強：皇崗口岸港方口岸以禁區式管理 平日日均出入境逾8.6 萬人次",
+   "source": "巴士的報",
+   "date": "11-04 06:54",
+   "iso": "2026-11-04T06:54:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPQmN5ejlhQVo0V1FvVTliTEhVTDRZblVLYVNKQmNsMWZHVi1IN3h2dlBtR3ZJbGsybVJ0SW5MMlRqY1BGdzFWUnZRNjZIRDRkR19TcjByLUg1eDVkQmh2QXhqZElmWEh5TWI2M0NIT0N0b3pHejFPMU56RlhXQ3d4SV9lY29tVVRzSWRMbDJVTGJLRVBpeFJsdlQ3OU1KSXFFZjlqZmtMSXFMNmVPN0psVFhQMzVkUUhCa3lvb09GZFJPay1hMlpITU5HTHBQUF9DVGRFZEo0VmVhb2RJdFlXR2FOR05oMkI3TjRvQ245NTZxQ2lwOG5lV2J0bTd3R29QZUpWLV9vNnZtczZ2QjlLay13YUlJZmJGckZ5eVFFcmNJcEJtZ2tmZ1hYdEJ3WVg3Y0xDYmhUQndsNnQ2S2hmTlk3bEQzU0dxeUZ4SlBneUJqOEw5czY0c2ZMWllVcVp5S1ppVE1sczdiOUViQ2d3?oc=5"
+  },
   {
    "title": "新皇崗口岸開通近一個月 當局認部分旅客初用自助通道「卡關」",
    "source": "on.cc東網",
@@ -76,6 +83,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxOVGo5bkhVaDRWUXpoUVlPVnVPZHo5eU41TjNHdi1YbVRqVDlubEJab3VRdWM4RllDNl9wSVVQOE1CV212WUdtVUJQTlhkS3NuLUdZWl8xSDNzd2U3QW16V2E3ajJPZGtJNzJyaXRIeVJvUEhRSnYtOVNBclk1alh3enZ4Uzc3TEx2TE9YUmhITllWOUZNZTN3WGxZbnVYRElxOENocUVmVXFZM0IxVzF4QXhwaGpZTzByX3dZZV9Fd2tzTkZlYTdNc1BzNWwzQmx2djVUNkhsU2FKY0x4T1Rvb1NTcGtDQjFBdndwZDVUYV9Xc2pocFcxTERFZUFYc3A4TzRlWm5ZRE43M3RrMDhrLVNyb0NkUHJvWThQaXNtNE41TXNmUEp6ZVBob1pzWTBfbGJvVFdmX1VveXY0WVJXQVFMRjA4Y2V1TDFXUnF5OWtka21MdEwzelNGaTVXU0xRNWNuRmstR3czMEU1cWZUek5wV3kxRnhyaHY3UUdURVVqcG1HRWI1enhQWHVGS2g4QW9YV20wYlhvczYtMmtmd3NhT1ZJcjBrLUdzY0RIenBBT1lTWHl5elp4cEZuUzhVRVBmc3AtQTBTekJmcFZfQzJhU0RDUlVjUmFEZUtQVEg5WWI2eXk5UW1pbw?oc=5"
   },
   {
+   "title": "新皇崗口岸出發 深圳逛超市揀好物 - 20261104 - 圖片看世界",
+   "source": "明報新聞網",
+   "date": "11-03 20:30",
+   "iso": "2026-11-03T20:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR05qUHg4TkZFQnFHSXFjbmU0T1lQVWVxbXk5bzhlQXdwcjBlZk5WRnVnbXFuMDQ2YktOckhYNVFaYUJlMjB1ZlZyOFI4RmpOSzRWcHVRbHB0Vk5KUFduNGM2a2JpMXJ0SnpHRWNMWnNyOHdBVzBGRDhScDVERnkxdEpTM1dMR0ZCdzVvZ2YyLVhadXpRQlBnOVllRHNKN1U?oc=5"
+  },
+  {
    "title": "口岸疏導宜標本兼治更好承接盛事人潮- 評論",
    "source": "香港文匯報",
    "date": "11-03 20:16",
@@ -83,32 +97,18 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ldkh3eFBMTW1fUk1FRHllN0t1WDEwaVdjUE80Z2lEWG1yR1NQSWFmRjF2ZWhZTTQ4bF9FZUpmdG00eXdSNXZ4MnNINFgxNUxHamNTeWlWeGJrT3lzYThCdWNNQ3ZTaEc4VXE3S3NsbjZCbEtKczFr?oc=5"
   },
   {
-   "title": "新聞透視．延伸閱讀｜皇崗口岸重建後實施一地兩檢 設計通關流量達20萬人次",
-   "source": "TVB",
-   "date": "11-03 00:30",
-   "iso": "2026-11-03T00:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOVXg0LXhZU0k5QXFOSnF6eTRKZ09XYklVcmI5M0o3aHFDWDZ0S0FWRmRzWHU0aUxOVGlyZ2R5VHZKemxlU0tHS0ltTTNLTEc5d0dTSHBlZnprLTk1dGtSeERMcmpLUmxHaVQ0U0REeXJhblpFMDljWkxocVA0SjVNQnBtMXl6Qk9BN1c1UVRZX09rUG5JMVZlOE5kZHRueFZ0ZlFFc3NLSHNLOXdFN09VXzJFeGFCTGVPNVFjZ3JXVlF0MmczR1JNbVdkYkhZNmd6TjRMOHhJaEJJMWdzTkJyZnBNcC00WE9mdVJhajRGeWxBdEswRGR4Nl96T0VRcmZXY3F2WGtfOTFRYTloRmo2U2UtX0dMZ3RNeWZvWHozNXh1clVEYWdYOHNYWXh2dHgtSi1veWJieHdTVmF4blRTM0pkTXpYemdWaUhLWHVXRWdnWGJzS3hwQXQ1dWY2dXFYbF93TG5Hanl0R2dOQlpQZkVGdnNpdHJxYXpUZ0pycGZRdk9DNDhRMm52eERRZkJOTTNZSDJqcHp2RTlaXzJiZk1wUWlxVW5iWmFVMmRydDU4RkV4amIyTDEybXZLUQ?oc=5"
-  },
-  {
-   "title": "皇崗周末日均15萬人次出入境創新高 陳國基稱旺丁旺財",
+   "title": "時事全方位｜跨境白牌車問題(二)",
    "source": "Now 新聞",
-   "date": "11-02 12:19",
-   "iso": "2026-11-02T12:19:27+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OanJYVzRQWXVDQmF2cXFpTlczTk5JbElsYjFiUDI4OTBMUkppVV9zcmRKRWJKeWlTblVkWDRRWG43TnUyR294R1RoVjczdlVfa0paRWZCQjJSWG9kODJrQjF3?oc=5"
+   "date": "11-03 05:54",
+   "iso": "2026-11-03T05:54:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BeFk5OTJXZktVUDdtdlR6QVo0bC1fLXJVeno4TkI5Nmkybk5ZMlZOeDRrRmMxQjBPRS1UZEthaHB6aHlEdlJ6aU95YWV0Qk13NUpGaTFTWVctTXdMMkRveGt3?oc=5"
   },
   {
-   "title": "旅客讚皇崗口岸過關暢順 深圳灣口岸延長通關助疏導",
-   "source": "成報",
-   "date": "11-02 08:50",
-   "iso": "2026-11-02T08:50:05+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGeGtNdDQxMVVjSmtCUm5ERFpXcTdOTUs0cFVQVmtCamRZX1Myejl4bVphTEtKNnBtbmFPMXRVU1pvZFRYOG5oZ1pFcGZkald3VHZIQWxndnk4OXhQc24zXzBTZUZ6QQ?oc=5"
-  },
-  {
-   "title": "時事全方位｜萬聖節周末口岸情況(二)",
+   "title": "時事全方位｜跨境白牌車問題(一)",
    "source": "Now 新聞",
-   "date": "11-02 05:42",
-   "iso": "2026-11-02T05:42:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zTE4wdGdLRFhPREhkbFA5WFpHa3BjNWtsUkEweEk3MFotS3JUYXFqV3VOS2xQMmlsbUJHbDVIZWlyNllwN0lLb0U4cjJfbE9kbUhaR0tkQkpFSkpETC04b1VB?oc=5"
+   "date": "11-03 05:53",
+   "iso": "2026-11-03T05:53:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55d3dzSE5DNkIxMTIwZUNseTJlRnAwNGQySzVKWFc5Q0xQd2RhZWQyZm9EdjVqU1JJa3gwTURKRHd6UmNlVy1KbThCTTJCZmNCM3NIc3NaMHgteWFlWlRsUTJ3?oc=5"
   }
  ],
  "ok": true,
