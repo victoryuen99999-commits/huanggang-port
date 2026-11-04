@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-04T10:32:46+08:00",
+ "generated_at": "2026-11-04T10:38:53+08:00",
  "date": "2026-11-04",
  "weekday": "星期三",
- "clock": "10:32",
+ "clock": "10:38",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -62,32 +62,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxOVGo5bkhVaDRWUXpoUVlPVnVPZHo5eU41TjNHdi1YbVRqVDlubEJab3VRdWM4RllDNl9wSVVQOE1CV212WUdtVUJQTlhkS3NuLUdZWl8xSDNzd2U3QW16V2E3ajJPZGtJNzJyaXRIeVJvUEhRSnYtOVNBclk1alh3enZ4Uzc3TEx2TE9YUmhITllWOUZNZTN3WGxZbnVYRElxOENocUVmVXFZM0IxVzF4QXhwaGpZTzByX3dZZV9Fd2tzTkZlYTdNc1BzNWwzQmx2djVUNkhsU2FKY0x4T1Rvb1NTcGtDQjFBdndwZDVUYV9Xc2pocFcxTERFZUFYc3A4TzRlWm5ZRE43M3RrMDhrLVNyb0NkUHJvWThQaXNtNE41TXNmUEp6ZVBob1pzWTBfbGJvVFdmX1VveXY0WVJXQVFMRjA4Y2V1TDFXUnF5OWtka21MdEwzelNGaTVXU0xRNWNuRmstR3czMEU1cWZUek5wV3kxRnhyaHY3UUdURVVqcG1HRWI1enhQWHVGS2g4QW9YV20wYlhvczYtMmtmd3NhT1ZJcjBrLUdzY0RIenBBT1lTWHl5elp4cEZuUzhVRVBmc3AtQTBTekJmcFZfQzJhU0RDUlVjUmFEZUtQVEg5WWI2eXk5UW1pbw?oc=5"
   },
   {
-   "title": "新皇崗口岸出發 深圳逛超市揀好物 - 20261104 - 圖片看世界",
-   "source": "明報新聞網",
-   "date": "11-03 20:30",
-   "iso": "2026-11-03T20:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR05qUHg4TkZFQnFHSXFjbmU0T1lQVWVxbXk5bzhlQXdwcjBlZk5WRnVnbXFuMDQ2YktOckhYNVFaYUJlMjB1ZlZyOFI4RmpOSzRWcHVRbHB0Vk5KUFduNGM2a2JpMXJ0SnpHRWNMWnNyOHdBVzBGRDhScDVERnkxdEpTM1dMR0ZCdzVvZ2YyLVhadXpRQlBnOVllRHNKN1U?oc=5"
-  },
-  {
    "title": "口岸疏導宜標本兼治更好承接盛事人潮- 評論",
    "source": "香港文匯報",
    "date": "11-03 20:16",
    "iso": "2026-11-03T20:16:38+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ldkh3eFBMTW1fUk1FRHllN0t1WDEwaVdjUE80Z2lEWG1yR1NQSWFmRjF2ZWhZTTQ4bF9FZUpmdG00eXdSNXZ4MnNINFgxNUxHamNTeWlWeGJrT3lzYThCdWNNQ3ZTaEc4VXE3S3NsbjZCbEtKczFr?oc=5"
-  },
-  {
-   "title": "時事全方位｜跨境白牌車問題(二)",
-   "source": "Now 新聞",
-   "date": "11-03 05:54",
-   "iso": "2026-11-03T05:54:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BeFk5OTJXZktVUDdtdlR6QVo0bC1fLXJVeno4TkI5Nmkybk5ZMlZOeDRrRmMxQjBPRS1UZEthaHB6aHlEdlJ6aU95YWV0Qk13NUpGaTFTWVctTXdMMkRveGt3?oc=5"
-  },
-  {
-   "title": "時事全方位｜跨境白牌車問題(一)",
-   "source": "Now 新聞",
-   "date": "11-03 05:53",
-   "iso": "2026-11-03T05:53:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55d3dzSE5DNkIxMTIwZUNseTJlRnAwNGQySzVKWFc5Q0xQd2RhZWQyZm9EdjVqU1JJa3gwTURKRHd6UmNlVy1KbThCTTJCZmNCM3NIc3NaMHgteWFlWlRsUTJ3?oc=5"
   },
   {
    "title": "新聞透視．延伸閱讀｜皇崗口岸重建後實施一地兩檢 設計通關流量達20萬人次",
@@ -109,6 +88,27 @@ window.HGP_DATA = {
    "date": "11-02 08:50",
    "iso": "2026-11-02T08:50:05+00:00",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGeGtNdDQxMVVjSmtCUm5ERFpXcTdOTUs0cFVQVmtCamRZX1Myejl4bVphTEtKNnBtbmFPMXRVU1pvZFRYOG5oZ1pFcGZkald3VHZIQWxndnk4OXhQc24zXzBTZUZ6QQ?oc=5"
+  },
+  {
+   "title": "民安隊萬聖節周末進駐新皇崗口岸 全力疏導人流保通關暢順",
+   "source": "巴士的報",
+   "date": "11-02 01:19",
+   "iso": "2026-11-02T01:19:21+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOdTI4OHUwUTBkblJhR1RSREwwdmwtUlp2TFc3NG4tWnlHZlczSnlSaVZOV1pCVWdlLUxjVGZ4N0ZpcktzQlhpNmhFTXRJaDloTzJXZU9TLV9VM2dNcHV3aDdxbkFwLTc4OGN3Ymh4ZDhEdzFvRFBpSW8tY3YyTU4wbmY4NjNWNTUyZWhqNVRkQTVaakJlSGdQREk1T3NFZ09oSTVaZlVQTFRFV01CdUtKb3NWS2dDdFY4M2g2RjdKbTA4M29Wa090b0oxQXA2U3NsX2RDcHZRWnczRHNPTEFhSm0tRnJnVnp0dDlRVjZHUU9CMnA1UkM4SkxNckJRTDRrSE1kYXZSempTSzJ0cXpZMlJmR1d5OWthSTVDOU9UNDZWa2ltdHZfYXBMSkQ0b2tIMHNGSUNfTnB2VnpsbTJzWUtuNHF6VmhkV3R2RXNuREdlbU1lYUI3XzNqMXRnZllLekVvdjNTQTJLcVd4OWxB?oc=5"
+  },
+  {
+   "title": "社評：皇崗口岸過關暢順 事前部署考驗過關 - 20261102 - 社評",
+   "source": "明報新聞網",
+   "date": "11-01 20:30",
+   "iso": "2026-11-01T20:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPZXdWWnE2VUhhd1RCY2swWmRvS1RiaUYzdnpFR1F5eFpNS2w1dGZDdmRmYXpULXh1dmt4RmNiOXoxVHNCaG1HZUNRSjJUSnZLNkhNVmtIVUY5TEdua011S1VSOUFsMTEyTnBMR01lYUdQR3ZESDFDRGdhYmhRWkhZQVF5UGJnbFNXcXp4QVF0RjNhclN1V0xTd2Z4UkU2aWNBNUhkS1FNX0xsVWp2akx0UU9TMXB5aHFITTVCaXgzeTRUWVVmaVlFRUJISGhabDcxcGhWNEVvcUVjV0l3ZG5RSWh5cTl5cXJ0SWtPNkVHSWl0RXNtV0t4bXh5U0lHV3V3TVNqSXBpVmFWcVJsQnloVE8xZllfZEphV19PM0pnNFFRZXlRODRrOHlNcHlNTzRFLV9NTk1lZXFmdXIzaHYxcUpfSzVpcWxjRVNwZnFNYzRFOTdmdHhCMnFnX08tamVYYzdSS2tMYzAydw?oc=5"
+  },
+  {
+   "title": "萬聖夜皇崗過關等45分鐘 當局一度籲用深圳灣 - 20261102 - 要聞",
+   "source": "明報新聞網",
+   "date": "11-01 20:30",
+   "iso": "2026-11-01T20:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQb3ZiRjkteHVPZkRPZDZ3c3Bka3pobVRHcmgwTm1iRUlHZGtGcnN3NWkxTVRDaEhhVDdFVVdKX1FmenlPaEt2RkF0U3BPNlpuVm5aQWlkRkNvMml4X2Z0M2syUnQtX2tmWUVLb1RoXy0talZIeVlvTkxTdnZYeVQyVnpVNGxrc1ZfQjRhSWVsbk1yME9LblB4dTd5Q3VDcGNQeG1aeDNqQTNpNzRuTmdSUVJCMFp3YWRhVWxRT1Y4ZkJkZ1A0T2hKRExlYXVlV01iQ0xQNXhLNXlQem9WLTBEVHVmN0hKMHVQb3FEZ1NDa2k3RDhpWHBjVnVjcnY3YWctcGkzU2d1YW5zMTM1MDBlQWFucVFjWnZzU01yOHdUTVc4elBlUUlrTnVFdXJhS1pPaWRqNXBtV1RnUXlqT2l1YkNCQTB5Sjhrc2JjaVlHQUcwUTB6VkxxZmJJYVdWV3FnamtLQ3N3aHBra3RqSlRKN0xQNkdZTXc?oc=5"
   }
  ],
  "ok": true,
