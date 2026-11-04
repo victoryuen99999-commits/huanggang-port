@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-04T17:00:18+08:00",
+ "generated_at": "2026-11-04T17:06:25+08:00",
  "date": "2026-11-04",
  "weekday": "星期三",
- "clock": "17:00",
+ "clock": "17:06",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "鄧炳強：皇崗口岸港方區域不設網約車上落客區",
+   "source": "香港商报",
+   "date": "11-04 08:51",
+   "iso": "2026-11-04T08:51:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uMGdSR09wQURnTXd3NDZUTHp5V0F2S0NoN3gtbTBYZzZDWUtyYXJoRHRSZUt0aThhLXlKZ1BlT3M3Y21iMW9JbGg2X0hjeDJodkY3ckJKenIxOEptVG5LOEplYm9XRENnYjR0ZTRrWVNrYmFrTUE?oc=5"
+  },
+  {
    "title": "鄧炳強：新皇崗口岸日均逾8.6萬人次出入境節假日近14萬人次- 香港",
    "source": "大公文匯網",
    "date": "11-04 07:12",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-03 05:54",
    "iso": "2026-11-03T05:54:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BeFk5OTJXZktVUDdtdlR6QVo0bC1fLXJVeno4TkI5Nmkybk5ZMlZOeDRrRmMxQjBPRS1UZEthaHB6aHlEdlJ6aU95YWV0Qk13NUpGaTFTWVctTXdMMkRveGt3?oc=5"
-  },
-  {
-   "title": "時事全方位｜跨境白牌車問題(一)",
-   "source": "Now 新聞",
-   "date": "11-03 05:53",
-   "iso": "2026-11-03T05:53:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55d3dzSE5DNkIxMTIwZUNseTJlRnAwNGQySzVKWFc5Q0xQd2RhZWQyZm9EdjVqU1JJa3gwTURKRHd6UmNlVy1KbThCTTJCZmNCM3NIc3NaMHgteWFlWlRsUTJ3?oc=5"
   }
  ],
  "ok": true,
