@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-04T14:45:15+08:00",
+ "generated_at": "2026-11-04T14:51:23+08:00",
  "date": "2026-11-04",
  "weekday": "星期三",
- "clock": "14:45",
+ "clock": "14:51",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,7 +44,7 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 27,
-  "humidity": 71,
+  "humidity": 70,
   "wind": 14.8,
   "code": 51,
   "desc": "毛毛雨",
@@ -57,8 +57,8 @@ window.HGP_DATA = {
   {
    "title": "新皇崗口岸開通近一個月 當局認部分旅客初用自助通道「卡關」",
    "source": "on.cc東網",
-   "date": "11-04 06:11",
-   "iso": "2026-11-04T06:11:15+00:00",
+   "date": "11-04 06:14",
+   "iso": "2026-11-04T06:14:46+00:00",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHdyRDkwSFVpX1gycEFnMDVyTVZ3cFVoMWJnWG8wREF6VEh2alZvTzZRcE1uY3Y0MDZFREtnc3ZtNVE2cXRWdHpNbUMxUXhLdGZpeTVqMkI5UEZoZ3ByWHFPc3dpM3UwaVBkb2JQWlJNSUFudWRqN2RMNXA2SDdERUwySDdxT2VCNzZZ?oc=5"
   },
   {
