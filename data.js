@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-04T21:16:12+08:00",
+ "generated_at": "2026-11-04T21:22:21+08:00",
  "date": "2026-11-04",
  "weekday": "星期三",
- "clock": "21:16",
+ "clock": "21:22",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -90,13 +90,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNbjE0Y3hSclkzdmduUHozUGxPYzY4NHh6SV85OG9jaXliYmszOW5DVzB4ejlGNkRaNTVIa2FSQ0VKOWVRMnFxdXlrUzBpeGlmMVYyWG4tMk5zRzI4SlljU2VraG9TWE5lS1dfU0IwX2NpWFRid3FEOGw5YnNLc3NjOUlHaEJyN1ZVX0JMMzB5REZBMzV0aGFsQXdBZHp0aHc4NXpHeFZMMDI5SjBEYTRFelRDSWpuMl81bjc1bFZSTGxjUGtxUTR0ZW1lSFk1MEZURldjZG5MTk45dmVreG9NV1NfR2Jyb1g5OVdLLTBOSGFsWldhdENZTWtydjlzSFhOT1MtQkNEOS1ZaDM3d1NqYW8tdTZGSWRMMmU0dnB4VWlVMEY1RHlUeGpSRUxaRDhtRU9NWjZWWFBDOWV6WG80QXNGQkVzRkNPRms1SFd4cGRubE8xTDVJWGliMVItMXJQc3FleDF3dWxJaEdHLVd2WU9RRQ?oc=5"
   },
   {
-   "title": "鄧炳強：新皇崗口岸日均逾8.6萬人次出入境節假日近14萬人次- 港聞",
-   "source": "dotdotnews",
-   "date": "11-04 07:02",
-   "iso": "2026-11-04T07:02:37+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rOE51QU5Vb0xMYkcxUVlKN20yTUlnUU9iWGFLZmp1RkhkNGY4Q3YtZUZERTZMbF90VEduRmx0WW5jYjFGWnBJN280bmtEcmFBRVlSM3ZaRDU2WTIzb1ZhM3hWZHdzVDBfSnBmYjlKUkZEMDlpUkRIbkx3?oc=5"
-  },
-  {
    "title": "鄧炳強稱皇崗口岸港方口岸區禁區式管理是最有效運用有限空間做法",
    "source": "RTHK News",
    "date": "11-04 04:59",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "11-04 03:57",
    "iso": "2026-11-04T03:57:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOaFhBUEhjY29haVIyZTctMENnY09IamFfZkJ3WVdIVnkxZmdhaDZIMk1rcTVGOTJsaF9NYmdWb25GbGpRaVM5T0VjLWpyQnFZaEd2VWJhS0UxWlZJMzhXN0dGSVQ1cUtjOWxMOEpMNkV4UmRESnYyWjBpTEhXWWJvak9MX0kzdFNacTlCZnctcjdiQm9ueG9xd2tRcHhtcmxHTEh5NFNwcTQyZGctRG1jQU5KVEItN201elEzVm9XQ0hjcTFkRGZWVlB5VVdwNnJOM3NlRTM1SE1SNVpEcXpvOUp2U0dJWXo4NVJBeG5acTNjMnZhc0NXVlh0LTdwNTNZbDRwSjRCOExXZXl5RFhVR3JaRTN3ekRwMzVMdWp0Z1Npbnc5Ni1lcE80UGZzbC1OdGlTbmN5Q1Yza1RGWC1nR2stX1JtallkamtvSF8weHl1VEt6TEI5bUR2eUhfb25IUlZTODVndEtBdDQ3a1U1cDI0YzJaa2FtUUw3Mlc5QQ?oc=5"
+  },
+  {
+   "title": "港漂大讚新皇崗口岸慳時間 惟兩地通勤仍疲憊 嘆錯過夜生活 盼月薪6萬搬港島",
+   "source": "星島頭條",
+   "date": "11-03 22:00",
+   "iso": "2026-11-03T22:00:30+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxOVGo5bkhVaDRWUXpoUVlPVnVPZHo5eU41TjNHdi1YbVRqVDlubEJab3VRdWM4RllDNl9wSVVQOE1CV212WUdtVUJQTlhkS3NuLUdZWl8xSDNzd2U3QW16V2E3ajJPZGtJNzJyaXRIeVJvUEhRSnYtOVNBclk1alh3enZ4Uzc3TEx2TE9YUmhITllWOUZNZTN3WGxZbnVYRElxOENocUVmVXFZM0IxVzF4QXhwaGpZTzByX3dZZV9Fd2tzTkZlYTdNc1BzNWwzQmx2djVUNkhsU2FKY0x4T1Rvb1NTcGtDQjFBdndwZDVUYV9Xc2pocFcxTERFZUFYc3A4TzRlWm5ZRE43M3RrMDhrLVNyb0NkUHJvWThQaXNtNE41TXNmUEp6ZVBob1pzWTBfbGJvVFdmX1VveXY0WVJXQVFMRjA4Y2V1TDFXUnF5OWtka21MdEwzelNGaTVXU0xRNWNuRmstR3czMEU1cWZUek5wV3kxRnhyaHY3UUdURVVqcG1HRWI1enhQWHVGS2g4QW9YV20wYlhvczYtMmtmd3NhT1ZJcjBrLUdzY0RIenBBT1lTWHl5elp4cEZuUzhVRVBmc3AtQTBTekJmcFZfQzJhU0RDUlVjUmFEZUtQVEg5WWI2eXk5UW1pbw?oc=5"
   }
  ],
  "ok": true,
