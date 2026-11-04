@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T14:19:09+08:00",
+ "generated_at": "2026-11-04T14:45:15+08:00",
  "date": "2026-11-04",
  "weekday": "星期三",
- "clock": "14:19",
+ "clock": "14:45",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,8 +43,8 @@
  },
  "weather": {
   "temp": 27,
-  "humidity": 72,
-  "wind": 15.1,
+  "humidity": 71,
+  "wind": 14.8,
   "code": 51,
   "desc": "毛毛雨",
   "tmax": 28,
@@ -56,9 +56,16 @@
   {
    "title": "新皇崗口岸開通近一個月 當局認部分旅客初用自助通道「卡關」",
    "source": "on.cc東網",
-   "date": "11-04 06:02",
-   "iso": "2026-11-04T06:02:57+00:00",
+   "date": "11-04 06:11",
+   "iso": "2026-11-04T06:11:15+00:00",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHdyRDkwSFVpX1gycEFnMDVyTVZ3cFVoMWJnWG8wREF6VEh2alZvTzZRcE1uY3Y0MDZFREtnc3ZtNVE2cXRWdHpNbUMxUXhLdGZpeTVqMkI5UEZoZ3ByWHFPc3dpM3UwaVBkb2JQWlJNSUFudWRqN2RMNXA2SDdERUwySDdxT2VCNzZZ?oc=5"
+  },
+  {
+   "title": "鄧炳強稱皇崗口岸港方口岸區禁區式管理是最有效運用有限空間做法",
+   "source": "RTHK News",
+   "date": "11-04 04:59",
+   "iso": "2026-11-04T04:59:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSUjA0b05reTBaWVphM1FqNXRzMVNTdnFZYnIxaW53cU1ab2ZyMWpERTl6TWFXbG1GWkw4X0o3UkY0dFB2aWN1MVlnd1lUeVdmZGw3LWZMa05kWDR2ZVlKdE1iMGs4Uzh3eDhxc2hzSQ?oc=5"
   },
   {
    "title": "港漂大讚新皇崗口岸慳時間 惟兩地通勤仍疲憊 嘆錯過夜生活 盼月薪6萬搬港島",
@@ -101,13 +108,6 @@
    "date": "11-02 05:42",
    "iso": "2026-11-02T05:42:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zTE4wdGdLRFhPREhkbFA5WFpHa3BjNWtsUkEweEk3MFotS3JUYXFqV3VOS2xQMmlsbUJHbDVIZWlyNllwN0lLb0U4cjJfbE9kbUhaR0tkQkpFSkpETC04b1VB?oc=5"
-  },
-  {
-   "title": "皇崗口岸「合作查驗、一次放行」懶人包！一文睇清「香港e-道」預先登記步驟/資格條件/通關流程",
-   "source": "U Travel",
-   "date": "11-02 05:17",
-   "iso": "2026-11-02T05:17:18+00:00",
-   "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxOeFhSQUVvZEtLQy1wMVJLTEFnVHp1em41Wmg1QWVXM2JwclA3X3JjVUpNbzYydFlBUFRWajB6aGpPS0UyUThmT1VxM05vSF9iQzZ5MkdTb3Z5ekVVbS00b3VLdVB3MGRfTERaaXFPQmlvNXlWczVPOUFxckdxb3MxWWhaUW5reDdfYWZEejFmXzc4NURreFZQYlIzUUZXZnllTHV1YVpKWkZndWRyMW4xT1VKdXJ5RTRBcEJvVDFUTkkwTUFjTDdzNGw3OHVFZjNnalV6X0NlQVc0NDhpZXZCNHMtV2NQR2oxSm5CNGZ0UmVZbnYtTzZkUjV4dmpqQVpocl9KU2twNHlQM0hxRVc4UmdKZXo1Q0U2Y3V4bm95OXpkTmRXZ3VqRlJMQXpfWW5LT2YxV0JXX09Fb1pzZWpmMVlPR0xBVllLTGNfQ3ZKaWlWb01MRGZBZG5CV3FvVHlpSzFSamxRblUzNXUwRlZIeE44SWxIRGptamtHR2RwNUl5ZlNwRWhLNVpXbkFFaEpzaVZEX05iSVcyXzlCYnEwSWp4bmJSZzRsMUhkc2lWV3pFYlc2MG5PSVF4TmlOSmdRVlRHOFhwdXlFVHZoalFaM0ZhT1JFaTRzaVhCTEFubDRidl9PaFpYZVU2aHp4TWw0c0dINTdSeUpoQm9lWUQtNE56VFdPcWd6X1QtMmpQZEhIVlFG?oc=5"
   }
  ],
  "ok": true,
