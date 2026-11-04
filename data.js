@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-04T23:01:51+08:00",
+ "generated_at": "2026-11-04T23:07:58+08:00",
  "date": "2026-11-04",
  "weekday": "星期三",
- "clock": "23:01",
+ "clock": "23:07",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -72,8 +72,8 @@ window.HGP_DATA = {
    "title": "鄧炳強：皇崗口岸港方區域不設網約車上落客區",
    "source": "香港商报",
    "date": "11-04 08:51",
-   "iso": "2026-11-04T08:51:16+00:00",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XQmtDN3pzSXZmY0p2bFdfYkJZcjh3S0tXSUxhN2tlYk5ZYVIxY2JJaVFPLUhfZjVjZ2NhbzRkLWl4NGViMXNuUVRKNmljaC0tV25laldQekJReVNXSGFjMW00djZsR0tNQnctX0pIYjQyeWR4eUQtTGFSdw?oc=5"
+   "iso": "2026-11-04T08:51:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uMGdSR09wQURnTXd3NDZUTHp5V0F2S0NoN3gtbTBYZzZDWUtyYXJoRHRSZUt0aThhLXlKZ1BlT3M3Y21iMW9JbGg2X0hjeDJodkY3ckJKenIxOEptVG5LOEplYm9XRENnYjR0ZTRrWVNrYmFrTUE?oc=5"
   },
   {
    "title": "鄧炳強：新皇崗口岸日均逾8.6萬人次出入境節假日近14萬人次- 香港",
