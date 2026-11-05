@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-05T11:54:31+08:00",
+ "generated_at": "2026-11-05T12:00:38+08:00",
  "date": "2026-11-05",
  "weekday": "星期四",
- "clock": "11:54",
+ "clock": "12:00",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 30,
   "humidity": 56,
-  "wind": 4.2,
+  "wind": 4.1,
   "code": 1,
   "desc": "大致晴朗",
   "tmax": 31,
@@ -91,10 +91,10 @@ window.HGP_DATA = {
   },
   {
    "title": "保安局：新皇崗口岸通關大致暢順 惟個別旅客不熟新查驗模式",
-   "source": "Yahoo",
+   "source": "Now 新聞",
    "date": "11-04 09:09",
    "iso": "2026-11-04T09:09:24+00:00",
-   "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQSi1kUlBUWlN3Y0JMSzRYRHUxWDRLLTZ6UVRwbi1ONlBYalM5SnpIdjFtRFN3bTRtRlFEMml4VFVCeGhlOXlCZHhFem04WmFQSE5QdmF0c2JiZ053aFJMWklrTUUtNGdaYUMzZVd6UjdCQVpWUXlnZWR1UEtraEprNjhvc2h2RUtGMW1MU0JNUnpkN0tadFl1bDNDYlFISE1UTm1uQ1pCTUFWaVJkYlFHRkZsYXctNm9rZmVjSDNVYVNjMWZGQTY1RVZkY21FcWtkT2h5QzZaZG83TWhQLXAyRGFGU0xpQWxYOVVLRDlJZWtiXy13NzdLc1I4Y1NiVzhEUTFxTFhLcVVZVUQzR28wTjhFbUxEZ19wOU5UZzI4UGRUbVdzeUk5aTBNOWhKMUNZWE90T2w2Qk5hQU5jTXhGcHQxNThxQnBYWFFFVG56aGZ6X29YTm9lSzZDQ0tZV0NpZGpnSGlLc2RuOGdqRWNXbVZnX2RlWnJXbDI0VFFpWHl4UXJ6b3M5TFRnUFE2UQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16MzA2VE1qSWNjaktULVUxN29fWGNzRUx4SDczcHVWOFVwdXJfMUpDemdnVm5ZS0xKY0Rjd2xwQ291YjNIR21EVnRkaGF4UjVyY0dGYXQ0cXJxLWlVNUdtWEtR?oc=5"
   },
   {
    "title": "新皇崗口岸「輕微卡關」 鄧炳強：個別旅客未預先登記「合作查驗」",
@@ -104,11 +104,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOM2ZkRGkzTzNpdlRDVUFjbWwxa3BFTlpxdGFqNUJMLUVZYTl1TnRwdVhMZmxkcXJwZEhRbkowMWNscDVpbTVDZEtGN3YxMjJBd2Q4RTlVLWNwVnJUWHBXLWRJSTVORVEtZW5MOXlqTEozYWlSTkFoOVJwblpZdVRRT084aGhLVm5zenZxTHFTRVVtc0hlS290SnZPdmg2UnVYa1RkVEJLcmxpZV9hNmNoY19WYXhNbHV3U2FkZmFGeDh0VExzb2hBRWlLeFhLQ0NRaHp2am93Szh2UE5HbDQyWUhjZVEwMXk1ZnVwdFRadkY5ZGVSaHlsVnBJVWpJZ1MtN2QzdjN4anZmU0VKamZWVVo1US1jQUNtZXI5a0ExODA2ZHlwSUVVaDVWaExwbzRyVXZ1Y0JLUEVKTnJTaGN0MUlZTGNEcTdqYmV4cTdGMVQ4dUJiWWdpbjVsTkcycER1eWNacDd5YnRXazJxcDhyQVRrWm1oUkhRQkx6UVZCS043dDA3VldKdngyWXZoeXJtcnA1N3B3Q2EtZENTdlNZT1NlSGNJY2NiRGN0eG93NTdXbXNSaE5BeUlnSzR0WWVqNzB4dGp3bGk?oc=5"
   },
   {
-   "title": "鄧炳強：新皇崗口岸開通至今整體大致暢順 平日日均出入境逾86000人次",
-   "source": "橙新聞",
-   "date": "11-04 07:28",
-   "iso": "2026-11-04T07:28:56+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOYmtzTUZvNlNURWpuS1JIVHpKN3hfMGlta19haG5HVWNiTUZVekFkWjUwS0FnMWRWMUZVcHJvVVBPM1VnejNIR1FBS1JvYlRDMlRqZWNXcWQwbFlLdVJoMVlzMlJxak5ZQlU0bF9zTnkyNFFwVGplYmNMeDVCS1NaeE9PVWVfWXF2anpKY21DUUNjTzB0YjVFUm5DbGJRYlNmZm9SQVFMekhHWkVuZlQyYUJwTmFEWV9oTGtod1ctZV9HZktpZVJOS3FLTGxCaGVnSGhjYnJNdHZHVnRNOGkxUFY0MTA0RlVZT2JBSDluMFN4Wjc4ejdoWC0wLVFNZm80VnVwSWRaN2sxSkZ2Zk03YVJOUV9iRUQ2Y3pRNHQ4djJXeEV1b2NNWGtMLW9fZnMzN0liOXA2ZkhTeGdNMVVDVzhZNTBWSXczVGpuelllUElZeWtuXzM1LXpwZGtpYk9Yb05FRnVTdEE3ZVlybW9ScnhRZVA3OFhuMU52b3FzS1ZDNUNLRVBkRmZ1cS1pUkhxNy1qN2h1Vm9hY3B2SzR0U1R5ak9MX0g4SXR0TTJCX3BKakg3V01B?oc=5"
+   "title": "鄧炳強：皇崗口岸港方區域不設網約車上落客區",
+   "source": "香港商报",
+   "date": "11-04 08:51",
+   "iso": "2026-11-04T08:51:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uYjZOOFJzR1JyVFFQYkEzVG9nNEtyY3NGOVJlZFVLa0hxNjl3WlFvTFhvdkpzeWx0Y0U4T0VrV1FKdU1qYjZwWFBROGtKVFczTjJGUGJ6NGlpcnI0VUZwOGxBUXVjQnlLYWdacGdOc3ZBbExMRmc?oc=5"
   }
  ],
  "ok": true,
