@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-05T16:49:58+08:00",
+ "generated_at": "2026-11-05T16:56:05+08:00",
  "date": "2026-11-05",
  "weekday": "星期四",
- "clock": "16:49",
+ "clock": "16:56",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "新皇崗口岸驚現Lawson羅森便利店圍板！料成最接近香港分店 網民熱議：期待人氣炸雞與熱食",
+   "source": "星島頭條",
+   "date": "11-05 08:46",
+   "iso": "2026-11-05T08:46:12+00:00",
+   "link": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQZmIzSFY2ZWx5NVMzMmRnX3hwVzIwUlpVOHllQW1qd1pHdUtXSEhyV2tPZWgxRXZKUlREVDdwaVlOWVlNU0tlTGV3SDNNWGNjQkNaTU9rbUNRdXBCbGM1LU1vX0NoMTlqSkZGZE0tdHJBWFBMVFI0YlVtb2hoS0NwbjVFVjdTVmRocko2ekxaSFJQZ1hJUVR3Vmp6YzBQOS1sNFNXRU5hZWd4TG1CeXBzbXpmSl9SQ1RXdEM3TUFXM2lpSnVaOEtQNGVWWGtzaDY4bk9LTngyS1lMQlFHTnRENU1TcERPeDhTbkd6M1dWUW9Ld2JhX2JUNDAyS3dDM2t2bVBIZk5xT1ZHcXpzLTRVY1JQczdnRzhma2FCUUllU1V2eFpxNWJsazVyM21qQk5DY0dGLUZ1aHdwZmN3bXBrOVhfZ0lfMU41ejVMSWVZQ0FZSmNWcFZEdzA4bmV0RHVoS0hQMWtmQnB0MXc1MmRSRlZUX2lNc0g5cElvUnE0clNfdERaNHRoblgwOE5zX3NzWDNKXzhpQk1rTXVZeWxoSFExNm56OXF3MW5XQmUxR2U1b1JTWjlNTGZNTHFzMjM2WGpScENvV0QyM0J5ckxGMFpzSTJZN2plM2s2aXhUVGxKRGtRbTAwMHpNQjk0LWdENklLajM0bnV5YXVNaVBxVGRUdmwwZlBtUFJYTzV3?oc=5"
+  },
+  {
    "title": "大家最近北上有冇用呢個口岸？",
    "source": "Facebook",
    "date": "11-05 05:56",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-04 07:28",
    "iso": "2026-11-04T07:28:56+00:00",
    "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOYmtzTUZvNlNURWpuS1JIVHpKN3hfMGlta19haG5HVWNiTUZVekFkWjUwS0FnMWRWMUZVcHJvVVBPM1VnejNIR1FBS1JvYlRDMlRqZWNXcWQwbFlLdVJoMVlzMlJxak5ZQlU0bF9zTnkyNFFwVGplYmNMeDVCS1NaeE9PVWVfWXF2anpKY21DUUNjTzB0YjVFUm5DbGJRYlNmZm9SQVFMekhHWkVuZlQyYUJwTmFEWV9oTGtod1ctZV9HZktpZVJOS3FLTGxCaGVnSGhjYnJNdHZHVnRNOGkxUFY0MTA0RlVZT2JBSDluMFN4Wjc4ejdoWC0wLVFNZm80VnVwSWRaN2sxSkZ2Zk03YVJOUV9iRUQ2Y3pRNHQ4djJXeEV1b2NNWGtMLW9fZnMzN0liOXA2ZkhTeGdNMVVDVzhZNTBWSXczVGpuelllUElZeWtuXzM1LXpwZGtpYk9Yb05FRnVTdEE3ZVlybW9ScnhRZVA3OFhuMU52b3FzS1ZDNUNLRVBkRmZ1cS1pUkhxNy1qN2h1Vm9hY3B2SzR0U1R5ak9MX0g4SXR0TTJCX3BKakg3V01B?oc=5"
-  },
-  {
-   "title": "鄧炳強：新皇崗口岸日均逾8.6萬人次出入境節假日近14萬人次- 香港",
-   "source": "大公文匯網",
-   "date": "11-04 07:12",
-   "iso": "2026-11-04T07:12:52+00:00",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OaTBwQWwxTHhXYVZEVlpHNFBRZi1ramk1YUpKVWprQjZRM0lKSzBOYVh1a0NSb2JTNk83U1NDbW1ZYUtjOG1mR1VjeTVoVDJRTkJjeFBVMDhhN1pyamZMdnlTM3dqQnFGT0JkZUNicF8?oc=5"
   }
  ],
  "ok": true,
