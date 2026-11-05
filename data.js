@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-05T16:56:05+08:00",
+ "generated_at": "2026-11-05T17:02:12+08:00",
  "date": "2026-11-05",
  "weekday": "星期四",
- "clock": "16:56",
+ "clock": "17:02",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 28,
-  "humidity": 67,
-  "wind": 5.6,
+  "humidity": 69,
+  "wind": 5.2,
   "code": 1,
   "desc": "大致晴朗",
   "tmax": 30,
@@ -118,6 +118,11 @@ window.HGP_DATA = {
    "tag": "天氣",
    "text": "天文台現時無天氣警告生效。",
    "level": "ok"
+  },
+  {
+   "tag": "傍晚",
+   "text": "雙向高峰：出境（北上）與入境（返港）同時加壓，L2 候車區最擠。",
+   "level": "info"
   },
   {
    "tag": "有雨",
