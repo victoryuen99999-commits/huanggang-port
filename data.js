@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-05T12:12:53+08:00",
+ "generated_at": "2026-11-05T12:18:59+08:00",
  "date": "2026-11-05",
  "weekday": "星期四",
- "clock": "12:12",
+ "clock": "12:18",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,11 +43,11 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 30,
-  "humidity": 56,
-  "wind": 4.1,
-  "code": 1,
-  "desc": "大致晴朗",
+  "temp": 31,
+  "humidity": 55,
+  "wind": 4.0,
+  "code": 51,
+  "desc": "毛毛雨",
   "tmax": 31,
   "tmin": 23,
   "pop": 84
@@ -76,6 +76,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yMF9TNE4yR1hvMTlhNE8tTmRQS0xCMzBLRW0zU1pxbEZ1Y1BTd09xSldUWXc2WWlmeEpqVFJabkN4S3cwdVlGaFlTZXpBSWpnNDVIYlZuWUkwZFJHUF9HZzFkWmFsQnNYa1hUVGw4cFBnZkh5QWJGYVV2bw?oc=5"
   },
   {
+   "title": "新皇崗旅客「卡關」 加派人手協助",
+   "source": "東方日報",
+   "date": "11-04 19:53",
+   "iso": "2026-11-04T19:53:47+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOQnZib2RwcktQWkhIcWVrVExzeUIxS0JWZ2xTSnhldFBoQXZMVkNNTUxxZThnUjZmQnhsbXZ0Z2MweHFBZFBJcFd6aHFaWXZneHpOV0Q2OEg5aGJTZHdkbmhKaWxCeWlyeXd5TzhrSGVuUGpGRkUyYmxTR2FFcm92MDJIVGZINTA5NW5uaGhtVVo1cEdOVElVRDM4eXBuczI2XzFnUlo0b2FuWXduZzFBX2dhcDIwaFNMY2JWaHktSzI1cmZVWFZTSXFzcUMwazZSd2doZk5nNl9SRVdDcXlDVlk3SG5VbXFhZXQxQWJCTURoTng4c3BCd29FRWgtdW9FT29ZemZaVnBpZk94cHVFR3NkRnF1MExzSnVHVjY3aHRBTlFnelB5S3Z5blpLNE9mZDVTRFV1RzJ6UllPeVhVN3ZlckJISUhyR045djZ0a1lkYmVWbVl6Mm9B?oc=5"
+  },
+  {
    "title": "港漂大讚新皇崗口岸慳時間",
    "source": "星島頭條",
    "date": "11-04 19:00",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-04 08:51",
    "iso": "2026-11-04T08:51:59+00:00",
    "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOM2ZkRGkzTzNpdlRDVUFjbWwxa3BFTlpxdGFqNUJMLUVZYTl1TnRwdVhMZmxkcXJwZEhRbkowMWNscDVpbTVDZEtGN3YxMjJBd2Q4RTlVLWNwVnJUWHBXLWRJSTVORVEtZW5MOXlqTEozYWlSTkFoOVJwblpZdVRRT084aGhLVm5zenZxTHFTRVVtc0hlS290SnZPdmg2UnVYa1RkVEJLcmxpZV9hNmNoY19WYXhNbHV3U2FkZmFGeDh0VExzb2hBRWlLeFhLQ0NRaHp2am93Szh2UE5HbDQyWUhjZVEwMXk1ZnVwdFRadkY5ZGVSaHlsVnBJVWpJZ1MtN2QzdjN4anZmU0VKamZWVVo1US1jQUNtZXI5a0ExODA2ZHlwSUVVaDVWaExwbzRyVXZ1Y0JLUEVKTnJTaGN0MUlZTGNEcTdqYmV4cTdGMVQ4dUJiWWdpbjVsTkcycER1eWNacDd5YnRXazJxcDhyQVRrWm1oUkhRQkx6UVZCS043dDA3VldKdngyWXZoeXJtcnA1N3B3Q2EtZENTdlNZT1NlSGNJY2NiRGN0eG93NTdXbXNSaE5BeUlnSzR0WWVqNzB4dGp3bGk?oc=5"
-  },
-  {
-   "title": "鄧炳強：皇崗口岸港方區域不設網約車上落客區",
-   "source": "香港商报",
-   "date": "11-04 08:51",
-   "iso": "2026-11-04T08:51:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uYjZOOFJzR1JyVFFQYkEzVG9nNEtyY3NGOVJlZFVLa0hxNjl3WlFvTFhvdkpzeWx0Y0U4T0VrV1FKdU1qYjZwWFBROGtKVFczTjJGUGJ6NGlpcnI0VUZwOGxBUXVjQnlLYWdacGdOc3ZBbExMRmc?oc=5"
   }
  ],
  "ok": true,
