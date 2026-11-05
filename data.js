@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-05T20:04:25+08:00",
+ "generated_at": "2026-11-05T20:10:32+08:00",
  "date": "2026-11-05",
  "weekday": "星期四",
- "clock": "20:04",
+ "clock": "20:10",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -69,13 +69,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQZmIzSFY2ZWx5NVMzMmRnX3hwVzIwUlpVOHllQW1qd1pHdUtXSEhyV2tPZWgxRXZKUlREVDdwaVlOWVlNU0tlTGV3SDNNWGNjQkNaTU9rbUNRdXBCbGM1LU1vX0NoMTlqSkZGZE0tdHJBWFBMVFI0YlVtb2hoS0NwbjVFVjdTVmRocko2ekxaSFJQZ1hJUVR3Vmp6YzBQOS1sNFNXRU5hZWd4TG1CeXBzbXpmSl9SQ1RXdEM3TUFXM2lpSnVaOEtQNGVWWGtzaDY4bk9LTngyS1lMQlFHTnRENU1TcERPeDhTbkd6M1dWUW9Ld2JhX2JUNDAyS3dDM2t2bVBIZk5xT1ZHcXpzLTRVY1JQczdnRzhma2FCUUllU1V2eFpxNWJsazVyM21qQk5DY0dGLUZ1aHdwZmN3bXBrOVhfZ0lfMU41ejVMSWVZQ0FZSmNWcFZEdzA4bmV0RHVoS0hQMWtmQnB0MXc1MmRSRlZUX2lNc0g5cElvUnE0clNfdERaNHRoblgwOE5zX3NzWDNKXzhpQk1rTXVZeWxoSFExNm56OXF3MW5XQmUxR2U1b1JTWjlNTGZNTHFzMjM2WGpScENvV0QyM0J5ckxGMFpzSTJZN2plM2s2aXhUVGxKRGtRbTAwMHpNQjk0LWdENklLajM0bnV5YXVNaVBxVGRUdmwwZlBtUFJYTzV3?oc=5"
   },
   {
-   "title": "大家最近北上有冇用呢個口岸？",
-   "source": "Facebook",
-   "date": "11-05 05:56",
-   "iso": "2026-11-05T05:56:25+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQN2F2Q1RQX1oyOXU5cDhzREEwTHE5S3hnRjRJSkxNaEh0aEtZTnlKSm1FQ2FsZm9CX3U2YjdFM0NCRW5QVE5WRVdHQTh3NXRFd3VpeWZBb0JncDhFeGZqX0tUWU4wOXBuM1E5c3NjMmxST3NDMjN2blJsWWh5aDUxRk9jY2lEM0pXUVV3MzhCSnBQdllXSlJfNjk1RmZiVmstT29LSzdkbi03Z3JVYm9CZ21ueTZvSzJENzhjZzZ4SUE0V0dqb0hCRnUzeG9ydGIwXzFvSWEyclMybEZTVDVkaGZXRmpxTjNYMFpoWkE4QVV3VVE5MGtpSmI5UXJvX0FBQ0ttQnFZeDlJdmpWMFRWYzNTd2ZlRm5uZDU1M0x0SmZ2emN3bWd1UHRzVlZDYS11QmZoV20tdXdRY0pfM1Z1XzhiTlNINnZHQ1VubWtxMGNvYTNiT20wSDBxSnM2ZjFmTGpEYmRmUkNUSWdtMVZ4U2V5MmNkMnQ5Unc?oc=5"
-  },
-  {
    "title": "八達通乘車優惠 ｜九巴新皇崗口岸路線滿4程回贈20元再抽免費機票",
    "source": "香港財經時報HKBT",
    "date": "11-05 02:55",
@@ -88,6 +81,13 @@ window.HGP_DATA = {
    "date": "11-05 01:05",
    "iso": "2026-11-05T01:05:45+00:00",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yMF9TNE4yR1hvMTlhNE8tTmRQS0xCMzBLRW0zU1pxbEZ1Y1BTd09xSldUWXc2WWlmeEpqVFJabkN4S3cwdVlGaFlTZXpBSWpnNDVIYlZuWUkwZFJHUF9HZzFkWmFsQnNYa1hUVGw4cFBnZkh5QWJGYVV2bw?oc=5"
+  },
+  {
+   "title": "大家最近北上有冇用呢個口岸？",
+   "source": "Facebook",
+   "date": "11-05 00:00",
+   "iso": "2026-11-05T00:00:53+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQN2F2Q1RQX1oyOXU5cDhzREEwTHE5S3hnRjRJSkxNaEh0aEtZTnlKSm1FQ2FsZm9CX3U2YjdFM0NCRW5QVE5WRVdHQTh3NXRFd3VpeWZBb0JncDhFeGZqX0tUWU4wOXBuM1E5c3NjMmxST3NDMjN2blJsWWh5aDUxRk9jY2lEM0pXUVV3MzhCSnBQdllXSlJfNjk1RmZiVmstT29LSzdkbi03Z3JVYm9CZ21ueTZvSzJENzhjZzZ4SUE0V0dqb0hCRnUzeG9ydGIwXzFvSWEyclMybEZTVDVkaGZXRmpxTjNYMFpoWkE4QVV3VVE5MGtpSmI5UXJvX0FBQ0ttQnFZeDlJdmpWMFRWYzNTd2ZlRm5uZDU1M0x0SmZ2emN3bWd1UHRzVlZDYS11QmZoV20tdXdRY0pfM1Z1XzhiTlNINnZHQ1VubWtxMGNvYTNiT20wSDBxSnM2ZjFmTGpEYmRmUkNUSWdtMVZ4U2V5MmNkMnQ5Unc?oc=5"
   },
   {
    "title": "新皇崗旅客「卡關」 加派人手協助",
