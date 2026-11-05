@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-05T10:56:37+08:00",
+ "generated_at": "2026-11-05T11:02:44+08:00",
  "date": "2026-11-05",
  "weekday": "星期四",
- "clock": "10:56",
+ "clock": "11:02",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,8 +43,8 @@
  },
  "weather": {
   "temp": 30,
-  "humidity": 60,
-  "wind": 5.1,
+  "humidity": 59,
+  "wind": 4.7,
   "code": 0,
   "desc": "天晴",
   "tmax": 31,
@@ -53,6 +53,13 @@
  },
  "warnings": [],
  "news": [
+  {
+   "title": "八達通乘車優惠 ｜九巴新皇崗口岸路線滿4程回贈20元再抽免費機票",
+   "source": "香港財經時報HKBT",
+   "date": "11-05 02:55",
+   "iso": "2026-11-05T02:55:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQUVpGamI1SkJUcXZKblVwelItUkNYUHpYMG5tbnptSkxxX2dXTENRVDVFREV0dllSb3J5WjA1eUhrWGZjcDkwRHR1NnZGWmNOSjUtRlBaRlp2MVBXVkhsTlNiUlNCMXFOLWFKem5ua3RMNzh4eEQ5NGtoSmZPeFVMdkh5YnFGZjg1MzZVZFk5SHZPNGtiUWZPalJmbGtTX2RmOXpyMWM0akp1aHJ5YjdlakQtaW9rQTdHZVZhd3ltZFVqZy1pcmh2dmRQMFVEbFN2ODRtTk16eUFleTJVeU9mY3YxOFE0cW5uNGxpczFuLV9mY182VnM1Y090T3h5WVowYlpNQkxnV19mZ2FVSG9yZUtnS0NXRlZuQ3BFcnFrR1VMUTY3RE1faldsbFJIbElNMF9TQzZydjYwZHZFNy1mUUF3cFdQeHB4elNuQ2hQZUZaWXNqSWZNVWk4ZjZiMkRnYlE?oc=5"
+  },
   {
    "title": "大家最近北上有冇用呢個口岸？",
    "source": "Facebook",
@@ -66,13 +73,6 @@
    "date": "11-05 01:05",
    "iso": "2026-11-05T01:05:45+00:00",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yMF9TNE4yR1hvMTlhNE8tTmRQS0xCMzBLRW0zU1pxbEZ1Y1BTd09xSldUWXc2WWlmeEpqVFJabkN4S3cwdVlGaFlTZXpBSWpnNDVIYlZuWUkwZFJHUF9HZzFkWmFsQnNYa1hUVGw4cFBnZkh5QWJGYVV2bw?oc=5"
-  },
-  {
-   "title": "新皇崗旅客「卡關」 加派人手協助",
-   "source": "東方日報",
-   "date": "11-04 19:53",
-   "iso": "2026-11-04T19:53:47+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOQnZib2RwcktQWkhIcWVrVExzeUIxS0JWZ2xTSnhldFBoQXZMVkNNTUxxZThnUjZmQnhsbXZ0Z2MweHFBZFBJcFd6aHFaWXZneHpOV0Q2OEg5aGJTZHdkbmhKaWxCeWlyeXd5TzhrSGVuUGpGRkUyYmxTR2FFcm92MDJIVGZINTA5NW5uaGhtVVo1cEdOVElVRDM4eXBuczI2XzFnUlo0b2FuWXduZzFBX2dhcDIwaFNMY2JWaHktSzI1cmZVWFZTSXFzcUMwazZSd2doZk5nNl9SRVdDcXlDVlk3SG5VbXFhZXQxQWJCTURoTng4c3BCd29FRWgtdW9FT29ZemZaVnBpZk94cHVFR3NkRnF1MExzSnVHVjY3aHRBTlFnelB5S3Z5blpLNE9mZDVTRFV1RzJ6UllPeVhVN3ZlckJISUhyR045djZ0a1lkYmVWbVl6Mm9B?oc=5"
   },
   {
    "title": "港漂大讚新皇崗口岸慳時間",
