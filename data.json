@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T05:58:53+08:00",
+ "generated_at": "2026-11-06T06:05:00+08:00",
  "date": "2026-11-06",
  "weekday": "星期五",
- "clock": "05:58",
+ "clock": "06:05",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -77,9 +77,9 @@
   {
    "title": "新皇崗口岸開通近月 日均8.6萬人次出入境",
    "source": "香港商报",
-   "date": "11-05 01:05",
-   "iso": "2026-11-05T01:05:45+00:00",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yMF9TNE4yR1hvMTlhNE8tTmRQS0xCMzBLRW0zU1pxbEZ1Y1BTd09xSldUWXc2WWlmeEpqVFJabkN4S3cwdVlGaFlTZXpBSWpnNDVIYlZuWUkwZFJHUF9HZzFkWmFsQnNYa1hUVGw4cFBnZkh5QWJGYVV2bw?oc=5"
+   "date": "11-05 01:20",
+   "iso": "2026-11-05T01:20:33+00:00",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GYnRpblhJRWtEUFc1NjY4N0g5c2FyeVpyQUtvdmlSN2FPVkpUZWJ2NnFiNzFUZzhPLWxDVlVOZV9YUGQwZ0VoRnlCZVZMU2JpSzc5YzU2SjM1MlJlcXZROWFDdEEtYXU1ZzlvQWlEZlBGOFVZUlE?oc=5"
   },
   {
    "title": "大家最近北上有冇用呢個口岸？",
@@ -117,11 +117,6 @@
    "tag": "天氣",
    "text": "天文台現時無天氣警告生效。",
    "level": "ok"
-  },
-  {
-   "tag": "夜更",
-   "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
-   "level": "warn"
   },
   {
    "tag": "週五",
