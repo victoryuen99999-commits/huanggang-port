@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-05T18:55:45+08:00",
+ "generated_at": "2026-11-05T19:01:53+08:00",
  "date": "2026-11-05",
  "weekday": "星期四",
- "clock": "18:55",
+ "clock": "19:01",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,13 +44,13 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 26,
-  "humidity": 80,
-  "wind": 6.0,
-  "code": 0,
-  "desc": "天晴",
+  "humidity": 81,
+  "wind": 5.9,
+  "code": 1,
+  "desc": "大致晴朗",
   "tmax": 30,
   "tmin": 23,
-  "pop": 84
+  "pop": 100
  },
  "warnings": [],
  "news": [
@@ -126,7 +126,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "有雨",
-   "text": "預測降雨機率 84%，室外通道及上落客區會濕滑，提醒旅客及同事小心。",
+   "text": "預測降雨機率 100%，室外通道及上落客區會濕滑，提醒旅客及同事小心。",
    "level": "warn"
   },
   {
