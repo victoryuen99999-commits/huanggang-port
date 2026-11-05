@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-06T06:29:31+08:00",
+ "generated_at": "2026-11-06T06:35:39+08:00",
  "date": "2026-11-06",
  "weekday": "星期五",
- "clock": "06:29",
+ "clock": "06:35",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -22,20 +22,20 @@ window.HGP_DATA = {
    "dep": 0
   },
   "LSC": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "LWS": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "MKT": {
    "arr": 99,
    "dep": 99
   },
   "SBC": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "STK": {
    "arr": 99,
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 91,
-  "wind": 8.3,
+  "humidity": 90,
+  "wind": 8.5,
   "code": 0,
   "desc": "天晴",
   "tmax": 30,
@@ -78,9 +78,9 @@ window.HGP_DATA = {
   {
    "title": "新皇崗口岸開通近月 日均8.6萬人次出入境",
    "source": "香港商报",
-   "date": "11-05 01:20",
-   "iso": "2026-11-05T01:20:33+00:00",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GYnRpblhJRWtEUFc1NjY4N0g5c2FyeVpyQUtvdmlSN2FPVkpUZWJ2NnFiNzFUZzhPLWxDVlVOZV9YUGQwZ0VoRnlCZVZMU2JpSzc5YzU2SjM1MlJlcXZROWFDdEEtYXU1ZzlvQWlEZlBGOFVZUlE?oc=5"
+   "date": "11-05 01:05",
+   "iso": "2026-11-05T01:05:45+00:00",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yMF9TNE4yR1hvMTlhNE8tTmRQS0xCMzBLRW0zU1pxbEZ1Y1BTd09xSldUWXc2WWlmeEpqVFJabkN4S3cwdVlGaFlTZXpBSWpnNDVIYlZuWUkwZFJHUF9HZzFkWmFsQnNYa1hUVGw4cFBnZkh5QWJGYVV2bw?oc=5"
   },
   {
    "title": "大家最近北上有冇用呢個口岸？",
