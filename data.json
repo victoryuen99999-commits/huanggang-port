@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-05T19:39:55+08:00",
+ "generated_at": "2026-11-05T19:46:03+08:00",
  "date": "2026-11-05",
  "weekday": "星期四",
- "clock": "19:39",
+ "clock": "19:46",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,8 +43,8 @@
  },
  "weather": {
   "temp": 26,
-  "humidity": 84,
-  "wind": 4.6,
+  "humidity": 85,
+  "wind": 3.7,
   "code": 0,
   "desc": "天晴",
   "tmax": 30,
@@ -55,7 +55,7 @@
  "news": [
   {
    "title": "新皇崗口岸｜現Lawson便利店圍板 或為最近香港分店",
-   "source": "AM730",
+   "source": "am730",
    "date": "11-05 10:06",
    "iso": "2026-11-05T10:06:27+00:00",
    "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQSllrX2MwdlpwVG92RXZUWTdJdENCNnV3Zi1XRjNGRnFtcm5xV0ExTDFwb0RHa2FfOUIwdktKUC0wd2JpVTNmNy1YVThEeG9sQ2huQVRxSW5hYXc0MnlKbHcwUXlnMEVzZll5UElYRDVSenpPQ1RhVENuLTVRZERPTFk5TnFqaHFEUzVhMUZGVXRieTEzckJWT2tjUmJ0eVZqRE5RR244TWpUc0xRV29LWEhFNHhPQndLbFRZckdzeU9hWVdMdWZOa2d0NXRHRG9hYkNQRXNkNXU3OWR6ZnJDRGdjRmxGZkJPNy1ORkxTT0ZqcnlVTWN4TURUVEVNMWhrNDdqSWxhbld6amx1c29BRjZLTGNXdE05eFJoRUl6VkRYeExyVGhVNUhjdHliaXluZ29rdjNtR0QzY0hGd21xX3lXS2I4R21SUUhzMWxlUkw?oc=5"
