@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-05T14:59:40+08:00",
+ "generated_at": "2026-11-05T15:05:47+08:00",
  "date": "2026-11-05",
  "weekday": "星期四",
- "clock": "14:59",
+ "clock": "15:05",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 28,
-  "humidity": 68,
-  "wind": 6.7,
+  "humidity": 69,
+  "wind": 6.8,
   "code": 51,
   "desc": "毛毛雨",
   "tmax": 30,
@@ -76,11 +76,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yMF9TNE4yR1hvMTlhNE8tTmRQS0xCMzBLRW0zU1pxbEZ1Y1BTd09xSldUWXc2WWlmeEpqVFJabkN4S3cwdVlGaFlTZXpBSWpnNDVIYlZuWUkwZFJHUF9HZzFkWmFsQnNYa1hUVGw4cFBnZkh5QWJGYVV2bw?oc=5"
   },
   {
-   "title": "新皇崗旅客「卡關」 加派人手協助",
-   "source": "東方日報",
-   "date": "11-04 19:53",
-   "iso": "2026-11-04T19:53:47+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOQnZib2RwcktQWkhIcWVrVExzeUIxS0JWZ2xTSnhldFBoQXZMVkNNTUxxZThnUjZmQnhsbXZ0Z2MweHFBZFBJcFd6aHFaWXZneHpOV0Q2OEg5aGJTZHdkbmhKaWxCeWlyeXd5TzhrSGVuUGpGRkUyYmxTR2FFcm92MDJIVGZINTA5NW5uaGhtVVo1cEdOVElVRDM4eXBuczI2XzFnUlo0b2FuWXduZzFBX2dhcDIwaFNMY2JWaHktSzI1cmZVWFZTSXFzcUMwazZSd2doZk5nNl9SRVdDcXlDVlk3SG5VbXFhZXQxQWJCTURoTng4c3BCd29FRWgtdW9FT29ZemZaVnBpZk94cHVFR3NkRnF1MExzSnVHVjY3aHRBTlFnelB5S3Z5blpLNE9mZDVTRFV1RzJ6UllPeVhVN3ZlckJISUhyR045djZ0a1lkYmVWbVl6Mm9B?oc=5"
+   "title": "保安局：新皇崗口岸通關大致暢順 惟個別旅客不熟新查驗模式",
+   "source": "Now 新聞",
+   "date": "11-04 09:09",
+   "iso": "2026-11-04T09:09:24+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16MzA2VE1qSWNjaktULVUxN29fWGNzRUx4SDczcHVWOFVwdXJfMUpDemdnVm5ZS0xKY0Rjd2xwQ291YjNIR21EVnRkaGF4UjVyY0dGYXQ0cXJxLWlVNUdtWEtR?oc=5"
   },
   {
    "title": "新皇崗口岸「輕微卡關」 鄧炳強：個別旅客未預先登記「合作查驗」",
