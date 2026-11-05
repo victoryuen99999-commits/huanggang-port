@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-05T15:18:01+08:00",
+ "generated_at": "2026-11-05T15:24:09+08:00",
  "date": "2026-11-05",
  "weekday": "星期四",
- "clock": "15:18",
+ "clock": "15:24",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -72,8 +72,15 @@ window.HGP_DATA = {
    "title": "新皇崗口岸開通近月 日均8.6萬人次出入境",
    "source": "香港商报",
    "date": "11-05 01:05",
-   "iso": "2026-11-05T01:05:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TTFJtZVVrTTJuUmNTamFDWW9wY1d0VUpGWDlERVVpaUZ4cXZmQVBua3lqQllNX3J5dFZQam5uV1hDSGVYSjNzaFNJMEEzMnpSXzVmaWhoOUMyMTVHd1hOYUNZRUNEZ25hYURKYlhISC1BOTAwcUE?oc=5"
+   "iso": "2026-11-05T01:05:45+00:00",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yMF9TNE4yR1hvMTlhNE8tTmRQS0xCMzBLRW0zU1pxbEZ1Y1BTd09xSldUWXc2WWlmeEpqVFJabkN4S3cwdVlGaFlTZXpBSWpnNDVIYlZuWUkwZFJHUF9HZzFkWmFsQnNYa1hUVGw4cFBnZkh5QWJGYVV2bw?oc=5"
+  },
+  {
+   "title": "港漂大讚新皇崗口岸慳時間",
+   "source": "星島頭條",
+   "date": "11-04 19:00",
+   "iso": "2026-11-04T19:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRFJ4V0xqX19KNm1aZkdtcl9pYXBDNXM1X24xaU1tTlFYalFkZWNyUFZDaGtiVWl5WGxURllqSWdRckV5SV90dFhIUXRMbm16UUJyd1BmdkV0QUZrTDhNSm1hbXRXcWU3OEhMcVlTRVRycFRDaUZlM2oybmVLcTZoMVg4a3RIRWpfaEFjYlA4TEpORTd2ODJJcEVBYlZMLW5MWnNtQU5walQ2RlVtQ1Rmb2JIWHdEM29vZWZqbEJZSVVzS0JGWjlXVFNkT3BycEttTzc2eGR2RE5PV25VQUpTNDE3a3o1eUxWMmsxanR3?oc=5"
   },
   {
    "title": "保安局：新皇崗口岸通關大致暢順 惟個別旅客不熟新查驗模式",
@@ -90,13 +97,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOM2ZkRGkzTzNpdlRDVUFjbWwxa3BFTlpxdGFqNUJMLUVZYTl1TnRwdVhMZmxkcXJwZEhRbkowMWNscDVpbTVDZEtGN3YxMjJBd2Q4RTlVLWNwVnJUWHBXLWRJSTVORVEtZW5MOXlqTEozYWlSTkFoOVJwblpZdVRRT084aGhLVm5zenZxTHFTRVVtc0hlS290SnZPdmg2UnVYa1RkVEJLcmxpZV9hNmNoY19WYXhNbHV3U2FkZmFGeDh0VExzb2hBRWlLeFhLQ0NRaHp2am93Szh2UE5HbDQyWUhjZVEwMXk1ZnVwdFRadkY5ZGVSaHlsVnBJVWpJZ1MtN2QzdjN4anZmU0VKamZWVVo1US1jQUNtZXI5a0ExODA2ZHlwSUVVaDVWaExwbzRyVXZ1Y0JLUEVKTnJTaGN0MUlZTGNEcTdqYmV4cTdGMVQ4dUJiWWdpbjVsTkcycER1eWNacDd5YnRXazJxcDhyQVRrWm1oUkhRQkx6UVZCS043dDA3VldKdngyWXZoeXJtcnA1N3B3Q2EtZENTdlNZT1NlSGNJY2NiRGN0eG93NTdXbXNSaE5BeUlnSzR0WWVqNzB4dGp3bGk?oc=5"
   },
   {
-   "title": "鄧炳強：新皇崗口岸開通至今整體大致暢順 平日日均出入境逾86000人次",
-   "source": "橙新聞",
-   "date": "11-04 07:28",
-   "iso": "2026-11-04T07:28:56+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOYmtzTUZvNlNURWpuS1JIVHpKN3hfMGlta19haG5HVWNiTUZVekFkWjUwS0FnMWRWMUZVcHJvVVBPM1VnejNIR1FBS1JvYlRDMlRqZWNXcWQwbFlLdVJoMVlzMlJxak5ZQlU0bF9zTnkyNFFwVGplYmNMeDVCS1NaeE9PVWVfWXF2anpKY21DUUNjTzB0YjVFUm5DbGJRYlNmZm9SQVFMekhHWkVuZlQyYUJwTmFEWV9oTGtod1ctZV9HZktpZVJOS3FLTGxCaGVnSGhjYnJNdHZHVnRNOGkxUFY0MTA0RlVZT2JBSDluMFN4Wjc4ejdoWC0wLVFNZm80VnVwSWRaN2sxSkZ2Zk03YVJOUV9iRUQ2Y3pRNHQ4djJXeEV1b2NNWGtMLW9fZnMzN0liOXA2ZkhTeGdNMVVDVzhZNTBWSXczVGpuelllUElZeWtuXzM1LXpwZGtpYk9Yb05FRnVTdEE3ZVlybW9ScnhRZVA3OFhuMU52b3FzS1ZDNUNLRVBkRmZ1cS1pUkhxNy1qN2h1Vm9hY3B2SzR0U1R5ak9MX0g4SXR0TTJCX3BKakg3V01B?oc=5"
-  },
-  {
    "title": "鄧炳強：新皇崗口岸日均逾8.6萬人次出入境節假日近14萬人次- 香港",
    "source": "大公文匯網",
    "date": "11-04 07:12",
@@ -104,11 +104,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OaTBwQWwxTHhXYVZEVlpHNFBRZi1ramk1YUpKVWprQjZRM0lKSzBOYVh1a0NSb2JTNk83U1NDbW1ZYUtjOG1mR1VjeTVoVDJRTkJjeFBVMDhhN1pyamZMdnlTM3dqQnFGT0JkZUNicF8?oc=5"
   },
   {
-   "title": "鄧炳強：新皇崗口岸日均逾8.6萬人次出入境節假日近14萬人次- 港聞",
-   "source": "dotdotnews",
-   "date": "11-04 07:02",
-   "iso": "2026-11-04T07:02:37+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rOE51QU5Vb0xMYkcxUVlKN20yTUlnUU9iWGFLZmp1RkhkNGY4Q3YtZUZERTZMbF90VEduRmx0WW5jYjFGWnBJN280bmtEcmFBRVlSM3ZaRDU2WTIzb1ZhM3hWZHdzVDBfSnBmYjlKUkZEMDlpUkRIbkx3?oc=5"
+   "title": "新皇崗口岸丨鄧炳強:日均逾8.6萬人次 周末及假期近14萬",
+   "source": "信報網站",
+   "date": "11-04 07:12",
+   "iso": "2026-11-04T07:12:50+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNbjE0Y3hSclkzdmduUHozUGxPYzY4NHh6SV85OG9jaXliYmszOW5DVzB4ejlGNkRaNTVIa2FSQ0VKOWVRMnFxdXlrUzBpeGlmMVYyWG4tMk5zRzI4SlljU2VraG9TWE5lS1dfU0IwX2NpWFRid3FEOGw5YnNLc3NjOUlHaEJyN1ZVX0JMMzB5REZBMzV0aGFsQXdBZHp0aHc4NXpHeFZMMDI5SjBEYTRFelRDSWpuMl81bjc1bFZSTGxjUGtxUTR0ZW1lSFk1MEZURldjZG5MTk45dmVreG9NV1NfR2Jyb1g5OVdLLTBOSGFsWldhdENZTWtydjlzSFhOT1MtQkNEOS1ZaDM3d1NqYW8tdTZGSWRMMmU0dnB4VWlVMEY1RHlUeGpSRUxaRDhtRU9NWjZWWFBDOWV6WG80QXNGQkVzRkNPRms1SFd4cGRubE8xTDVJWGliMVItMXJQc3FleDF3dWxJaEdHLVd2WU9RRQ?oc=5"
   }
  ],
  "ok": true,
