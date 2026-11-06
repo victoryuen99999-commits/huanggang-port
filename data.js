@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-06T11:27:00+08:00",
+ "generated_at": "2026-11-06T11:33:07+08:00",
  "date": "2026-11-06",
  "weekday": "星期五",
- "clock": "11:27",
+ "clock": "11:33",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 29,
-  "humidity": 65,
-  "wind": 9.8,
+  "humidity": 66,
+  "wind": 10.0,
   "code": 51,
   "desc": "毛毛雨",
   "tmax": 30,
@@ -97,18 +97,18 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOQnZib2RwcktQWkhIcWVrVExzeUIxS0JWZ2xTSnhldFBoQXZMVkNNTUxxZThnUjZmQnhsbXZ0Z2MweHFBZFBJcFd6aHFaWXZneHpOV0Q2OEg5aGJTZHdkbmhKaWxCeWlyeXd5TzhrSGVuUGpGRkUyYmxTR2FFcm92MDJIVGZINTA5NW5uaGhtVVo1cEdOVElVRDM4eXBuczI2XzFnUlo0b2FuWXduZzFBX2dhcDIwaFNMY2JWaHktSzI1cmZVWFZTSXFzcUMwazZSd2doZk5nNl9SRVdDcXlDVlk3SG5VbXFhZXQxQWJCTURoTng4c3BCd29FRWgtdW9FT29ZemZaVnBpZk94cHVFR3NkRnF1MExzSnVHVjY3aHRBTlFnelB5S3Z5blpLNE9mZDVTRFV1RzJ6UllPeVhVN3ZlckJISUhyR045djZ0a1lkYmVWbVl6Mm9B?oc=5"
   },
   {
-   "title": "港漂大讚新皇崗口岸慳時間",
-   "source": "星島頭條",
-   "date": "11-04 19:00",
-   "iso": "2026-11-04T19:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRFJ4V0xqX19KNm1aZkdtcl9pYXBDNXM1X24xaU1tTlFYalFkZWNyUFZDaGtiVWl5WGxURllqSWdRckV5SV90dFhIUXRMbm16UUJyd1BmdkV0QUZrTDhNSm1hbXRXcWU3OEhMcVlTRVRycFRDaUZlM2oybmVLcTZoMVg4a3RIRWpfaEFjYlA4TEpORTd2ODJJcEVBYlZMLW5MWnNtQU5walQ2RlVtQ1Rmb2JIWHdEM29vZWZqbEJZSVVzS0JGWjlXVFNkT3BycEttTzc2eGR2RE5PV25VQUpTNDE3a3o1eUxWMmsxanR3?oc=5"
-  },
-  {
    "title": "保安局：新皇崗口岸通關大致暢順 惟個別旅客不熟新查驗模式",
    "source": "Now 新聞",
    "date": "11-04 09:09",
    "iso": "2026-11-04T09:09:24+00:00",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16MzA2VE1qSWNjaktULVUxN29fWGNzRUx4SDczcHVWOFVwdXJfMUpDemdnVm5ZS0xKY0Rjd2xwQ291YjNIR21EVnRkaGF4UjVyY0dGYXQ0cXJxLWlVNUdtWEtR?oc=5"
+  },
+  {
+   "title": "新皇崗口岸「輕微卡關」 鄧炳強：個別旅客未預先登記「合作查驗」",
+   "source": "獨立媒體",
+   "date": "11-04 08:51",
+   "iso": "2026-11-04T08:51:59+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOM2ZkRGkzTzNpdlRDVUFjbWwxa3BFTlpxdGFqNUJMLUVZYTl1TnRwdVhMZmxkcXJwZEhRbkowMWNscDVpbTVDZEtGN3YxMjJBd2Q4RTlVLWNwVnJUWHBXLWRJSTVORVEtZW5MOXlqTEozYWlSTkFoOVJwblpZdVRRT084aGhLVm5zenZxTHFTRVVtc0hlS290SnZPdmg2UnVYa1RkVEJLcmxpZV9hNmNoY19WYXhNbHV3U2FkZmFGeDh0VExzb2hBRWlLeFhLQ0NRaHp2am93Szh2UE5HbDQyWUhjZVEwMXk1ZnVwdFRadkY5ZGVSaHlsVnBJVWpJZ1MtN2QzdjN4anZmU0VKamZWVVo1US1jQUNtZXI5a0ExODA2ZHlwSUVVaDVWaExwbzRyVXZ1Y0JLUEVKTnJTaGN0MUlZTGNEcTdqYmV4cTdGMVQ4dUJiWWdpbjVsTkcycER1eWNacDd5YnRXazJxcDhyQVRrWm1oUkhRQkx6UVZCS043dDA3VldKdngyWXZoeXJtcnA1N3B3Q2EtZENTdlNZT1NlSGNJY2NiRGN0eG93NTdXbXNSaE5BeUlnSzR0WWVqNzB4dGp3bGk?oc=5"
   }
  ],
  "ok": true,
