@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-06T22:32:22+08:00",
+ "generated_at": "2026-11-06T22:38:31+08:00",
  "date": "2026-11-06",
  "weekday": "星期五",
- "clock": "22:32",
+ "clock": "22:38",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -22,8 +22,8 @@ window.HGP_DATA = {
    "dep": 0
   },
   "LSC": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "LWS": {
    "arr": 0,
@@ -60,6 +60,13 @@ window.HGP_DATA = {
    "date": "11-06 14:03",
    "iso": "2026-11-06T14:03:55+00:00",
    "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQVEJONnpFTkotaFhuLXByVk85cWJDcHNMSlBUUHpQUkVTLTgwOHhJZ1FXTnpfcUFIM0dzS2FOQVdUbGJVcFQ1ZU90Q0x4bldDTnJ1UWx3SmNHTXB5bFBOX180RTlid1dLT05vVU5nd0VEdG9WUWlSZXZrRnkwcDJYbDY0RDloc21lN2RlWklIVWxZRlpzZ2M0UFJhaUhNUUFybnFsVGhUSUV6UnRUcjZMZzQxV2Zodk1jbldvZm1hSnc3WnRuRUxaT2ZDNjhadjM3al9sajB1cGItZGNlUmxCRTU2RlNnZnpJMjFkbU51ZDNwMWdINUJISHRPamtGQVAxWnV3M19JdkpxWmVENHV2bmpYeFp2Wk5VNmVOUGZ5bV9IdUE5M1NsWnMtaFFIdi1lN0RUZnVXdV9Lb0VNTTMyaFNSN1BaLTVhTGR4el92QllzWHdYM2h0OUVRWDFuRnMxc25lVjZaZllxdzZPSFNfcw?oc=5"
+  },
+  {
+   "title": "跨境集團安排內地人來港做黑工提供偽造身份證等 主腦被判監三年半",
+   "source": "TVB",
+   "date": "11-06 10:53",
+   "iso": "2026-11-06T10:53:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQTm9aQmE2eUg0cGxNbUFUTWNGR3pOdk5PU09DbS1YbDZ3QTItZFppVENSOW9TdW82dE1CWUdpdFA2UHpKekFVaktGRkpmMVJGM1BjejRYdTgxYlp0U3JHVEhCajhuUGtKWk5HVGlnbDVESVEyZ3o5eWxQUEhIb3ZTdEpRODJiSVJoeVQwUU0zQ3lYQWFvVVhXd0VyeF83cFlwZUZWdWY1aldXSDh3Y0hmOW5rYXRFRzVoMFFWMUVteWk5U1pGdUdrbXFQVmdnSF9xcF9teEtrRE5TQTFtSEY0Y2VrbEpJT0hCMnZmeklGSk5lVlBISUluVHRzMzNzYUVNeVdxekx4eHFndmtDU3lhWmpGNDZlNUhiaWRUbEI4Z1UtUFhnVHMwQS1vS0FDNV9yQk9KT3drMFRKb2FtYldmVDExYlQtMFQxbUdTTmNyVXh6SWhIX3JtTlpMd25MeEFjdlZVempKOEpsRklIQnJsbW4wYUlHckpCNlRZS2VBaTRwZnlyVW43eUFkRzFCY3pqSXFFNWMtUkIwNGlZTDhFUVpSV2tWaTRYSFR0M1h0Yw?oc=5"
   },
   {
    "title": "皇崗口岸附近6大親子好去處 科學館/親子商場/兒童樂園/市中心綠洲",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-05 10:06",
    "iso": "2026-11-05T10:06:27+00:00",
    "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQSllrX2MwdlpwVG92RXZUWTdJdENCNnV3Zi1XRjNGRnFtcm5xV0ExTDFwb0RHa2FfOUIwdktKUC0wd2JpVTNmNy1YVThEeG9sQ2huQVRxSW5hYXc0MnlKbHcwUXlnMEVzZll5UElYRDVSenpPQ1RhVENuLTVRZERPTFk5TnFqaHFEUzVhMUZGVXRieTEzckJWT2tjUmJ0eVZqRE5RR244TWpUc0xRV29LWEhFNHhPQndLbFRZckdzeU9hWVdMdWZOa2d0NXRHRG9hYkNQRXNkNXU3OWR6ZnJDRGdjRmxGZkJPNy1ORkxTT0ZqcnlVTWN4TURUVEVNMWhrNDdqSWxhbld6amx1c29BRjZLTGNXdE05eFJoRUl6VkRYeExyVGhVNUhjdHliaXluZ29rdjNtR0QzY0hGd21xX3lXS2I4R21SUUhzMWxlUkw?oc=5"
-  },
-  {
-   "title": "新皇崗口岸驚現Lawson羅森便利店圍板！料成最接近香港分店 網民熱議：期待人氣炸雞與熱食",
-   "source": "星島頭條",
-   "date": "11-05 08:46",
-   "iso": "2026-11-05T08:46:12+00:00",
-   "link": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQZmIzSFY2ZWx5NVMzMmRnX3hwVzIwUlpVOHllQW1qd1pHdUtXSEhyV2tPZWgxRXZKUlREVDdwaVlOWVlNU0tlTGV3SDNNWGNjQkNaTU9rbUNRdXBCbGM1LU1vX0NoMTlqSkZGZE0tdHJBWFBMVFI0YlVtb2hoS0NwbjVFVjdTVmRocko2ekxaSFJQZ1hJUVR3Vmp6YzBQOS1sNFNXRU5hZWd4TG1CeXBzbXpmSl9SQ1RXdEM3TUFXM2lpSnVaOEtQNGVWWGtzaDY4bk9LTngyS1lMQlFHTnRENU1TcERPeDhTbkd6M1dWUW9Ld2JhX2JUNDAyS3dDM2t2bVBIZk5xT1ZHcXpzLTRVY1JQczdnRzhma2FCUUllU1V2eFpxNWJsazVyM21qQk5DY0dGLUZ1aHdwZmN3bXBrOVhfZ0lfMU41ejVMSWVZQ0FZSmNWcFZEdzA4bmV0RHVoS0hQMWtmQnB0MXc1MmRSRlZUX2lNc0g5cElvUnE0clNfdERaNHRoblgwOE5zX3NzWDNKXzhpQk1rTXVZeWxoSFExNm56OXF3MW5XQmUxR2U1b1JTWjlNTGZNTHFzMjM2WGpScENvV0QyM0J5ckxGMFpzSTJZN2plM2s2aXhUVGxKRGtRbTAwMHpNQjk0LWdENklLajM0bnV5YXVNaVBxVGRUdmwwZlBtUFJYTzV3?oc=5"
   }
  ],
  "ok": true,
