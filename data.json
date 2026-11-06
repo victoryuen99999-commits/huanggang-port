@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T17:12:57+08:00",
+ "generated_at": "2026-11-06T17:26:36+08:00",
  "date": "2026-11-06",
  "weekday": "星期五",
- "clock": "17:12",
+ "clock": "17:26",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,8 +43,8 @@
  },
  "weather": {
   "temp": 27,
-  "humidity": 73,
-  "wind": 11.7,
+  "humidity": 74,
+  "wind": 11.5,
   "code": 1,
   "desc": "大致晴朗",
   "tmax": 29,
@@ -75,6 +75,13 @@
    "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxPYUYzMXE3N1hZRk0tbGxrajFGR3NWNFV3Vno3X2ZBTVJ0TnV4VXlBb0lGQl9TbEtrcmhiNDU5ZXlLdVFSTDlvMnVZRnFJcU1qaDFkbndFTXZ1cElFZng5VGtOc2ZRMF9xSndfUHc3N3lHak9vbk1LTGxvV0M4Wlp6VjVTa3d3NnJUVHgwWk9LWDIyQlFEOFdXZ2syTEV4VDRMTnMtMmQ4ODFmLXZMV3Zqcmd3ZGU4em5GLTRsbUZJOXhJV002LU1zeTNQZUh5aExIMXA0Nk5jalhnd1EwNjAwbXRFVGhvenRtam5TdTBoOTQwelBuQmlEX0dUZWtmUGQyc1FZX2tySzlJV3BZRG9QOVo0eG9jVjdjVEI4TV80Sy02dnZsbU4yN0FtM1QxbVgwa1hYejFTRWtWZlE0M3hvczF6UmZIVW9pQXNSUXl0UzlwTHhqRWZwdHZULTBWSjJvQ2NmWE9tdGxHTTdWQ0lDejFrQzhrYk5HSlJ0NHJObWJqM2h4dkt2bGJ1THZQWGEtVms1cHdMZUNSanBOX0RtN0ktWmRuSlY0TEZVekNMMG4?oc=5"
   },
   {
+   "title": "唔知會有咩買呢？",
+   "source": "Facebook",
+   "date": "11-06 02:01",
+   "iso": "2026-11-06T02:01:08+00:00",
+   "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOR1F0cGI3N2tsTDBNSWozZm4wVmF2N2xtYkx4WWtUcVFFeTYtbFJJYm9oMVJtQk5MTlVtam5WajNXMkFCUjZHV3RpYUlZOW1ubWpBU21pbWk0bC1ocGpSTDU3emZqRWtqamFoakg1SGlDUG9VTVdhTlhfYjRiRTZnY2lXd1lLRnZLdU5XRHBFWUc5X2lYcmlSclVuTlpVMUJyR3lxY3lReUwzZzg3eE1hNlAxaVBfcWozWHVyeTRLTXJfNzdRNThndmZwV3lnUFNtS1JMYnZOY0paY2VZeHQ0Zk1TMmhzNjdmSklmSlVlVFpYVVc5MFFadElSc2lUS3B5R3U3bWpMeDluWmQ5MjRHZEEyb2VsYmFiRktmb2dERnd4ZV9QNkMtQUdBYm9WYnc?oc=5"
+  },
+  {
    "title": "新皇崗口岸｜現Lawson便利店圍板 或為最近香港分店",
    "source": "AM730",
    "date": "11-05 10:06",
@@ -101,13 +108,6 @@
    "date": "11-05 01:20",
    "iso": "2026-11-05T01:20:33+00:00",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GYnRpblhJRWtEUFc1NjY4N0g5c2FyeVpyQUtvdmlSN2FPVkpUZWJ2NnFiNzFUZzhPLWxDVlVOZV9YUGQwZ0VoRnlCZVZMU2JpSzc5YzU2SjM1MlJlcXZROWFDdEEtYXU1ZzlvQWlEZlBGOFVZUlE?oc=5"
-  },
-  {
-   "title": "大家最近北上有冇用呢個口岸？",
-   "source": "Facebook",
-   "date": "11-05 00:00",
-   "iso": "2026-11-05T00:00:53+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQN2F2Q1RQX1oyOXU5cDhzREEwTHE5S3hnRjRJSkxNaEh0aEtZTnlKSm1FQ2FsZm9CX3U2YjdFM0NCRW5QVE5WRVdHQTh3NXRFd3VpeWZBb0JncDhFeGZqX0tUWU4wOXBuM1E5c3NjMmxST3NDMjN2blJsWWh5aDUxRk9jY2lEM0pXUVV3MzhCSnBQdllXSlJfNjk1RmZiVmstT29LSzdkbi03Z3JVYm9CZ21ueTZvSzJENzhjZzZ4SUE0V0dqb0hCRnUzeG9ydGIwXzFvSWEyclMybEZTVDVkaGZXRmpxTjNYMFpoWkE4QVV3VVE5MGtpSmI5UXJvX0FBQ0ttQnFZeDlJdmpWMFRWYzNTd2ZlRm5uZDU1M0x0SmZ2emN3bWd1UHRzVlZDYS11QmZoV20tdXdRY0pfM1Z1XzhiTlNINnZHQ1VubWtxMGNvYTNiT20wSDBxSnM2ZjFmTGpEYmRmUkNUSWdtMVZ4U2V5MmNkMnQ5Unc?oc=5"
   }
  ],
  "ok": true,
