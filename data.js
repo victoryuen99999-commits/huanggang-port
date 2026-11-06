@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-07T07:02:56+08:00",
+ "generated_at": "2026-11-07T07:09:53+08:00",
  "date": "2026-11-07",
  "weekday": "星期六",
- "clock": "07:02",
+ "clock": "07:09",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -14,8 +14,8 @@ window.HGP_DATA = {
  },
  "others": {
   "HYW": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "HZM": {
    "arr": 0,
@@ -30,8 +30,8 @@ window.HGP_DATA = {
    "dep": 0
   },
   "MKT": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "SBC": {
    "arr": 0,
@@ -50,7 +50,7 @@ window.HGP_DATA = {
   "desc": "大致晴朗",
   "tmax": 29,
   "tmin": 23,
-  "pop": 8
+  "pop": 4
  },
  "warnings": [],
  "news": [],
@@ -65,11 +65,6 @@ window.HGP_DATA = {
   {
    "tag": "早更",
    "text": "跨境上班上學人流集中，出境大堂及 L2 交匯處會出現短時人龍。",
-   "level": "info"
-  },
-  {
-   "tag": "週六",
-   "text": "早上北上、晚上返港雙高峰；落客區與上客區容易同時塞。",
    "level": "info"
   },
   {
