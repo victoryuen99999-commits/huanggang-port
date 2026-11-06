@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-06T14:37:56+08:00",
+ "generated_at": "2026-11-06T14:44:03+08:00",
  "date": "2026-11-06",
  "weekday": "星期五",
- "clock": "14:37",
+ "clock": "14:44",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "皇崗口岸上新！醒獅綠雕出圈 港人專程打卡迎 APEC",
+   "source": "dotdotnews",
+   "date": "11-06 06:18",
+   "iso": "2026-11-06T06:18:12+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KaVJzVXMxTDFkeXd0b2xtaWJZX0RtbXJScFhhSU50RWFWNEdOekl3YXMzNGVrZW5SbXY5WVdSRG1KMU41R1NoZHItOVFIZEVGZmNSU210a1Y2emNvS3l1ZElHOUNVeVRqVEhkZjR4Rkh2UWZJTVpFXzJn?oc=5"
+  },
+  {
    "title": "（有片）非遺醒獅點亮口岸風采！皇崗口岸APEC特色綠雕成港人打卡新地標- 新聞",
    "source": "香港文匯報",
    "date": "11-06 05:34",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-05 00:00",
    "iso": "2026-11-05T00:00:53+00:00",
    "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQN2F2Q1RQX1oyOXU5cDhzREEwTHE5S3hnRjRJSkxNaEh0aEtZTnlKSm1FQ2FsZm9CX3U2YjdFM0NCRW5QVE5WRVdHQTh3NXRFd3VpeWZBb0JncDhFeGZqX0tUWU4wOXBuM1E5c3NjMmxST3NDMjN2blJsWWh5aDUxRk9jY2lEM0pXUVV3MzhCSnBQdllXSlJfNjk1RmZiVmstT29LSzdkbi03Z3JVYm9CZ21ueTZvSzJENzhjZzZ4SUE0V0dqb0hCRnUzeG9ydGIwXzFvSWEyclMybEZTVDVkaGZXRmpxTjNYMFpoWkE4QVV3VVE5MGtpSmI5UXJvX0FBQ0ttQnFZeDlJdmpWMFRWYzNTd2ZlRm5uZDU1M0x0SmZ2emN3bWd1UHRzVlZDYS11QmZoV20tdXdRY0pfM1Z1XzhiTlNINnZHQ1VubWtxMGNvYTNiT20wSDBxSnM2ZjFmTGpEYmRmUkNUSWdtMVZ4U2V5MmNkMnQ5Unc?oc=5"
-  },
-  {
-   "title": "新皇崗旅客「卡關」 加派人手協助",
-   "source": "東方日報",
-   "date": "11-04 19:53",
-   "iso": "2026-11-04T19:53:47+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOQnZib2RwcktQWkhIcWVrVExzeUIxS0JWZ2xTSnhldFBoQXZMVkNNTUxxZThnUjZmQnhsbXZ0Z2MweHFBZFBJcFd6aHFaWXZneHpOV0Q2OEg5aGJTZHdkbmhKaWxCeWlyeXd5TzhrSGVuUGpGRkUyYmxTR2FFcm92MDJIVGZINTA5NW5uaGhtVVo1cEdOVElVRDM4eXBuczI2XzFnUlo0b2FuWXduZzFBX2dhcDIwaFNMY2JWaHktSzI1cmZVWFZTSXFzcUMwazZSd2doZk5nNl9SRVdDcXlDVlk3SG5VbXFhZXQxQWJCTURoTng4c3BCd29FRWgtdW9FT29ZemZaVnBpZk94cHVFR3NkRnF1MExzSnVHVjY3aHRBTlFnelB5S3Z5blpLNE9mZDVTRFV1RzJ6UllPeVhVN3ZlckJISUhyR045djZ0a1lkYmVWbVl6Mm9B?oc=5"
   }
  ],
  "ok": true,
