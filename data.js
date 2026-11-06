@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-06T23:57:51+08:00",
- "date": "2026-11-06",
- "weekday": "星期五",
- "clock": "23:57",
+ "generated_at": "2026-11-07T00:03:58+08:00",
+ "date": "2026-11-07",
+ "weekday": "星期六",
+ "clock": "00:03",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,13 +44,13 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 24,
-  "humidity": 87,
-  "wind": 11.7,
+  "humidity": 88,
+  "wind": 11.9,
   "code": 0,
   "desc": "天晴",
-  "tmax": 29,
+  "tmax": 28,
   "tmin": 23,
-  "pop": 94
+  "pop": 8
  },
  "warnings": [],
  "news": [
@@ -125,14 +125,9 @@ window.HGP_DATA = {
    "level": "warn"
   },
   {
-   "tag": "週五",
-   "text": "每週最擠時段之一（晚上北上），通宵巴士及跨境巴士都會排隊。",
-   "level": "warn"
-  },
-  {
-   "tag": "有雨",
-   "text": "預測降雨機率 94%，室外通道及上落客區會濕滑，提醒旅客及同事小心。",
-   "level": "warn"
+   "tag": "週六",
+   "text": "早上北上、晚上返港雙高峰；落客區與上客區容易同時塞。",
+   "level": "info"
   },
   {
    "tag": "通告",
