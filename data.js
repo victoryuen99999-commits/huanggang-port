@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-06T12:01:36+08:00",
+ "generated_at": "2026-11-06T12:07:43+08:00",
  "date": "2026-11-06",
  "weekday": "星期五",
- "clock": "12:01",
+ "clock": "12:07",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -59,7 +59,7 @@ window.HGP_DATA = {
    "source": "UHK 港生活",
    "date": "11-06 03:44",
    "iso": "2026-11-06T03:44:27+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNN1Zlc2d2QmRFRko1aE9vSjRpMnh6cHVOcUxxNi1sZnhveEtoa2c4TERPWVZTelNwLVN3SDVWc1NCaWxaLUVGY0d2ZHl6azlWU0hLcFdWR2ZKX3Buamh4bndrTjhhc1pqQ2txUUZMV1hGektCV0hHMEUwbnEtYmVDaEQ0YVN6VHlVblF0a2ZJQlZCRmVVN1NNbjVTNGFJeWxGMktnWWYxM2dDbXgtNUp5QXNvNUNXenBkdDd4MFBpd21abENNYmdoVmlNdngzQTRaYkZlWkpDV0ZRekZXbnc0OUc5Y3U2eE4xWHUyTXR3LTFONUR5Q01XUTN4ZGVVamEzZ2JtLW9WM3oxdVhVcENQV09FQTR3MWtHLVpFeUZYQllWdnhXWU5GcER6bmFZZW1KN0NnMDdfQkN3THRiSXRROEtIeTJ3V1RwMllEMndaZVlXeDNUZTZhb2tHUERXZS1Wa2xJX0Jqc2FiNEhoUU91SU5hMEo3NHVNcGVfMExpTQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxPYUYzMXE3N1hZRk0tbGxrajFGR3NWNFV3Vno3X2ZBTVJ0TnV4VXlBb0lGQl9TbEtrcmhiNDU5ZXlLdVFSTDlvMnVZRnFJcU1qaDFkbndFTXZ1cElFZng5VGtOc2ZRMF9xSndfUHc3N3lHak9vbk1LTGxvV0M4Wlp6VjVTa3d3NnJUVHgwWk9LWDIyQlFEOFdXZ2syTEV4VDRMTnMtMmQ4ODFmLXZMV3Zqcmd3ZGU4em5GLTRsbUZJOXhJV002LU1zeTNQZUh5aExIMXA0Nk5jalhnd1EwNjAwbXRFVGhvenRtam5TdTBoOTQwelBuQmlEX0dUZWtmUGQyc1FZX2tySzlJV3BZRG9QOVo0eG9jVjdjVEI4TV80Sy02dnZsbU4yN0FtM1QxbVgwa1hYejFTRWtWZlE0M3hvczF6UmZIVW9pQXNSUXl0UzlwTHhqRWZwdHZULTBWSjJvQ2NmWE9tdGxHTTdWQ0lDejFrQzhrYk5HSlJ0NHJObWJqM2h4dkt2bGJ1THZQWGEtVms1cHdMZUNSanBOX0RtN0ktWmRuSlY0TEZVekNMMG4?oc=5"
   },
   {
    "title": "新皇崗口岸｜現Lawson便利店圍板 或為最近香港分店",
