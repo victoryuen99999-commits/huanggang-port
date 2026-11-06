@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-06T19:09:26+08:00",
+ "generated_at": "2026-11-06T19:15:34+08:00",
  "date": "2026-11-06",
  "weekday": "星期五",
- "clock": "19:09",
+ "clock": "19:15",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,7 +44,7 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 25,
-  "humidity": 84,
+  "humidity": 85,
   "wind": 10.4,
   "code": 0,
   "desc": "天晴",
@@ -54,6 +54,13 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "跨境集團安排內地人來港做黑工提供偽造身份證等 主腦被判監三年半",
+   "source": "TVB",
+   "date": "11-06 10:53",
+   "iso": "2026-11-06T10:53:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQTm9aQmE2eUg0cGxNbUFUTWNGR3pOdk5PU09DbS1YbDZ3QTItZFppVENSOW9TdW82dE1CWUdpdFA2UHpKekFVaktGRkpmMVJGM1BjejRYdTgxYlp0U3JHVEhCajhuUGtKWk5HVGlnbDVESVEyZ3o5eWxQUEhIb3ZTdEpRODJiSVJoeVQwUU0zQ3lYQWFvVVhXd0VyeF83cFlwZUZWdWY1aldXSDh3Y0hmOW5rYXRFRzVoMFFWMUVteWk5U1pGdUdrbXFQVmdnSF9xcF9teEtrRE5TQTFtSEY0Y2VrbEpJT0hCMnZmeklGSk5lVlBISUluVHRzMzNzYUVNeVdxekx4eHFndmtDU3lhWmpGNDZlNUhiaWRUbEI4Z1UtUFhnVHMwQS1vS0FDNV9yQk9KT3drMFRKb2FtYldmVDExYlQtMFQxbUdTTmNyVXh6SWhIX3JtTlpMd25MeEFjdlZVempKOEpsRklIQnJsbW4wYUlHckpCNlRZS2VBaTRwZnlyVW43eUFkRzFCY3pqSXFFNWMtUkIwNGlZTDhFUVpSV2tWaTRYSFR0M1h0Yw?oc=5"
+  },
   {
    "title": "皇崗口岸上新！醒獅綠雕出圈 港人專程打卡迎 APEC",
    "source": "dotdotnews",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-05 08:46",
    "iso": "2026-11-05T08:46:12+00:00",
    "link": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQZmIzSFY2ZWx5NVMzMmRnX3hwVzIwUlpVOHllQW1qd1pHdUtXSEhyV2tPZWgxRXZKUlREVDdwaVlOWVlNU0tlTGV3SDNNWGNjQkNaTU9rbUNRdXBCbGM1LU1vX0NoMTlqSkZGZE0tdHJBWFBMVFI0YlVtb2hoS0NwbjVFVjdTVmRocko2ekxaSFJQZ1hJUVR3Vmp6YzBQOS1sNFNXRU5hZWd4TG1CeXBzbXpmSl9SQ1RXdEM3TUFXM2lpSnVaOEtQNGVWWGtzaDY4bk9LTngyS1lMQlFHTnRENU1TcERPeDhTbkd6M1dWUW9Ld2JhX2JUNDAyS3dDM2t2bVBIZk5xT1ZHcXpzLTRVY1JQczdnRzhma2FCUUllU1V2eFpxNWJsazVyM21qQk5DY0dGLUZ1aHdwZmN3bXBrOVhfZ0lfMU41ejVMSWVZQ0FZSmNWcFZEdzA4bmV0RHVoS0hQMWtmQnB0MXc1MmRSRlZUX2lNc0g5cElvUnE0clNfdERaNHRoblgwOE5zX3NzWDNKXzhpQk1rTXVZeWxoSFExNm56OXF3MW5XQmUxR2U1b1JTWjlNTGZNTHFzMjM2WGpScENvV0QyM0J5ckxGMFpzSTJZN2plM2s2aXhUVGxKRGtRbTAwMHpNQjk0LWdENklLajM0bnV5YXVNaVBxVGRUdmwwZlBtUFJYTzV3?oc=5"
-  },
-  {
-   "title": "八達通乘車優惠 ｜九巴新皇崗口岸路線滿4程回贈20元再抽免費機票",
-   "source": "香港財經時報HKBT",
-   "date": "11-05 02:55",
-   "iso": "2026-11-05T02:55:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQUVpGamI1SkJUcXZKblVwelItUkNYUHpYMG5tbnptSkxxX2dXTENRVDVFREV0dllSb3J5WjA1eUhrWGZjcDkwRHR1NnZGWmNOSjUtRlBaRlp2MVBXVkhsTlNiUlNCMXFOLWFKem5ua3RMNzh4eEQ5NGtoSmZPeFVMdkh5YnFGZjg1MzZVZFk5SHZPNGtiUWZPalJmbGtTX2RmOXpyMWM0akp1aHJ5YjdlakQtaW9rQTdHZVZhd3ltZFVqZy1pcmh2dmRQMFVEbFN2ODRtTk16eUFleTJVeU9mY3YxOFE0cW5uNGxpczFuLV9mY182VnM1Y090T3h5WVowYlpNQkxnV19mZ2FVSG9yZUtnS0NXRlZuQ3BFcnFrR1VMUTY3RE1faldsbFJIbElNMF9TQzZydjYwZHZFNy1mUUF3cFdQeHB4elNuQ2hQZUZaWXNqSWZNVWk4ZjZiMkRnYlE?oc=5"
   }
  ],
  "ok": true,
