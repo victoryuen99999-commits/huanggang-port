@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-07T01:06:59+08:00",
+ "generated_at": "2026-11-07T01:13:05+08:00",
  "date": "2026-11-07",
  "weekday": "星期六",
- "clock": "01:06",
+ "clock": "01:13",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -69,11 +69,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQVEJONnpFTkotaFhuLXByVk85cWJDcHNMSlBUUHpQUkVTLTgwOHhJZ1FXTnpfcUFIM0dzS2FOQVdUbGJVcFQ1ZU90Q0x4bldDTnJ1UWx3SmNHTXB5bFBOX180RTlid1dLT05vVU5nd0VEdG9WUWlSZXZrRnkwcDJYbDY0RDloc21lN2RlWklIVWxZRlpzZ2M0UFJhaUhNUUFybnFsVGhUSUV6UnRUcjZMZzQxV2Zodk1jbldvZm1hSnc3WnRuRUxaT2ZDNjhadjM3al9sajB1cGItZGNlUmxCRTU2RlNnZnpJMjFkbU51ZDNwMWdINUJISHRPamtGQVAxWnV3M19JdkpxWmVENHV2bmpYeFp2Wk5VNmVOUGZ5bV9IdUE5M1NsWnMtaFFIdi1lN0RUZnVXdV9Lb0VNTTMyaFNSN1BaLTVhTGR4el92QllzWHdYM2h0OUVRWDFuRnMxc25lVjZaZllxdzZPSFNfcw?oc=5"
   },
   {
-   "title": "跨境集團安排內地人來港做黑工提供偽造身份證等 主腦被判監三年半",
+   "title": "跨境集團安排內地人來港做黑工提供偽造身份證等 主腦判監三年半",
    "source": "TVB",
    "date": "11-06 10:53",
    "iso": "2026-11-06T10:53:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQTm9aQmE2eUg0cGxNbUFUTWNGR3pOdk5PU09DbS1YbDZ3QTItZFppVENSOW9TdW82dE1CWUdpdFA2UHpKekFVaktGRkpmMVJGM1BjejRYdTgxYlp0U3JHVEhCajhuUGtKWk5HVGlnbDVESVEyZ3o5eWxQUEhIb3ZTdEpRODJiSVJoeVQwUU0zQ3lYQWFvVVhXd0VyeF83cFlwZUZWdWY1aldXSDh3Y0hmOW5rYXRFRzVoMFFWMUVteWk5U1pGdUdrbXFQVmdnSF9xcF9teEtrRE5TQTFtSEY0Y2VrbEpJT0hCMnZmeklGSk5lVlBISUluVHRzMzNzYUVNeVdxekx4eHFndmtDU3lhWmpGNDZlNUhiaWRUbEI4Z1UtUFhnVHMwQS1vS0FDNV9yQk9KT3drMFRKb2FtYldmVDExYlQtMFQxbUdTTmNyVXh6SWhIX3JtTlpMd25MeEFjdlZVempKOEpsRklIQnJsbW4wYUlHckpCNlRZS2VBaTRwZnlyVW43eUFkRzFCY3pqSXFFNWMtUkIwNGlZTDhFUVpSV2tWaTRYSFR0M1h0Yw?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOcXhlQXpTNVg3MHFhTkZQc2plOWxING5HRXRxOUVpREZRNW50cXZya19aRzRidHlhLUJxYTk1XzRQVmxUOU9OSDltTUtUS3BPSG9NS3JKZVdzWUhia3BqWG9xU05NOTlfbHVZZm9mSlVGR3JhLXJZVjVDZnlNcVRQMFI0bmtxU1ZpTnpRX0xzYnVva0I3WTdONlpDRVBtZG5qZXlrRHlrdlM1UmtqN1JSS1hoOGdfTVVuYkxiNm5WTjFlWktSOXdFaFFQeElhNjlCT0tkR3Nnc2VraXFvYWtndDVXYTNWOW5iYW9BMlFycExlamZTdy12TUJmeUZ1YU5iR0dmWHRTd1ZEVXNQLVR6dDNheUI1RFRZMzJkMVhTeWkzcTMtS00zWXFVdVVXeGUwWllMYVlfNWwxdDRPbDhDekJEOVc0X2lpOFJHM2tkY3JBUkdiT2RQNkZMOFhIQ2N2WE9ESV96WHhWdWdzelItNzQ0TjZaNUpBRldEVWZsazNLUV9TLU9ETlQ0OHJUWnY4YTVlZmVuNjZFdWRobnBZNmpHbw?oc=5"
   },
   {
    "title": "皇崗口岸附近6大親子好去處 科學館/親子商場/兒童樂園/市中心綠洲",
