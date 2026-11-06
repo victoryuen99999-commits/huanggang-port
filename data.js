@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-06T17:57:13+08:00",
+ "generated_at": "2026-11-06T18:03:20+08:00",
  "date": "2026-11-06",
  "weekday": "星期五",
- "clock": "17:57",
+ "clock": "18:03",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 26,
-  "humidity": 78,
-  "wind": 10.7,
+  "humidity": 80,
+  "wind": 10.5,
   "code": 1,
   "desc": "大致晴朗",
   "tmax": 29,
@@ -67,6 +67,13 @@ window.HGP_DATA = {
    "date": "11-06 05:34",
    "iso": "2026-11-06T05:34:41+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwNGcyZC1ZTGE0QVZEdDJYTzlhWFpSYjlRT0VxRlkzRUhsV0hPTzJMaXUyVXFEYjVRUDJON0dZSDFhN29lbU5SQTZZM25FQ0E2NVFlRG5fQ1A3U0hJWHJWbXBiZ05ZUl93WTJjZmhobGtvNkpSdmlJ?oc=5"
+  },
+  {
+   "title": "新皇崗口岸深圳返港地庫層Lawson圍板預告即將開業 全國門店逾7000間",
+   "source": "GOtrip.hk",
+   "date": "11-06 05:30",
+   "iso": "2026-11-06T05:30:43+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNeV9uU3R0V2ttVmROeGlXUE1NRVEyRG14LXpQMmE4WWZzcndWZEU1UTI1WnNpWGhNdDFfSUR0MkJDN0pSanl0Qk4zTWFBWDRPUGphTEtJc21FNExHZmdQRk90VUx4YmpGOEtBZU1NWXNUWE9SMktNMWRDN2hxUkR4a1F2OVkzS1hSajNmSTFUZTdUVjFHVVhkek9XSHphNEdJa3pRWVlxeF81S3phQlZtamZrSGhXc1VkNTRBbzJLd2ItTmZLblJ3UTBqaXZ3LWg0ZS1hTFBqSVhOVDB1RkE1RnQyMHFsWndLaFNOUWc2alJwd1Utb2FWUlRaT1gwYXB4ZEVVaGQ2bFlCYmp6WUNQdk5RZERBY1ZJWmZWb2tBaDBxWTJuRFdOUUVnTHhRQlpZRmY1Y1BTTEg1NHhHMkZtMXMzVTBQeHUwbWEtb3ZkSFdYcF9ZNFNOd1FETVhVNzNDZHBPbDhtX0pkaTFLMW9SdDdqSjE3YVZKV0FERw?oc=5"
   },
   {
    "title": "Lawson插旗新皇崗口岸！成離港最近分店 網民卻爆1隱憂恐難還原日版",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-05 02:55",
    "iso": "2026-11-05T02:55:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQUVpGamI1SkJUcXZKblVwelItUkNYUHpYMG5tbnptSkxxX2dXTENRVDVFREV0dllSb3J5WjA1eUhrWGZjcDkwRHR1NnZGWmNOSjUtRlBaRlp2MVBXVkhsTlNiUlNCMXFOLWFKem5ua3RMNzh4eEQ5NGtoSmZPeFVMdkh5YnFGZjg1MzZVZFk5SHZPNGtiUWZPalJmbGtTX2RmOXpyMWM0akp1aHJ5YjdlakQtaW9rQTdHZVZhd3ltZFVqZy1pcmh2dmRQMFVEbFN2ODRtTk16eUFleTJVeU9mY3YxOFE0cW5uNGxpczFuLV9mY182VnM1Y090T3h5WVowYlpNQkxnV19mZ2FVSG9yZUtnS0NXRlZuQ3BFcnFrR1VMUTY3RE1faldsbFJIbElNMF9TQzZydjYwZHZFNy1mUUF3cFdQeHB4elNuQ2hQZUZaWXNqSWZNVWk4ZjZiMkRnYlE?oc=5"
-  },
-  {
-   "title": "新皇崗口岸開通近月 日均8.6萬人次出入境",
-   "source": "香港商报",
-   "date": "11-05 01:20",
-   "iso": "2026-11-05T01:20:33+00:00",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GYnRpblhJRWtEUFc1NjY4N0g5c2FyeVpyQUtvdmlSN2FPVkpUZWJ2NnFiNzFUZzhPLWxDVlVOZV9YUGQwZ0VoRnlCZVZMU2JpSzc5YzU2SjM1MlJlcXZROWFDdEEtYXU1ZzlvQWlEZlBGOFVZUlE?oc=5"
   }
  ],
  "ok": true,
