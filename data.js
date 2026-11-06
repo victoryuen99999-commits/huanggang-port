@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-06T11:49:22+08:00",
+ "generated_at": "2026-11-06T11:55:28+08:00",
  "date": "2026-11-06",
  "weekday": "星期五",
- "clock": "11:49",
+ "clock": "11:55",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "Lawson插旗新皇崗口岸！成離港最近分店 網民卻爆1隱憂恐難還原日版",
+   "source": "UHK 港生活",
+   "date": "11-06 03:44",
+   "iso": "2026-11-06T03:44:27+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNN1Zlc2d2QmRFRko1aE9vSjRpMnh6cHVOcUxxNi1sZnhveEtoa2c4TERPWVZTelNwLVN3SDVWc1NCaWxaLUVGY0d2ZHl6azlWU0hLcFdWR2ZKX3Buamh4bndrTjhhc1pqQ2txUUZMV1hGektCV0hHMEUwbnEtYmVDaEQ0YVN6VHlVblF0a2ZJQlZCRmVVN1NNbjVTNGFJeWxGMktnWWYxM2dDbXgtNUp5QXNvNUNXenBkdDd4MFBpd21abENNYmdoVmlNdngzQTRaYkZlWkpDV0ZRekZXbnc0OUc5Y3U2eE4xWHUyTXR3LTFONUR5Q01XUTN4ZGVVamEzZ2JtLW9WM3oxdVhVcENQV09FQTR3MWtHLVpFeUZYQllWdnhXWU5GcER6bmFZZW1KN0NnMDdfQkN3THRiSXRROEtIeTJ3V1RwMllEMndaZVlXeDNUZTZhb2tHUERXZS1Wa2xJX0Jqc2FiNEhoUU91SU5hMEo3NHVNcGVfMExpTQ?oc=5"
+  },
+  {
    "title": "新皇崗口岸｜現Lawson便利店圍板 或為最近香港分店",
    "source": "AM730",
    "date": "11-05 10:06",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-04 09:09",
    "iso": "2026-11-04T09:09:24+00:00",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16MzA2VE1qSWNjaktULVUxN29fWGNzRUx4SDczcHVWOFVwdXJfMUpDemdnVm5ZS0xKY0Rjd2xwQ291YjNIR21EVnRkaGF4UjVyY0dGYXQ0cXJxLWlVNUdtWEtR?oc=5"
-  },
-  {
-   "title": "新皇崗口岸「輕微卡關」 鄧炳強：個別旅客未預先登記「合作查驗」",
-   "source": "獨立媒體",
-   "date": "11-04 08:51",
-   "iso": "2026-11-04T08:51:59+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOM2ZkRGkzTzNpdlRDVUFjbWwxa3BFTlpxdGFqNUJMLUVZYTl1TnRwdVhMZmxkcXJwZEhRbkowMWNscDVpbTVDZEtGN3YxMjJBd2Q4RTlVLWNwVnJUWHBXLWRJSTVORVEtZW5MOXlqTEozYWlSTkFoOVJwblpZdVRRT084aGhLVm5zenZxTHFTRVVtc0hlS290SnZPdmg2UnVYa1RkVEJLcmxpZV9hNmNoY19WYXhNbHV3U2FkZmFGeDh0VExzb2hBRWlLeFhLQ0NRaHp2am93Szh2UE5HbDQyWUhjZVEwMXk1ZnVwdFRadkY5ZGVSaHlsVnBJVWpJZ1MtN2QzdjN4anZmU0VKamZWVVo1US1jQUNtZXI5a0ExODA2ZHlwSUVVaDVWaExwbzRyVXZ1Y0JLUEVKTnJTaGN0MUlZTGNEcTdqYmV4cTdGMVQ4dUJiWWdpbjVsTkcycER1eWNacDd5YnRXazJxcDhyQVRrWm1oUkhRQkx6UVZCS043dDA3VldKdngyWXZoeXJtcnA1N3B3Q2EtZENTdlNZT1NlSGNJY2NiRGN0eG93NTdXbXNSaE5BeUlnSzR0WWVqNzB4dGp3bGk?oc=5"
   }
  ],
  "ok": true,
