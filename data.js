@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-07T06:07:46+08:00",
+ "generated_at": "2026-11-07T06:13:53+08:00",
  "date": "2026-11-07",
  "weekday": "星期六",
- "clock": "06:07",
+ "clock": "06:13",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -59,7 +59,7 @@ window.HGP_DATA = {
    "source": "utravel.com.hk",
    "date": "11-06 22:00",
    "iso": "2026-11-06T22:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa0lkeEpKYktkS1pZNkFRMUpQOTdzSVg2bnhrWjJyVEZJbm5ZaFRqRXYwUTdMZWJET1ZYSnZjOGRJMjdfSHpmSkZNOElNRWVENTlTSmU5U1VFeVUwYVZRTXpZSlJ2YnlkX2MxeWNFUjh5NFl5enhjc1pONTl2UWw4VA?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNS05iV3hQWlVmN0tVQmhINkpkNmRKd0xmRFdOU2NfX1VhTkc2TkstSnEtRzNuUVlZUnF3ZWdkWTdaSHNXMDl0YU1rNjB4QXZKa1RjYnUxa3lwbGR2MlhVamtQYy1zQnVTWHB5NnpHWjZVTC1lT0pkQmtZUUpSX1FMemxxVWU3Sy1Ea0RJUzg1Z3NxX3pfSkROc0FFUEYxaU05MDByYUVaSWZqdVRaN0xZM0NQX19JZnN1SF9BcFlRck5XSF9NSUtUVXFiYWJCY01URDdYb3lGcl9hTXdlSTRNdDlSQ0ZWWFN0aFVQQUhTS0tWSzRndjI3bjJWLUY2Y0hsRmh6aHVOWVlLRktxVEZwRHo4Q2ZtZ1k4elh5SERxY1pFczVpbUpZUEdLR3FNVTJNRUJ4NEhKZFRCeFphWEtEUU1wMTNkWk1pYUk0N01rTnNpSmxTMGRTUC14bjBZeWpLWmxSTC1vYlpGY05ValNYSlZpSDU0cVpxdklhX1dwZnJCSVh2YlVMdlY4bzFyZlhKenpkUXdiTVU1T0N2T3l5SXJ3ZlpIVDVrNUFlankyTDhSS3ZRcjhscDdzdl9Fc09IS2s3Y3hUMU11OThsY3pHdHVLdTlnZ3RqbnNERXhfRUlxZWxKS0VmaDVvUURwT0l1S1ZsS2Fjak5MWkk5WGxtREtuaENYcmpZTGpETmRvWkdsZTV0eGYtWFNGc2FFNHlleWtScXpxSkZGZG1uZ2ZVYm83YTNaQ1Q0VlduR3NB?oc=5"
   },
   {
    "title": "新皇崗口岸驚現Lawson圍版 離香港最近分店!網民關心:有冇炸雞?",
