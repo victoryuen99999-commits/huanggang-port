@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-07T17:40:18+08:00",
+ "generated_at": "2026-11-07T17:46:26+08:00",
  "date": "2026-11-07",
  "weekday": "星期六",
- "clock": "17:40",
+ "clock": "17:46",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 26,
-  "humidity": 75,
-  "wind": 18.1,
+  "temp": 25,
+  "humidity": 77,
+  "wind": 18.2,
   "code": 0,
   "desc": "天晴",
   "tmax": 29,
@@ -73,7 +73,7 @@ window.HGP_DATA = {
    "source": "新假期",
    "date": "11-06 16:00",
    "iso": "2026-11-06T16:00:34+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrY21GWDVXOXNCSnAxdnNlc3BVQzdvakJ4QTRDeGtGM2tNX1ZERDBBUjIwa21MUkJ4d1dLdjFzNHNreTZWZ3RKdWJqaV8?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZU5fLU1xdGhSVHd0akg5OEZUNllwc25WYURFeV9pREtZMFh5cVZfLU1pTzJWbXJUamhpQVB5Q2puN19XeENqUkIySUJTcDlramlqYVJ1QkFtZ2lvclZOekVMdng1SHdRZ2FvSXlSUHNpN0pHSTAzTmJwUG5PNUdVMW15b0otYzdMYzJUaXZDOHdsWTh4MFRiMU56VXpEdXhfUGl5eXFNbHo3djJhZGRLcXZ6VnZROHMzV3A2ek96UVNxOEk3VHdxbWZHZDBWRDFZYUFpMG1VZ0JscGt6SFhkS0I3QUdYcHRQbWRF?oc=5"
   },
   {
    "title": "皇崗口岸人流爆燈 政府加強打擊白牌車 高人： 為安全同方便使用市民都應該避免搭白牌車",
