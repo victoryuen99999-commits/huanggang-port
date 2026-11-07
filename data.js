@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-07T18:48:35+08:00",
+ "generated_at": "2026-11-07T18:54:40+08:00",
  "date": "2026-11-07",
  "weekday": "星期六",
- "clock": "18:48",
+ "clock": "18:54",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -69,6 +69,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNS05iV3hQWlVmN0tVQmhINkpkNmRKd0xmRFdOU2NfX1VhTkc2TkstSnEtRzNuUVlZUnF3ZWdkWTdaSHNXMDl0YU1rNjB4QXZKa1RjYnUxa3lwbGR2MlhVamtQYy1zQnVTWHB5NnpHWjZVTC1lT0pkQmtZUUpSX1FMemxxVWU3Sy1Ea0RJUzg1Z3NxX3pfSkROc0FFUEYxaU05MDByYUVaSWZqdVRaN0xZM0NQX19JZnN1SF9BcFlRck5XSF9NSUtUVXFiYWJCY01URDdYb3lGcl9hTXdlSTRNdDlSQ0ZWWFN0aFVQQUhTS0tWSzRndjI3bjJWLUY2Y0hsRmh6aHVOWVlLRktxVEZwRHo4Q2ZtZ1k4elh5SERxY1pFczVpbUpZUEdLR3FNVTJNRUJ4NEhKZFRCeFphWEtEUU1wMTNkWk1pYUk0N01rTnNpSmxTMGRTUC14bjBZeWpLWmxSTC1vYlpGY05ValNYSlZpSDU0cVpxdklhX1dwZnJCSVh2YlVMdlY4bzFyZlhKenpkUXdiTVU1T0N2T3l5SXJ3ZlpIVDVrNUFlankyTDhSS3ZRcjhscDdzdl9Fc09IS2s3Y3hUMU11OThsY3pHdHVLdTlnZ3RqbnNERXhfRUlxZWxKS0VmaDVvUURwT0l1S1ZsS2Fjak5MWkk5WGxtREtuaENYcmpZTGpETmRvWkdsZTV0eGYtWFNGc2FFNHlleWtScXpxSkZGZG1uZ2ZVYm83YTNaQ1Q0VlduR3NB?oc=5"
   },
   {
+   "title": "新皇崗口岸驚現Lawson圍版 離香港最近分店!網民關心:有冇炸雞?",
+   "source": "新假期",
+   "date": "11-06 16:00",
+   "iso": "2026-11-06T16:00:34+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrY21GWDVXOXNCSnAxdnNlc3BVQzdvakJ4QTRDeGtGM2tNX1ZERDBBUjIwa21MUkJ4d1dLdjFzNHNreTZWZ3RKdWJqaV8?oc=5"
+  },
+  {
    "title": "皇崗口岸人流爆燈 政府加強打擊白牌車 高人： 為安全同方便使用市民都應該避免搭白牌車",
    "source": "巴士的報",
    "date": "11-06 14:03",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-06 05:34",
    "iso": "2026-11-06T05:34:41+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwNGcyZC1ZTGE0QVZEdDJYTzlhWFpSYjlRT0VxRlkzRUhsV0hPTzJMaXUyVXFEYjVRUDJON0dZSDFhN29lbU5SQTZZM25FQ0E2NVFlRG5fQ1A3U0hJWHJWbXBiZ05ZUl93WTJjZmhobGtvNkpSdmlJ?oc=5"
-  },
-  {
-   "title": "唔知會有咩買呢？",
-   "source": "Facebook",
-   "date": "11-06 02:01",
-   "iso": "2026-11-06T02:01:08+00:00",
-   "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOR1F0cGI3N2tsTDBNSWozZm4wVmF2N2xtYkx4WWtUcVFFeTYtbFJJYm9oMVJtQk5MTlVtam5WajNXMkFCUjZHV3RpYUlZOW1ubWpBU21pbWk0bC1ocGpSTDU3emZqRWtqamFoakg1SGlDUG9VTVdhTlhfYjRiRTZnY2lXd1lLRnZLdU5XRHBFWUc5X2lYcmlSclVuTlpVMUJyR3lxY3lReUwzZzg3eE1hNlAxaVBfcWozWHVyeTRLTXJfNzdRNThndmZwV3lnUFNtS1JMYnZOY0paY2VZeHQ0Zk1TMmhzNjdmSklmSlVlVFpYVVc5MFFadElSc2lUS3B5R3U3bWpMeDluWmQ5MjRHZEEyb2VsYmFiRktmb2dERnd4ZV9QNkMtQUdBYm9WYnc?oc=5"
   }
  ],
  "ok": true,
