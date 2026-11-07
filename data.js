@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-08T06:53:54+08:00",
+ "generated_at": "2026-11-08T07:00:02+08:00",
  "date": "2026-11-08",
  "weekday": "星期日",
- "clock": "06:53",
+ "clock": "07:00",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 24,
-  "humidity": 76,
-  "wind": 12.7,
+  "humidity": 75,
+  "wind": 12.8,
   "code": 1,
   "desc": "大致晴朗",
   "tmax": 29,
@@ -124,6 +124,11 @@ window.HGP_DATA = {
    "tag": "警告",
    "text": "天文台現正生效：強烈季候風信號。戶外崗位（上落客區、落馬洲大橋、交匯處）注意強風、雷擊及地滑。",
    "level": "warn"
+  },
+  {
+   "tag": "早更",
+   "text": "跨境上班上學人流集中，出境大堂及 L2 交匯處會出現短時人龍。",
+   "level": "info"
   },
   {
    "tag": "週日",
