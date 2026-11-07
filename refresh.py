@@ -22,7 +22,7 @@ WEATHER = ("https://api.open-meteo.com/v1/forecast?latitude=22.5317&longitude=11
 WARN_RSS = "https://rss.weather.gov.hk/rss/WeatherWarningSummaryv2_uc.xml"
 NEWS_QUERIES = ("皇崗口岸", "皇崗 通關 高峰")
 HIST = os.path.join(BASE, "history.js")
-HIST_MAX = 480          # 每 6 分鐘一筆 → 約 48 小時
+HIST_MAX = 288          # 每 10 分鐘一筆 → 約 48 小時
 
 STATUS = {0: "正常", 1: "繁忙", 2: "非常繁忙", 4: "系統維護", 99: "非服務時間"}
 WMO = {0:"天晴",1:"大致晴朗",2:"局部多雲",3:"多雲",45:"有霧",48:"霧凇",51:"毛毛雨",53:"毛毛雨",55:"毛毛雨",
@@ -147,7 +147,7 @@ def append_hist(out, now):
           "vd": (out.get("queue_visitor") or {}).get("dep", -1),
           "tp": (out.get("weather") or {}).get("temp"),
           "w": len(out.get("warnings") or [])}
-    if h and (pt["t"] - h[-1]["t"]) < 4 * 60 * 1000:
+    if h and (pt["t"] - h[-1]["t"]) < 5 * 60 * 1000:
         h[-1] = pt
     else:
         h.append(pt)

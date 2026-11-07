@@ -199,6 +199,15 @@
   .side-head{display:flex;align-items:baseline;justify-content:space-between;gap:8px;margin-bottom:4px}
   .side-head h3{margin:0;font-size:14.5px;font-weight:700}
   .side-sub{font-size:11.5px;color:var(--mut2)}
+  .sz-row{display:flex;align-items:center;gap:8px;padding:7px 0;border-bottom:1px solid rgba(255,255,255,.07);font-size:13px}
+  .sz-row:last-child{border-bottom:none}
+  .sz-row .n{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .sz-row .h{font-size:11px;color:var(--mut2);white-space:nowrap}
+  .sz-chip{font-size:11.5px;font-weight:700;padding:1px 8px;border-radius:6px;white-space:nowrap}
+  .sz0{background:rgba(47,212,182,.18);color:#8ee8d6;border:1px solid rgba(47,212,182,.35)}
+  .sz1{background:rgba(246,178,60,.2);color:#fbd08a;border:1px solid rgba(246,178,60,.4)}
+  .sz2{background:rgba(242,96,79,.22);color:#ffd0c9;border:1px solid rgba(242,96,79,.45)}
+  .sz3{background:rgba(255,255,255,.1);color:var(--mut);border:1px solid var(--line)}
   .side-foot{font-size:11.8px;color:var(--mut2);margin-top:9px;padding-top:9px;border-top:1px solid var(--line)}
   .feed .empty{padding:14px 0;color:var(--mut2);font-size:13px}
   .feed .brk-tag{display:inline-block;font-size:10.5px;font-weight:700;padding:0 6px;border-radius:5px;
@@ -368,6 +377,17 @@
       </div>
 
       <aside class="dash-side">
+        <div class="panel side-panel" style="margin-bottom:12px">
+          <div class="side-head">
+            <h3>深圳口岸即時</h3>
+            <span class="side-sub" id="szTime">—</span>
+          </div>
+          <div id="szList"><div class="empty">載入中…</div></div>
+          <div class="side-foot">
+            來源：深圳口岸辦「口岸通」· <a id="szLink" href="https://i.ka.sz.gov.cn/attend/kab-park/park/index?type=xianggang&language=zhs" target="_blank" rel="noopener">查看原頁</a>
+          </div>
+        </div>
+
         <div class="panel side-panel">
           <div class="side-head">
             <h3>突發・口岸新聞</h3>
@@ -640,6 +660,7 @@
 
 <script src="data.js"></script>
 <script src="history.js"></script>
+<script src="sz.js"></script>
 <script>
 (function(){
   "use strict";
@@ -961,6 +982,25 @@
       : "過去 48 小時暫無相關報道（無人龍／車龍新聞即代表冇明顯擠塞）。";
   }
 
+
+  function renderSZ(){
+    var d = window.HGP_SZ, box = $("szList"), tm = $("szTime");
+    if(!box) return;
+    if(!d || !d.ports || !d.ports.length){
+      box.innerHTML = '<div class="empty">暫無深圳側資料</div>';
+      if(tm) tm.textContent = "—";
+      return;
+    }
+    if(tm) tm.textContent = (d.clock || "") + " 更新";
+    if($("szLink") && d.source_url) $("szLink").href = d.source_url;
+    box.innerHTML = d.ports.map(function(p){
+      var lv = (p.level === 1 || p.level === 2 || p.level === 3) ? p.level : 0;
+      return '<div class="sz-row"><span class="n">' + p.name + '</span>' +
+             '<span class="sz-chip sz' + lv + '">' + (p.status || "—") + '</span>' +
+             '<span class="h">' + (p.hours || "") + '</span></div>';
+    }).join("");
+  }
+
   function renderAll(d){
     if(!d) return;
     renderSignals(d);
@@ -968,6 +1008,7 @@
     renderNews(d.news);
     renderWeather(d);
     renderTrend();
+    renderSZ();
     renderVeh(d.vehicle_events);
     renderWarnings(d.warnings === undefined ? null : d.warnings);
     if(d.generated_at){
@@ -1066,6 +1107,7 @@
   tick(); setInterval(tick, 1000);
   buildCameras(); setInterval(cameraTick, 120000);
   renderTrend();
+  renderSZ();
   renderCountdowns(); setInterval(renderCountdowns, 30000);
   if(DATA){ renderAll(DATA); }
   else {
