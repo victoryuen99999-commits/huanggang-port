@@ -32,7 +32,6 @@ jobs:
           key: pw-chromium-${{ runner.os }}-v1
 
       - name: 安裝 Playwright（深圳口岸辦需要執行 JS 才能取數）
-        continue-on-error: true      # 即使安裝失敗，也不影響主資料更新
         run: |
           python -m pip install --quiet playwright
           python -m playwright install chromium

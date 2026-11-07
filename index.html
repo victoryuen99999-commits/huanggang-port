@@ -208,12 +208,24 @@
   .sz1{background:rgba(246,178,60,.2);color:#fbd08a;border:1px solid rgba(246,178,60,.4)}
   .sz2{background:rgba(242,96,79,.22);color:#ffd0c9;border:1px solid rgba(242,96,79,.45)}
   .sz3{background:rgba(255,255,255,.1);color:var(--mut);border:1px solid var(--line)}
+  .col-head{display:flex;align-items:center;gap:8px;margin:0 0 10px;padding:8px 12px;border-radius:10px;background:rgba(255,255,255,.045);border:1px solid var(--line)}
+  .col-head b{font-size:14.5px;letter-spacing:.3px}
+  .col-head .ch-sub{font-size:12px;color:var(--mut2);margin-left:auto;white-space:nowrap}
+  .chip-hk{background:rgba(47,212,182,.16);color:#8ee8d6;border:1px solid rgba(47,212,182,.4);font-size:11.5px;font-weight:700;padding:1px 8px;border-radius:6px}
+  .chip-cn{background:rgba(246,178,60,.16);color:#fbd08a;border:1px solid rgba(246,178,60,.42);font-size:11.5px;font-weight:700;padding:1px 8px;border-radius:6px}
+  .feed-wide{max-height:none!important;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:6px 24px}
+  .feed-wide .feed-i{border-bottom:1px solid rgba(255,255,255,.06);padding:7px 0;min-width:0;overflow-wrap:anywhere}
+  .lvl-row{display:flex;gap:8px;padding:7px 0;border-bottom:1px solid rgba(255,255,255,.07);font-size:12.5px;align-items:flex-start}
+  .lvl-row:last-child{border-bottom:none}
+  .lvl-row > div{flex:1;min-width:0;line-height:1.55}
+  .lvl-row .chip-hk,.lvl-row .chip-cn{flex:0 0 auto;margin-top:1px}
   .side-foot{font-size:11.8px;color:var(--mut2);margin-top:9px;padding-top:9px;border-top:1px solid var(--line)}
   .feed .empty{padding:14px 0;color:var(--mut2);font-size:13px}
   .feed .brk-tag{display:inline-block;font-size:10.5px;font-weight:700;padding:0 6px;border-radius:5px;
     background:rgba(242,96,79,.25);border:1px solid rgba(242,96,79,.5);color:#ffd3cc;margin-right:6px;vertical-align:1px}
 
   @media(max-width:900px){
+  .feed-wide{grid-template-columns:minmax(0,1fr)}
     .dash-grid{grid-template-columns:1fr}
     .dash-side{position:static}
     .cam-row{grid-template-columns:1fr 1fr}
@@ -225,6 +237,7 @@
     .agg-meter span{width:22px;height:8px}
   }
   @media(max-width:900px){
+  .feed-wide{grid-template-columns:minmax(0,1fr)}
     .status-grid{grid-template-columns:repeat(2,1fr)}
     .duty-grid{grid-template-columns:1fr}
     .cards{grid-template-columns:repeat(2,1fr)}
@@ -300,7 +313,7 @@
   <!-- 儀表：繁忙程度（最前） -->
   <section id="dash">
     <h2>口岸繁忙程度</h2>
-    <p class="sub">旅客輪候：入境處每 15 分鐘｜車輛：交通快拍每 2 分鐘｜本頁：每 10 分鐘自動更新</p>
+    <p class="sub"><b style="color:#8ee8d6">左：香港側</b>（入境處輪候・運輸署快拍）｜<b style="color:#fbd08a">右：內地側</b>（深圳口岸辦即時狀態）</p>
 
     <div class="warnbar" id="warnbar" role="status" aria-live="polite">
       <div class="ico" id="warnIco">🛡️</div>
@@ -327,6 +340,8 @@
 
     <div class="dash-grid">
       <div class="dash-main">
+        <div class="col-head"><span class="chip-hk">香港</span><b>香港側</b><span class="ch-sub">入境處・運輸署</span></div>
+
         <div class="agg" id="aggBanner">
           <div class="agg-l">
             <div class="agg-lab">現時旅客通關</div>
@@ -377,6 +392,8 @@
       </div>
 
       <aside class="dash-side">
+        <div class="col-head"><span class="chip-cn">內地</span><b>內地側</b><span class="ch-sub">深圳口岸辦</span></div>
+
         <div class="panel side-panel" style="margin-bottom:12px">
           <div class="side-head">
             <h3>深圳口岸即時</h3>
@@ -390,22 +407,31 @@
 
         <div class="panel side-panel">
           <div class="side-head">
-            <h3>突發・口岸新聞</h3>
-            <span class="side-sub" id="feedCount">近 7 日</span>
+            <h3>兩地級別定義</h3>
+            <span class="side-sub">別混淆</span>
           </div>
-          <div class="feed" id="feed">
-            <div class="empty">載入中…</div>
-          </div>
-          <div class="side-foot">
-            <a href="https://www.info.gov.hk/gia/general/ctoday.htm" target="_blank" rel="noopener">新聞公報</a> ·
-            <a href="https://www.td.gov.hk/tc/traffic_notices/index.html" target="_blank" rel="noopener">交通通告</a> ·
-            <a href="https://www.weather.gov.hk/tc/wxinfo/index.htm" target="_blank" rel="noopener">天文台</a> ·
-            <a href="https://ka.sz.gov.cn/" target="_blank" rel="noopener">深圳口岸辦</a>
-          </div>
+          <div class="lvl-row"><span class="chip-hk">香港</span><div>入境處公布<b>旅客輪候級別</b>：正常＝一般 &lt;15 分鐘、繁忙≈15 分鐘、非常繁忙≈30 分鐘</div></div>
+          <div class="lvl-row"><span class="chip-cn">內地</span><div>口岸辦公布<b>口岸狀態</b>：暢通／正常／繁忙，<b>不公布分鐘數</b></div></div>
+          <p class="note" style="margin:8px 0 0">所以「香港正常」＋「內地暢通」係兩套獨立評級，唔可以直接比較。</p>
         </div>
       </aside>
     </div>
   </section>
+  <section id="news">
+    <h2>突發・口岸新聞</h2>
+    <p class="sub">近 7 日 · 政府新聞公報及媒體報道 · 塞／擠／車龍／事故等字眼自動標紅</p>
+    <div class="panel">
+      <div class="feed feed-wide" id="feed"><div class="empty">載入中…</div></div>
+      <div class="side-foot" style="margin-top:10px">
+        <span class="side-sub" id="feedCount" style="margin-right:10px">近 7 日</span>
+        <a href="https://www.info.gov.hk/gia/general/ctoday.htm" target="_blank" rel="noopener">新聞公報</a> ·
+        <a href="https://www.td.gov.hk/tc/traffic_notices/index.html" target="_blank" rel="noopener">交通通告</a> ·
+        <a href="https://www.weather.gov.hk/tc/wxinfo/index.htm" target="_blank" rel="noopener">天文台</a> ·
+        <a href="https://ka.sz.gov.cn/" target="_blank" rel="noopener">深圳口岸辦</a>
+      </div>
+    </div>
+  </section>
+
 
 
   <!-- 48 小時走勢 -->
