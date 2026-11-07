@@ -1036,6 +1036,11 @@
   function renderSZ(){
     var d = window.HGP_SZ, box = $("szStatus"), tm = $("szTime");
     if(!box) return;
+    if(d && !d.port && d.ports && d.ports.length){
+      d = {clock: d.clock, source_url: d.source_url,
+           port: (d.ports.filter(function(x){ return x.name.indexOf("皇崗") >= 0; })[0] || d.ports[0]),
+           cams: []};
+    }
     if(!d || !d.port){
       box.innerHTML = '<div class="empty">暫無深方資料</div>';
       if(tm) tm.textContent = "—";
