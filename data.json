@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T20:50:37+08:00",
+ "generated_at": "2026-11-07T20:56:55+08:00",
  "date": "2026-11-07",
  "weekday": "星期六",
- "clock": "20:50",
+ "clock": "20:56",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,10 +43,10 @@
  },
  "weather": {
   "temp": 25,
-  "humidity": 79,
-  "wind": 18.9,
-  "code": 0,
-  "desc": "天晴",
+  "humidity": 81,
+  "wind": 13.9,
+  "code": 1,
+  "desc": "大致晴朗",
   "tmax": 29,
   "tmin": 23,
   "pop": 6
@@ -88,13 +88,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOcXhlQXpTNVg3MHFhTkZQc2plOWxING5HRXRxOUVpREZRNW50cXZya19aRzRidHlhLUJxYTk1XzRQVmxUOU9OSDltTUtUS3BPSG9NS3JKZVdzWUhia3BqWG9xU05NOTlfbHVZZm9mSlVGR3JhLXJZVjVDZnlNcVRQMFI0bmtxU1ZpTnpRX0xzYnVva0I3WTdONlpDRVBtZG5qZXlrRHlrdlM1UmtqN1JSS1hoOGdfTVVuYkxiNm5WTjFlWktSOXdFaFFQeElhNjlCT0tkR3Nnc2VraXFvYWtndDVXYTNWOW5iYW9BMlFycExlamZTdy12TUJmeUZ1YU5iR0dmWHRTd1ZEVXNQLVR6dDNheUI1RFRZMzJkMVhTeWkzcTMtS00zWXFVdVVXeGUwWllMYVlfNWwxdDRPbDhDekJEOVc0X2lpOFJHM2tkY3JBUkdiT2RQNkZMOFhIQ2N2WE9ESV96WHhWdWdzelItNzQ0TjZaNUpBRldEVWZsazNLUV9TLU9ETlQ0OHJUWnY4YTVlZmVuNjZFdWRobnBZNmpHbw?oc=5"
   },
   {
-   "title": "皇崗口岸附近6大親子好去處 科學館/親子商場/兒童樂園/市中心綠洲",
-   "source": "Sundaykiss",
-   "date": "11-06 06:44",
-   "iso": "2026-11-06T06:44:06+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQY0lTZ0dkRlRJX3JNMWI1OWNBbXB2bzV0YnItblpvc2xyc0JTZDNTVjhDUTd3Y1pqWktkY09LR3FONGI3ZklnekJuNG50UW8xd2k5Q0tTUExEUzJrRDREeUI4LTBlZnhqU3ppWTR5YmlaSTZlcldEZFVRNjV3QWFxS19GY3F5NFk4SXdXUUU4c0J3MGFpNWxOOE45UEE5ZjhmQkI5STFtcWJ5QnloTVk0NU1VbjlWYkJPelFFRWd5am0tRWcyOFN6UFJWOGR0VkZPV0NDNHZuSTVMYnB4bUpqdHZGUTA3eGJ2T0NTbXpNUk95dm51TkpVUWhaR24wY2xra0xZOEpPTFZXZWVFOUVqZWc1NkZTTWo4UUpPVkpLU0dWTV9RMko3cENMckZsdFE5NjFtbHp2YmUzQ0Z4aHlvZnVwNVFkNVhjZ3VzT05fYzhSTzV2dzZHM0x3?oc=5"
-  },
-  {
    "title": "（有片）非遺醒獅點亮口岸風采！皇崗口岸APEC特色綠雕成港人打卡新地標- 新聞",
    "source": "香港文匯報",
    "date": "11-06 05:34",
@@ -114,6 +107,13 @@
    "date": "11-05 08:46",
    "iso": "2026-11-05T08:46:12+00:00",
    "link": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQZmIzSFY2ZWx5NVMzMmRnX3hwVzIwUlpVOHllQW1qd1pHdUtXSEhyV2tPZWgxRXZKUlREVDdwaVlOWVlNU0tlTGV3SDNNWGNjQkNaTU9rbUNRdXBCbGM1LU1vX0NoMTlqSkZGZE0tdHJBWFBMVFI0YlVtb2hoS0NwbjVFVjdTVmRocko2ekxaSFJQZ1hJUVR3Vmp6YzBQOS1sNFNXRU5hZWd4TG1CeXBzbXpmSl9SQ1RXdEM3TUFXM2lpSnVaOEtQNGVWWGtzaDY4bk9LTngyS1lMQlFHTnRENU1TcERPeDhTbkd6M1dWUW9Ld2JhX2JUNDAyS3dDM2t2bVBIZk5xT1ZHcXpzLTRVY1JQczdnRzhma2FCUUllU1V2eFpxNWJsazVyM21qQk5DY0dGLUZ1aHdwZmN3bXBrOVhfZ0lfMU41ejVMSWVZQ0FZSmNWcFZEdzA4bmV0RHVoS0hQMWtmQnB0MXc1MmRSRlZUX2lNc0g5cElvUnE0clNfdERaNHRoblgwOE5zX3NzWDNKXzhpQk1rTXVZeWxoSFExNm56OXF3MW5XQmUxR2U1b1JTWjlNTGZNTHFzMjM2WGpScENvV0QyM0J5ckxGMFpzSTJZN2plM2s2aXhUVGxKRGtRbTAwMHpNQjk0LWdENklLajM0bnV5YXVNaVBxVGRUdmwwZlBtUFJYTzV3?oc=5"
+  },
+  {
+   "title": "八達通乘車優惠 ｜九巴新皇崗口岸路線滿4程回贈20元再抽免費機票",
+   "source": "香港財經時報HKBT",
+   "date": "11-05 02:55",
+   "iso": "2026-11-05T02:55:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQUVpGamI1SkJUcXZKblVwelItUkNYUHpYMG5tbnptSkxxX2dXTENRVDVFREV0dllSb3J5WjA1eUhrWGZjcDkwRHR1NnZGWmNOSjUtRlBaRlp2MVBXVkhsTlNiUlNCMXFOLWFKem5ua3RMNzh4eEQ5NGtoSmZPeFVMdkh5YnFGZjg1MzZVZFk5SHZPNGtiUWZPalJmbGtTX2RmOXpyMWM0akp1aHJ5YjdlakQtaW9rQTdHZVZhd3ltZFVqZy1pcmh2dmRQMFVEbFN2ODRtTk16eUFleTJVeU9mY3YxOFE0cW5uNGxpczFuLV9mY182VnM1Y090T3h5WVowYlpNQkxnV19mZ2FVSG9yZUtnS0NXRlZuQ3BFcnFrR1VMUTY3RE1faldsbFJIbElNMF9TQzZydjYwZHZFNy1mUUF3cFdQeHB4elNuQ2hQZUZaWXNqSWZNVWk4ZjZiMkRnYlE?oc=5"
   }
  ],
  "ok": true,
