@@ -16,9 +16,16 @@ OUT = os.path.join(BASE, "sz.js")
 HKT = timezone(timedelta(hours=8))
 URL = "https://i.ka.sz.gov.cn/attend/kab-park/park/index?type=xianggang&language=zhs"
 
+# 內地簡體名稱 -> 繁體（僅常見口岸）
+NAME_FIX = {"深圳机场码头": "深圳機場碼頭", "皇岗口岸": "皇崗口岸", "福田口岸": "福田口岸",
+            "罗湖口岸": "羅湖口岸", "文锦渡口岸": "文錦渡口岸", "深圳湾口岸": "深圳灣口岸",
+            "莲塘口岸": "蓮塘口岸", "西九龙站口岸": "西九龍站口岸"}
+
 # 內地狀態 -> 本站級別（顏色）
 LEVEL = {"暢通": 0, "畅通": 0, "正常": 0,
-         "繁忙": 1, "擁擠": 2, "拥挤": 2, "擁堵": 2, "拥堵": 2, "暫停": 3, "暂停": 3}
+         "繁忙": 1,
+         "擁擠": 2, "拥挤": 2, "擁堵": 2, "拥堵": 2, "非常繁忙": 2,
+         "非通關時間": 3, "非通关时间": 3, "暫停": 3, "暂停": 3, "關閉": 3, "关闭": 3}
 
 
 def scrape():
@@ -47,6 +54,7 @@ def scrape():
             m = re.search(r"運行時間[:：]\s*(.+)", s) or re.search(r"运行时间[:：]\s*(.+)", s)
             if m:
                 hours = m.group(1).strip()
+        name = NAME_FIX.get(name, name)
         if name:
             ports.append({"name": name, "status": status, "hours": hours,
                           "level": LEVEL.get(status, 0)})
