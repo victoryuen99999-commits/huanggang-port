@@ -141,5 +141,5 @@ window.HGP_DATA = {
    "level": "info"
   }
  ],
- "history_points": 480
+ "history_points": 288
 };
