@@ -219,6 +219,23 @@
   .lvl-row:last-child{border-bottom:none}
   .lvl-row > div{flex:1;min-width:0;line-height:1.55}
   .lvl-row .chip-hk,.lvl-row .chip-cn{flex:0 0 auto;margin-top:1px}
+  .sz-card{display:flex;align-items:center;gap:10px;justify-content:space-between;padding:4px 0}
+  .sz-nm{font-size:15px;font-weight:700;color:var(--fg)}
+  .sz-hr{font-size:12px;color:var(--mut2);margin-top:3px}
+  .sz-chip{font-size:13px;font-weight:700;padding:4px 12px;border-radius:8px;white-space:nowrap}
+  .pz-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px}
+  .pz-i{margin:0;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:#0a1220}
+  .pz-i img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;background:#0a1220}
+  .pz-i.bad{display:flex;align-items:center;justify-content:center;min-height:120px;font-size:12px;color:var(--mut2)}
+  .pz-i.bad::before{content:"鏡頭暫時無法載入"}
+  .pz-cap{display:flex;align-items:center;gap:6px;padding:6px 8px;font-size:12px;color:var(--mut);border-top:1px solid rgba(255,255,255,.06)}
+  .pz-fl{font-size:11px;font-weight:700;padding:0 6px;border-radius:5px;background:rgba(255,255,255,.09);color:var(--mut)}
+  .pz-fl.in{background:rgba(47,212,182,.18);color:#8ee8d6}
+  .pz-fl.out{background:rgba(246,178,60,.18);color:#fbd08a}
+  .pz-nm{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .pz-ts{color:var(--mut2);font-size:11px;font-variant-numeric:tabular-nums}
+  .more-btn{margin:10px 0 0;padding:8px 14px;border-radius:9px;border:1px solid var(--line);background:rgba(255,255,255,.05);color:var(--fg);font-size:13px;cursor:pointer;font-family:inherit}
+  .more-btn:hover{background:rgba(255,255,255,.1)}
   .side-foot{font-size:11.8px;color:var(--mut2);margin-top:9px;padding-top:9px;border-top:1px solid var(--line)}
   .feed .empty{padding:14px 0;color:var(--mut2);font-size:13px}
   .feed .brk-tag{display:inline-block;font-size:10.5px;font-weight:700;padding:0 6px;border-radius:5px;
@@ -313,7 +330,7 @@
   <!-- 儀表：繁忙程度（最前） -->
   <section id="dash">
     <h2>口岸繁忙程度</h2>
-    <p class="sub"><b style="color:#8ee8d6">左：香港側</b>（入境處輪候・運輸署快拍）｜<b style="color:#fbd08a">右：內地側</b>（深圳口岸辦即時狀態）</p>
+    <p class="sub"><b style="color:#8ee8d6">左：港方口岸區</b>（入境處輪候・運輸署快拍）｜<b style="color:#fbd08a">右：深方口岸區</b>（皇崗口岸即時狀態）</p>
 
     <div class="warnbar" id="warnbar" role="status" aria-live="polite">
       <div class="ico" id="warnIco">🛡️</div>
@@ -340,7 +357,7 @@
 
     <div class="dash-grid">
       <div class="dash-main">
-        <div class="col-head"><span class="chip-hk">香港</span><b>香港側</b><span class="ch-sub">入境處・運輸署</span></div>
+        <div class="col-head"><span class="chip-hk">港方</span><b>港方口岸區</b><span class="ch-sub">入境處・運輸署</span></div>
 
         <div class="agg" id="aggBanner">
           <div class="agg-l">
@@ -392,14 +409,14 @@
       </div>
 
       <aside class="dash-side">
-        <div class="col-head"><span class="chip-cn">內地</span><b>內地側</b><span class="ch-sub">深圳口岸辦</span></div>
+        <div class="col-head"><span class="chip-cn">深方</span><b>深方口岸區</b><span class="ch-sub">深圳口岸辦</span></div>
 
         <div class="panel side-panel" style="margin-bottom:12px">
           <div class="side-head">
-            <h3>深圳口岸即時</h3>
+            <h3>皇崗口岸</h3>
             <span class="side-sub" id="szTime">—</span>
           </div>
-          <div id="szList"><div class="empty">載入中…</div></div>
+          <div id="szStatus"><div class="empty">載入中…</div></div>
           <div class="side-foot">
             來源：深圳口岸辦「口岸通」· <a id="szLink" href="https://i.ka.sz.gov.cn/attend/kab-park/park/index?type=xianggang&language=zhs" target="_blank" rel="noopener">查看原頁</a>
           </div>
@@ -416,6 +433,13 @@
         </div>
       </aside>
     </div>
+  </section>
+
+  <section id="cams">
+    <h2>皇崗口岸實時畫面</h2>
+    <p class="sub">深方聯檢大樓 14 個鏡頭 · 定格時間見右下 · 每輪更新抓取最新畫面（非連續影像）</p>
+    <div class="pz-grid" id="camGrid"><div class="empty">載入中…</div></div>
+    <p class="note">鏡頭來源：深圳口岸辦「口岸通」。畫面為定時定格，非即時直播；如顯示「鏡頭暫時無法載入」，代表該鏡頭當刻無新畫面。</p>
   </section>
   <section id="news">
     <h2>突發・口岸新聞</h2>
@@ -1010,21 +1034,53 @@
 
 
   function renderSZ(){
-    var d = window.HGP_SZ, box = $("szList"), tm = $("szTime");
+    var d = window.HGP_SZ, box = $("szStatus"), tm = $("szTime");
     if(!box) return;
-    if(!d || !d.ports || !d.ports.length){
-      box.innerHTML = '<div class="empty">暫無深圳側資料</div>';
+    if(!d || !d.port){
+      box.innerHTML = '<div class="empty">暫無深方資料</div>';
       if(tm) tm.textContent = "—";
       return;
     }
     if(tm) tm.textContent = (d.clock || "") + " 更新";
     if($("szLink") && d.source_url) $("szLink").href = d.source_url;
-    box.innerHTML = d.ports.map(function(p){
-      var lv = (p.level === 1 || p.level === 2 || p.level === 3) ? p.level : 0;
-      return '<div class="sz-row"><span class="n">' + p.name + '</span>' +
-             '<span class="sz-chip sz' + lv + '">' + (p.status || "—") + '</span>' +
-             '<span class="h">' + (p.hours || "") + '</span></div>';
-    }).join("");
+    var p = d.port, lv = (p.level === 1 || p.level === 2 || p.level === 3) ? p.level : 0;
+    box.innerHTML = '<div class="sz-card">' +
+        '<div><div class="sz-nm">' + p.name + '</div>' +
+        '<div class="sz-hr">通關 ' + (p.hours || "—") + '</div></div>' +
+        '<div class="sz-chip sz' + lv + '">' + (p.status || "—") + '</div></div>';
+  }
+
+  function renderCam(cams){
+    var g = $("camGrid");
+    if(!g) return;
+    if(!cams || !cams.length) cams = (window.HGP_SZ || {}).cams || [];
+    if(!cams.length){ g.innerHTML = '<div class="empty">暫無鏡頭資料</div>'; return; }
+    var old = document.querySelector(".more-btn");
+    if(old) old.remove();
+    var LIMIT = 6;
+
+    function card(c){
+      var flowCls = (c.flow || "").indexOf("出境") >= 0 ? "out" : "in";
+      var flowTxt = (c.flow || "").replace("動線", "");
+      return '<figure class="pz-i">' +
+        '<img decoding="async" src="' + c.url + '" alt="' + (c.f + " " + c.n) + '" ' +
+        'onerror="this.parentNode.classList.add(&quot;bad&quot;);this.remove()">' +
+        '<figcaption class="pz-cap">' +
+          (c.f ? '<b class="pz-fl">' + c.f + '</b>' : '') +
+          '<span class="pz-nm">' + c.n + '</span>' +
+          '<span class="pz-fl ' + flowCls + '">' + flowTxt + '</span>' +
+          '<span class="pz-ts">' + (c.ts || "") + '</span>' +
+        '</figcaption></figure>';
+    }
+
+    g.innerHTML = cams.slice(0, LIMIT).map(card).join("");
+    if(cams.length > LIMIT){
+      var btn = document.createElement("button");
+      btn.className = "more-btn";
+      btn.textContent = "顯示全部 " + cams.length + " 個鏡頭";
+      btn.onclick = function(){ g.innerHTML = cams.map(card).join(""); btn.remove(); };
+      g.parentNode.insertBefore(btn, g.nextSibling);
+    }
   }
 
   function renderAll(d){
@@ -1035,6 +1091,7 @@
     renderWeather(d);
     renderTrend();
     renderSZ();
+    renderCam();
     renderVeh(d.vehicle_events);
     renderWarnings(d.warnings === undefined ? null : d.warnings);
     if(d.generated_at){
@@ -1134,6 +1191,7 @@
   buildCameras(); setInterval(cameraTick, 120000);
   renderTrend();
   renderSZ();
+  renderCam();
   renderCountdowns(); setInterval(renderCountdowns, 30000);
   if(DATA){ renderAll(DATA); }
   else {
