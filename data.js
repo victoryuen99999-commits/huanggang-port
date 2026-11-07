@@ -22,8 +22,8 @@ window.HGP_DATA = {
    "dep": 0
   },
   "LSC": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "LWS": {
    "arr": 0,
@@ -60,6 +60,13 @@ window.HGP_DATA = {
   }
  ],
  "news": [
+  {
+   "title": "皇崗口岸 新考驗｜執法與疏導雙軌並行：根治跨境「白牌車」亂象",
+   "source": "香港財經時報HKBT",
+   "date": "11-07 14:29",
+   "iso": "2026-11-07T14:29:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQdU1aVjVZM3BSV3VRN1JXbFpoRFR3QWtndFJTTkxkN182X3JIV2MzV1BVWXVyQXA3SWtWbVdoQVRsOHkwYXN6cDItNWIyN194M3J2a3dSTjFqRmdnMUlRT3RWVlJuWDBINnNWalJqbGNMRkNjT0ZVNjJNTnduZ3ZGYjE4aXlTaGI5Q25pTjBUZGJ4dXZXQXZvMktZd0dpS0YycnFGVHJZUEExUGtNNzdJZXpnYXlzZ1hPSHJQMHdoaUEwajJHXzRYUUtsVzVzckJkSWdtSHFwVzZEQV93cVpQWFlpYldRb2lpS0pEZzNMYU5XcVAyaXVCcUdBZG4tR3FKRVBORnBuakJ1NnJuOHEtLTYtaFVYSHpQOEVpTV9XejBOaHVEcjNhZTF2UWplMlFXRFY5Z25NNjdkS0NtbklpTDJ1UFVMTmhhMnpWNmFQeTZOVUdVUW8xSmJ4LVdYWDVudGtzcjRib3BmUQ?oc=5"
+  },
   {
    "title": "嚴打跨境白牌車：守護皇崗口岸通關秩序， 築牢大灣區跨境出行安全防線",
    "source": "巴士的報",
@@ -108,13 +115,6 @@ window.HGP_DATA = {
    "date": "11-05 08:46",
    "iso": "2026-11-05T08:46:12+00:00",
    "link": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQZmIzSFY2ZWx5NVMzMmRnX3hwVzIwUlpVOHllQW1qd1pHdUtXSEhyV2tPZWgxRXZKUlREVDdwaVlOWVlNU0tlTGV3SDNNWGNjQkNaTU9rbUNRdXBCbGM1LU1vX0NoMTlqSkZGZE0tdHJBWFBMVFI0YlVtb2hoS0NwbjVFVjdTVmRocko2ekxaSFJQZ1hJUVR3Vmp6YzBQOS1sNFNXRU5hZWd4TG1CeXBzbXpmSl9SQ1RXdEM3TUFXM2lpSnVaOEtQNGVWWGtzaDY4bk9LTngyS1lMQlFHTnRENU1TcERPeDhTbkd6M1dWUW9Ld2JhX2JUNDAyS3dDM2t2bVBIZk5xT1ZHcXpzLTRVY1JQczdnRzhma2FCUUllU1V2eFpxNWJsazVyM21qQk5DY0dGLUZ1aHdwZmN3bXBrOVhfZ0lfMU41ejVMSWVZQ0FZSmNWcFZEdzA4bmV0RHVoS0hQMWtmQnB0MXc1MmRSRlZUX2lNc0g5cElvUnE0clNfdERaNHRoblgwOE5zX3NzWDNKXzhpQk1rTXVZeWxoSFExNm56OXF3MW5XQmUxR2U1b1JTWjlNTGZNTHFzMjM2WGpScENvV0QyM0J5ckxGMFpzSTJZN2plM2s2aXhUVGxKRGtRbTAwMHpNQjk0LWdENklLajM0bnV5YXVNaVBxVGRUdmwwZlBtUFJYTzV3?oc=5"
-  },
-  {
-   "title": "八達通乘車優惠 ｜九巴新皇崗口岸路線滿4程回贈20元再抽免費機票",
-   "source": "香港財經時報HKBT",
-   "date": "11-05 02:55",
-   "iso": "2026-11-05T02:55:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQUVpGamI1SkJUcXZKblVwelItUkNYUHpYMG5tbnptSkxxX2dXTENRVDVFREV0dllSb3J5WjA1eUhrWGZjcDkwRHR1NnZGWmNOSjUtRlBaRlp2MVBXVkhsTlNiUlNCMXFOLWFKem5ua3RMNzh4eEQ5NGtoSmZPeFVMdkh5YnFGZjg1MzZVZFk5SHZPNGtiUWZPalJmbGtTX2RmOXpyMWM0akp1aHJ5YjdlakQtaW9rQTdHZVZhd3ltZFVqZy1pcmh2dmRQMFVEbFN2ODRtTk16eUFleTJVeU9mY3YxOFE0cW5uNGxpczFuLV9mY182VnM1Y090T3h5WVowYlpNQkxnV19mZ2FVSG9yZUtnS0NXRlZuQ3BFcnFrR1VMUTY3RE1faldsbFJIbElNMF9TQzZydjYwZHZFNy1mUUF3cFdQeHB4elNuQ2hQZUZaWXNqSWZNVWk4ZjZiMkRnYlE?oc=5"
   }
  ],
  "ok": true,
