@@ -29,6 +29,7 @@
   a{color:var(--teal); text-decoration:none}
   a:hover{text-decoration:underline}
   .wrap{max-width:1120px; margin:0 auto; padding:0 20px}
+  @media(min-width:1500px){ .wrap{max-width:1360px} .top-in{max-width:1360px} }
 
   header.top{position:sticky; top:0; z-index:50; backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px);
     background:rgba(6,11,20,.82); border-bottom:1px solid var(--line)}
@@ -173,9 +174,9 @@
   .trend-stats b{color:var(--fg)}
 
   /* 繁忙程度：主欄 + 突發新聞側欄 */
-  .dash-grid{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:14px;align-items:start}
+  .dash-grid{display:grid;grid-template-columns:minmax(0,1.08fr) minmax(0,1fr);gap:16px;align-items:start}
   .dash-main{min-width:0;display:grid;gap:12px}
-  .dash-side{min-width:0;position:sticky;top:72px}
+  .dash-side{min-width:0;display:grid;gap:12px;align-content:start}
   .agg{display:flex;align-items:center;justify-content:space-between;gap:16px;
     background:linear-gradient(100deg,rgba(47,212,182,.10),rgba(255,255,255,.03));
     border:1px solid var(--line);border-radius:14px;padding:14px 18px}
@@ -223,7 +224,7 @@
   .sz-nm{font-size:15px;font-weight:700;color:var(--fg)}
   .sz-hr{font-size:12px;color:var(--mut2);margin-top:3px}
   .sz-chip{font-size:13px;font-weight:700;padding:4px 12px;border-radius:8px;white-space:nowrap}
-  .pz-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px}
+  .pz-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
   .pz-i{margin:0;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:#0a1220}
   .pz-i img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;background:#0a1220}
   .pz-i.bad{display:flex;align-items:center;justify-content:center;min-height:120px;font-size:12px;color:var(--mut2)}
@@ -234,6 +235,12 @@
   .pz-fl.out{background:rgba(246,178,60,.18);color:#fbd08a}
   .pz-nm{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
   .pz-ts{color:var(--mut2);font-size:11px;font-variant-numeric:tabular-nums}
+  .flr{display:flex;gap:8px;padding:5px 0;border-bottom:1px solid rgba(255,255,255,.06);font-size:12.5px;color:var(--mut)}
+  .flr:last-child{border-bottom:none}
+  .flr b{flex:0 0 34px;color:var(--fg);font-variant-numeric:tabular-nums}
+  .flr span{flex:1;min-width:0;line-height:1.5}
+  .lnk{padding:6px 0;border-bottom:1px solid rgba(255,255,255,.06);font-size:13px}
+  .lnk:last-child{border-bottom:none}
   .more-btn{margin:10px 0 0;padding:8px 14px;border-radius:9px;border:1px solid var(--line);background:rgba(255,255,255,.05);color:var(--fg);font-size:13px;cursor:pointer;font-family:inherit}
   .more-btn:hover{background:rgba(255,255,255,.1)}
   .side-foot{font-size:11.8px;color:var(--mut2);margin-top:9px;padding-top:9px;border-top:1px solid var(--line)}
@@ -375,6 +382,8 @@
           <div class="stat st-na" id="s-v-out"><div class="lab">訪港旅客 · 出境</div><div class="val">—</div><div class="hint">等待數據</div></div>
         </div>
 
+        <p class="note" style="margin:-2px 0 0">港方級別（入境處定義）：正常＝一般 &lt;15 分鐘、繁忙≈15 分鐘、非常繁忙≈30 分鐘或以上 —— 是級別定義，不是實際等候時間。</p>
+
         <h3 class="h3">過去 48 小時旅客輪候走勢</h3>
         <div class="panel">
           <p class="trend-note" id="trendNote" style="display:none"></p>
@@ -417,6 +426,7 @@
             <span class="side-sub" id="szTime">—</span>
           </div>
           <div id="szStatus"><div class="empty">載入中…</div></div>
+          <p class="note" style="margin:8px 0 0">深方評級：暢通／正常／繁忙，不公布分鐘數。</p>
           <div class="side-foot">
             來源：深圳口岸辦「口岸通」· <a id="szLink" href="https://i.ka.sz.gov.cn/attend/kab-park/park/index?type=xianggang&language=zhs" target="_blank" rel="noopener">查看原頁</a>
           </div>
@@ -424,23 +434,42 @@
 
         <div class="panel side-panel">
           <div class="side-head">
-            <h3>兩地級別定義</h3>
-            <span class="side-sub">別混淆</span>
+            <h3>聯檢大樓實時畫面</h3>
+            <span class="side-sub" id="camTime">—</span>
           </div>
-          <div class="lvl-row"><span class="chip-hk">香港</span><div>入境處公布<b>旅客輪候級別</b>：正常＝一般 &lt;15 分鐘、繁忙≈15 分鐘、非常繁忙≈30 分鐘</div></div>
-          <div class="lvl-row"><span class="chip-cn">內地</span><div>口岸辦公布<b>口岸狀態</b>：暢通／正常／繁忙，<b>不公布分鐘數</b></div></div>
-          <p class="note" style="margin:8px 0 0">所以「香港正常」＋「內地暢通」係兩套獨立評級，唔可以直接比較。</p>
+          <div class="pz-grid" id="camGrid"><div class="empty">載入中…</div></div>
+          <p class="note" style="margin:8px 0 0">定格畫面，非直播；右下為拍攝時間。如顯示「鏡頭暫時無法載入」代表該鏡頭當刻無新畫面。</p>
+        </div>
+
+        <div class="panel side-panel">
+          <div class="side-head">
+            <h3>聯檢大樓樓層分佈</h3>
+            <span class="side-sub">按口岸辦鏡頭位置整理</span>
+          </div>
+          <div class="flr"><b>L5</b><span>入境人流 · 西側交通廳</span></div>
+          <div class="flr"><b>L4</b><span>出境人流 · 東側交通廳</span></div>
+          <div class="flr"><b>L3</b><span>出境車流 · 車檢區、跨境私家車落客</span></div>
+          <div class="flr"><b>L2</b><span>跨境巴士上客／落客</span></div>
+          <div class="flr"><b>L1</b><span>入境車流 · 車檢區</span></div>
+          <div class="flr"><b>B1</b><span>公交上客、出租車上落客</span></div>
+          <div class="flr"><b>B2</b><span>出境人流</span></div>
+          <div class="flr"><b>B3</b><span>網約車／私家車上落客</span></div>
+        </div>
+
+        <div class="panel side-panel">
+          <div class="side-head">
+            <h3>深方連結</h3>
+            <span class="side-sub">官方</span>
+          </div>
+          <div class="lnk"><a href="https://i.ka.sz.gov.cn/attend/kab-park/park/index?type=xianggang&language=zhs" target="_blank" rel="noopener">深圳口岸辦「口岸通」實時頁</a></div>
+          <div class="lnk"><a href="https://ka.sz.gov.cn/" target="_blank" rel="noopener">深圳市口岸辦官網</a></div>
+          <div class="lnk"><a href="https://www.szmc.net/" target="_blank" rel="noopener">深圳地鐵（7 號線皇崗口岸站）</a></div>
         </div>
       </aside>
     </div>
   </section>
 
-  <section id="cams">
-    <h2>皇崗口岸實時畫面</h2>
-    <p class="sub">深方聯檢大樓 14 個鏡頭 · 定格時間見右下 · 每輪更新抓取最新畫面（非連續影像）</p>
-    <div class="pz-grid" id="camGrid"><div class="empty">載入中…</div></div>
-    <p class="note">鏡頭來源：深圳口岸辦「口岸通」。畫面為定時定格，非即時直播；如顯示「鏡頭暫時無法載入」，代表該鏡頭當刻無新畫面。</p>
-  </section>
+
   <section id="news">
     <h2>突發・口岸新聞</h2>
     <p class="sub">近 7 日 · 政府新聞公報及媒體報道 · 塞／擠／車龍／事故等字眼自動標紅</p>
@@ -1062,7 +1091,7 @@
     if(!cams.length){ g.innerHTML = '<div class="empty">暫無鏡頭資料</div>'; return; }
     var old = document.querySelector(".more-btn");
     if(old) old.remove();
-    var LIMIT = 6;
+    var LIMIT = 8;
 
     function card(c){
       var flowCls = (c.flow || "").indexOf("出境") >= 0 ? "out" : "in";
