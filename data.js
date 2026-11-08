@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-08T18:31:48+08:00",
+ "generated_at": "2026-11-08T18:37:55+08:00",
  "date": "2026-11-08",
  "weekday": "星期日",
- "clock": "18:31",
+ "clock": "18:37",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -69,6 +69,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxObmxzbV9BRzlfbHJrcmZUTmZaYWVQZDBUdVJGcE9mUjNNZ2p3VFY5RjdfQ3pPQUNBQnduaGhYNFZsNzdsQ19xNkt0YkdtTkduT2NDM2x6b2RKR2t5UEpxaERVT1htTFpYTDdfd21mQ2lyVzcwLUNTWFl5emp3T0REemN6RXlNRUVxNWZTNHVCV3l5dUpOX09aMDU4cFM2QUlPcXNGcVhBT1RlMXRFOWI0U1cyN3F6UmxuREJzTVpONEVqRnNVeWVlalphM3hlRkVma1Jyc240UFFIb185NFE0R2FVYzZQMjFTUERGUFdmV0kwZ2JyOVNmcVZObmV0djZIQVRlM19XalVYQTB1aFNPWmVSenhaZ1BTX1ZDME5EdlJIb3dBa2hfczhva0xTamlHWWdIMEVWZ0JFMWNadUlaZHA5WGlYRFc3clR3MTZzUlVSSlV0aVU0TkNkZ0ZNUVc5ZEw5cUVEMmFyQW9RLXc?oc=5"
   },
   {
+   "title": "港人棄大西北7千蚊劏房搬深圳住！稱皇崗3千租兩房換生活質素網民批離地兼計錯數：車費都蝕埋",
+   "source": "U Travel",
+   "date": "11-06 22:00",
+   "iso": "2026-11-06T22:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNS05iV3hQWlVmN0tVQmhINkpkNmRKd0xmRFdOU2NfX1VhTkc2TkstSnEtRzNuUVlZUnF3ZWdkWTdaSHNXMDl0YU1rNjB4QXZKa1RjYnUxa3lwbGR2MlhVamtQYy1zQnVTWHB5NnpHWjZVTC1lT0pkQmtZUUpSX1FMemxxVWU3Sy1Ea0RJUzg1Z3NxX3pfSkROc0FFUEYxaU05MDByYUVaSWZqdVRaN0xZM0NQX19JZnN1SF9BcFlRck5XSF9NSUtUVXFiYWJCY01URDdYb3lGcl9hTXdlSTRNdDlSQ0ZWWFN0aFVQQUhTS0tWSzRndjI3bjJWLUY2Y0hsRmh6aHVOWVlLRktxVEZwRHo4Q2ZtZ1k4elh5SERxY1pFczVpbUpZUEdLR3FNVTJNRUJ4NEhKZFRCeFphWEtEUU1wMTNkWk1pYUk0N01rTnNpSmxTMGRTUC14bjBZeWpLWmxSTC1vYlpGY05ValNYSlZpSDU0cVpxdklhX1dwZnJCSVh2YlVMdlY4bzFyZlhKenpkUXdiTVU1T0N2T3l5SXJ3ZlpIVDVrNUFlankyTDhSS3ZRcjhscDdzdl9Fc09IS2s3Y3hUMU11OThsY3pHdHVLdTlnZ3RqbnNERXhfRUlxZWxKS0VmaDVvUURwT0l1S1ZsS2Fjak5MWkk5WGxtREtuaENYcmpZTGpETmRvWkdsZTV0eGYtWFNGc2FFNHlleWtScXpxSkZGZG1uZ2ZVYm83YTNaQ1Q0VlduR3NB?oc=5"
+  },
+  {
    "title": "皇崗口岸人流爆燈 政府加強打擊白牌車 高人： 為安全同方便使用市民都應該避免搭白牌車",
    "source": "巴士的報",
    "date": "11-06 14:03",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-04 09:09",
    "iso": "2026-11-04T09:09:24+00:00",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16MzA2VE1qSWNjaktULVUxN29fWGNzRUx4SDczcHVWOFVwdXJfMUpDemdnVm5ZS0xKY0Rjd2xwQ291YjNIR21EVnRkaGF4UjVyY0dGYXQ0cXJxLWlVNUdtWEtR?oc=5"
-  },
-  {
-   "title": "新皇崗口岸「輕微卡關」 鄧炳強：個別旅客未預先登記「合作查驗」",
-   "source": "獨立媒體",
-   "date": "11-04 08:51",
-   "iso": "2026-11-04T08:51:59+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOM2ZkRGkzTzNpdlRDVUFjbWwxa3BFTlpxdGFqNUJMLUVZYTl1TnRwdVhMZmxkcXJwZEhRbkowMWNscDVpbTVDZEtGN3YxMjJBd2Q4RTlVLWNwVnJUWHBXLWRJSTVORVEtZW5MOXlqTEozYWlSTkFoOVJwblpZdVRRT084aGhLVm5zenZxTHFTRVVtc0hlS290SnZPdmg2UnVYa1RkVEJLcmxpZV9hNmNoY19WYXhNbHV3U2FkZmFGeDh0VExzb2hBRWlLeFhLQ0NRaHp2am93Szh2UE5HbDQyWUhjZVEwMXk1ZnVwdFRadkY5ZGVSaHlsVnBJVWpJZ1MtN2QzdjN4anZmU0VKamZWVVo1US1jQUNtZXI5a0ExODA2ZHlwSUVVaDVWaExwbzRyVXZ1Y0JLUEVKTnJTaGN0MUlZTGNEcTdqYmV4cTdGMVQ4dUJiWWdpbjVsTkcycER1eWNacDd5YnRXazJxcDhyQVRrWm1oUkhRQkx6UVZCS043dDA3VldKdngyWXZoeXJtcnA1N3B3Q2EtZENTdlNZT1NlSGNJY2NiRGN0eG93NTdXbXNSaE5BeUlnSzR0WWVqNzB4dGp3bGk?oc=5"
   }
  ],
  "ok": true,
