@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-08T15:03:07+08:00",
+ "generated_at": "2026-11-08T15:09:14+08:00",
  "date": "2026-11-08",
  "weekday": "星期日",
- "clock": "15:03",
+ "clock": "15:09",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -82,13 +82,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQVEJONnpFTkotaFhuLXByVk85cWJDcHNMSlBUUHpQUkVTLTgwOHhJZ1FXTnpfcUFIM0dzS2FOQVdUbGJVcFQ1ZU90Q0x4bldDTnJ1UWx3SmNHTXB5bFBOX180RTlid1dLT05vVU5nd0VEdG9WUWlSZXZrRnkwcDJYbDY0RDloc21lN2RlWklIVWxZRlpzZ2M0UFJhaUhNUUFybnFsVGhUSUV6UnRUcjZMZzQxV2Zodk1jbldvZm1hSnc3WnRuRUxaT2ZDNjhadjM3al9sajB1cGItZGNlUmxCRTU2RlNnZnpJMjFkbU51ZDNwMWdINUJISHRPamtGQVAxWnV3M19JdkpxWmVENHV2bmpYeFp2Wk5VNmVOUGZ5bV9IdUE5M1NsWnMtaFFIdi1lN0RUZnVXdV9Lb0VNTTMyaFNSN1BaLTVhTGR4el92QllzWHdYM2h0OUVRWDFuRnMxc25lVjZaZllxdzZPSFNfcw?oc=5"
   },
   {
-   "title": "跨境集團安排內地人來港做黑工提供偽造身份證等 主腦判監三年半",
-   "source": "TVB",
-   "date": "11-06 10:53",
-   "iso": "2026-11-06T10:53:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOcXhlQXpTNVg3MHFhTkZQc2plOWxING5HRXRxOUVpREZRNW50cXZya19aRzRidHlhLUJxYTk1XzRQVmxUOU9OSDltTUtUS3BPSG9NS3JKZVdzWUhia3BqWG9xU05NOTlfbHVZZm9mSlVGR3JhLXJZVjVDZnlNcVRQMFI0bmtxU1ZpTnpRX0xzYnVva0I3WTdONlpDRVBtZG5qZXlrRHlrdlM1UmtqN1JSS1hoOGdfTVVuYkxiNm5WTjFlWktSOXdFaFFQeElhNjlCT0tkR3Nnc2VraXFvYWtndDVXYTNWOW5iYW9BMlFycExlamZTdy12TUJmeUZ1YU5iR0dmWHRTd1ZEVXNQLVR6dDNheUI1RFRZMzJkMVhTeWkzcTMtS00zWXFVdVVXeGUwWllMYVlfNWwxdDRPbDhDekJEOVc0X2lpOFJHM2tkY3JBUkdiT2RQNkZMOFhIQ2N2WE9ESV96WHhWdWdzelItNzQ0TjZaNUpBRldEVWZsazNLUV9TLU9ETlQ0OHJUWnY4YTVlZmVuNjZFdWRobnBZNmpHbw?oc=5"
-  },
-  {
    "title": "（有片）非遺醒獅點亮口岸風采！皇崗口岸APEC特色綠雕成港人打卡新地標- 新聞",
    "source": "香港文匯報",
    "date": "11-06 05:34",
@@ -115,6 +108,13 @@ window.HGP_DATA = {
    "date": "11-04 08:51",
    "iso": "2026-11-04T08:51:59+00:00",
    "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOM2ZkRGkzTzNpdlRDVUFjbWwxa3BFTlpxdGFqNUJMLUVZYTl1TnRwdVhMZmxkcXJwZEhRbkowMWNscDVpbTVDZEtGN3YxMjJBd2Q4RTlVLWNwVnJUWHBXLWRJSTVORVEtZW5MOXlqTEozYWlSTkFoOVJwblpZdVRRT084aGhLVm5zenZxTHFTRVVtc0hlS290SnZPdmg2UnVYa1RkVEJLcmxpZV9hNmNoY19WYXhNbHV3U2FkZmFGeDh0VExzb2hBRWlLeFhLQ0NRaHp2am93Szh2UE5HbDQyWUhjZVEwMXk1ZnVwdFRadkY5ZGVSaHlsVnBJVWpJZ1MtN2QzdjN4anZmU0VKamZWVVo1US1jQUNtZXI5a0ExODA2ZHlwSUVVaDVWaExwbzRyVXZ1Y0JLUEVKTnJTaGN0MUlZTGNEcTdqYmV4cTdGMVQ4dUJiWWdpbjVsTkcycER1eWNacDd5YnRXazJxcDhyQVRrWm1oUkhRQkx6UVZCS043dDA3VldKdngyWXZoeXJtcnA1N3B3Q2EtZENTdlNZT1NlSGNJY2NiRGN0eG93NTdXbXNSaE5BeUlnSzR0WWVqNzB4dGp3bGk?oc=5"
+  },
+  {
+   "title": "鄧炳強：皇崗口岸港方區域不設網約車上落客區",
+   "source": "香港商报",
+   "date": "11-04 08:51",
+   "iso": "2026-11-04T08:51:16+00:00",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XQmtDN3pzSXZmY0p2bFdfYkJZcjh3S0tXSUxhN2tlYk5ZYVIxY2JJaVFPLUhfZjVjZ2NhbzRkLWl4NGViMXNuUVRKNmljaC0tV25laldQekJReVNXSGFjMW00djZsR0tNQnctX0pIYjQyeWR4eUQtTGFSdw?oc=5"
   }
  ],
  "ok": true,
