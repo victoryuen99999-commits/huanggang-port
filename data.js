@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-08T21:53:16+08:00",
+ "generated_at": "2026-11-08T21:59:23+08:00",
  "date": "2026-11-08",
  "weekday": "星期日",
- "clock": "21:53",
+ "clock": "21:59",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "港深海關就APEC期間口岸運作會面交流",
+   "source": "www.hkcna.hk",
+   "date": "11-08 13:03",
+   "iso": "2026-11-08T13:03:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xdmtNRllQNUFxbzBBdVZjN1ptazRrUDFZRnFQMDJ4dFF3aXVqNldyVFRoajRSajl6MVVzelZzWjJZT1JKaFBpZlZmSDAyaWg2b3I1clhaZGJVZmNzNWRSVGFpNVg2aktTN2RmNzkzZw?oc=5"
+  },
+  {
    "title": "APEC深圳峰會前 港深海關就口岸運作會面",
    "source": "www.hkcna.hk",
    "date": "11-08 08:25",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-06 02:01",
    "iso": "2026-11-06T02:01:08+00:00",
    "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOR1F0cGI3N2tsTDBNSWozZm4wVmF2N2xtYkx4WWtUcVFFeTYtbFJJYm9oMVJtQk5MTlVtam5WajNXMkFCUjZHV3RpYUlZOW1ubWpBU21pbWk0bC1ocGpSTDU3emZqRWtqamFoakg1SGlDUG9VTVdhTlhfYjRiRTZnY2lXd1lLRnZLdU5XRHBFWUc5X2lYcmlSclVuTlpVMUJyR3lxY3lReUwzZzg3eE1hNlAxaVBfcWozWHVyeTRLTXJfNzdRNThndmZwV3lnUFNtS1JMYnZOY0paY2VZeHQ0Zk1TMmhzNjdmSklmSlVlVFpYVVc5MFFadElSc2lUS3B5R3U3bWpMeDluWmQ5MjRHZEEyb2VsYmFiRktmb2dERnd4ZV9QNkMtQUdBYm9WYnc?oc=5"
-  },
-  {
-   "title": "新皇崗口岸開通近月 日均8.6萬人次出入境",
-   "source": "香港商报",
-   "date": "11-05 01:05",
-   "iso": "2026-11-05T01:05:45+00:00",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yMF9TNE4yR1hvMTlhNE8tTmRQS0xCMzBLRW0zU1pxbEZ1Y1BTd09xSldUWXc2WWlmeEpqVFJabkN4S3cwdVlGaFlTZXpBSWpnNDVIYlZuWUkwZFJHUF9HZzFkWmFsQnNYa1hUVGw4cFBnZkh5QWJGYVV2bw?oc=5"
   }
  ],
  "ok": true,
