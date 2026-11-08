@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-09T05:58:46+08:00",
+ "generated_at": "2026-11-09T06:04:52+08:00",
  "date": "2026-11-09",
  "weekday": "星期一",
- "clock": "05:58",
+ "clock": "06:04",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 20,
   "humidity": 70,
-  "wind": 20.5,
+  "wind": 20.7,
   "code": 1,
   "desc": "大致晴朗",
   "tmax": 25,
@@ -118,11 +118,6 @@ window.HGP_DATA = {
    "tag": "天氣",
    "text": "天文台現時無天氣警告生效。",
    "level": "ok"
-  },
-  {
-   "tag": "夜更",
-   "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
-   "level": "warn"
   },
   {
    "tag": "通告",
