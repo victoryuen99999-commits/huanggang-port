@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-10T02:53:34+08:00",
+ "generated_at": "2026-11-10T03:11:46+08:00",
  "date": "2026-11-10",
  "weekday": "星期二",
- "clock": "02:53",
+ "clock": "03:11",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 14,
-  "humidity": 47,
-  "wind": 19.2,
+  "temp": 15,
+  "humidity": 45,
+  "wind": 20.1,
   "code": 0,
   "desc": "天晴",
   "tmax": 22,
@@ -68,8 +68,8 @@ window.HGP_DATA = {
   {
    "title": "網民讚完全無巨星架子",
    "source": "Facebook",
-   "date": "11-09 13:00",
-   "iso": "2026-11-09T13:00:41+00:00",
+   "date": "11-09 18:33",
+   "iso": "2026-11-09T18:33:50+00:00",
    "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOQ0tyeXhCNGVNTGh0b2RxSEhDTEgtdGhLLVN5ZmE0b3dnNkNjeGEwRk5tNDNyTGlhcUxqQmRPSThBZmJGY1RFdGlGTURuN0VPb0Q2VEVxcEF1WUxKS0UxNXlRQzlfLVpTZnRBbWwzUXk2djFQOGtOZGxWSWZlbzRxN1Jqd2ZSMWozc0pMZldTQVhaVjhTRkZuZTBPQVFCSWlWZHhSZnB6cUdYY2FTeW9QS1BKbU9JcE85NldnY215VzVIN0VoSGlMTzlsdS1TMF9XdXF5X24wTDgxdmhRWU92T1NfcmF6V2hyQXR5QkNWVDBRYlFiQzlVSGd2WWtwM1QteVBOMnhCcnZ4bUtWV1JreGZhTkd1Y3JyUXNQaU5VeHFJSFdoc3AyRzZBWllBWngxV1M4RXQwY0g4YVhieXc?oc=5"
   },
   {
