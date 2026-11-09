@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-09T10:57:19+08:00",
+ "generated_at": "2026-11-09T11:03:26+08:00",
  "date": "2026-11-09",
  "weekday": "星期一",
- "clock": "10:57",
+ "clock": "11:03",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 49,
-  "wind": 23.2,
+  "humidity": 48,
+  "wind": 23.1,
   "code": 0,
   "desc": "天晴",
   "tmax": 24,
@@ -115,11 +115,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQVEJONnpFTkotaFhuLXByVk85cWJDcHNMSlBUUHpQUkVTLTgwOHhJZ1FXTnpfcUFIM0dzS2FOQVdUbGJVcFQ1ZU90Q0x4bldDTnJ1UWx3SmNHTXB5bFBOX180RTlid1dLT05vVU5nd0VEdG9WUWlSZXZrRnkwcDJYbDY0RDloc21lN2RlWklIVWxZRlpzZ2M0UFJhaUhNUUFybnFsVGhUSUV6UnRUcjZMZzQxV2Zodk1jbldvZm1hSnc3WnRuRUxaT2ZDNjhadjM3al9sajB1cGItZGNlUmxCRTU2RlNnZnpJMjFkbU51ZDNwMWdINUJISHRPamtGQVAxWnV3M19JdkpxWmVENHV2bmpYeFp2Wk5VNmVOUGZ5bV9IdUE5M1NsWnMtaFFIdi1lN0RUZnVXdV9Lb0VNTTMyaFNSN1BaLTVhTGR4el92QllzWHdYM2h0OUVRWDFuRnMxc25lVjZaZllxdzZPSFNfcw?oc=5"
   },
   {
-   "title": "福田羅湖8間口岸飲茶推介｜蝦餃皇／咕嚕肉／柚子菠蘿包／人均$50",
-   "source": "香港01",
-   "date": "11-06 09:35",
-   "iso": "2026-11-06T09:35:57+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNdUFEVkFseHdlZ1M5Qll3cS1OSXNUeHdtZm9fejNzS3V3b0p5MjhPTnlaTVlBNW4yQnJ1M2RwaGJmLXpyNTBOdlg1ZTlnVFlKTExBdEVXa1kxQUFydksxaGxscFZDS1luQURhRVlzdmMySWhoQlZ3MUhUbXhXUXp4LUtHdldvenlhc2RmUnUza2U0WjA3YVB3WEdrbWdqZlg1eEVzdy16U1dzeGIwUXdCRXU4eGdnMGw4dWNTOVI0M1ZJMTdvbUVoV0NlaE45WGlBa3hqZ05Id0Y0LUJ5R25sbWVqR1BWQXpsSnM1SUtLczF2TWVwOEhxYjVXMTJYbGllVDE4TXdrZGhsRGQ1MC1BWk5iQ05NOVNjT1B4YXV3VUdWcjZwSUdHRUVKSjY0YjJwWGpaUFp1NnU2TGRWU1EzVnh5SjVCQUMzMWpQYjBTdXFXTVJmdDJRQ1doQmpiSGRvNGNURHdHdkdIU3FOVFJ3U001RXdKT0RXNXZid3A2c29wQW9PbmRVaw?oc=5"
+   "title": "（有片）非遺醒獅點亮口岸風采！皇崗口岸APEC特色綠雕成港人打卡新地標- 新聞",
+   "source": "香港文匯報",
+   "date": "11-06 05:34",
+   "iso": "2026-11-06T05:34:41+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwNGcyZC1ZTGE0QVZEdDJYTzlhWFpSYjlRT0VxRlkzRUhsV0hPTzJMaXUyVXFEYjVRUDJON0dZSDFhN29lbU5SQTZZM25FQ0E2NVFlRG5fQ1A3U0hJWHJWbXBiZ05ZUl93WTJjZmhobGtvNkpSdmlJ?oc=5"
   }
  ],
  "ok": true,
