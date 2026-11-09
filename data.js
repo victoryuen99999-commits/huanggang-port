@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-09T20:41:47+08:00",
+ "generated_at": "2026-11-09T20:47:55+08:00",
  "date": "2026-11-09",
  "weekday": "星期一",
- "clock": "20:41",
+ "clock": "20:47",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 19,
+  "temp": 18,
   "humidity": 46,
-  "wind": 23.2,
+  "wind": 23.4,
   "code": 0,
   "desc": "天晴",
   "tmax": 25,
@@ -115,11 +115,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxObmxzbV9BRzlfbHJrcmZUTmZaYWVQZDBUdVJGcE9mUjNNZ2p3VFY5RjdfQ3pPQUNBQnduaGhYNFZsNzdsQ19xNkt0YkdtTkduT2NDM2x6b2RKR2t5UEpxaERVT1htTFpYTDdfd21mQ2lyVzcwLUNTWFl5emp3T0REemN6RXlNRUVxNWZTNHVCV3l5dUpOX09aMDU4cFM2QUlPcXNGcVhBT1RlMXRFOWI0U1cyN3F6UmxuREJzTVpONEVqRnNVeWVlalphM3hlRkVma1Jyc240UFFIb185NFE0R2FVYzZQMjFTUERGUFdmV0kwZ2JyOVNmcVZObmV0djZIQVRlM19XalVYQTB1aFNPWmVSenhaZ1BTX1ZDME5EdlJIb3dBa2hfczhva0xTamlHWWdIMEVWZ0JFMWNadUlaZHA5WGlYRFc3clR3MTZzUlVSSlV0aVU0TkNkZ0ZNUVc5ZEw5cUVEMmFyQW9RLXc?oc=5"
   },
   {
-   "title": "港人棄大西北7千蚊劏房搬深圳住！稱皇崗3千租兩房換生活質素網民批離地兼計錯數：車費都蝕埋",
-   "source": "U Travel",
-   "date": "11-06 22:00",
-   "iso": "2026-11-06T22:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNS05iV3hQWlVmN0tVQmhINkpkNmRKd0xmRFdOU2NfX1VhTkc2TkstSnEtRzNuUVlZUnF3ZWdkWTdaSHNXMDl0YU1rNjB4QXZKa1RjYnUxa3lwbGR2MlhVamtQYy1zQnVTWHB5NnpHWjZVTC1lT0pkQmtZUUpSX1FMemxxVWU3Sy1Ea0RJUzg1Z3NxX3pfSkROc0FFUEYxaU05MDByYUVaSWZqdVRaN0xZM0NQX19JZnN1SF9BcFlRck5XSF9NSUtUVXFiYWJCY01URDdYb3lGcl9hTXdlSTRNdDlSQ0ZWWFN0aFVQQUhTS0tWSzRndjI3bjJWLUY2Y0hsRmh6aHVOWVlLRktxVEZwRHo4Q2ZtZ1k4elh5SERxY1pFczVpbUpZUEdLR3FNVTJNRUJ4NEhKZFRCeFphWEtEUU1wMTNkWk1pYUk0N01rTnNpSmxTMGRTUC14bjBZeWpLWmxSTC1vYlpGY05ValNYSlZpSDU0cVpxdklhX1dwZnJCSVh2YlVMdlY4bzFyZlhKenpkUXdiTVU1T0N2T3l5SXJ3ZlpIVDVrNUFlankyTDhSS3ZRcjhscDdzdl9Fc09IS2s3Y3hUMU11OThsY3pHdHVLdTlnZ3RqbnNERXhfRUlxZWxKS0VmaDVvUURwT0l1S1ZsS2Fjak5MWkk5WGxtREtuaENYcmpZTGpETmRvWkdsZTV0eGYtWFNGc2FFNHlleWtScXpxSkZGZG1uZ2ZVYm83YTNaQ1Q0VlduR3NB?oc=5"
+   "title": "新皇崗口岸驚現Lawson圍版 離香港最近分店!網民關心:有冇炸雞?",
+   "source": "新假期",
+   "date": "11-06 16:00",
+   "iso": "2026-11-06T16:00:34+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcDZhaDlOV2N4THY3MjFhU05md1pxN01LNGo0cVlfUTR0OWhCcGlPVDAzWUFtTXNuaGcwTjVUUnJaSzlLVWNhSTJVS3c4Y0p4OWs5RTVPSFAwTW5wcVZMTHotbW1vUkVYM2FzMzBnelQ2VEkyTXZFTmhvZGVNQW9mbjNuNFRMcjZtX0VwY1VRQm9uUzRXMFN5QXdoVUhWa3g4SjZmX09nS196U1kyTllhejRObGtGUQ?oc=5"
   }
  ],
  "ok": true,
