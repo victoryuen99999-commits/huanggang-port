@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-09T16:35:24+08:00",
+ "generated_at": "2026-11-09T16:41:31+08:00",
  "date": "2026-11-09",
  "weekday": "星期一",
- "clock": "16:35",
+ "clock": "16:41",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -73,6 +73,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43cFlUVmlKSU11X2dmeVYzWHQzZlhWcWFsNzRCeW5ncGhWMVl3NzVYWHVVcW96Wkw3eUp5TWQwYlFYMms1a0JwVlZLaGxlWGdNNko2X3J5aUFKNlgxX3hEaVhmdWhTc1A1VVRGbFFINjJFeGNGajNv?oc=5"
   },
   {
+   "title": "新皇崗效應 深港商人1800萬掃深圳瑧悅5伙 - 20261109 - 報章內容",
+   "source": "明報財經網",
+   "date": "11-08 20:32",
+   "iso": "2026-11-08T20:32:34+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNdm5JYkVFdnZjM1Ixc1JPTjloS2dmMVZ2dDJTb1k1Z093TWgyd3hRYmZHZ1NCZi1ScGdDd0hubko4TkpscHFsN2ppcVlfYk1qMjFId3hURU9EcGZQTmtLdXR2LWhpSG1kQ3JuN2xjZGkydTFQbzBwOUdaemlMNHM5RHNRRXFyOFJ4ZUtfMFZrVGc2d21YQUZOVmNKb1ZkQlM5ZjlIMldRWDkyeFFCLVc5REpCazhkOVU5VURkSDhHVG1YYTdnb05RVlRtcnF6SkJ6TUJMZGhRa1FvcFo5MUlLVnhyaWlnOHE5WVpfZDQzZGNGZDQtcndWZmkwVzBZd2VibGVUb2MwbWNEZWhQVTJNeWV0TkkwTW9VenVfTEVLa000d2hxVVZxVXRRUDZtNnhsLUozNFhpUQ?oc=5"
+  },
+  {
    "title": "新皇崗口岸效應 新世界深圳瑧悅 首批售七成",
    "source": "Yahoo 財經",
    "date": "11-08 20:00",
@@ -113,13 +120,6 @@ window.HGP_DATA = {
    "date": "11-06 22:00",
    "iso": "2026-11-06T22:00:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNS05iV3hQWlVmN0tVQmhINkpkNmRKd0xmRFdOU2NfX1VhTkc2TkstSnEtRzNuUVlZUnF3ZWdkWTdaSHNXMDl0YU1rNjB4QXZKa1RjYnUxa3lwbGR2MlhVamtQYy1zQnVTWHB5NnpHWjZVTC1lT0pkQmtZUUpSX1FMemxxVWU3Sy1Ea0RJUzg1Z3NxX3pfSkROc0FFUEYxaU05MDByYUVaSWZqdVRaN0xZM0NQX19JZnN1SF9BcFlRck5XSF9NSUtUVXFiYWJCY01URDdYb3lGcl9hTXdlSTRNdDlSQ0ZWWFN0aFVQQUhTS0tWSzRndjI3bjJWLUY2Y0hsRmh6aHVOWVlLRktxVEZwRHo4Q2ZtZ1k4elh5SERxY1pFczVpbUpZUEdLR3FNVTJNRUJ4NEhKZFRCeFphWEtEUU1wMTNkWk1pYUk0N01rTnNpSmxTMGRTUC14bjBZeWpLWmxSTC1vYlpGY05ValNYSlZpSDU0cVpxdklhX1dwZnJCSVh2YlVMdlY4bzFyZlhKenpkUXdiTVU1T0N2T3l5SXJ3ZlpIVDVrNUFlankyTDhSS3ZRcjhscDdzdl9Fc09IS2s3Y3hUMU11OThsY3pHdHVLdTlnZ3RqbnNERXhfRUlxZWxKS0VmaDVvUURwT0l1S1ZsS2Fjak5MWkk5WGxtREtuaENYcmpZTGpETmRvWkdsZTV0eGYtWFNGc2FFNHlleWtScXpxSkZGZG1uZ2ZVYm83YTNaQ1Q0VlduR3NB?oc=5"
-  },
-  {
-   "title": "新皇崗口岸驚現Lawson圍版 離香港最近分店!網民關心:有冇炸雞?",
-   "source": "新假期",
-   "date": "11-06 16:00",
-   "iso": "2026-11-06T16:00:34+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcDZhaDlOV2N4THY3MjFhU05md1pxN01LNGo0cVlfUTR0OWhCcGlPVDAzWUFtTXNuaGcwTjVUUnJaSzlLVWNhSTJVS3c4Y0p4OWs5RTVPSFAwTW5wcVZMTHotbW1vUkVYM2FzMzBnelQ2VEkyTXZFTmhvZGVNQW9mbjNuNFRMcjZtX0VwY1VRQm9uUzRXMFN5QXdoVUhWa3g4SjZmX09nS196U1kyTllhejRObGtGUQ?oc=5"
   }
  ],
  "ok": true,
