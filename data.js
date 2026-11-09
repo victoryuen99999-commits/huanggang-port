@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-10T05:59:21+08:00",
+ "generated_at": "2026-11-10T06:05:41+08:00",
  "date": "2026-11-10",
  "weekday": "星期二",
- "clock": "05:59",
+ "clock": "06:05",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 13,
   "humidity": 47,
-  "wind": 19.8,
+  "wind": 19.7,
   "code": 0,
   "desc": "天晴",
   "tmax": 22,
@@ -133,11 +133,6 @@ window.HGP_DATA = {
   {
    "tag": "防火",
    "text": "火災危險警告生效：吸煙、明火、戶外焊接及燃燒作業須停止或按程序審批；留意雜草及垃圾堆積起火風險。",
-   "level": "warn"
-  },
-  {
-   "tag": "夜更",
-   "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
    "level": "warn"
   },
   {
