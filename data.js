@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-10T06:55:34+08:00",
+ "generated_at": "2026-11-10T07:01:40+08:00",
  "date": "2026-11-10",
  "weekday": "星期二",
- "clock": "06:55",
+ "clock": "07:01",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 13,
-  "humidity": 48,
-  "wind": 19.0,
+  "humidity": 49,
+  "wind": 18.8,
   "code": 0,
   "desc": "天晴",
   "tmax": 22,
@@ -134,6 +134,11 @@ window.HGP_DATA = {
    "tag": "防火",
    "text": "火災危險警告生效：吸煙、明火、戶外焊接及燃燒作業須停止或按程序審批；留意雜草及垃圾堆積起火風險。",
    "level": "warn"
+  },
+  {
+   "tag": "早更",
+   "text": "跨境上班上學人流集中，出境大堂及 L2 交匯處會出現短時人龍。",
+   "level": "info"
   },
   {
    "tag": "通告",
