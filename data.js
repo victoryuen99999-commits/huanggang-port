@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-09T11:10:34+08:00",
+ "generated_at": "2026-11-09T11:16:41+08:00",
  "date": "2026-11-09",
  "weekday": "星期一",
- "clock": "11:10",
+ "clock": "11:16",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,7 +43,7 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 23,
+  "temp": 24,
   "humidity": 48,
   "wind": 23.1,
   "code": 0,
@@ -71,6 +71,13 @@ window.HGP_DATA = {
    "date": "11-08 20:50",
    "iso": "2026-11-08T20:50:32+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43cFlUVmlKSU11X2dmeVYzWHQzZlhWcWFsNzRCeW5ncGhWMVl3NzVYWHVVcW96Wkw3eUp5TWQwYlFYMms1a0JwVlZLaGxlWGdNNko2X3J5aUFKNlgxX3hEaVhmdWhTc1A1VVRGbFFINjJFeGNGajNv?oc=5"
+  },
+  {
+   "title": "新皇崗口岸效應 新世界深圳瑧悅 首批售七成",
+   "source": "Yahoo 財經",
+   "date": "11-08 20:00",
+   "iso": "2026-11-08T20:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNMjFvdTZma2FONTJFd1RGZmNCMW53WjF5Q1V3RTJaYi1VMTZNS3NMRWw3NmhvSUdPc3FoUnQ0N29MTGpDck5GUE9YWkljWVExakNMTG9JVjFCV2tKWGxSQ0ZlOHNYa0xiZ2hBd3lfTS1BYy1lSXNhYmUzTU13X1FldHVMdTRsR2VBckFXTVJsTXkwQUM3TG41bjlKSV9pdElwdnhVMDBDdUZjcDB6WFVqdW5NTkh4NUFqTHFyN2MxWFl2TXRNaVNiSFBsWGU3VDBqWHJSRDRhR05xV1JCWXVIQVJ4U1cwREN1Tnc2dE04RW9FbmFOMHZDSS1pTTFHVUxOd3c0eXhDRG1PRkJrR21FamNIRkZjU3JVWUgzNUFCRElubEdJOU1VQllTUDlfVG40QVJZME5NWEZ1S1dEUkhSd2FEcmo?oc=5"
   },
   {
    "title": "港深海關就APEC期間口岸運作會面交流",
@@ -113,13 +120,6 @@ window.HGP_DATA = {
    "date": "11-06 14:03",
    "iso": "2026-11-06T14:03:55+00:00",
    "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQVEJONnpFTkotaFhuLXByVk85cWJDcHNMSlBUUHpQUkVTLTgwOHhJZ1FXTnpfcUFIM0dzS2FOQVdUbGJVcFQ1ZU90Q0x4bldDTnJ1UWx3SmNHTXB5bFBOX180RTlid1dLT05vVU5nd0VEdG9WUWlSZXZrRnkwcDJYbDY0RDloc21lN2RlWklIVWxZRlpzZ2M0UFJhaUhNUUFybnFsVGhUSUV6UnRUcjZMZzQxV2Zodk1jbldvZm1hSnc3WnRuRUxaT2ZDNjhadjM3al9sajB1cGItZGNlUmxCRTU2RlNnZnpJMjFkbU51ZDNwMWdINUJISHRPamtGQVAxWnV3M19JdkpxWmVENHV2bmpYeFp2Wk5VNmVOUGZ5bV9IdUE5M1NsWnMtaFFIdi1lN0RUZnVXdV9Lb0VNTTMyaFNSN1BaLTVhTGR4el92QllzWHdYM2h0OUVRWDFuRnMxc25lVjZaZllxdzZPSFNfcw?oc=5"
-  },
-  {
-   "title": "（有片）非遺醒獅點亮口岸風采！皇崗口岸APEC特色綠雕成港人打卡新地標- 新聞",
-   "source": "香港文匯報",
-   "date": "11-06 05:34",
-   "iso": "2026-11-06T05:34:41+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwNGcyZC1ZTGE0QVZEdDJYTzlhWFpSYjlRT0VxRlkzRUhsV0hPTzJMaXUyVXFEYjVRUDJON0dZSDFhN29lbU5SQTZZM25FQ0E2NVFlRG5fQ1A3U0hJWHJWbXBiZ05ZUl93WTJjZmhobGtvNkpSdmlJ?oc=5"
   }
  ],
  "ok": true,
