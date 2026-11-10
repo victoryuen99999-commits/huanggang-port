@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-10T16:27:42+08:00",
+ "generated_at": "2026-11-10T16:33:48+08:00",
  "date": "2026-11-10",
  "weekday": "星期二",
- "clock": "16:27",
+ "clock": "16:33",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 22,
   "humidity": 30,
-  "wind": 12.6,
+  "wind": 12.7,
   "code": 0,
   "desc": "天晴",
   "tmax": 23,
@@ -60,6 +60,13 @@ window.HGP_DATA = {
   }
  ],
  "news": [
+  {
+   "title": "72歲成龍現身蓮塘口岸！招牌笑容親和力滿滿- 神州",
+   "source": "香港文匯報",
+   "date": "11-10 07:45",
+   "iso": "2026-11-10T07:45:37+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sX2x5NG5UNFBJelliLUJ0X0ZoclVjRXQzOXBJV01WWFdJeXl5THo3YTFyajBhVkVEQi1aOUIxV0lMbG83ZHBNRE5UclFaWFdfZGw1WXhIZ3NvSUpYemRNV0JFSFdVSFJUcjdHX2FjMUtrWTNWYktN?oc=5"
+  },
   {
    "title": "蘇達文｜新皇崗口岸須合力整治跨境「白牌車」亂象",
    "source": "橙新聞",
@@ -108,13 +115,6 @@ window.HGP_DATA = {
    "date": "11-08 13:03",
    "iso": "2026-11-08T13:03:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xdmtNRllQNUFxbzBBdVZjN1ptazRrUDFZRnFQMDJ4dFF3aXVqNldyVFRoajRSajl6MVVzelZzWjJZT1JKaFBpZlZmSDAyaWg2b3I1clhaZGJVZmNzNWRSVGFpNVg2aktTN2RmNzkzZw?oc=5"
-  },
-  {
-   "title": "新口岸新考驗：執法與疏導雙軌並行 根治跨境「白牌車」亂象｜劉仲恒專欄",
-   "source": "香港財經時報HKBT",
-   "date": "11-07 14:29",
-   "iso": "2026-11-07T14:29:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQdU1aVjVZM3BSV3VRN1JXbFpoRFR3QWtndFJTTkxkN182X3JIV2MzV1BVWXVyQXA3SWtWbVdoQVRsOHkwYXN6cDItNWIyN194M3J2a3dSTjFqRmdnMUlRT3RWVlJuWDBINnNWalJqbGNMRkNjT0ZVNjJNTnduZ3ZGYjE4aXlTaGI5Q25pTjBUZGJ4dXZXQXZvMktZd0dpS0YycnFGVHJZUEExUGtNNzdJZXpnYXlzZ1hPSHJQMHdoaUEwajJHXzRYUUtsVzVzckJkSWdtSHFwVzZEQV93cVpQWFlpYldRb2lpS0pEZzNMYU5XcVAyaXVCcUdBZG4tR3FKRVBORnBuakJ1NnJuOHEtLTYtaFVYSHpQOEVpTV9XejBOaHVEcjNhZTF2UWplMlFXRFY5Z25NNjdkS0NtbklpTDJ1UFVMTmhhMnpWNmFQeTZOVUdVUW8xSmJ4LVdYWDVudGtzcjRib3BmUQ?oc=5"
   }
  ],
  "ok": true,
