@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-11T07:49:16+08:00",
+ "generated_at": "2026-11-11T07:55:22+08:00",
  "date": "2026-11-11",
  "weekday": "星期三",
- "clock": "07:49",
+ "clock": "07:55",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -61,6 +61,13 @@ window.HGP_DATA = {
  ],
  "news": [
   {
+   "title": "香港北環線全面進入建設階段！2034年主支線同步開通接駁新皇崗口岸- 香港",
+   "source": "香港文匯報",
+   "date": "11-10 23:48",
+   "iso": "2026-11-10T23:48:58+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmY1RDcjlHRVd3d0llQml5SHFxSWw1WjR5T0Fpb1pOdlR1U050YVU5Rk05eWFkQWxnTk1rZW5SVzJJM3dOd2NOSl92dnBoRjVUU2VXckRHVmdXeW5TaU1vanNTRVJIbnZXRVF4NVpsb0tfdFhxYXFj?oc=5"
+  },
+  {
    "title": "皇崗通關近月周邊樓市租售急升溫有港人業主趁轉旺放盤套現後回港置業- 財經",
    "source": "香港文匯報",
    "date": "11-10 20:06",
@@ -108,13 +115,6 @@ window.HGP_DATA = {
    "date": "11-08 20:50",
    "iso": "2026-11-08T20:50:32+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43cFlUVmlKSU11X2dmeVYzWHQzZlhWcWFsNzRCeW5ncGhWMVl3NzVYWHVVcW96Wkw3eUp5TWQwYlFYMms1a0JwVlZLaGxlWGdNNko2X3J5aUFKNlgxX3hEaVhmdWhTc1A1VVRGbFFINjJFeGNGajNv?oc=5"
-  },
-  {
-   "title": "新皇崗效應 深港商人1800萬掃深圳瑧悅5伙 - 20261109 - 經濟",
-   "source": "明報新聞網",
-   "date": "11-08 20:30",
-   "iso": "2026-11-08T20:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPdVhyVExXOWdkcWI1UGRfM2ZyOUZkWW1LTk5Ic2tYZC1sTXc0VW1SLW5GSFZEajAzWnBvZjJwOUh4OWJkeFNFeXJQLUh4d2NKY3g4ZWUxN2h1S0xwdlRQV0NoYUdMdnVja29pYWR5bnpyQW9TM1pLSjVOWHhaMHFHazZiUHByS1A3ZTNMU1kzc3hxRXpQMGUyT3Vibm02b1lYakRYNXdwTDBic2VuY1l3QlFJVnhseWRLZ1U5QTROOW9PU0FGd21pNURfSV8tdlZRM1UxLU1adkxPQmN4ZlE1WWZ0NDJrX2l6UzFlSTVDX2FQaHg5RFdJXzlfeDRHS3RMZTFkMkdUZlM5VWhoVzR2ZGNIM3VSUlZYTG5BVG42NjV3dEtXMTQxVUl4MmRRZEpxaXE2YXVZQU5PNzY1RWgtbTRWMjc1TWd3LXBsWlFwb0FGb1VUdmpz?oc=5"
   }
  ],
  "ok": true,
