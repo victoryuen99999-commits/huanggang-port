@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-10T12:07:47+08:00",
+ "generated_at": "2026-11-10T12:13:54+08:00",
  "date": "2026-11-10",
  "weekday": "星期二",
- "clock": "12:07",
+ "clock": "12:13",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -61,6 +61,13 @@ window.HGP_DATA = {
  ],
  "news": [
   {
+   "title": "蘇達文｜新皇崗口岸須合力整治跨境「白牌車」亂象",
+   "source": "橙新聞",
+   "date": "11-10 04:05",
+   "iso": "2026-11-10T04:05:25+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOUUFRN2w4LW11WkY4cVppMEdZc3JNbTB6eEhKcVJmbDVobXBoQk5fZWdtczN3dUhDdDJoRDg4aEpBdnNseG1JeE9kbVZuejhPNXdKY0R0RnlmZmZUXzFRb1JRTjZaeUMwUEtXSVhJeENwOGhGZGJ6b3JPMnhWUF9abnRpVmtFdjY2a1U2RUh5M3U1QUt3Y0cyblY5VVpIVGdCWURsUVFHWDNsUzJ2R1hPcXRCWFNaUVYtd20yRXVUcnJwczI4aVp6RmlzSnRwb2JGdE5jbWtVcUVKZF94MHlZb3RWcEdFV0pwaUFwbkkyR2lGbXlma21FRmotT3B3bnFFazByLTYyUHpXYmJOdnd0N3pPMHVFS09wX1FpMXFmN0o5ZDFCZ3ByU01BQUFhYzU3WGxuN2JkcGpLbk5GcVhrZTdhNUM2YThxajV2VlRPdUg?oc=5"
+  },
+  {
    "title": "深圳市政協前主席戴北方涉受賄被起訴",
    "source": "Now 新聞",
    "date": "11-10 02:39",
@@ -108,13 +115,6 @@ window.HGP_DATA = {
    "date": "11-07 14:29",
    "iso": "2026-11-07T14:29:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQdU1aVjVZM3BSV3VRN1JXbFpoRFR3QWtndFJTTkxkN182X3JIV2MzV1BVWXVyQXA3SWtWbVdoQVRsOHkwYXN6cDItNWIyN194M3J2a3dSTjFqRmdnMUlRT3RWVlJuWDBINnNWalJqbGNMRkNjT0ZVNjJNTnduZ3ZGYjE4aXlTaGI5Q25pTjBUZGJ4dXZXQXZvMktZd0dpS0YycnFGVHJZUEExUGtNNzdJZXpnYXlzZ1hPSHJQMHdoaUEwajJHXzRYUUtsVzVzckJkSWdtSHFwVzZEQV93cVpQWFlpYldRb2lpS0pEZzNMYU5XcVAyaXVCcUdBZG4tR3FKRVBORnBuakJ1NnJuOHEtLTYtaFVYSHpQOEVpTV9XejBOaHVEcjNhZTF2UWplMlFXRFY5Z25NNjdkS0NtbklpTDJ1UFVMTmhhMnpWNmFQeTZOVUdVUW8xSmJ4LVdYWDVudGtzcjRib3BmUQ?oc=5"
-  },
-  {
-   "title": "嚴打跨境白牌車：守護皇崗口岸通關秩序， 築牢大灣區跨境出行安全防線",
-   "source": "巴士的報",
-   "date": "11-07 06:53",
-   "iso": "2026-11-07T06:53:40+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxObmxzbV9BRzlfbHJrcmZUTmZaYWVQZDBUdVJGcE9mUjNNZ2p3VFY5RjdfQ3pPQUNBQnduaGhYNFZsNzdsQ19xNkt0YkdtTkduT2NDM2x6b2RKR2t5UEpxaERVT1htTFpYTDdfd21mQ2lyVzcwLUNTWFl5emp3T0REemN6RXlNRUVxNWZTNHVCV3l5dUpOX09aMDU4cFM2QUlPcXNGcVhBT1RlMXRFOWI0U1cyN3F6UmxuREJzTVpONEVqRnNVeWVlalphM3hlRkVma1Jyc240UFFIb185NFE0R2FVYzZQMjFTUERGUFdmV0kwZ2JyOVNmcVZObmV0djZIQVRlM19XalVYQTB1aFNPWmVSenhaZ1BTX1ZDME5EdlJIb3dBa2hfczhva0xTamlHWWdIMEVWZ0JFMWNadUlaZHA5WGlYRFc3clR3MTZzUlVSSlV0aVU0TkNkZ0ZNUVc5ZEw5cUVEMmFyQW9RLXc?oc=5"
   }
  ],
  "ok": true,
