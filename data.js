@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-11T06:59:05+08:00",
+ "generated_at": "2026-11-11T07:05:11+08:00",
  "date": "2026-11-11",
  "weekday": "星期三",
- "clock": "06:59",
+ "clock": "07:05",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -14,8 +14,8 @@ window.HGP_DATA = {
  },
  "others": {
   "HYW": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "HZM": {
    "arr": 0,
@@ -30,8 +30,8 @@ window.HGP_DATA = {
    "dep": 0
   },
   "MKT": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "SBC": {
    "arr": 0,
@@ -44,10 +44,10 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 14,
-  "humidity": 52,
-  "wind": 10.7,
-  "code": 1,
-  "desc": "大致晴朗",
+  "humidity": 51,
+  "wind": 10.6,
+  "code": 0,
+  "desc": "天晴",
   "tmax": 25,
   "tmin": 14,
   "pop": 0
@@ -129,6 +129,11 @@ window.HGP_DATA = {
    "tag": "防火",
    "text": "火災危險警告生效：吸煙、明火、戶外焊接及燃燒作業須停止或按程序審批；留意雜草及垃圾堆積起火風險。",
    "level": "warn"
+  },
+  {
+   "tag": "早更",
+   "text": "跨境上班上學人流集中，出境大堂及 L2 交匯處會出現短時人龍。",
+   "level": "info"
   },
   {
    "tag": "通告",
