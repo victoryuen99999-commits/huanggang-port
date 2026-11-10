@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-10T11:18:18+08:00",
+ "generated_at": "2026-11-10T11:24:25+08:00",
  "date": "2026-11-10",
  "weekday": "星期二",
- "clock": "11:18",
+ "clock": "11:24",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -66,6 +66,13 @@ window.HGP_DATA = {
  ],
  "news": [
   {
+   "title": "深圳市政協前主席戴北方涉受賄被起訴",
+   "source": "Now 新聞",
+   "date": "11-10 02:39",
+   "iso": "2026-11-10T02:39:41+00:00",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iUTBaNTBoWmwtcGVOb0Z0TEFrMG14MjdydERfczRTSVVCZGZrX01nRmdTVnJyeG9xYVRLbktyYW5OUFNXLVRVSk9YbnhYMi1DaU5QYlVIV1MyUDZ1YTlWQXQwamF6YVJVQ0dKaw?oc=5"
+  },
+  {
    "title": "網民讚完全無巨星架子",
    "source": "Facebook",
    "date": "11-10 01:01",
@@ -113,13 +120,6 @@ window.HGP_DATA = {
    "date": "11-07 06:53",
    "iso": "2026-11-07T06:53:40+00:00",
    "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxObmxzbV9BRzlfbHJrcmZUTmZaYWVQZDBUdVJGcE9mUjNNZ2p3VFY5RjdfQ3pPQUNBQnduaGhYNFZsNzdsQ19xNkt0YkdtTkduT2NDM2x6b2RKR2t5UEpxaERVT1htTFpYTDdfd21mQ2lyVzcwLUNTWFl5emp3T0REemN6RXlNRUVxNWZTNHVCV3l5dUpOX09aMDU4cFM2QUlPcXNGcVhBT1RlMXRFOWI0U1cyN3F6UmxuREJzTVpONEVqRnNVeWVlalphM3hlRkVma1Jyc240UFFIb185NFE0R2FVYzZQMjFTUERGUFdmV0kwZ2JyOVNmcVZObmV0djZIQVRlM19XalVYQTB1aFNPWmVSenhaZ1BTX1ZDME5EdlJIb3dBa2hfczhva0xTamlHWWdIMEVWZ0JFMWNadUlaZHA5WGlYRFc3clR3MTZzUlVSSlV0aVU0TkNkZ0ZNUVc5ZEw5cUVEMmFyQW9RLXc?oc=5"
-  },
-  {
-   "title": "新皇崗口岸驚現Lawson圍版 離香港最近分店!網民關心:有冇炸雞?",
-   "source": "新假期",
-   "date": "11-06 16:00",
-   "iso": "2026-11-06T16:00:34+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcDZhaDlOV2N4THY3MjFhU05md1pxN01LNGo0cVlfUTR0OWhCcGlPVDAzWUFtTXNuaGcwTjVUUnJaSzlLVWNhSTJVS3c4Y0p4OWs5RTVPSFAwTW5wcVZMTHotbW1vUkVYM2FzMzBnelQ2VEkyTXZFTmhvZGVNQW9mbjNuNFRMcjZtX0VwY1VRQm9uUzRXMFN5QXdoVUhWa3g4SjZmX09nS196U1kyTllhejRObGtGUQ?oc=5"
   }
  ],
  "ok": true,
