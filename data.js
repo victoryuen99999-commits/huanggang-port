@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-11T14:32:51+08:00",
+ "generated_at": "2026-11-11T14:38:58+08:00",
  "date": "2026-11-11",
  "weekday": "星期三",
- "clock": "14:32",
+ "clock": "14:38",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -61,6 +61,13 @@ window.HGP_DATA = {
  ],
  "news": [
   {
+   "title": "羅湖口岸延長兩小時恒常化？鄧炳強：有需要再與內地協商- 港聞",
+   "source": "dotdotnews",
+   "date": "11-11 06:35",
+   "iso": "2026-11-11T06:35:38+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85WXlnTVpmV2F6eG40Y2VIdEdtRzFIYzRwLUJqRFJHTWRhdFd6cVZ1b21JcmpYb0ZiTndlbXVLOEVZX0pPUG44ckdSVEdqaVZKclBVYjZnMHA5YjNyalJrcGk1VHVyd2xyYjYtQ0ZaSzFoRURYNzNRbnFB?oc=5"
+  },
+  {
    "title": "北都鐵路專員：北環綫促進港深互聯互通 便利市民經皇崗口岸站出行",
    "source": "Yahoo",
    "date": "11-11 06:25",
@@ -108,13 +115,6 @@ window.HGP_DATA = {
    "date": "11-10 04:05",
    "iso": "2026-11-10T04:05:25+00:00",
    "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOUUFRN2w4LW11WkY4cVppMEdZc3JNbTB6eEhKcVJmbDVobXBoQk5fZWdtczN3dUhDdDJoRDg4aEpBdnNseG1JeE9kbVZuejhPNXdKY0R0RnlmZmZUXzFRb1JRTjZaeUMwUEtXSVhJeENwOGhGZGJ6b3JPMnhWUF9abnRpVmtFdjY2a1U2RUh5M3U1QUt3Y0cyblY5VVpIVGdCWURsUVFHWDNsUzJ2R1hPcXRCWFNaUVYtd20yRXVUcnJwczI4aVp6RmlzSnRwb2JGdE5jbWtVcUVKZF94MHlZb3RWcEdFV0pwaUFwbkkyR2lGbXlma21FRmotT3B3bnFFazByLTYyUHpXYmJOdnd0N3pPMHVFS09wX1FpMXFmN0o5ZDFCZ3ByU01BQUFhYzU3WGxuN2JkcGpLbk5GcVhrZTdhNUM2YThxajV2VlRPdUg?oc=5"
-  },
-  {
-   "title": "深圳市政協前主席戴北方涉受賄被起訴",
-   "source": "Now 新聞",
-   "date": "11-10 02:39",
-   "iso": "2026-11-10T02:39:41+00:00",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iUTBaNTBoWmwtcGVOb0Z0TEFrMG14MjdydERfczRTSVVCZGZrX01nRmdTVnJyeG9xYVRLbktyYW5OUFNXLVRVSk9YbnhYMi1DaU5QYlVIV1MyUDZ1YTlWQXQwamF6YVJVQ0dKaw?oc=5"
   }
  ],
  "ok": true,
