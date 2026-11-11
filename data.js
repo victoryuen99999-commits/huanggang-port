@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-12T04:07:50+08:00",
+ "generated_at": "2026-11-12T04:14:15+08:00",
  "date": "2026-11-12",
  "weekday": "星期四",
- "clock": "04:07",
+ "clock": "04:14",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -69,13 +69,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOa0stNzFjUmVNNzhwNGZ4NGU2TC1jenNsZ3B5T3BTb0xVdzJyMVFOT2tPdEk1X3Z0MkNvekxFSjlOWUhEa1ZwaS1GU0s4WVdYWGhiUk9IZzRJX2YtWmltUTRTWVNHWEctSHZNZUV1VVc5UHZEOVZ0TGFpTFRPXzI0Mmd0OHNaNzVheE5aZVlLZ3lIZklWbGZJTW5pQ0x2M0UtLURYX3NLVTJfOS14MVVudmVjNlFXbkthTmNrNkw4VlN1OEViaWF2T21STkZzeTRvX25QVzR3d2NuNjFLZUV4cFdOdS1TNllGb05ISE9yLUlEOEZDWkNzRGNuTFZVYlVaVE5PN2tyZ0lRQ0k3RmpLdFZ6cEo5SHhwYWVkaDl3X2RKUEtaMGJzN3dOdlNKT2F0NzdDUzBPT3BmSjlyNElmbmU1bTYwR1cyblVuejNrZXhYS05MM05qbE5pUy1yUmFVZE80b2dyWTg1R2JaYlp0dWRpT2RSbEk5UG01dUx3U3h0Wi1iVDFzOHktZFZ5TVU0QXJ0TXFfNGdoZVJSa0U4NzJLaFJzZHRIWTdQTUd3SUkzUQ?oc=5"
   },
   {
-   "title": "APEC領導人會議｜新聞中心今起運作 傳媒須經指定出入口進出並通過安檢",
-   "source": "TVB",
-   "date": "11-11 04:46",
-   "iso": "2026-11-11T04:46:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQN3B0ZThsb0puRDhSX3ZXdTREVTNzeFRFOVNiZEcxLThYTm9ZOExETzRNa0hpRC1ZdlBPZi16ejNWQTd0enFGMTFSTnRmMTVncE0zVThUNEhiV3dDaml6NDlVREw0VkVyYWhPSV9tUFFFQkNKN193dGI4ZW5VVkRLVTN1d1NvVExsMFE5enc4SlJVQk1hdDZOYk00NnVad1BLdFB3Smt2WmJtVDVVUXBEYXN2Qy1NTnJWRWM3NzFVN3JxNVZ3Rl83LThxZlpYSEZrNW03UVR3aGFfeHVlRVhISlBQNHFsUTJBSEZZVGJuUGFPazRza2RlUFBEN0V4YlJXRGRnWE9pamc4TlRYSks5MlpyWjh5dUN1Q2dGUTczNFA0Q2xGWHBla3Bmc3pOZXZRSmZqOHNXSlgyTDNUZnU0Qm9TWUF6VzE3enBLeGdfLXFfU2VaVlNQdVNibUhuTGRqSTl6RFp3WXhObXVyTThjOEVSam1ab0hUa3FsV0Q4blh0bU5YMm1HWG9ncW14OVJIS3g1X2NCYTNNQUh2QnpCakRiRHhGWHBD?oc=5"
-  },
-  {
    "title": "香港北環線全面進入建設階段！2034年主支線同步開通接駁新皇崗口岸- 香港",
    "source": "香港文匯報",
    "date": "11-10 23:48",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "11-10 04:05",
    "iso": "2026-11-10T04:05:25+00:00",
    "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOUUFRN2w4LW11WkY4cVppMEdZc3JNbTB6eEhKcVJmbDVobXBoQk5fZWdtczN3dUhDdDJoRDg4aEpBdnNseG1JeE9kbVZuejhPNXdKY0R0RnlmZmZUXzFRb1JRTjZaeUMwUEtXSVhJeENwOGhGZGJ6b3JPMnhWUF9abnRpVmtFdjY2a1U2RUh5M3U1QUt3Y0cyblY5VVpIVGdCWURsUVFHWDNsUzJ2R1hPcXRCWFNaUVYtd20yRXVUcnJwczI4aVp6RmlzSnRwb2JGdE5jbWtVcUVKZF94MHlZb3RWcEdFV0pwaUFwbkkyR2lGbXlma21FRmotT3B3bnFFazByLTYyUHpXYmJOdnd0N3pPMHVFS09wX1FpMXFmN0o5ZDFCZ3ByU01BQUFhYzU3WGxuN2JkcGpLbk5GcVhrZTdhNUM2YThxajV2VlRPdUg?oc=5"
+  },
+  {
+   "title": "深圳市政協前主席戴北方涉受賄被起訴",
+   "source": "Now 新聞",
+   "date": "11-10 02:39",
+   "iso": "2026-11-10T02:39:41+00:00",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iUTBaNTBoWmwtcGVOb0Z0TEFrMG14MjdydERfczRTSVVCZGZrX01nRmdTVnJyeG9xYVRLbktyYW5OUFNXLVRVSk9YbnhYMi1DaU5QYlVIV1MyUDZ1YTlWQXQwamF6YVJVQ0dKaw?oc=5"
   }
  ],
  "ok": true,
