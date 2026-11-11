@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-12T03:10:35+08:00",
+ "generated_at": "2026-11-12T03:16:42+08:00",
  "date": "2026-11-12",
  "weekday": "星期四",
- "clock": "03:10",
+ "clock": "03:16",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 19,
-  "humidity": 84,
-  "wind": 8.9,
+  "humidity": 86,
+  "wind": 9.0,
   "code": 3,
   "desc": "多雲",
   "tmax": 29,
@@ -55,18 +55,18 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "北都鐵路專員：北環綫促進港深互聯互通 便利市民經皇崗口岸站出行",
-   "source": "Yahoo",
-   "date": "11-11 07:13",
-   "iso": "2026-11-11T07:13:10+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOa0stNzFjUmVNNzhwNGZ4NGU2TC1jenNsZ3B5T3BTb0xVdzJyMVFOT2tPdEk1X3Z0MkNvekxFSjlOWUhEa1ZwaS1GU0s4WVdYWGhiUk9IZzRJX2YtWmltUTRTWVNHWEctSHZNZUV1VVc5UHZEOVZ0TGFpTFRPXzI0Mmd0OHNaNzVheE5aZVlLZ3lIZklWbGZJTW5pQ0x2M0UtLURYX3NLVTJfOS14MVVudmVjNlFXbkthTmNrNkw4VlN1OEViaWF2T21STkZzeTRvX25QVzR3d2NuNjFLZUV4cFdOdS1TNllGb05ISE9yLUlEOEZDWkNzRGNuTFZVYlVaVE5PN2tyZ0lRQ0k3RmpLdFZ6cEo5SHhwYWVkaDl3X2RKUEtaMGJzN3dOdlNKT2F0NzdDUzBPT3BmSjlyNElmbmU1bTYwR1cyblVuejNrZXhYS05MM05qbE5pUy1yUmFVZE80b2dyWTg1R2JaYlp0dWRpT2RSbEk5UG01dUx3U3h0Wi1iVDFzOHktZFZ5TVU0QXJ0TXFfNGdoZVJSa0U4NzJLaFJzZHRIWTdQTUd3SUkzUQ?oc=5"
-  },
-  {
    "title": "羅湖口岸延長兩小時恒常化？鄧炳強：有需要再與內地協商- 港聞",
    "source": "dotdotnews",
    "date": "11-11 06:35",
    "iso": "2026-11-11T06:35:38+00:00",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85WXlnTVpmV2F6eG40Y2VIdEdtRzFIYzRwLUJqRFJHTWRhdFd6cVZ1b21JcmpYb0ZiTndlbXVLOEVZX0pPUG44ckdSVEdqaVZKclBVYjZnMHA5YjNyalJrcGk1VHVyd2xyYjYtQ0ZaSzFoRURYNzNRbnFB?oc=5"
+  },
+  {
+   "title": "北都鐵路專員：北環綫促進港深互聯互通 便利市民經皇崗口岸站出行",
+   "source": "Yahoo",
+   "date": "11-11 06:09",
+   "iso": "2026-11-11T06:09:28+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOa0stNzFjUmVNNzhwNGZ4NGU2TC1jenNsZ3B5T3BTb0xVdzJyMVFOT2tPdEk1X3Z0MkNvekxFSjlOWUhEa1ZwaS1GU0s4WVdYWGhiUk9IZzRJX2YtWmltUTRTWVNHWEctSHZNZUV1VVc5UHZEOVZ0TGFpTFRPXzI0Mmd0OHNaNzVheE5aZVlLZ3lIZklWbGZJTW5pQ0x2M0UtLURYX3NLVTJfOS14MVVudmVjNlFXbkthTmNrNkw4VlN1OEViaWF2T21STkZzeTRvX25QVzR3d2NuNjFLZUV4cFdOdS1TNllGb05ISE9yLUlEOEZDWkNzRGNuTFZVYlVaVE5PN2tyZ0lRQ0k3RmpLdFZ6cEo5SHhwYWVkaDl3X2RKUEtaMGJzN3dOdlNKT2F0NzdDUzBPT3BmSjlyNElmbmU1bTYwR1cyblVuejNrZXhYS05MM05qbE5pUy1yUmFVZE80b2dyWTg1R2JaYlp0dWRpT2RSbEk5UG01dUx3U3h0Wi1iVDFzOHktZFZ5TVU0QXJ0TXFfNGdoZVJSa0U4NzJLaFJzZHRIWTdQTUd3SUkzUQ?oc=5"
   },
   {
    "title": "APEC領導人會議｜新聞中心今起運作 傳媒須經指定出入口進出並通過安檢",
