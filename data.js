@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-11T11:39:27+08:00",
+ "generated_at": "2026-11-11T11:51:47+08:00",
  "date": "2026-11-11",
  "weekday": "星期三",
- "clock": "11:39",
+ "clock": "11:51",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 36,
-  "wind": 10.4,
+  "humidity": 35,
+  "wind": 10.3,
   "code": 3,
   "desc": "多雲",
   "tmax": 25,
@@ -60,6 +60,13 @@ window.HGP_DATA = {
   }
  ],
  "news": [
+  {
+   "title": "北環線造價862億！採用「鐵路加物業」模式 預計2034年前通車 (附路線圖)",
+   "source": "UHK 港生活",
+   "date": "11-11 03:42",
+   "iso": "2026-11-11T03:42:19+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxPTEpsaVNnWmhuSmpVSHJmRlZPVEZSTGJ3UWFJNDZOUHR1RGMtb0pHRm94WktmcEZzbDdRZXEwT3lJX1NUN2wzcUoxN1VPOS1CNC1QM1BFcUtqZk9xQXFEeGNMd1E5MENRQWo4TGRjODVnYWo0RkJWaDFtT2NmbzFkRUlrUGV2SmlOaThmWHQtSzFKOEV0eGV0QlpZaldEMmZ3dnp1MlBWLWE1aUpDVXF3SDNtamp0RlRQQzBQbDdMcC1DNVZRY3Vtdm9UZ2lyNWQtMkQtaWdRQlJsbVF5WFN4S2lHXzRkMXQ4bjBVajA2Mi1mc3EtVWF5Y2hCVWpXcVc4djZvTF9lZ0RJc1FCRHkzYmNDbS1HV1JJcDFtMHBrQkV1b3VLU3JITTFLTmk1YTkzOHlxWDk2T3YzcjNoLTRYdjUwYjAyc2ZfRldELUF2YUlyOG1jWldOU2hwQ1NOZmJnM3l5N2NKUk9BOHY3SFdiVUpsY2RTNDdpX1d1LU5EenU1MkZKME5uRkhaOWZOYTM2S290eElYLTZaNFBQR1VZSVVWdnR1NE1xTTZRWC0xRTJTQWdzWDNTZXZqY2k3Mml4T0JXX1NnMTk3Z0t4OW42b0lxa1dNLWZQYUVMc0NBMWtmZTdONkZxbURGSzZxS0thVjNtZlBtS1Yyc3JBblIyM2xn?oc=5"
+  },
   {
    "title": "香港北環線全面進入建設階段！2034年主支線同步開通接駁新皇崗口岸- 香港",
    "source": "香港文匯報",
@@ -108,13 +115,6 @@ window.HGP_DATA = {
    "date": "11-09 13:00",
    "iso": "2026-11-09T13:00:41+00:00",
    "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOQ0tyeXhCNGVNTGh0b2RxSEhDTEgtdGhLLVN5ZmE0b3dnNkNjeGEwRk5tNDNyTGlhcUxqQmRPSThBZmJGY1RFdGlGTURuN0VPb0Q2VEVxcEF1WUxKS0UxNXlRQzlfLVpTZnRBbWwzUXk2djFQOGtOZGxWSWZlbzRxN1Jqd2ZSMWozc0pMZldTQVhaVjhTRkZuZTBPQVFCSWlWZHhSZnB6cUdYY2FTeW9QS1BKbU9JcE85NldnY215VzVIN0VoSGlMTzlsdS1TMF9XdXF5X24wTDgxdmhRWU92T1NfcmF6V2hyQXR5QkNWVDBRYlFiQzlVSGd2WWtwM1QteVBOMnhCcnZ4bUtWV1JreGZhTkd1Y3JyUXNQaU5VeHFJSFdoc3AyRzZBWllBWngxV1M4RXQwY0g4YVhieXc?oc=5"
-  },
-  {
-   "title": "滿城繁花迎APEC 皇崗口岸醒獅綠雕吸睛- 內地",
-   "source": "香港文匯報",
-   "date": "11-08 20:50",
-   "iso": "2026-11-08T20:50:32+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43cFlUVmlKSU11X2dmeVYzWHQzZlhWcWFsNzRCeW5ncGhWMVl3NzVYWHVVcW96Wkw3eUp5TWQwYlFYMms1a0JwVlZLaGxlWGdNNko2X3J5aUFKNlgxX3hEaVhmdWhTc1A1VVRGbFFINjJFeGNGajNv?oc=5"
   }
  ],
  "ok": true,
