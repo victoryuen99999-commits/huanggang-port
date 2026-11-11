@@ -26,16 +26,16 @@ window.HGP_DATA = {
    "dep": 99
   },
   "LWS": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "MKT": {
    "arr": 99,
    "dep": 99
   },
   "SBC": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "STK": {
    "arr": 99,
@@ -45,11 +45,11 @@ window.HGP_DATA = {
  "weather": {
   "temp": 20,
   "humidity": 65,
-  "wind": 7.6,
-  "code": 3,
-  "desc": "多雲",
-  "tmax": 26,
-  "tmin": 14,
+  "wind": 7.8,
+  "code": 2,
+  "desc": "局部多雲",
+  "tmax": 29,
+  "tmin": 19,
   "pop": 0
  },
  "warnings": [],
