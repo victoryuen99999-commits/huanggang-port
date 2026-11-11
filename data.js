@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-11T17:14:42+08:00",
+ "generated_at": "2026-11-11T17:27:23+08:00",
  "date": "2026-11-11",
  "weekday": "星期三",
- "clock": "17:14",
+ "clock": "17:27",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 24,
-  "humidity": 44,
-  "wind": 7.8,
+  "humidity": 46,
+  "wind": 8.1,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 25,
@@ -63,8 +63,8 @@ window.HGP_DATA = {
   {
    "title": "北都鐵路專員：北環綫促進港深互聯互通 便利市民經皇崗口岸站出行",
    "source": "Yahoo",
-   "date": "11-11 07:07",
-   "iso": "2026-11-11T07:07:30+00:00",
+   "date": "11-11 07:13",
+   "iso": "2026-11-11T07:13:10+00:00",
    "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOa0stNzFjUmVNNzhwNGZ4NGU2TC1jenNsZ3B5T3BTb0xVdzJyMVFOT2tPdEk1X3Z0MkNvekxFSjlOWUhEa1ZwaS1GU0s4WVdYWGhiUk9IZzRJX2YtWmltUTRTWVNHWEctSHZNZUV1VVc5UHZEOVZ0TGFpTFRPXzI0Mmd0OHNaNzVheE5aZVlLZ3lIZklWbGZJTW5pQ0x2M0UtLURYX3NLVTJfOS14MVVudmVjNlFXbkthTmNrNkw4VlN1OEViaWF2T21STkZzeTRvX25QVzR3d2NuNjFLZUV4cFdOdS1TNllGb05ISE9yLUlEOEZDWkNzRGNuTFZVYlVaVE5PN2tyZ0lRQ0k3RmpLdFZ6cEo5SHhwYWVkaDl3X2RKUEtaMGJzN3dOdlNKT2F0NzdDUzBPT3BmSjlyNElmbmU1bTYwR1cyblVuejNrZXhYS05MM05qbE5pUy1yUmFVZE80b2dyWTg1R2JaYlp0dWRpT2RSbEk5UG01dUx3U3h0Wi1iVDFzOHktZFZ5TVU0QXJ0TXFfNGdoZVJSa0U4NzJLaFJzZHRIWTdQTUd3SUkzUQ?oc=5"
   },
   {
