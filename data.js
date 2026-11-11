@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-12T04:26:33+08:00",
+ "generated_at": "2026-11-12T04:32:40+08:00",
  "date": "2026-11-12",
  "weekday": "星期四",
- "clock": "04:26",
+ "clock": "04:32",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,7 +44,7 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 19,
-  "humidity": 82,
+  "humidity": 84,
   "wind": 11.3,
   "code": 3,
   "desc": "多雲",
@@ -104,11 +104,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOUUFRN2w4LW11WkY4cVppMEdZc3JNbTB6eEhKcVJmbDVobXBoQk5fZWdtczN3dUhDdDJoRDg4aEpBdnNseG1JeE9kbVZuejhPNXdKY0R0RnlmZmZUXzFRb1JRTjZaeUMwUEtXSVhJeENwOGhGZGJ6b3JPMnhWUF9abnRpVmtFdjY2a1U2RUh5M3U1QUt3Y0cyblY5VVpIVGdCWURsUVFHWDNsUzJ2R1hPcXRCWFNaUVYtd20yRXVUcnJwczI4aVp6RmlzSnRwb2JGdE5jbWtVcUVKZF94MHlZb3RWcEdFV0pwaUFwbkkyR2lGbXlma21FRmotT3B3bnFFazByLTYyUHpXYmJOdnd0N3pPMHVFS09wX1FpMXFmN0o5ZDFCZ3ByU01BQUFhYzU3WGxuN2JkcGpLbk5GcVhrZTdhNUM2YThxajV2VlRPdUg?oc=5"
   },
   {
-   "title": "深圳市政協前主席戴北方涉受賄被起訴",
-   "source": "Now 新聞",
-   "date": "11-10 02:39",
-   "iso": "2026-11-10T02:39:41+00:00",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iUTBaNTBoWmwtcGVOb0Z0TEFrMG14MjdydERfczRTSVVCZGZrX01nRmdTVnJyeG9xYVRLbktyYW5OUFNXLVRVSk9YbnhYMi1DaU5QYlVIV1MyUDZ1YTlWQXQwamF6YVJVQ0dKaw?oc=5"
+   "title": "網民讚完全無巨星架子",
+   "source": "Facebook",
+   "date": "11-09 13:00",
+   "iso": "2026-11-09T13:00:41+00:00",
+   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOQ0tyeXhCNGVNTGh0b2RxSEhDTEgtdGhLLVN5ZmE0b3dnNkNjeGEwRk5tNDNyTGlhcUxqQmRPSThBZmJGY1RFdGlGTURuN0VPb0Q2VEVxcEF1WUxKS0UxNXlRQzlfLVpTZnRBbWwzUXk2djFQOGtOZGxWSWZlbzRxN1Jqd2ZSMWozc0pMZldTQVhaVjhTRkZuZTBPQVFCSWlWZHhSZnB6cUdYY2FTeW9QS1BKbU9JcE85NldnY215VzVIN0VoSGlMTzlsdS1TMF9XdXF5X24wTDgxdmhRWU92T1NfcmF6V2hyQXR5QkNWVDBRYlFiQzlVSGd2WWtwM1QteVBOMnhCcnZ4bUtWV1JreGZhTkd1Y3JyUXNQaU5VeHFJSFdoc3AyRzZBWllBWngxV1M4RXQwY0g4YVhieXc?oc=5"
   }
  ],
  "ok": true,
