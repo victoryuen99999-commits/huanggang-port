@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-12T20:13:23+08:00",
+ "generated_at": "2026-11-12T20:19:29+08:00",
  "date": "2026-11-12",
  "weekday": "星期四",
- "clock": "20:13",
+ "clock": "20:19",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,16 +44,23 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 22,
-  "humidity": 70,
-  "wind": 9.9,
-  "code": 0,
-  "desc": "天晴",
+  "humidity": 63,
+  "wind": 7.1,
+  "code": 2,
+  "desc": "局部多雲",
   "tmax": 28,
   "tmin": 19,
   "pop": 0
  },
  "warnings": [],
  "news": [
+  {
+   "title": "新皇崗口岸啟用一個月 日均逾11萬人次出入境 升逾1倍",
+   "source": "巴士的報",
+   "date": "11-12 12:11",
+   "iso": "2026-11-12T12:11:52+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQNW9IanBPOC04a3pod0o3Sk5BQ19PMkRkX1MtN0phU0wtU2hZY01Pc084MUR3OWplcEhDOFJJWGpvZWRMZzQ2Nm1XcnVhdXd5M0llYWVnN2RWbU5BZUNtV3ZvMnQ5dEh6TXhxaGFuY2RLQU0tR05WWkthUUNJWGc4blV2NzJPOWxxSHhaRjR5eFN2bU55MmZMcFJBY0RoR1JtVUtTaEZlTkk3UklVX2JwanRiVjNUQkNJeWZsU2dmTFpIUVJtQU9kM2pzVVk5UnFCblZ6dEpDekduUXVmU2RPZEtoWnRId0RsSDRzR3RGSDhFaFNRRVI0Sjd2aEpKenBZT2RRR09fYjRoUUN5eEhVWmxhazhSeTZveEVoTnVPNXJqUktFYkZHVWlWc1pHZktvS1R3VDc4aVNySUoyNkxfdUJ2WVd3UkVOaXhHaFUzRF83dHFQajV4TWpTLWdObDN1Sm9henkxVU4?oc=5"
+  },
   {
    "title": "新皇崗口岸開通一個月 出入境人員334萬人次",
    "source": "RTHK News",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-11 23:28",
    "iso": "2026-11-11T23:28:07+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrOGpOZ09SYnc2WjNoUm5fOWFSUjB2c1RuakpPZm52ZHVQSF9NYm9ZOGVGbEFfa0p4dTRVbE93NUlxSUF5Ui1neXM1VFgtc3hoZ0N4YnZNNUpjOXZJc3dNRXJORTAzUjltclcyT0RKYnVGRThpRGN3?oc=5"
-  },
-  {
-   "title": "新皇崗滿月 人流勝舊1.4倍 按月北上增幅比南下多 落馬洲減9% - 20261112 - 港聞",
-   "source": "明報新聞網",
-   "date": "11-11 20:30",
-   "iso": "2026-11-11T20:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOVDVRNEdQay0xcWJqUGx5ZE4yY3lJNXlSTUZMdWdKcDk4bENuWWJUbzRyaFMyOTY4T2x2SUtEY2ViMHpZSGwzV2xfRDk2c2JrVjVBZU9tbUV3SGliRGd4blRBQlZWSHBkd1NuMWFrNDIyWWtiZU5mVDhtX0NWcW1ndHZ1emNZT2NneF9vcmxSUjlBam9WUkZ6N0hhVnVZWU9VRjRKYkd0VDJTYnhJUkNoa005Tkh1VWNEZjZrWnNhalJsODVtc2hhQ2dCVGxxcjVKX1ljdXNLR2NRVUQ3dmtETFdFby02SHNzWnlwMVBGWEdvR0U2Nkw1YzRnWGJ5cHNhclRHWDhJZ2VoS3JZbGFTY2toc1AwN0FuV09qT1Y2UTliczhRbTd3Vng3T3gxei1tWnZ1XzQ2ei1pRzVwa2pzRG1yZ1VIcmFKM3B5NjJQWWFfamJYTG1MemlFWmVvMmdQbDJBbnI2SU1DRWZfSGRlY3ZjZEt1SU0xMGgzckNBQTRSQWRwYUYzZEoyNzBLcEJGbXI1WGNIMU9TajZkZzk1ZGlGTzRkRmR6d0h0dU56NFFuTDhBcWVsTA?oc=5"
   }
  ],
  "ok": true,
