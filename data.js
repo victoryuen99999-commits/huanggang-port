@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-12T16:04:06+08:00",
+ "generated_at": "2026-11-12T16:30:42+08:00",
  "date": "2026-11-12",
  "weekday": "星期四",
- "clock": "16:04",
+ "clock": "16:30",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 28,
-  "humidity": 40,
-  "wind": 9.6,
+  "temp": 27,
+  "humidity": 41,
+  "wind": 10.1,
   "code": 3,
   "desc": "多雲",
   "tmax": 28,
@@ -54,6 +54,13 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "皇崗口岸開通迎「滿月」：深港門戶通關運行平穩有序 出入境人員同比增120%",
+   "source": "香港商报",
+   "date": "11-12 07:56",
+   "iso": "2026-11-12T07:56:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BaXdTRkhDWW51R3FYTENoVEVxSnBQN1NIYkZORjFGXzh2eV9RX3JQcndYRDlUd0RuaWc1TGEzYUpfQ1Z6ZWlUVUwyZTdIYk10WHVoMDNONEhrcEdPXzczNXRtRFd6NDJmOURMSlRzeW1EcnBUbS1fZXYwOA?oc=5"
+  },
   {
    "title": "BIGBANG演唱會｜城巴開6條離場路線往全港各區 SP12直達皇崗口岸",
    "source": "香港01",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-11 17:00",
    "iso": "2026-11-11T17:00:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNVXJKMXVqOXZyTXJFa3cwc29Bb0JTUmFHUFBLeGVKVUZ5bGdSdUxpellvN1VyY2pzWkZKVFFseDFJcWFaRVdPdkVyQlJ2RWE4cnRsTnhtZU9VandRUHJaeUlNTlJHMjF2WDhFNzZSNDZvMEJaVUVHRXZHS0JuSWRpbjY4V05GTHFQVU9QZnRzNVRIMUVfZ1lkV3lsY3VIMVZicXBybEdRVWh2SnM1dHRBY1dqek10WE1KcTV3aktQZmRtR0w1VlRBOVdWRGRvNzl0bU5aalhBTXpMM19OZjk0R0lnc084Nk1xOU9EalJGdkstQ0kzRTc2NUhTeXJZalZzRGo5VHBJMjRxODNEdkJkT1hSVUdIVU9jM3hHNkhXb2RyemluN1hLS0IwZWZEdmRUVG5ZNVVkbEMxNGJZZWRfWlBSUjFqNjcwS3NfRElXaW85X3N4TGFXSEZsdzNmZzhudWc5TkdtSS12ZjBwWEJWOUZZQUN6LVdrYTFPazNnUWNkVGJTaGNRc01CQ05fTWdYdmNwejVEMV9PTElobTVESWg5ajVCRExxQmw1TWlXT01WTzBNbDRIUGNERQ?oc=5"
-  },
-  {
-   "title": "北都鐵路專員：北環綫促進港深互聯互通 便利市民經皇崗口岸站出行",
-   "source": "Now 新聞",
-   "date": "11-11 06:09",
-   "iso": "2026-11-11T06:09:28+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kS0kyY2JhWThkbTFucFRKWFNvTzNULWpoZDF2ODM4VWN1QnViVzVuc1JNUV9selRjUTNBVWlncmJyc1QxX2dieENiVXdZT2hnUVlIdUoxckJQbWxiaTZoQU13?oc=5"
   }
  ],
  "ok": true,
