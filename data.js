@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-13T04:28:05+08:00",
+ "generated_at": "2026-11-13T04:34:11+08:00",
  "date": "2026-11-13",
  "weekday": "星期五",
- "clock": "04:28",
+ "clock": "04:34",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,7 +44,7 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 21,
-  "humidity": 87,
+  "humidity": 88,
   "wind": 9.7,
   "code": 3,
   "desc": "多雲",
@@ -94,7 +94,7 @@ window.HGP_DATA = {
    "source": "TVB",
    "date": "11-11 17:00",
    "iso": "2026-11-11T17:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNVXJKMXVqOXZyTXJFa3cwc29Bb0JTUmFHUFBLeGVKVUZ5bGdSdUxpellvN1VyY2pzWkZKVFFseDFJcWFaRVdPdkVyQlJ2RWE4cnRsTnhtZU9VandRUHJaeUlNTlJHMjF2WDhFNzZSNDZvMEJaVUVHRXZHS0JuSWRpbjY4V05GTHFQVU9QZnRzNVRIMUVfZ1lkV3lsY3VIMVZicXBybEdRVWh2SnM1dHRBY1dqek10WE1KcTV3aktQZmRtR0w1VlRBOVdWRGRvNzl0bU5aalhBTXpMM19OZjk0R0lnc084Nk1xOU9EalJGdkstQ0kzRTc2NUhTeXJZalZzRGo5VHBJMjRxODNEdkJkT1hSVUdIVU9jM3hHNkhXb2RyemluN1hLS0IwZWZEdmRUVG5ZNVVkbEMxNGJZZWRfWlBSUjFqNjcwS3NfRElXaW85X3N4TGFXSEZsdzNmZzhudWc5TkdtSS12ZjBwWEJWOUZZQUN6LVdrYTFPazNnUWNkVGJTaGNRc01CQ05fTWdYdmNwejVEMV9PTElobTVESWg5ajVCRExxQmw1TWlXT01WTzBNbDRIUGNERQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOcWk2MW1NUndOQWFWcElzNTVaaUxMMDg4REdnV1FCb0lJRVdVQ2xnbzFfWUtHeHRmSHQ2anRBM3BsRGVfRnI3LXRzSG1SV3VFS0N2RWNrcEhyU21XZFJHR2dBNEpUcVRfX2cxU3pvYk5yeG9jcEZzallzazZNRW40SUJLckdTM2wtZjVxYUJFQ3J4dlBRd2dxV2wtZ3VtTlFFSkVzSEplLTVmanNnUnRtWFNacGhxbW1jLWtmTTBBbVdRM3VDMkVDT0htaXhhMzN2YzdjOWIyY2ZUSHUzN3hoSmZVVEd4NFhqTUF2dC03SXpoUHRseU9mWDgybFdEQWpES185WDdZTzlwRm1IRkVrcl9oZ2RjNU1aRld3M3Q5VVdHaWxjUXFQSVZKcVhKUkN3TG5SZHVNdUthb05CSVpDQXlGSnZVc1FDMndnRk01WE9BQ1d3b1BZc01ZMnZxaHBPNThjU1pBbVk1dUU1NDZua2pBUElsSVFORW5BRklMcF9oUWZ4Ym5DR2dzcjl3THZoczBqb2xLZFBZNFJ2aHc0RFE0Yk4xT0lPeWlpYko3dkplQ3FUVUZ5RE5vRQ?oc=5"
   },
   {
    "title": "北都鐵路專員：北環綫促進港深互聯互通 便利市民經皇崗口岸站出行",
