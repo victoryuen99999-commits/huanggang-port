@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-13T07:40:34+08:00",
+ "generated_at": "2026-11-13T07:46:55+08:00",
  "date": "2026-11-13",
  "weekday": "星期五",
- "clock": "07:40",
+ "clock": "07:46",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 22,
-  "humidity": 84,
-  "wind": 11.1,
+  "humidity": 81,
+  "wind": 11.7,
   "code": 3,
   "desc": "多雲",
   "tmax": 28,
@@ -54,6 +54,20 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "皇崗口岸升級後首月客運量超344 萬人次",
+   "source": "巴士的報",
+   "date": "11-12 23:44",
+   "iso": "2026-11-12T23:44:34+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONHlHd09SdXhUajd5ZGhBRVZxc1R2SGU1SkFoMWY2a2pnNXpPVnFYU3RuUGpfVnZJeXJIQy0yaGotX2J4Rk9GZFpZUWl3bldzMkdWX3pmWGRpeEJEZGhuRVZFVXV3aDJYUS00OVoyMUM1WUJ4dDE2aHVuOVFHMmRrWUJzZEhnVnNlWjhGM3FSQmVNV0g2UGFvV21fR3VKLXBoNHZibGVSVUZSa1RoNDhYSWJNTE1vVjZNbU5IbFVucGdaamVBMUZjOU9OQkhlRThLaDRjZ3VmZGltNkFQc0hGZERwNVQyV3plQ0I4U1BZS1dvbHFfdkIzX3N4WE5rUm9La1NxOWJ2R1AweEVnRE5PY3dZSXdNUDVjdFdkNlZzQjdDTENXQWg4cnV3?oc=5"
+  },
+  {
+   "title": "新皇崗「滿月」北上南下人次越升越有",
+   "source": "星島頭條",
+   "date": "11-12 19:00",
+   "iso": "2026-11-12T19:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORUFtSzRjektMSG9HaGJKcHhsM0tRQXR3QVQwei0ydE43OGFZYTFMbmFhV0xqWnJWNUxPQU95TV94MzRQdEdaU0w2R0xZTXFQUUxmSzQzR2hRWFNaS1hMc2tlYTRBU3pGTEU4OExxZ2xPNmd4MnZwMXNWUEJsN0h3cWJrWkdkdERzakNoMmRTLV9vdjdjQm8zYlVBVXQ4b3VKeHVJdmlSTW1DTEhKaDNCamJJWExZbW9jSzFicVJCNm94U2tZWmxfMm1ZVU92Q0pRMEZGdi1lQWFNRVJoaTFBelFfeDlwdUZqVnNRTnRjcmtUbm81MGdqQ3lnM3JhOThQUUFTRjYtdGNIczZjelBwNVlETQ?oc=5"
+  },
   {
    "title": "BIGBANG啟德演唱會周五開鑼 警公布交通指南 散場有多線特別巴士包括前往皇崗",
    "source": "巴士的報",
@@ -95,20 +109,6 @@ window.HGP_DATA = {
    "date": "11-11 20:30",
    "iso": "2026-11-11T20:30:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFl4LVlOUjNRQjF0QXdhdEN4MDJnWUVKbU1pSVJxdG1ISHhoWWV4X1l3a0tKWC1yeHcyRDNHVVBNVWJFamdSbk1Faml3WmJWVzQtSGVwWXNyd0RHbVJHWE9TVm5rY003Sy1ETDROcGI0WUJZZE0wdTJmWmt5UkRqbGROXzRTSFkxYmR4dGVxLXhJSE84Zlg5NUFxOXREMVE?oc=5"
-  },
-  {
-   "title": "香港成人展因多名日本演員未能入境取消 當局稱沒有拒絕相關人士入境",
-   "source": "TVB",
-   "date": "11-11 17:00",
-   "iso": "2026-11-11T17:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOcWk2MW1NUndOQWFWcElzNTVaaUxMMDg4REdnV1FCb0lJRVdVQ2xnbzFfWUtHeHRmSHQ2anRBM3BsRGVfRnI3LXRzSG1SV3VFS0N2RWNrcEhyU21XZFJHR2dBNEpUcVRfX2cxU3pvYk5yeG9jcEZzallzazZNRW40SUJLckdTM2wtZjVxYUJFQ3J4dlBRd2dxV2wtZ3VtTlFFSkVzSEplLTVmanNnUnRtWFNacGhxbW1jLWtmTTBBbVdRM3VDMkVDT0htaXhhMzN2YzdjOWIyY2ZUSHUzN3hoSmZVVEd4NFhqTUF2dC03SXpoUHRseU9mWDgybFdEQWpES185WDdZTzlwRm1IRkVrcl9oZ2RjNU1aRld3M3Q5VVdHaWxjUXFQSVZKcVhKUkN3TG5SZHVNdUthb05CSVpDQXlGSnZVc1FDMndnRk01WE9BQ1d3b1BZc01ZMnZxaHBPNThjU1pBbVk1dUU1NDZua2pBUElsSVFORW5BRklMcF9oUWZ4Ym5DR2dzcjl3THZoczBqb2xLZFBZNFJ2aHc0RFE0Yk4xT0lPeWlpYko3dkplQ3FUVUZ5RE5vRQ?oc=5"
-  },
-  {
-   "title": "北都鐵路專員：北環綫促進港深互聯互通 便利市民經皇崗口岸站出行",
-   "source": "Now 新聞",
-   "date": "11-11 06:09",
-   "iso": "2026-11-11T06:09:28+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kS0kyY2JhWThkbTFucFRKWFNvTzNULWpoZDF2ODM4VWN1QnViVzVuc1JNUV9selRjUTNBVWlncmJyc1QxX2dieENiVXdZT2hnUVlIdUoxckJQbWxiaTZoQU13?oc=5"
   }
  ],
  "ok": true,
