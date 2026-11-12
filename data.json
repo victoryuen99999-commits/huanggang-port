@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T17:19:44+08:00",
+ "generated_at": "2026-11-12T17:40:57+08:00",
  "date": "2026-11-12",
  "weekday": "星期四",
- "clock": "17:19",
+ "clock": "17:40",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,7 +43,7 @@
  },
  "weather": {
   "temp": 26,
-  "humidity": 44,
+  "humidity": 45,
   "wind": 10.5,
   "code": 3,
   "desc": "多雲",
@@ -53,13 +53,6 @@
  },
  "warnings": [],
  "news": [
-  {
-   "title": "皇崗口岸開通「滿月」 累計出入境344萬人次單日最高16.1萬創紀錄- 兩岸",
-   "source": "dotdotnews",
-   "date": "11-12 08:59",
-   "iso": "2026-11-12T08:59:58+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02YzNWSFJ1REF3WFQ5V090MnpqbTlCS1I2TktSWVVjOFJKYTBoYjlHV29uTmJhTGhmSDJVdHkwaEZhZXl6cHRYcjRxSlVzMFhUNzk2N1J1V2QyYnRaY3JoUjVRWElLRlJYUF9OM1FPVkh3Wm1TU0hVMlFB?oc=5"
-  },
   {
    "title": "皇崗口岸開通迎「滿月」 累計查驗出入境人員344萬人次- 灣區生活",
    "source": "香港文匯報",
@@ -108,6 +101,13 @@
    "date": "11-11 20:30",
    "iso": "2026-11-11T20:30:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOVDVRNEdQay0xcWJqUGx5ZE4yY3lJNXlSTUZMdWdKcDk4bENuWWJUbzRyaFMyOTY4T2x2SUtEY2ViMHpZSGwzV2xfRDk2c2JrVjVBZU9tbUV3SGliRGd4blRBQlZWSHBkd1NuMWFrNDIyWWtiZU5mVDhtX0NWcW1ndHZ1emNZT2NneF9vcmxSUjlBam9WUkZ6N0hhVnVZWU9VRjRKYkd0VDJTYnhJUkNoa005Tkh1VWNEZjZrWnNhalJsODVtc2hhQ2dCVGxxcjVKX1ljdXNLR2NRVUQ3dmtETFdFby02SHNzWnlwMVBGWEdvR0U2Nkw1YzRnWGJ5cHNhclRHWDhJZ2VoS3JZbGFTY2toc1AwN0FuV09qT1Y2UTliczhRbTd3Vng3T3gxei1tWnZ1XzQ2ei1pRzVwa2pzRG1yZ1VIcmFKM3B5NjJQWWFfamJYTG1MemlFWmVvMmdQbDJBbnI2SU1DRWZfSGRlY3ZjZEt1SU0xMGgzckNBQTRSQWRwYUYzZEoyNzBLcEJGbXI1WGNIMU9TajZkZzk1ZGlGTzRkRmR6d0h0dU56NFFuTDhBcWVsTA?oc=5"
+  },
+  {
+   "title": "新皇崗滿月 人流勝舊1.4倍 按月北上增幅比南下多 落馬洲減9% - 20261112 - 圖片看世界",
+   "source": "明報新聞網",
+   "date": "11-11 20:30",
+   "iso": "2026-11-11T20:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFl4LVlOUjNRQjF0QXdhdEN4MDJnWUVKbU1pSVJxdG1ISHhoWWV4X1l3a0tKWC1yeHcyRDNHVVBNVWJFamdSbk1Faml3WmJWVzQtSGVwWXNyd0RHbVJHWE9TVm5rY003Sy1ETDROcGI0WUJZZE0wdTJmWmt5UkRqbGROXzRTSFkxYmR4dGVxLXhJSE84Zlg5NUFxOXREMVE?oc=5"
   }
  ],
  "ok": true,
@@ -127,6 +127,11 @@
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
+  },
+  {
+   "tag": "車流",
+   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "level": "warn"
   },
   {
    "tag": "禁區",
