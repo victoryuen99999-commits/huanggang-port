@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-13T05:21:34+08:00",
+ "generated_at": "2026-11-13T05:27:43+08:00",
  "date": "2026-11-13",
  "weekday": "星期五",
- "clock": "05:21",
+ "clock": "05:27",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -94,7 +94,7 @@ window.HGP_DATA = {
    "source": "TVB",
    "date": "11-11 17:00",
    "iso": "2026-11-11T17:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOWDgzbHVBanR6RmVrdUEwcXY2QkhLOUtBSW5yMHpMWGhWX2hMSDN3QWk1TTBYRHdKQ09FQ1lHczNjRjFLX212eXJMXzN3Qk5YcWdrU0lHYVkyZGdYQ1g0Y0VPaDZ6eXpveUtXenVxMEdzazMtQm9EajUwbXZra1d5blhrWTI3ZHY2eWNoZGVGZHdCUjZ6eF9yQjNBZVRya0gtZmtTSzU4ejVfeHo4alg0MnRzcGVFRjhVaVExenpuUFJaVnB6WlVvcUY3MmNKMzVjdlgwMXViQVlFU1Z5bF9CdWFLazVhSlExektRdGt0bWlOQy0ydTZTbDE3eUx5WXk2bXcwSS1iVTFjYlNTZHdHOEIwMXd1NHczdzlxQnNJS0FfMFk2U04zd0R5YllYRWJPVW8tWG54QXFyOTdodGhSdEowejJjSFo3VFdKb3pvN2p3cWxNMDQ5WTlCc19pNFg1WXV2Q1NvSWVZZ1dOeDNWbC1VWWh0ZVQ0c2lwYVhpVWVnTlV5ZTN0TkpVVkwwUk5WS1FtNkpYRUFsMG11eTI2bFFjdGtVTkFIc2lSZVhHX2UxbEx3dXRKNloyWQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOcWk2MW1NUndOQWFWcElzNTVaaUxMMDg4REdnV1FCb0lJRVdVQ2xnbzFfWUtHeHRmSHQ2anRBM3BsRGVfRnI3LXRzSG1SV3VFS0N2RWNrcEhyU21XZFJHR2dBNEpUcVRfX2cxU3pvYk5yeG9jcEZzallzazZNRW40SUJLckdTM2wtZjVxYUJFQ3J4dlBRd2dxV2wtZ3VtTlFFSkVzSEplLTVmanNnUnRtWFNacGhxbW1jLWtmTTBBbVdRM3VDMkVDT0htaXhhMzN2YzdjOWIyY2ZUSHUzN3hoSmZVVEd4NFhqTUF2dC03SXpoUHRseU9mWDgybFdEQWpES185WDdZTzlwRm1IRkVrcl9oZ2RjNU1aRld3M3Q5VVdHaWxjUXFQSVZKcVhKUkN3TG5SZHVNdUthb05CSVpDQXlGSnZVc1FDMndnRk01WE9BQ1d3b1BZc01ZMnZxaHBPNThjU1pBbVk1dUU1NDZua2pBUElsSVFORW5BRklMcF9oUWZ4Ym5DR2dzcjl3THZoczBqb2xLZFBZNFJ2aHc0RFE0Yk4xT0lPeWlpYko3dkplQ3FUVUZ5RE5vRQ?oc=5"
   },
   {
    "title": "北都鐵路專員：北環綫促進港深互聯互通 便利市民經皇崗口岸站出行",
