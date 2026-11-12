@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-12T09:20:32+08:00",
+ "generated_at": "2026-11-12T09:26:39+08:00",
  "date": "2026-11-12",
  "weekday": "星期四",
- "clock": "09:20",
+ "clock": "09:26",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "新皇崗口岸開通首月超344萬人通關 單日客流破紀錄",
+   "source": "on.cc東網",
+   "date": "11-12 01:22",
+   "iso": "2026-11-12T01:22:10+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0RpbG9xdVlOQlJQYWFXbjJkTkwya2FmMy1aeEc1YTlWbEtyeWZaNkZkMjhjYXVvMFREbmlVLU82NU1fVTJncWdCS0hpcy0yaUYzS1ZXaWpXT1NBTm45UEdyMk5qSEh3VmljYlVrU0tEQVZQV0sxQVM5bXRNSmplMzQxb2NIM19uQmxv?oc=5"
+  },
+  {
    "title": "皇崗口岸開通首月超344萬人次順暢通關- 神州",
    "source": "香港文匯報",
    "date": "11-11 23:28",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-10 20:06",
    "iso": "2026-11-10T20:06:18+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLbHM1d2lZWWU0TmFaZ0YwajNTV05TME1SQjd4b292Mk1zSVZBLWctVUVrMWVIbmhnSlJlSjhPYnJWRFpBSDVuTlA2TmVZLWRHMFJFMnAtYmVoZW8wOURiUlJWV3M2Wkxhc0xLSlZkcVY3SjY0Y1Yw?oc=5"
-  },
-  {
-   "title": "新皇崗口岸｜運輸署：深宵班次視乎節慶活動加開特別服務 口岸路線暫無意加站 - i-CABLE",
-   "source": "i-CABLE",
-   "date": "11-10 10:37",
-   "iso": "2026-11-10T10:37:37+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQc2pRSW1uSVhoTEk1TENZSE92YTc2bUd5MHVrZXU2aFNfaXpobGRTLXpCNF8yaGN5UGk3YUNBVC1tcmFBb1dtQlN5dy02X0Z3My1ORHJhMUlZQW5jOW96S055RVotTTB5REZUQkwxMkNDTXR6bW5IdVctV0czazJsQWdKLW53emZnYXVtc1NwcmdLN2NqUEdsVDVBLWVsb1FBeGFuS3g3WWpOalRybWVMU28zeTRZbnFZN0JXMVQzSmk1cGpITk9neXdCMHBSMldyb3BrMDZjT09Xc2tHYUxJdmRKZFY5b2gzd3kwNW4xNnF3aFh4T041M2d1MXVyWHVyNlpPZmxQLU5TNnVOUmRZby1UczdZTS1yeDA2bGo5aGlrNmQ0QXBLbzhwQ2ZNVU42UXRoU2JxYXRwRHU2VlF2LVdiTjQtb3M3WVFabGdzYk9OWXNIWnd5YUJSbWo2Vkl1cm9NSmVRTDRyZw?oc=5"
   }
  ],
  "ok": true,
