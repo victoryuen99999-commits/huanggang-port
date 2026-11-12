@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-12T21:33:48+08:00",
+ "generated_at": "2026-11-12T22:00:13+08:00",
  "date": "2026-11-12",
  "weekday": "星期四",
- "clock": "21:33",
+ "clock": "22:00",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,7 +44,7 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 21,
-  "humidity": 76,
+  "humidity": 79,
   "wind": 8.1,
   "code": 2,
   "desc": "局部多雲",
@@ -54,6 +54,13 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "新皇崗口岸開通首月 逾344萬人次順暢通關",
+   "source": "www.hkcna.hk",
+   "date": "11-12 12:31",
+   "iso": "2026-11-12T12:31:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TeHhKb21nT3hPUHE1RjM5a3hTWkxWLTlsb0pUdkxubjFJQUs5VEQwenJrX1pIb2JWQTN0ajJ1cG1XQ3h5Mk9WSExMLXhPQmRoWS1JdzhwUWZZeGs1dG5WUGw4d0Q2NzJwM3l6UnYwQQ?oc=5"
+  },
   {
    "title": "新皇崗口岸啟用一個月 日均逾11萬人次出入境 升逾1倍",
    "source": "巴士的報",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-12 01:22",
    "iso": "2026-11-12T01:22:25+00:00",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0RpbG9xdVlOQlJQYWFXbjJkTkwya2FmMy1aeEc1YTlWbEtyeWZaNkZkMjhjYXVvMFREbmlVLU82NU1fVTJncWdCS0hpcy0yaUYzS1ZXaWpXT1NBTm45UEdyMk5qSEh3VmljYlVrU0tEQVZQV0sxQVM5bXRNSmplMzQxb2NIM19uQmxv?oc=5"
-  },
-  {
-   "title": "皇崗口岸開通首月超344萬人次順暢通關- 神州",
-   "source": "香港文匯報",
-   "date": "11-11 23:28",
-   "iso": "2026-11-11T23:28:07+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrOGpOZ09SYnc2WjNoUm5fOWFSUjB2c1RuakpPZm52ZHVQSF9NYm9ZOGVGbEFfa0p4dTRVbE93NUlxSUF5Ui1neXM1VFgtc3hoZ0N4YnZNNUpjOXZJc3dNRXJORTAzUjltclcyT0RKYnVGRThpRGN3?oc=5"
   }
  ],
  "ok": true,
