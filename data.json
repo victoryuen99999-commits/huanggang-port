@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T20:44:29+08:00",
+ "generated_at": "2026-11-12T20:51:00+08:00",
  "date": "2026-11-12",
  "weekday": "星期四",
- "clock": "20:44",
+ "clock": "20:51",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,10 +43,10 @@
  },
  "weather": {
   "temp": 22,
-  "humidity": 66,
-  "wind": 7.5,
-  "code": 2,
-  "desc": "局部多雲",
+  "humidity": 69,
+  "wind": 7.7,
+  "code": 1,
+  "desc": "大致晴朗",
   "tmax": 29,
   "tmin": 19,
   "pop": 0
