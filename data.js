@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-12T08:23:11+08:00",
+ "generated_at": "2026-11-12T08:37:28+08:00",
  "date": "2026-11-12",
  "weekday": "星期四",
- "clock": "08:23",
+ "clock": "08:37",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,11 +44,11 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 21,
-  "humidity": 75,
-  "wind": 12.0,
+  "humidity": 71,
+  "wind": 12.1,
   "code": 2,
   "desc": "局部多雲",
-  "tmax": 27,
+  "tmax": 28,
   "tmin": 19,
   "pop": 0
  },
@@ -67,6 +67,13 @@ window.HGP_DATA = {
    "date": "11-11 20:30",
    "iso": "2026-11-11T20:30:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOVDVRNEdQay0xcWJqUGx5ZE4yY3lJNXlSTUZMdWdKcDk4bENuWWJUbzRyaFMyOTY4T2x2SUtEY2ViMHpZSGwzV2xfRDk2c2JrVjVBZU9tbUV3SGliRGd4blRBQlZWSHBkd1NuMWFrNDIyWWtiZU5mVDhtX0NWcW1ndHZ1emNZT2NneF9vcmxSUjlBam9WUkZ6N0hhVnVZWU9VRjRKYkd0VDJTYnhJUkNoa005Tkh1VWNEZjZrWnNhalJsODVtc2hhQ2dCVGxxcjVKX1ljdXNLR2NRVUQ3dmtETFdFby02SHNzWnlwMVBGWEdvR0U2Nkw1YzRnWGJ5cHNhclRHWDhJZ2VoS3JZbGFTY2toc1AwN0FuV09qT1Y2UTliczhRbTd3Vng3T3gxei1tWnZ1XzQ2ei1pRzVwa2pzRG1yZ1VIcmFKM3B5NjJQWWFfamJYTG1MemlFWmVvMmdQbDJBbnI2SU1DRWZfSGRlY3ZjZEt1SU0xMGgzckNBQTRSQWRwYUYzZEoyNzBLcEJGbXI1WGNIMU9TajZkZzk1ZGlGTzRkRmR6d0h0dU56NFFuTDhBcWVsTA?oc=5"
+  },
+  {
+   "title": "新皇崗滿月 人流勝舊1.4倍 按月北上增幅比南下多 落馬洲減9% - 20261112 - 圖片看世界",
+   "source": "明報新聞網",
+   "date": "11-11 20:30",
+   "iso": "2026-11-11T20:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFBLSjIwTThfV2V6OTdLNkZ3TkpvVXZMck1fOC1kVGlyN3h1VWMyOGdWajZUTHR0UXViTVJHNHdILWRCNy1PZkZURWhPUjVBUnAtVjlVRE94VWNMZEx5eVlCU3ZpWUJXZ2ktcUdQenp4YXJEQ1VGc3lGWndNUGczaXBIalZNc09KWmJEVVJvTEpGMTI5R2ZnQVMxVkNyaWM?oc=5"
   },
   {
    "title": "香港成人展因多名日本演員未能入境取消 當局稱沒有拒絕相關人士入境",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-10 10:37",
    "iso": "2026-11-10T10:37:37+00:00",
    "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQc2pRSW1uSVhoTEk1TENZSE92YTc2bUd5MHVrZXU2aFNfaXpobGRTLXpCNF8yaGN5UGk3YUNBVC1tcmFBb1dtQlN5dy02X0Z3My1ORHJhMUlZQW5jOW96S055RVotTTB5REZUQkwxMkNDTXR6bW5IdVctV0czazJsQWdKLW53emZnYXVtc1NwcmdLN2NqUEdsVDVBLWVsb1FBeGFuS3g3WWpOalRybWVMU28zeTRZbnFZN0JXMVQzSmk1cGpITk9neXdCMHBSMldyb3BrMDZjT09Xc2tHYUxJdmRKZFY5b2gzd3kwNW4xNnF3aFh4T041M2d1MXVyWHVyNlpPZmxQLU5TNnVOUmRZby1UczdZTS1yeDA2bGo5aGlrNmQ0QXBLbzhwQ2ZNVU42UXRoU2JxYXRwRHU2VlF2LVdiTjQtb3M3WVFabGdzYk9OWXNIWnd5YUJSbWo2Vkl1cm9NSmVRTDRyZw?oc=5"
-  },
-  {
-   "title": "72歲成龍現身蓮塘口岸！招牌笑容親和力滿滿- 神州",
-   "source": "香港文匯報",
-   "date": "11-10 07:45",
-   "iso": "2026-11-10T07:45:37+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sX2x5NG5UNFBJelliLUJ0X0ZoclVjRXQzOXBJV01WWFdJeXl5THo3YTFyajBhVkVEQi1aOUIxV0lMbG83ZHBNRE5UclFaWFdfZGw1WXhIZ3NvSUpYemRNV0JFSFdVSFJUcjdHX2FjMUtrWTNWYktN?oc=5"
   }
  ],
  "ok": true,
@@ -128,6 +128,11 @@ window.HGP_DATA = {
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
+  },
+  {
+   "tag": "車流",
+   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "level": "warn"
   },
   {
    "tag": "禁區",
