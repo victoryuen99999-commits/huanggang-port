@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-12T22:49:34+08:00",
+ "generated_at": "2026-11-12T22:56:16+08:00",
  "date": "2026-11-12",
  "weekday": "星期四",
- "clock": "22:49",
+ "clock": "22:56",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "新皇崗口岸｜開通首月逾344萬人通關 單日客流創2019年以來新高",
+   "source": "星島頭條",
+   "date": "11-12 14:47",
+   "iso": "2026-11-12T14:47:49+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOTndBRkxaYkVXQWhpaEdnOE9Oa1lxeVpyRTI3WjFPTkNMOTJNWjhuZWhnUG5JMkpTdS1tVDVLeWxoVVEtVEhjeWtWSmx3bEw3ZGVYNFRJdVpfbndrSzhOVi1TbVd5V1M3MDR4RHN0LTk4elZnVTJNMkVXb2pHcS1vRVFxMHdZZGpvcGsta3FkeTV3VHZINE5HWFBKcXB3REdDZGZxc0lvYzVqWll0QU1LQ0JJd3hsQmRBVTZCbWMyWWVUeU92RUZ5RGtMbXJFYXc3dnFQVTZJSzlRS1kyTUZoa29fTUsyYVdfc000QUI4MXl3a29TMjk5TUowdkJaZ0hRSXNZRWlNZ2trdXlkdEw3SW1TaUlVWkxFbHB2TVhSWWlub0tCNlZYMU1PZ1RTZUFSTzBpRjZFbUpUUzVuNTFUZnlaN044eUJHZ2dMYjhRX1A0eUxMUUYwU2Nqb2NoSEE0Z3VBaFhZUU83dGNEVWg1Q1lXaEc0Q2RyZk1n?oc=5"
+  },
+  {
    "title": "新皇崗口岸開通首月 逾344萬人次順暢通關",
    "source": "www.hkcna.hk",
    "date": "11-12 12:31",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-12 04:58",
    "iso": "2026-11-12T04:58:23+00:00",
    "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOWXo1N3l4Y3pOM2ZKb2RGcl8xNXRpVlRGUDdlaTdGeUJ1MFBfaXlrNno5ZDJaLVM1NVVURGxwMEwycFpVOHVvZXU3aHlvYUhWR25hSU1lYm8wekFwSEtNY213XzUtRXhoRl81QlNGWV81NktxMy15MWNCZHpISU5oMGhiOXM2R1pqbEtuZkpwTndNakpmeFYzclBxOW9sQWZhNlh3Ykl2Ty16RTlkVzg4T3RIbDZQVnFZdGZIRHcxRzROajdYZHNhWnNaaC1IX1dvdXp0N1ZGN2xETE91S2RTT3hreFZuVFgwMkthLUREZ01LSjVZM2NMSjhzbzJKcDlSOFh2emk4cEpJR08xV1BrZ2xjZ1d2U1U4Vk5ZUHNheC16RU0xMll4NzdCWHNuV2kxdFY4WFI2Uno2b0tqTDNCQlNPQjFxRWdNdHFxc2tfaVZGcE1MNTBvZWsxVExQdldJdzdqb0tFR0NkbU90RWRJcGYtWEVPQl82S25QMmFlMml2YlJuZy14N1piOENyS1piWUVXSlZ6ZHdjejUwd3JrSUtyRTA3dw?oc=5"
-  },
-  {
-   "title": "新皇崗口岸開通首月超344萬人通關 單日客流破紀錄",
-   "source": "on.cc東網",
-   "date": "11-12 01:22",
-   "iso": "2026-11-12T01:22:25+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0RpbG9xdVlOQlJQYWFXbjJkTkwya2FmMy1aeEc1YTlWbEtyeWZaNkZkMjhjYXVvMFREbmlVLU82NU1fVTJncWdCS0hpcy0yaUYzS1ZXaWpXT1NBTm45UEdyMk5qSEh3VmljYlVrU0tEQVZQV0sxQVM5bXRNSmplMzQxb2NIM19uQmxv?oc=5"
   }
  ],
  "ok": true,
