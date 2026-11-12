@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-13T02:52:00+08:00",
+ "generated_at": "2026-11-13T03:13:19+08:00",
  "date": "2026-11-13",
  "weekday": "星期五",
- "clock": "02:52",
+ "clock": "03:13",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 21,
   "humidity": 90,
-  "wind": 9.0,
+  "wind": 8.8,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 27,
@@ -55,13 +55,6 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "新皇崗口岸｜開通首月逾344萬人通關 單日客流創2019年以來新高",
-   "source": "星島頭條",
-   "date": "11-12 14:47",
-   "iso": "2026-11-12T14:47:49+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOTndBRkxaYkVXQWhpaEdnOE9Oa1lxeVpyRTI3WjFPTkNMOTJNWjhuZWhnUG5JMkpTdS1tVDVLeWxoVVEtVEhjeWtWSmx3bEw3ZGVYNFRJdVpfbndrSzhOVi1TbVd5V1M3MDR4RHN0LTk4elZnVTJNMkVXb2pHcS1vRVFxMHdZZGpvcGsta3FkeTV3VHZINE5HWFBKcXB3REdDZGZxc0lvYzVqWll0QU1LQ0JJd3hsQmRBVTZCbWMyWWVUeU92RUZ5RGtMbXJFYXc3dnFQVTZJSzlRS1kyTUZoa29fTUsyYVdfc000QUI4MXl3a29TMjk5TUowdkJaZ0hRSXNZRWlNZ2trdXlkdEw3SW1TaUlVWkxFbHB2TVhSWWlub0tCNlZYMU1PZ1RTZUFSTzBpRjZFbUpUUzVuNTFUZnlaN044eUJHZ2dMYjhRX1A0eUxMUUYwU2Nqb2NoSEE0Z3VBaFhZUU83dGNEVWg1Q1lXaEc0Q2RyZk1n?oc=5"
-  },
-  {
    "title": "新皇崗口岸開通首月 逾344萬人次順暢通關",
    "source": "www.hkcna.hk",
    "date": "11-12 12:31",
@@ -69,25 +62,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TeHhKb21nT3hPUHE1RjM5a3hTWkxWLTlsb0pUdkxubjFJQUs5VEQwenJrX1pIb2JWQTN0ajJ1cG1XQ3h5Mk9WSExMLXhPQmRoWS1JdzhwUWZZeGs1dG5WUGw4d0Q2NzJwM3l6UnYwQQ?oc=5"
   },
   {
-   "title": "新皇崗口岸啟用一個月 日均逾11萬人次出入境 升逾1倍",
-   "source": "巴士的報",
-   "date": "11-12 12:11",
-   "iso": "2026-11-12T12:11:52+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQNW9IanBPOC04a3pod0o3Sk5BQ19PMkRkX1MtN0phU0wtU2hZY01Pc084MUR3OWplcEhDOFJJWGpvZWRMZzQ2Nm1XcnVhdXd5M0llYWVnN2RWbU5BZUNtV3ZvMnQ5dEh6TXhxaGFuY2RLQU0tR05WWkthUUNJWGc4blV2NzJPOWxxSHhaRjR5eFN2bU55MmZMcFJBY0RoR1JtVUtTaEZlTkk3UklVX2JwanRiVjNUQkNJeWZsU2dmTFpIUVJtQU9kM2pzVVk5UnFCblZ6dEpDekduUXVmU2RPZEtoWnRId0RsSDRzR3RGSDhFaFNRRVI0Sjd2aEpKenBZT2RRR09fYjRoUUN5eEhVWmxhazhSeTZveEVoTnVPNXJqUktFYkZHVWlWc1pHZktvS1R3VDc4aVNySUoyNkxfdUJ2WVd3UkVOaXhHaFUzRF83dHFQajV4TWpTLWdObDN1Sm9henkxVU4?oc=5"
-  },
-  {
    "title": "新皇崗口岸開通一個月 出入境人員334萬人次",
    "source": "RTHK News",
    "date": "11-12 11:37",
    "iso": "2026-11-12T11:37:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uNHVIQi1KaWdoQnRNOXRIU3paWXM3eUZ5R1RkbFhremNReEhIYXlQS2IxUW9PZThCOTlTalVHbml3SUg0WjJXa04zTy1PeFU4dHViYW1VREI3Y1ZkTmRYWkd1T0s0a0tLWnE3aHFfUQ?oc=5"
-  },
-  {
-   "title": "皇崗口岸開通迎「滿月」 累計查驗出入境人員344萬人次- 灣區生活",
-   "source": "香港文匯報",
-   "date": "11-12 08:45",
-   "iso": "2026-11-12T08:45:36+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02d2ZJbEU1Q2JDcy1aa3MydzI3M2VKY1pYQnJlX0Q4NkVFVnJEZDdxTFNYVWI0cUNtclp4cGZ1WGRlaksweWRvUnRIUTZ5TGE2TjJwdi1DUXlTaXpCRExZYTV3cEdBTVZ2NkNpZVhpQjdRZGhZR0JR?oc=5"
   },
   {
    "title": "皇崗口岸開通迎「滿月」：深港門戶通關運行平穩有序 出入境人員同比增120%",
@@ -104,11 +83,32 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPcGlHR2EtTVBOY3ZOdjJXVDJ1aFpkNGFPdThGV054TFlGN3FRWjAyYnFjT0hTWE9ZOURDUXN2bW1KNThkSTdLRktzajZWR1hKQVBibVl2M2ZsU0tkNDBoZXZiN2JvbGljRUtjdV83UDlza3FKbzhRdWg0SUFaOG5fTkJJSzBZdXhkRlhXSzFia1JkOVdNdzNuWE1fUVpOV1NrOVVoX3BUREp2S0hYVGx3cHhWN09pNkdpaVF5elNWMHVIZ2tuNk53aHdfWXdjeDJrZUUweHhESmxGdHUyZjIzZ2VfaW9kSGk2RG0wVDVuMkNFZkhWYXZvUXZwNHhJS25mdEdqejhPWm5IU2dTRDRtZkQzdVRSSE1UZU4zMHRDOGlLYnpPczF4UnF4V2FVUTk1Nl9oeDN2eU1mVFRPd3hZeTBTRElreDZISDJKUFFRVHRjU0ZDOTlUQlVBLThPRXFLMGtZWWVLcDRodVE4d21LYWxZMzN2UzRqRGVrQWpReERRbW5xN1B4RHp4NnF5RkRm?oc=5"
   },
   {
-   "title": "新皇崗口岸啟用滿月 皇崗邊檢站累計查驗出入境人員達344萬人次 - i-CABLE",
-   "source": "i-CABLE",
-   "date": "11-12 04:58",
-   "iso": "2026-11-12T04:58:23+00:00",
-   "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOWXo1N3l4Y3pOM2ZKb2RGcl8xNXRpVlRGUDdlaTdGeUJ1MFBfaXlrNno5ZDJaLVM1NVVURGxwMEwycFpVOHVvZXU3aHlvYUhWR25hSU1lYm8wekFwSEtNY213XzUtRXhoRl81QlNGWV81NktxMy15MWNCZHpISU5oMGhiOXM2R1pqbEtuZkpwTndNakpmeFYzclBxOW9sQWZhNlh3Ykl2Ty16RTlkVzg4T3RIbDZQVnFZdGZIRHcxRzROajdYZHNhWnNaaC1IX1dvdXp0N1ZGN2xETE91S2RTT3hreFZuVFgwMkthLUREZ01LSjVZM2NMSjhzbzJKcDlSOFh2emk4cEpJR08xV1BrZ2xjZ1d2U1U4Vk5ZUHNheC16RU0xMll4NzdCWHNuV2kxdFY4WFI2Uno2b0tqTDNCQlNPQjFxRWdNdHFxc2tfaVZGcE1MNTBvZWsxVExQdldJdzdqb0tFR0NkbU90RWRJcGYtWEVPQl82S25QMmFlMml2YlJuZy14N1piOENyS1piWUVXSlZ6ZHdjejUwd3JrSUtyRTA3dw?oc=5"
+   "title": "新皇崗滿月 人流勝舊1.4倍 按月北上增幅比南下多 落馬洲減9% - 20261112 - 圖片看世界",
+   "source": "明報新聞網",
+   "date": "11-11 20:30",
+   "iso": "2026-11-11T20:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFl4LVlOUjNRQjF0QXdhdEN4MDJnWUVKbU1pSVJxdG1ISHhoWWV4X1l3a0tKWC1yeHcyRDNHVVBNVWJFamdSbk1Faml3WmJWVzQtSGVwWXNyd0RHbVJHWE9TVm5rY003Sy1ETDROcGI0WUJZZE0wdTJmWmt5UkRqbGROXzRTSFkxYmR4dGVxLXhJSE84Zlg5NUFxOXREMVE?oc=5"
+  },
+  {
+   "title": "香港成人展因多名日本演員未能入境取消 當局稱沒有拒絕相關人士入境",
+   "source": "TVB",
+   "date": "11-11 17:00",
+   "iso": "2026-11-11T17:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNVXJKMXVqOXZyTXJFa3cwc29Bb0JTUmFHUFBLeGVKVUZ5bGdSdUxpellvN1VyY2pzWkZKVFFseDFJcWFaRVdPdkVyQlJ2RWE4cnRsTnhtZU9VandRUHJaeUlNTlJHMjF2WDhFNzZSNDZvMEJaVUVHRXZHS0JuSWRpbjY4V05GTHFQVU9QZnRzNVRIMUVfZ1lkV3lsY3VIMVZicXBybEdRVWh2SnM1dHRBY1dqek10WE1KcTV3aktQZmRtR0w1VlRBOVdWRGRvNzl0bU5aalhBTXpMM19OZjk0R0lnc084Nk1xOU9EalJGdkstQ0kzRTc2NUhTeXJZalZzRGo5VHBJMjRxODNEdkJkT1hSVUdIVU9jM3hHNkhXb2RyemluN1hLS0IwZWZEdmRUVG5ZNVVkbEMxNGJZZWRfWlBSUjFqNjcwS3NfRElXaW85X3N4TGFXSEZsdzNmZzhudWc5TkdtSS12ZjBwWEJWOUZZQUN6LVdrYTFPazNnUWNkVGJTaGNRc01CQ05fTWdYdmNwejVEMV9PTElobTVESWg5ajVCRExxQmw1TWlXT01WTzBNbDRIUGNERQ?oc=5"
+  },
+  {
+   "title": "北都鐵路專員：北環綫促進港深互聯互通 便利市民經皇崗口岸站出行",
+   "source": "Now 新聞",
+   "date": "11-11 06:09",
+   "iso": "2026-11-11T06:09:28+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kS0kyY2JhWThkbTFucFRKWFNvTzNULWpoZDF2ODM4VWN1QnViVzVuc1JNUV9selRjUTNBVWlncmJyc1QxX2dieENiVXdZT2hnUVlIdUoxckJQbWxiaTZoQU13?oc=5"
+  },
+  {
+   "title": "香港北環線全面進入建設階段！2034年主支線同步開通接駁新皇崗口岸- 香港",
+   "source": "香港文匯報",
+   "date": "11-10 23:48",
+   "iso": "2026-11-10T23:48:58+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmY1RDcjlHRVd3d0llQml5SHFxSWw1WjR5T0Fpb1pOdlR1U050YVU5Rk05eWFkQWxnTk1rZW5SVzJJM3dOd2NOSl92dnBoRjVUU2VXckRHVmdXeW5TaU1vanNTRVJIbnZXRVF4NVpsb0tfdFhxYXFj?oc=5"
   }
  ],
  "ok": true,
