@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-12T13:26:41+08:00",
+ "generated_at": "2026-11-12T13:32:48+08:00",
  "date": "2026-11-12",
  "weekday": "星期四",
- "clock": "13:26",
+ "clock": "13:32",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 28,
   "humidity": 42,
-  "wind": 8.3,
+  "wind": 8.2,
   "code": 3,
   "desc": "多雲",
   "tmax": 28,
@@ -87,7 +87,7 @@ window.HGP_DATA = {
    "source": "明報新聞網",
    "date": "11-11 20:30",
    "iso": "2026-11-11T20:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFl4LVlOUjNRQjF0QXdhdEN4MDJnWUVKbU1pSVJxdG1ISHhoWWV4X1l3a0tKWC1yeHcyRDNHVVBNVWJFamdSbk1Faml3WmJWVzQtSGVwWXNyd0RHbVJHWE9TVm5rY003Sy1ETDROcGI0WUJZZE0wdTJmWmt5UkRqbGROXzRTSFkxYmR4dGVxLXhJSE84Zlg5NUFxOXREMVE?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFBLSjIwTThfV2V6OTdLNkZ3TkpvVXZMck1fOC1kVGlyN3h1VWMyOGdWajZUTHR0UXViTVJHNHdILWRCNy1PZkZURWhPUjVBUnAtVjlVRE94VWNMZEx5eVlCU3ZpWUJXZ2ktcUdQenp4YXJEQ1VGc3lGWndNUGczaXBIalZNc09KWmJEVVJvTEpGMTI5R2ZnQVMxVkNyaWM?oc=5"
   },
   {
    "title": "香港成人展因多名日本演員未能入境取消 當局稱沒有拒絕相關人士入境",
