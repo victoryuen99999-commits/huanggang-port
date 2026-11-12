@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-12T15:45:47+08:00",
+ "generated_at": "2026-11-12T15:51:53+08:00",
  "date": "2026-11-12",
  "weekday": "星期四",
- "clock": "15:45",
+ "clock": "15:51",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "BIGBANG演唱會｜城巴開6條離場路線往全港各區 SP12直達皇崗口岸",
+   "source": "香港01",
+   "date": "11-12 07:39",
+   "iso": "2026-11-12T07:39:20+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZLWk3S1pqcUhESDBWWlIyZlZHYk9aTWpCNUdYTncxdFlaZkU1RDVVbzVVUUY2enRpS1lpMzIwYjJ3Mkd0TldnamZnUTBVZw?oc=5"
+  },
+  {
    "title": "新皇崗口岸啟用滿月 皇崗邊檢站累計查驗出入境人員達344萬人次 - i-CABLE",
    "source": "i-CABLE",
    "date": "11-12 04:58",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-11 06:09",
    "iso": "2026-11-11T06:09:28+00:00",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kS0kyY2JhWThkbTFucFRKWFNvTzNULWpoZDF2ODM4VWN1QnViVzVuc1JNUV9selRjUTNBVWlncmJyc1QxX2dieENiVXdZT2hnUVlIdUoxckJQbWxiaTZoQU13?oc=5"
-  },
-  {
-   "title": "香港北環線全面進入建設階段！2034年主支線同步開通接駁新皇崗口岸- 香港",
-   "source": "香港文匯報",
-   "date": "11-10 23:48",
-   "iso": "2026-11-10T23:48:58+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmY1RDcjlHRVd3d0llQml5SHFxSWw1WjR5T0Fpb1pOdlR1U050YVU5Rk05eWFkQWxnTk1rZW5SVzJJM3dOd2NOSl92dnBoRjVUU2VXckRHVmdXeW5TaU1vanNTRVJIbnZXRVF4NVpsb0tfdFhxYXFj?oc=5"
   }
  ],
  "ok": true,
