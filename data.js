@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-12T11:51:56+08:00",
+ "generated_at": "2026-11-12T11:58:24+08:00",
  "date": "2026-11-12",
  "weekday": "星期四",
- "clock": "11:51",
+ "clock": "11:58",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "新皇崗滿月 人流勝舊1.4倍 按月北上增幅比南下多 落馬洲減9% - 20261112 - 圖片看世界",
+   "source": "明報新聞網",
+   "date": "11-12 01:49",
+   "iso": "2026-11-12T01:49:22+00:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFl4LVlOUjNRQjF0QXdhdEN4MDJnWUVKbU1pSVJxdG1ISHhoWWV4X1l3a0tKWC1yeHcyRDNHVVBNVWJFamdSbk1Faml3WmJWVzQtSGVwWXNyd0RHbVJHWE9TVm5rY003Sy1ETDROcGI0WUJZZE0wdTJmWmt5UkRqbGROXzRTSFkxYmR4dGVxLXhJSE84Zlg5NUFxOXREMVE?oc=5"
+  },
+  {
    "title": "新皇崗口岸開通首月超344萬人通關 單日客流破紀錄",
    "source": "on.cc東網",
    "date": "11-12 01:22",
@@ -74,13 +81,6 @@ window.HGP_DATA = {
    "date": "11-11 20:30",
    "iso": "2026-11-11T20:30:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOVDVRNEdQay0xcWJqUGx5ZE4yY3lJNXlSTUZMdWdKcDk4bENuWWJUbzRyaFMyOTY4T2x2SUtEY2ViMHpZSGwzV2xfRDk2c2JrVjVBZU9tbUV3SGliRGd4blRBQlZWSHBkd1NuMWFrNDIyWWtiZU5mVDhtX0NWcW1ndHZ1emNZT2NneF9vcmxSUjlBam9WUkZ6N0hhVnVZWU9VRjRKYkd0VDJTYnhJUkNoa005Tkh1VWNEZjZrWnNhalJsODVtc2hhQ2dCVGxxcjVKX1ljdXNLR2NRVUQ3dmtETFdFby02SHNzWnlwMVBGWEdvR0U2Nkw1YzRnWGJ5cHNhclRHWDhJZ2VoS3JZbGFTY2toc1AwN0FuV09qT1Y2UTliczhRbTd3Vng3T3gxei1tWnZ1XzQ2ei1pRzVwa2pzRG1yZ1VIcmFKM3B5NjJQWWFfamJYTG1MemlFWmVvMmdQbDJBbnI2SU1DRWZfSGRlY3ZjZEt1SU0xMGgzckNBQTRSQWRwYUYzZEoyNzBLcEJGbXI1WGNIMU9TajZkZzk1ZGlGTzRkRmR6d0h0dU56NFFuTDhBcWVsTA?oc=5"
-  },
-  {
-   "title": "新皇崗滿月 人流勝舊1.4倍 按月北上增幅比南下多 落馬洲減9% - 20261112 - 圖片看世界",
-   "source": "明報新聞網",
-   "date": "11-11 20:30",
-   "iso": "2026-11-11T20:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFBLSjIwTThfV2V6OTdLNkZ3TkpvVXZMck1fOC1kVGlyN3h1VWMyOGdWajZUTHR0UXViTVJHNHdILWRCNy1PZkZURWhPUjVBUnAtVjlVRE94VWNMZEx5eVlCU3ZpWUJXZ2ktcUdQenp4YXJEQ1VGc3lGWndNUGczaXBIalZNc09KWmJEVVJvTEpGMTI5R2ZnQVMxVkNyaWM?oc=5"
   },
   {
    "title": "香港成人展因多名日本演員未能入境取消 當局稱沒有拒絕相關人士入境",
