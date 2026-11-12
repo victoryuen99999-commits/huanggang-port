@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-12T16:43:01+08:00",
+ "generated_at": "2026-11-12T16:49:08+08:00",
  "date": "2026-11-12",
  "weekday": "星期四",
- "clock": "16:43",
+ "clock": "16:49",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 27,
-  "humidity": 41,
-  "wind": 10.1,
+  "humidity": 42,
+  "wind": 10.3,
   "code": 3,
   "desc": "多雲",
   "tmax": 28,
@@ -54,6 +54,13 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "皇崗口岸開通迎「滿月」 累計查驗出入境人員344萬人次- 灣區生活",
+   "source": "香港文匯報",
+   "date": "11-12 08:45",
+   "iso": "2026-11-12T08:45:36+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02d2ZJbEU1Q2JDcy1aa3MydzI3M2VKY1pYQnJlX0Q4NkVFVnJEZDdxTFNYVWI0cUNtclp4cGZ1WGRlaksweWRvUnRIUTZ5TGE2TjJwdi1DUXlTaXpCRExZYTV3cEdBTVZ2NkNpZVhpQjdRZGhZR0JR?oc=5"
+  },
   {
    "title": "皇崗口岸開通迎「滿月」：深港門戶通關運行平穩有序 出入境人員同比增120%",
    "source": "香港商报",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-11 20:30",
    "iso": "2026-11-11T20:30:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFl4LVlOUjNRQjF0QXdhdEN4MDJnWUVKbU1pSVJxdG1ISHhoWWV4X1l3a0tKWC1yeHcyRDNHVVBNVWJFamdSbk1Faml3WmJWVzQtSGVwWXNyd0RHbVJHWE9TVm5rY003Sy1ETDROcGI0WUJZZE0wdTJmWmt5UkRqbGROXzRTSFkxYmR4dGVxLXhJSE84Zlg5NUFxOXREMVE?oc=5"
-  },
-  {
-   "title": "香港成人展因多名日本演員未能入境取消 當局稱沒有拒絕相關人士入境",
-   "source": "TVB",
-   "date": "11-11 17:00",
-   "iso": "2026-11-11T17:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNVXJKMXVqOXZyTXJFa3cwc29Bb0JTUmFHUFBLeGVKVUZ5bGdSdUxpellvN1VyY2pzWkZKVFFseDFJcWFaRVdPdkVyQlJ2RWE4cnRsTnhtZU9VandRUHJaeUlNTlJHMjF2WDhFNzZSNDZvMEJaVUVHRXZHS0JuSWRpbjY4V05GTHFQVU9QZnRzNVRIMUVfZ1lkV3lsY3VIMVZicXBybEdRVWh2SnM1dHRBY1dqek10WE1KcTV3aktQZmRtR0w1VlRBOVdWRGRvNzl0bU5aalhBTXpMM19OZjk0R0lnc084Nk1xOU9EalJGdkstQ0kzRTc2NUhTeXJZalZzRGo5VHBJMjRxODNEdkJkT1hSVUdIVU9jM3hHNkhXb2RyemluN1hLS0IwZWZEdmRUVG5ZNVVkbEMxNGJZZWRfWlBSUjFqNjcwS3NfRElXaW85X3N4TGFXSEZsdzNmZzhudWc5TkdtSS12ZjBwWEJWOUZZQUN6LVdrYTFPazNnUWNkVGJTaGNRc01CQ05fTWdYdmNwejVEMV9PTElobTVESWg5ajVCRExxQmw1TWlXT01WTzBNbDRIUGNERQ?oc=5"
   }
  ],
  "ok": true,
