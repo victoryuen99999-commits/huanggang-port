@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-13T02:27:32+08:00",
+ "generated_at": "2026-11-13T02:33:38+08:00",
  "date": "2026-11-13",
  "weekday": "星期五",
- "clock": "02:27",
+ "clock": "02:33",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 21,
   "humidity": 89,
-  "wind": 9.7,
+  "wind": 9.4,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 27,
@@ -54,13 +54,6 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
-  {
-   "title": "BIGBANG啟德演唱會周五開鑼 警公布交通指南 散場有多線特別巴士包括前往皇崗",
-   "source": "巴士的報",
-   "date": "11-12 15:53",
-   "iso": "2026-11-12T15:53:10+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOc2o1bjNfenc5NFNZV2VaeDZNdFpJcGJyc0M4eFpKWFJIN2pZRWVTaERxdmVmTnhXa2dTTjhoN0pZQVVuNU5wTmdsbjRGTkNLSHVSb2pqOUVVWjE3U3oxQWZGZXViSHVtVmFpSHMxcnBwQTBCdGZVbXRya1h2NXhOWlJqN0c2N2JpLWxLLWk4RzJaS01UX2pIaW1FU0lleGE0NFlzaF96c1B2UHNwS1V6UGJ4ZFZwLTgxZENxd2g4dkpiS1g0ZzNfRm1nN0ViWVJpaExsNW1uaFM0WTJkRmgtRHZZdkQzVUpheERLZFBpRm1mcEhDSi03RlN1cTlZa0JZRzhQdnBubFRubnlYMzJ1c0haTU9oMUpBSVRIVzRmSDVobm9DVDl5bl9rRi01VFZFZ3l3RHZKQlBzZ19DOU5iNGx5TE91dVF0dmR5RXRfUEExekdia2lTaHo4LUFlVEpGaTRORm16TzV4eFlzM2c?oc=5"
-  },
   {
    "title": "新皇崗口岸｜開通首月逾344萬人通關 單日客流創2019年以來新高",
    "source": "星島頭條",
@@ -109,16 +102,17 @@ window.HGP_DATA = {
    "date": "11-12 07:39",
    "iso": "2026-11-12T07:39:20+00:00",
    "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPcGlHR2EtTVBOY3ZOdjJXVDJ1aFpkNGFPdThGV054TFlGN3FRWjAyYnFjT0hTWE9ZOURDUXN2bW1KNThkSTdLRktzajZWR1hKQVBibVl2M2ZsU0tkNDBoZXZiN2JvbGljRUtjdV83UDlza3FKbzhRdWg0SUFaOG5fTkJJSzBZdXhkRlhXSzFia1JkOVdNdzNuWE1fUVpOV1NrOVVoX3BUREp2S0hYVGx3cHhWN09pNkdpaVF5elNWMHVIZ2tuNk53aHdfWXdjeDJrZUUweHhESmxGdHUyZjIzZ2VfaW9kSGk2RG0wVDVuMkNFZkhWYXZvUXZwNHhJS25mdEdqejhPWm5IU2dTRDRtZkQzdVRSSE1UZU4zMHRDOGlLYnpPczF4UnF4V2FVUTk1Nl9oeDN2eU1mVFRPd3hZeTBTRElreDZISDJKUFFRVHRjU0ZDOTlUQlVBLThPRXFLMGtZWWVLcDRodVE4d21LYWxZMzN2UzRqRGVrQWpReERRbW5xN1B4RHp4NnF5RkRm?oc=5"
+  },
+  {
+   "title": "新皇崗口岸啟用滿月 皇崗邊檢站累計查驗出入境人員達344萬人次 - i-CABLE",
+   "source": "i-CABLE",
+   "date": "11-12 04:58",
+   "iso": "2026-11-12T04:58:23+00:00",
+   "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOWXo1N3l4Y3pOM2ZKb2RGcl8xNXRpVlRGUDdlaTdGeUJ1MFBfaXlrNno5ZDJaLVM1NVVURGxwMEwycFpVOHVvZXU3aHlvYUhWR25hSU1lYm8wekFwSEtNY213XzUtRXhoRl81QlNGWV81NktxMy15MWNCZHpISU5oMGhiOXM2R1pqbEtuZkpwTndNakpmeFYzclBxOW9sQWZhNlh3Ykl2Ty16RTlkVzg4T3RIbDZQVnFZdGZIRHcxRzROajdYZHNhWnNaaC1IX1dvdXp0N1ZGN2xETE91S2RTT3hreFZuVFgwMkthLUREZ01LSjVZM2NMSjhzbzJKcDlSOFh2emk4cEpJR08xV1BrZ2xjZ1d2U1U4Vk5ZUHNheC16RU0xMll4NzdCWHNuV2kxdFY4WFI2Uno2b0tqTDNCQlNPQjFxRWdNdHFxc2tfaVZGcE1MNTBvZWsxVExQdldJdzdqb0tFR0NkbU90RWRJcGYtWEVPQl82S25QMmFlMml2YlJuZy14N1piOENyS1piWUVXSlZ6ZHdjejUwd3JrSUtyRTA3dw?oc=5"
   }
  ],
  "ok": true,
- "vehicle_events": [
-  {
-   "t": 1794498790000,
-   "s": "巴士的報",
-   "ti": "BIGBANG啟德演唱會周五開鑼 警公布交通指南 散場有多線特別巴士包括前往皇崗"
-  }
- ],
+ "vehicle_events": [],
  "tips": [
   {
    "tag": "天氣",
