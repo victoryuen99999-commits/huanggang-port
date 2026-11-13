@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-13T13:44:39+08:00",
+ "generated_at": "2026-11-13T13:51:05+08:00",
  "date": "2026-11-13",
  "weekday": "星期五",
- "clock": "13:44",
+ "clock": "13:51",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 26,
-  "humidity": 55,
-  "wind": 12.1,
+  "humidity": 56,
+  "wind": 12.5,
   "code": 3,
   "desc": "多雲",
   "tmax": 28,
@@ -83,6 +83,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxORXVvUHJ5Nkphb182U1pzV2FnMUItckdSMmtONmNZZTlwaWhGRGVqeC01WEpqZjVTVjlrRVNlTk9NMXJocmFvUzRXTGluZjJkU09HYjBuc2Exb3RWRk9nbkxJQ1hhQU5uUzRaMm80ZC1BUTFUUGlpNFhSRV9MMUppeXY0U2JLV2lOWG9MNG1hazBGY1Y5QXROeXNHVlY1VkYxNlFYNlI2YjVGVVN5dDV0RGYyRlpFYzcyUWJnaDFMeVZWYUFabmR0WTRkdmRoV3ZkN3NQYnpZWXIzajJoNlZUV05DSHB5OWpMMkRBTWpXeGxaLVlFbWN5TW5jTV9idTRxWTdkc3I4X3pPZXRNT1RCMHNjcGRyNk9ocDhsM1hjYUpoVHJoSmhUamlONWtjSmxlSksyVjNCRkpPTF94dGh5YXBLcUh6MEJCanJRUmhqRDEzOEJTZkxJOVJqQkFUYjNOcDFZemZVSWJLQ0RzdTNoTEs1TkZwNTdta291MVZITm1iWFE2SFgxbzJWakotaTJzZFZtQjdfYw?oc=5"
   },
   {
+   "title": "皇崗口岸升級後首月客運量超344 萬人次",
+   "source": "巴士的報",
+   "date": "11-12 19:14",
+   "iso": "2026-11-12T19:14:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONHlHd09SdXhUajd5ZGhBRVZxc1R2SGU1SkFoMWY2a2pnNXpPVnFYU3RuUGpfVnZJeXJIQy0yaGotX2J4Rk9GZFpZUWl3bldzMkdWX3pmWGRpeEJEZGhuRVZFVXV3aDJYUS00OVoyMUM1WUJ4dDE2aHVuOVFHMmRrWUJzZEhnVnNlWjhGM3FSQmVNV0g2UGFvV21fR3VKLXBoNHZibGVSVUZSa1RoNDhYSWJNTE1vVjZNbU5IbFVucGdaamVBMUZjOU9OQkhlRThLaDRjZ3VmZGltNkFQc0hGZERwNVQyV3plQ0I4U1BZS1dvbHFfdkIzX3N4WE5rUm9La1NxOWJ2R1AweEVnRE5PY3dZSXdNUDVjdFdkNlZzQjdDTENXQWg4cnV3?oc=5"
+  },
+  {
    "title": "BIGBANG啟德演唱會周五開鑼 警公布交通指南 散場有多線特別巴士包括前往皇崗",
    "source": "巴士的報",
    "date": "11-12 15:53",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-12 12:31",
    "iso": "2026-11-12T12:31:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TeHhKb21nT3hPUHE1RjM5a3hTWkxWLTlsb0pUdkxubjFJQUs5VEQwenJrX1pIb2JWQTN0ajJ1cG1XQ3h5Mk9WSExMLXhPQmRoWS1JdzhwUWZZeGs1dG5WUGw4d0Q2NzJwM3l6UnYwQQ?oc=5"
-  },
-  {
-   "title": "新皇崗口岸啟用一個月 日均逾11萬人次出入境 升逾1倍",
-   "source": "巴士的報",
-   "date": "11-12 12:11",
-   "iso": "2026-11-12T12:11:52+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQNW9IanBPOC04a3pod0o3Sk5BQ19PMkRkX1MtN0phU0wtU2hZY01Pc084MUR3OWplcEhDOFJJWGpvZWRMZzQ2Nm1XcnVhdXd5M0llYWVnN2RWbU5BZUNtV3ZvMnQ5dEh6TXhxaGFuY2RLQU0tR05WWkthUUNJWGc4blV2NzJPOWxxSHhaRjR5eFN2bU55MmZMcFJBY0RoR1JtVUtTaEZlTkk3UklVX2JwanRiVjNUQkNJeWZsU2dmTFpIUVJtQU9kM2pzVVk5UnFCblZ6dEpDekduUXVmU2RPZEtoWnRId0RsSDRzR3RGSDhFaFNRRVI0Sjd2aEpKenBZT2RRR09fYjRoUUN5eEhVWmxhazhSeTZveEVoTnVPNXJqUktFYkZHVWlWc1pHZktvS1R3VDc4aVNySUoyNkxfdUJ2WVd3UkVOaXhHaFUzRF83dHFQajV4TWpTLWdObDN1Sm9henkxVU4?oc=5"
   }
  ],
  "ok": true,
