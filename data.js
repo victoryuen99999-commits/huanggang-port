@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-13T13:51:05+08:00",
+ "generated_at": "2026-11-13T13:57:11+08:00",
  "date": "2026-11-13",
  "weekday": "星期五",
- "clock": "13:51",
+ "clock": "13:57",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "深圳親子好去處｜新皇崗口岸附近5大商場推介 地鐵直達食買玩睇水豚、行山姆",
+   "source": "星島頭條",
+   "date": "11-13 05:44",
+   "iso": "2026-11-13T05:44:46+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPTmhDR05Bcmp5NGV0cEYwQUstZlNjdnc3SUJyMGdlVm02MDNkSUdBM3M3MVlBV1FEV20xUHB6bTNCWHpvc2dCT09CVHl2cDRMWURKd3UyYkFuemFtdDNhNnI2NlRpMzNjbG9lckdXYzJDNm1yY1ZEQlU4czZRYTVXejAtT1FIZUtIa3FLUTd6Z1lQTzN1WVNqYUlLbk5lRXBrTmV1M3Q2OHE0NFV6R0l4S1VVYS1UckROY1VlMC1zRHhEX25ENHROTTY5SWo0dkVZdEJwdmxFNjU4azk0WWJ3N2M1LVAxWEdfLVBhci13S29PVi03NVdzSVpZZnZhdVlHS1Y5R0lYTDF1V3pjV2J5SUxfUHdRRi16N3F3XzV4ZWhiazlQZ2V2YWZwdVM4SG8tbjk1OEhVY2FQNGk2ckdqMkwza2VVWVZ0M1JLWGdyN3JjcjNYN0hheFY0ZHJSZ2pFWm0wLUNNMmNCVnI1b2NIM1d3ekJESXFZcFMyYlllcDBNb0hqVkoxaFVOVGxWd0F4dkVCUzRKNElUdU5WTDlqNmY0V1ZPSHdzVkhYOE5fLUFYQnVNMkFuVC1tc2F5WGhMNVllbnR5OUlxRDBxWWlHaUtGUHVVTE0?oc=5"
+  },
+  {
    "title": "城巴皇崗專線B14全日服務常態化$20.8往返啟德將軍澳路線/發車時間一文睇- 港聞",
    "source": "dotdotnews",
    "date": "11-13 04:32",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-12 14:47",
    "iso": "2026-11-12T14:47:49+00:00",
    "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOTndBRkxaYkVXQWhpaEdnOE9Oa1lxeVpyRTI3WjFPTkNMOTJNWjhuZWhnUG5JMkpTdS1tVDVLeWxoVVEtVEhjeWtWSmx3bEw3ZGVYNFRJdVpfbndrSzhOVi1TbVd5V1M3MDR4RHN0LTk4elZnVTJNMkVXb2pHcS1vRVFxMHdZZGpvcGsta3FkeTV3VHZINE5HWFBKcXB3REdDZGZxc0lvYzVqWll0QU1LQ0JJd3hsQmRBVTZCbWMyWWVUeU92RUZ5RGtMbXJFYXc3dnFQVTZJSzlRS1kyTUZoa29fTUsyYVdfc000QUI4MXl3a29TMjk5TUowdkJaZ0hRSXNZRWlNZ2trdXlkdEw3SW1TaUlVWkxFbHB2TVhSWWlub0tCNlZYMU1PZ1RTZUFSTzBpRjZFbUpUUzVuNTFUZnlaN044eUJHZ2dMYjhRX1A0eUxMUUYwU2Nqb2NoSEE0Z3VBaFhZUU83dGNEVWg1Q1lXaEc0Q2RyZk1n?oc=5"
-  },
-  {
-   "title": "新皇崗口岸開通首月 逾344萬人次順暢通關",
-   "source": "www.hkcna.hk",
-   "date": "11-12 12:31",
-   "iso": "2026-11-12T12:31:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TeHhKb21nT3hPUHE1RjM5a3hTWkxWLTlsb0pUdkxubjFJQUs5VEQwenJrX1pIb2JWQTN0ajJ1cG1XQ3h5Mk9WSExMLXhPQmRoWS1JdzhwUWZZeGs1dG5WUGw4d0Q2NzJwM3l6UnYwQQ?oc=5"
   }
  ],
  "ok": true,
