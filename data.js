@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-13T10:44:22+08:00",
+ "generated_at": "2026-11-13T10:51:29+08:00",
  "date": "2026-11-13",
  "weekday": "星期五",
- "clock": "10:44",
+ "clock": "10:51",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,6 +45,13 @@ window.HGP_DATA = {
  "weather": null,
  "warnings": [],
  "news": [
+  {
+   "title": "迎APEC｜皇崗口岸提供多語種小冊子供賓客取閱 涵蓋出行及住宿等資訊",
+   "source": "Now 新聞",
+   "date": "11-13 02:43",
+   "iso": "2026-11-13T02:43:24+00:00",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxWWZMeTBPVlpYbUdYVnJIQ1FTQ0lET0R1SGswRUU5Ym9fS3VzY2tqVjN2N25IRUZhR2xReElUUDhsUmRJNkFKdzlPejRwR2NtQkxfR2xNdnRfTFpRd2xtZlY4UWlsZ0luUUY3MjlzdE1PejRiaUE?oc=5"
+  },
   {
    "title": "香港新皇崗口岸開通一個月 出入境人數達334萬人次 - www.5news.com.hk",
    "source": "www.5news.com.hk",
@@ -93,13 +100,6 @@ window.HGP_DATA = {
    "date": "11-12 11:37",
    "iso": "2026-11-12T11:37:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uNHVIQi1KaWdoQnRNOXRIU3paWXM3eUZ5R1RkbFhremNReEhIYXlQS2IxUW9PZThCOTlTalVHbml3SUg0WjJXa04zTy1PeFU4dHViYW1VREI3Y1ZkTmRYWkd1T0s0a0tLWnE3aHFfUQ?oc=5"
-  },
-  {
-   "title": "BIGBANG演唱會｜城巴開6條離場路線往全港各區 SP12直達皇崗口岸",
-   "source": "香港01",
-   "date": "11-12 07:39",
-   "iso": "2026-11-12T07:39:20+00:00",
-   "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPcGlHR2EtTVBOY3ZOdjJXVDJ1aFpkNGFPdThGV054TFlGN3FRWjAyYnFjT0hTWE9ZOURDUXN2bW1KNThkSTdLRktzajZWR1hKQVBibVl2M2ZsU0tkNDBoZXZiN2JvbGljRUtjdV83UDlza3FKbzhRdWg0SUFaOG5fTkJJSzBZdXhkRlhXSzFia1JkOVdNdzNuWE1fUVpOV1NrOVVoX3BUREp2S0hYVGx3cHhWN09pNkdpaVF5elNWMHVIZ2tuNk53aHdfWXdjeDJrZUUweHhESmxGdHUyZjIzZ2VfaW9kSGk2RG0wVDVuMkNFZkhWYXZvUXZwNHhJS25mdEdqejhPWm5IU2dTRDRtZkQzdVRSSE1UZU4zMHRDOGlLYnpPczF4UnF4V2FVUTk1Nl9oeDN2eU1mVFRPd3hZeTBTRElreDZISDJKUFFRVHRjU0ZDOTlUQlVBLThPRXFLMGtZWWVLcDRodVE4d21LYWxZMzN2UzRqRGVrQWpReERRbW5xN1B4RHp4NnF5RkRm?oc=5"
   }
  ],
  "ok": true,
