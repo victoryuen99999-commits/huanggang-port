@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-13T17:35:44+08:00",
+ "generated_at": "2026-11-13T17:41:50+08:00",
  "date": "2026-11-13",
  "weekday": "星期五",
- "clock": "17:35",
+ "clock": "17:41",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -97,18 +97,18 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOd3R3RTNOaHF4RDRRNHZ3RjRXNEdOZGRHMU5lXzB1b2ZUMTdtaTFid2lRSmVPblJucTdBck42eDlLRFNXMFJjRHZRVHVtOWxuU2kxX0czdzBDaUNzcDNoaE1wWmpmNDhKcjI5b1pfRVBMZzNEY2RJTmp3b0I1Q210d05JdHBlM1JrdVVUQ05kWG9naTR6RXF6ZjN3SDM2SXNXZVR3aDVvdnotWVhmWWtqZEhwLWZjdU81UkRkeGF1aWpmOUVRR2YtN2V0Wmlma1FSQXgxRDNKSEdiOEFzQ2VMM0ttVGVvekpBMkxBZl91MW9BVC1DaW9nMmg2SU1RYldUWTZ4VklKZEpXWE5seTN2WHI3SGtBOU1Ma0ppWnJTejhIWUdOaEdmaG5ib3JwZFBiaUw0NmM5cGIwbXEtU3ZCX2VEcDUzOWxjbjV6WEd6ZUFFdjdXTVRzVkdHeEZ2bnFVSUhUVmNTemltSWhCcHVvZFU4UUE0cHdOM21KMHVONDdSMFktWWU0dFdXWEM1X2libkhKazI0NEh2dV9XSTJuZHY0cw?oc=5"
   },
   {
-   "title": "迎APEC｜皇崗口岸首月累計344萬人次出入境 備多語種小冊子供賓客了解出行等資訊",
-   "source": "Now 新聞",
-   "date": "11-13 02:43",
-   "iso": "2026-11-13T02:43:24+00:00",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hSjhsNWVSbWY2N21LbWtQYi1qZkhaNm1nTlRWcmRpbDdHZmdhZ3p6dzU5VUZWSlJsczlCZmNNQkVPRzlZZDNSRGFfbENlZU1wdDladzc2QlFZS2FXVXhWUWJSa1Rzc1pMQ2RqNg?oc=5"
-  },
-  {
    "title": "香港新皇崗口岸開通一個月 出入境人數達334萬人次 - www.5news.com.hk",
    "source": "www.5news.com.hk",
    "date": "11-13 02:18",
    "iso": "2026-11-13T02:18:08+00:00",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOENGT0JWcEdNY3B4c3plTC0xQW5aeEM4aHUxSVQ0WFZQT3dueWRnbGp0bXYxZ1MteUpMb1VVdTdFVUM3b0VvNV9zRHR6cDl3MG5mQ01QQ2lYMTNXZ1kwSlVBVWZ6Rmd6MFNOM3NFZHd5ZWhSY3lPcUM0ejdPZlVvOWdB?oc=5"
+  },
+  {
+   "title": "報章要聞｜大公：水務署「智駕洗」改善筲箕灣食水問題／星島：新皇崗「滿月」",
+   "source": "TVB",
+   "date": "11-13 01:01",
+   "iso": "2026-11-13T01:01:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxORXVvUHJ5Nkphb182U1pzV2FnMUItckdSMmtONmNZZTlwaWhGRGVqeC01WEpqZjVTVjlrRVNlTk9NMXJocmFvUzRXTGluZjJkU09HYjBuc2Exb3RWRk9nbkxJQ1hhQU5uUzRaMm80ZC1BUTFUUGlpNFhSRV9MMUppeXY0U2JLV2lOWG9MNG1hazBGY1Y5QXROeXNHVlY1VkYxNlFYNlI2YjVGVVN5dDV0RGYyRlpFYzcyUWJnaDFMeVZWYUFabmR0WTRkdmRoV3ZkN3NQYnpZWXIzajJoNlZUV05DSHB5OWpMMkRBTWpXeGxaLVlFbWN5TW5jTV9idTRxWTdkc3I4X3pPZXRNT1RCMHNjcGRyNk9ocDhsM1hjYUpoVHJoSmhUamlONWtjSmxlSksyVjNCRkpPTF94dGh5YXBLcUh6MEJCanJRUmhqRDEzOEJTZkxJOVJqQkFUYjNOcDFZemZVSWJLQ0RzdTNoTEs1TkZwNTdta291MVZITm1iWFE2SFgxbzJWakotaTJzZFZtQjdfYw?oc=5"
   }
  ],
  "ok": true,
