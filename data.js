@@ -42,16 +42,7 @@ window.HGP_DATA = {
    "dep": 99
   }
  },
- "weather": {
-  "temp": 26,
-  "humidity": 57,
-  "wind": 13.0,
-  "code": 3,
-  "desc": "多雲",
-  "tmax": 28,
-  "tmin": 21,
-  "pop": 84
- },
+ "weather": null,
  "warnings": [],
  "news": [
   {
@@ -128,11 +119,6 @@ window.HGP_DATA = {
   {
    "tag": "週五",
    "text": "每週最擠時段之一（晚上北上），通宵巴士及跨境巴士都會排隊。",
-   "level": "warn"
-  },
-  {
-   "tag": "有雨",
-   "text": "預測降雨機率 84%，室外通道及上落客區會濕滑，提醒旅客及同事小心。",
    "level": "warn"
   },
   {
