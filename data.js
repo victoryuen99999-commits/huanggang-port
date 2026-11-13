@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-13T08:24:11+08:00",
+ "generated_at": "2026-11-13T08:30:19+08:00",
  "date": "2026-11-13",
  "weekday": "星期五",
- "clock": "08:24",
+ "clock": "08:30",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 23,
-  "humidity": 75,
-  "wind": 10.1,
+  "temp": 24,
+  "humidity": 70,
+  "wind": 10.8,
   "code": 3,
   "desc": "多雲",
   "tmax": 28,
@@ -54,13 +54,6 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
-  {
-   "title": "新皇崗口岸開通首月連帶各陸路口岸人流增刺激北上南下熱潮旅遊業界料交通便捷吸「北上新血」",
-   "source": "星島頭條",
-   "date": "11-13 00:00",
-   "iso": "2026-11-13T00:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMixARBVV95cUxOa09wWi1mQ19GRUJaRTZEeERPY09ld2dtZU5KUWhna2UtVDlZcUNTN2wxc0hRTXVyWWw0eG5DaVA1bDdTSjN3SVVUOFl0V195clptTTN0X1ZNR2dyajFReUhIUEpEYkR1MVB1V0NZUU5naExFY0p0enI2ZnM4dlFsVnBVN3NPVkNmd1FUSTktdUJMMVB1anBORl82M0VQdWVLanFsWWdzOGZuVkhkSWVObEI2VGFkYVIyVmQwOG5HMi1KYXhMVDhhS1ZtWW9aOE04Mm1pdkpCSldKVk45YVBBYlg5MndnOS1kNGs5VlQxWnYwYmFSVEJ3dXc1NEcwcG9qUWpCQjF6SklxeWdaSmFMZE0wSGVzRl9mQmxQRGp1b0hraDU3anZCdlZJVUp2Y1JnckZvVXpxX2E0QVE0TFZpWmNJcy1nSjZUaWZBb3FNb3g3Q1l3RmFiSEZMLWNuYmxmdS00TnlWU1N1MXRZNVZjM1hOWWpmaVNKQXF1b3M0NklGeUVDNTZJZWJKNktrMW9fbWdaSGxKbkhLQ2VFaXByQ0x0VUNNcXVxU1R4Y0NCUXo0eEJfNnZmLWl3QzN6VmpqLTAyUGZzQ0lnU0s5dEdKVl9JMXhkS1JCR1JCR0tKTklMR2hqazJhMjRsTDZjS1dVSU4tT1Q3bEZyM3Ezazc2S0x5UEk0RWZBWFNiWjRiSlRFM013LWpMU2RuQXRVeWNOckVsQ3EwOVlXdDcwcGNKWERwaTVyNnVCM2hXdVNxY042YzQ3?oc=5"
-  },
   {
    "title": "皇崗口岸升級後首月客運量超344 萬人次",
    "source": "巴士的報",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "11-11 20:30",
    "iso": "2026-11-11T20:30:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFl4LVlOUjNRQjF0QXdhdEN4MDJnWUVKbU1pSVJxdG1ISHhoWWV4X1l3a0tKWC1yeHcyRDNHVVBNVWJFamdSbk1Faml3WmJWVzQtSGVwWXNyd0RHbVJHWE9TVm5rY003Sy1ETDROcGI0WUJZZE0wdTJmWmt5UkRqbGROXzRTSFkxYmR4dGVxLXhJSE84Zlg5NUFxOXREMVE?oc=5"
+  },
+  {
+   "title": "香港成人展因多名日本演員未能入境取消 當局稱沒有拒絕相關人士入境",
+   "source": "TVB",
+   "date": "11-11 17:00",
+   "iso": "2026-11-11T17:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOcWk2MW1NUndOQWFWcElzNTVaaUxMMDg4REdnV1FCb0lJRVdVQ2xnbzFfWUtHeHRmSHQ2anRBM3BsRGVfRnI3LXRzSG1SV3VFS0N2RWNrcEhyU21XZFJHR2dBNEpUcVRfX2cxU3pvYk5yeG9jcEZzallzazZNRW40SUJLckdTM2wtZjVxYUJFQ3J4dlBRd2dxV2wtZ3VtTlFFSkVzSEplLTVmanNnUnRtWFNacGhxbW1jLWtmTTBBbVdRM3VDMkVDT0htaXhhMzN2YzdjOWIyY2ZUSHUzN3hoSmZVVEd4NFhqTUF2dC03SXpoUHRseU9mWDgybFdEQWpES185WDdZTzlwRm1IRkVrcl9oZ2RjNU1aRld3M3Q5VVdHaWxjUXFQSVZKcVhKUkN3TG5SZHVNdUthb05CSVpDQXlGSnZVc1FDMndnRk01WE9BQ1d3b1BZc01ZMnZxaHBPNThjU1pBbVk1dUU1NDZua2pBUElsSVFORW5BRklMcF9oUWZ4Ym5DR2dzcjl3THZoczBqb2xLZFBZNFJ2aHc0RFE0Yk4xT0lPeWlpYko3dkplQ3FUVUZ5RE5vRQ?oc=5"
   }
  ],
  "ok": true,
@@ -144,11 +144,6 @@ window.HGP_DATA = {
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
-  },
-  {
-   "tag": "車流",
-   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
-   "level": "warn"
   },
   {
    "tag": "禁區",
