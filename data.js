@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-13T09:09:34+08:00",
+ "generated_at": "2026-11-13T09:15:40+08:00",
  "date": "2026-11-13",
  "weekday": "星期五",
- "clock": "09:09",
+ "clock": "09:15",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 24,
-  "humidity": 64,
-  "wind": 12.4,
+  "temp": 25,
+  "humidity": 62,
+  "wind": 12.6,
   "code": 3,
   "desc": "多雲",
   "tmax": 28,
@@ -54,6 +54,13 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "報章要聞｜大公：水務署「智駕洗」改善筲箕灣食水問題／星島：新皇崗「滿月」",
+   "source": "TVB",
+   "date": "11-13 01:01",
+   "iso": "2026-11-13T01:01:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQbjN6Mng0eGExZ2xBNThuM19iSThDOHRuUGdMbmdhMDR1d0c5T2xyZXlvRUJMeVF5WGl0bldNYzRkTUFBSWdqYXVpZ3YyY1Q3dElEOU16N1Z4cFNBRzFfUG81Qm9Xc2J6TkZENDFtUENUajVCRERiT213TmJmRHhYMk5ITVJSNy1ZNldGaEQyY1g0Mng1V2ppUkxYdi15aFVMek1aM3FNdlVqYmh5a2ZIRTRkbERVQ3h6RXY0YWxJWHBURlVMWUthWFg4c09CZU42Rk41RU82RkswdDdkNV94dVpSMVBXTlJtcmwtdGFGSTNoME1Vd2lMMFpRY1A4dUVtTjg4NVFBbVpzQk92cXJVRDlBMzMwcmFyWXVqN2VwSU9ienBvTTJ4WjItellJc1FxQXhrNEdHMHdJR2JjcHlpeDgyQjNIWU1UZVByVjZEZnR3ekdoQVFEbkNodC1wRGpJZVM0cjRTVFVhM096cnBKV3ZrVk8zWlZvQ2hpcFV0S3RqMVkzVTVveWlvdWxzbHIwcFJ6VUJwRQ?oc=5"
+  },
   {
    "title": "皇崗口岸升級後首月客運量超344 萬人次",
    "source": "巴士的報",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-11 20:30",
    "iso": "2026-11-11T20:30:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFl4LVlOUjNRQjF0QXdhdEN4MDJnWUVKbU1pSVJxdG1ISHhoWWV4X1l3a0tKWC1yeHcyRDNHVVBNVWJFamdSbk1Faml3WmJWVzQtSGVwWXNyd0RHbVJHWE9TVm5rY003Sy1ETDROcGI0WUJZZE0wdTJmWmt5UkRqbGROXzRTSFkxYmR4dGVxLXhJSE84Zlg5NUFxOXREMVE?oc=5"
-  },
-  {
-   "title": "香港成人展因多名日本演員未能入境取消 當局稱沒有拒絕相關人士入境",
-   "source": "TVB",
-   "date": "11-11 17:00",
-   "iso": "2026-11-11T17:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOcWk2MW1NUndOQWFWcElzNTVaaUxMMDg4REdnV1FCb0lJRVdVQ2xnbzFfWUtHeHRmSHQ2anRBM3BsRGVfRnI3LXRzSG1SV3VFS0N2RWNrcEhyU21XZFJHR2dBNEpUcVRfX2cxU3pvYk5yeG9jcEZzallzazZNRW40SUJLckdTM2wtZjVxYUJFQ3J4dlBRd2dxV2wtZ3VtTlFFSkVzSEplLTVmanNnUnRtWFNacGhxbW1jLWtmTTBBbVdRM3VDMkVDT0htaXhhMzN2YzdjOWIyY2ZUSHUzN3hoSmZVVEd4NFhqTUF2dC03SXpoUHRseU9mWDgybFdEQWpES185WDdZTzlwRm1IRkVrcl9oZ2RjNU1aRld3M3Q5VVdHaWxjUXFQSVZKcVhKUkN3TG5SZHVNdUthb05CSVpDQXlGSnZVc1FDMndnRk01WE9BQ1d3b1BZc01ZMnZxaHBPNThjU1pBbVk1dUU1NDZua2pBUElsSVFORW5BRklMcF9oUWZ4Ym5DR2dzcjl3THZoczBqb2xLZFBZNFJ2aHc0RFE0Yk4xT0lPeWlpYko3dkplQ3FUVUZ5RE5vRQ?oc=5"
   }
  ],
  "ok": true,
