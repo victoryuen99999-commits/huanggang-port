@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-13T14:15:30+08:00",
+ "generated_at": "2026-11-13T14:21:37+08:00",
  "date": "2026-11-13",
  "weekday": "星期五",
- "clock": "14:15",
+ "clock": "14:21",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -76,6 +76,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQVUMwQXp1dllJbV9oTUxHbExkUURtcVFfYi1qY1NaSE5iM1ZxZ3hsako0Sm84dUY5bTBTS0pId2FWVlA1UmxyTzNCbVdUbHBpcTRRQkg4b3kwUEdqYXRNeVdWbkY3YlY5Nk8zcWVib29QYmRLbXhzS1IwZlVSWGN6MWxXdnAyamVOX293TnhaR2JXdmVLWGZiRjhnTzNIaU5TanM3SnpvNm5yQ2ZCUkJyUDJ5cVJjRjJvV0pfQVJXMERTRk9FOC1mOHlaVFMzTC1tOXdBaDJYU2NTOWI2OXNxMVUweFB2Y2RTdk56ekNHMG9HcEVETDRJX01IQ25JM0hocG1JSTlKZ0gwd25zMFhiQ3ZacXRzeVpQTUNmVGYxUnFtY3NkdVpSdldyaVdkbUF6WHNfSHMyekpiZzZ1V3hfMFFwaVIzYm14YTVRWXg4SXVSU3pveFNIOUFBQXZUaUxOX2tSekhXemFLNFBVS3V4cEp6Nnd6Zlk?oc=5"
   },
   {
+   "title": "新皇崗口岸巴士線｜城巴B14變全日 九龍區客轉乘優惠一口價$20.8",
+   "source": "香港01",
+   "date": "11-13 03:48",
+   "iso": "2026-11-13T03:48:11+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOd3R3RTNOaHF4RDRRNHZ3RjRXNEdOZGRHMU5lXzB1b2ZUMTdtaTFid2lRSmVPblJucTdBck42eDlLRFNXMFJjRHZRVHVtOWxuU2kxX0czdzBDaUNzcDNoaE1wWmpmNDhKcjI5b1pfRVBMZzNEY2RJTmp3b0I1Q210d05JdHBlM1JrdVVUQ05kWG9naTR6RXF6ZjN3SDM2SXNXZVR3aDVvdnotWVhmWWtqZEhwLWZjdU81UkRkeGF1aWpmOUVRR2YtN2V0Wmlma1FSQXgxRDNKSEdiOEFzQ2VMM0ttVGVvekpBMkxBZl91MW9BVC1DaW9nMmg2SU1RYldUWTZ4VklKZEpXWE5seTN2WHI3SGtBOU1Ma0ppWnJTejhIWUdOaEdmaG5ib3JwZFBiaUw0NmM5cGIwbXEtU3ZCX2VEcDUzOWxjbjV6WEd6ZUFFdjdXTVRzVkdHeEZ2bnFVSUhUVmNTemltSWhCcHVvZFU4UUE0cHdOM21KMHVONDdSMFktWWU0dFdXWEM1X2libkhKazI0NEh2dV9XSTJuZHY0cw?oc=5"
+  },
+  {
    "title": "香港新皇崗口岸開通一個月 出入境人數達334萬人次 - www.5news.com.hk",
    "source": "www.5news.com.hk",
    "date": "11-13 02:18",
@@ -102,17 +109,15 @@ window.HGP_DATA = {
    "date": "11-12 15:53",
    "iso": "2026-11-12T15:53:10+00:00",
    "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOc2o1bjNfenc5NFNZV2VaeDZNdFpJcGJyc0M4eFpKWFJIN2pZRWVTaERxdmVmTnhXa2dTTjhoN0pZQVVuNU5wTmdsbjRGTkNLSHVSb2pqOUVVWjE3U3oxQWZGZXViSHVtVmFpSHMxcnBwQTBCdGZVbXRya1h2NXhOWlJqN0c2N2JpLWxLLWk4RzJaS01UX2pIaW1FU0lleGE0NFlzaF96c1B2UHNwS1V6UGJ4ZFZwLTgxZENxd2g4dkpiS1g0ZzNfRm1nN0ViWVJpaExsNW1uaFM0WTJkRmgtRHZZdkQzVUpheERLZFBpRm1mcEhDSi03RlN1cTlZa0JZRzhQdnBubFRubnlYMzJ1c0haTU9oMUpBSVRIVzRmSDVobm9DVDl5bl9rRi01VFZFZ3l3RHZKQlBzZ19DOU5iNGx5TE91dVF0dmR5RXRfUEExekdia2lTaHo4LUFlVEpGaTRORm16TzV4eFlzM2c?oc=5"
-  },
-  {
-   "title": "新皇崗口岸｜開通首月逾344萬人通關 單日客流創2019年以來新高",
-   "source": "星島頭條",
-   "date": "11-12 14:47",
-   "iso": "2026-11-12T14:47:49+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOTndBRkxaYkVXQWhpaEdnOE9Oa1lxeVpyRTI3WjFPTkNMOTJNWjhuZWhnUG5JMkpTdS1tVDVLeWxoVVEtVEhjeWtWSmx3bEw3ZGVYNFRJdVpfbndrSzhOVi1TbVd5V1M3MDR4RHN0LTk4elZnVTJNMkVXb2pHcS1vRVFxMHdZZGpvcGsta3FkeTV3VHZINE5HWFBKcXB3REdDZGZxc0lvYzVqWll0QU1LQ0JJd3hsQmRBVTZCbWMyWWVUeU92RUZ5RGtMbXJFYXc3dnFQVTZJSzlRS1kyTUZoa29fTUsyYVdfc000QUI4MXl3a29TMjk5TUowdkJaZ0hRSXNZRWlNZ2trdXlkdEw3SW1TaUlVWkxFbHB2TVhSWWlub0tCNlZYMU1PZ1RTZUFSTzBpRjZFbUpUUzVuNTFUZnlaN044eUJHZ2dMYjhRX1A0eUxMUUYwU2Nqb2NoSEE0Z3VBaFhZUU83dGNEVWg1Q1lXaEc0Q2RyZk1n?oc=5"
   }
  ],
  "ok": true,
  "vehicle_events": [
+  {
+   "t": 1794541691000,
+   "s": "香港01",
+   "ti": "新皇崗口岸巴士線｜城巴B14變全日 九龍區客轉乘優惠一口價$20.8"
+  },
   {
    "t": 1794498790000,
    "s": "巴士的報",
