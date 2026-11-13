@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T15:39:35+08:00",
+ "generated_at": "2026-11-13T16:18:16+08:00",
  "date": "2026-11-13",
  "weekday": "星期五",
- "clock": "15:39",
+ "clock": "16:18",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -42,9 +42,9 @@
   }
  },
  "weather": {
-  "temp": 24,
-  "humidity": 63,
-  "wind": 11.0,
+  "temp": 25,
+  "humidity": 62,
+  "wind": 14.8,
   "code": 3,
   "desc": "多雲",
   "tmax": 28,
@@ -82,13 +82,6 @@
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1saDRmVHl0NHJIUHNpTmMycW1zUXJ0QU9DcV9pS3JpejVBeHF4c3Z2NS00V2NTeFVROVNnNXVKVFE0eElwQUtvMURFdFByX3ZxTUstYzQxY0IzTGNqbENLREJFOG0zb0NTc3R0Z1Zna2swaVpZWThxNTBB?oc=5"
   },
   {
-   "title": "城巴皇崗專線B14全日服務 啟德往皇崗最快40分鐘 「一口價」20.8元 - Sing Tao Daily 星島日報加拿大",
-   "source": "Sing Tao Daily 星島日報加拿大",
-   "date": "11-13 04:13",
-   "iso": "2026-11-13T04:13:45+00:00",
-   "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNN2M4UGtlcHpqSUdTTklCaWQydm5DenBUZzRIdHRRMHl1d1ktVlgyQ3hwdEFoOTlQMmdSc09hbmc2RHo3Z3NOZFFaQjVNZzkzN2w3TFIxSlM0NjBsblByd25xY2VmN0NWck1kYWdZaXdVU0xVaElkX1o2RG5ub05fdW5CZm1sUTRMd3MtWklEXy1OdjhhUHExcDZBN1hHRUNiUks1Skg5ZFY2c2RLRktxa3RIRXhQTHVQTmtEZFVwMVVCMWRsSWVqR1lkUGxwMEh1SEdzbnJVeEdyWUsxY09xeXZfM2JaanQ1VDdUaUF4RHF5ekJNX2hGaDU3bFM2dWZxTl9NNFJnWFMxb0tTYUhEd2JOVC12eHFaUEFHbjN1Q2ViaHlWaDlSU0ZheFVmQjRQSHFTelNkYkdkdUozc2s3b2VOQTVpZ2VWTVFxWlZJdHIxSGJPb1NRS19hTEZ3V0pFSWktWTVRMndmTlhuS3NsVTVXaVVrUkpZd28zRGhEeFU2bWNWUkxYSVdlNF9KZ1lDQ0I0ckU0UdIBigFBVV95cUxPOHNuWXhZQnllWlBCMUZkRGtEc3gzNGtTMXdpUTRIcWw1M0hpcUNELXJEUFlxTEZaeVJTLVZMVUt5T1ZRNnFWNnpGUTNhT2VVQXFvSmtBTU0tbVQtX0poSHA0RjNSMWFxcWZWU0RDS2pIeDhzeW1zYTIyWWZFa19JdDI0V1ViR2dxOXc?oc=5"
-  },
-  {
    "title": "城巴皇崗專線B14全日服務 啟德往皇崗最快40分鐘 「一口價」20.8元",
    "source": "星島頭條",
    "date": "11-13 04:05",
@@ -108,6 +101,13 @@
    "date": "11-13 02:43",
    "iso": "2026-11-13T02:43:24+00:00",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hSjhsNWVSbWY2N21LbWtQYi1qZkhaNm1nTlRWcmRpbDdHZmdhZ3p6dzU5VUZWSlJsczlCZmNNQkVPRzlZZDNSRGFfbENlZU1wdDladzc2QlFZS2FXVXhWUWJSa1Rzc1pMQ2RqNg?oc=5"
+  },
+  {
+   "title": "香港新皇崗口岸開通一個月 出入境人數達334萬人次 - www.5news.com.hk",
+   "source": "www.5news.com.hk",
+   "date": "11-13 02:18",
+   "iso": "2026-11-13T02:18:08+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOENGT0JWcEdNY3B4c3plTC0xQW5aeEM4aHUxSVQ0WFZQT3dueWRnbGp0bXYxZ1MteUpMb1VVdTdFVUM3b0VvNV9zRHR6cDl3MG5mQ01QQ2lYMTNXZ1kwSlVBVWZ6Rmd6MFNOM3NFZHd5ZWhSY3lPcUM0ejdPZlVvOWdB?oc=5"
   }
  ],
  "ok": true,
