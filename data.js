@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-13T20:16:09+08:00",
+ "generated_at": "2026-11-13T20:22:16+08:00",
  "date": "2026-11-13",
  "weekday": "星期五",
- "clock": "20:16",
+ "clock": "20:22",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "九巴路線 ｜配合11月紅館活動開辦11條特別線｜可轉乘往皇崗口岸",
+   "source": "香港財經時報HKBT",
+   "date": "11-13 12:16",
+   "iso": "2026-11-13T12:16:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQdDFTOER5Ni1pRV95eW5TWnJON1VONE9lclIwaklnQUc0Q1ZIRDU3QWU2TThHNDVuSzJXZEI3RVpnME5WWGl6NVVzMzR6dld1UHZGTTQxQWxKTWY0dmtPWTdNUWhrQVVIaW1nS2RLOU5hbjlneVdtLTJmaWlhZTRmeWhDOWl4NlNzcVJTV2k3WG9BLTgxa3JvVTduMEkxaDBmcEpQOEYxWlE2VFhRUE9Ec1ozOVczSG1vaEhsQzJ2eG52OFR5XzBBNFRGVnhDdWw0RjVnYnVMVHRUdkhlMDVqMHZkTUk4d1o4SjBYQ0hmSG1sSkNxdFNaUUV5YWo1WThSd01UNEpUMXlhYnAwMUU3djJKVG9kS3BTNk55N2FjM1pFU3k5dFZGbGF5aFpGcGRkQ1NudE1qQVAtLUZBUlF6WmpNa3paSTBQcHBiVFJmcllwcHdwV1BTZzl4MjhuOUh4RUcw?oc=5"
+  },
+  {
    "title": "【今日網圖】促進深港融合- 港人花生- 港人講地 - LOOOP MEDIA LIMITED",
    "source": "LOOOP MEDIA LIMITED",
    "date": "11-13 11:00",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-13 03:48",
    "iso": "2026-11-13T03:48:11+00:00",
    "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOd3R3RTNOaHF4RDRRNHZ3RjRXNEdOZGRHMU5lXzB1b2ZUMTdtaTFid2lRSmVPblJucTdBck42eDlLRFNXMFJjRHZRVHVtOWxuU2kxX0czdzBDaUNzcDNoaE1wWmpmNDhKcjI5b1pfRVBMZzNEY2RJTmp3b0I1Q210d05JdHBlM1JrdVVUQ05kWG9naTR6RXF6ZjN3SDM2SXNXZVR3aDVvdnotWVhmWWtqZEhwLWZjdU81UkRkeGF1aWpmOUVRR2YtN2V0Wmlma1FSQXgxRDNKSEdiOEFzQ2VMM0ttVGVvekpBMkxBZl91MW9BVC1DaW9nMmg2SU1RYldUWTZ4VklKZEpXWE5seTN2WHI3SGtBOU1Ma0ppWnJTejhIWUdOaEdmaG5ib3JwZFBiaUw0NmM5cGIwbXEtU3ZCX2VEcDUzOWxjbjV6WEd6ZUFFdjdXTVRzVkdHeEZ2bnFVSUhUVmNTemltSWhCcHVvZFU4UUE0cHdOM21KMHVONDdSMFktWWU0dFdXWEM1X2libkhKazI0NEh2dV9XSTJuZHY0cw?oc=5"
-  },
-  {
-   "title": "香港新皇崗口岸開通一個月 出入境人數達334萬人次 - www.5news.com.hk",
-   "source": "www.5news.com.hk",
-   "date": "11-13 02:18",
-   "iso": "2026-11-13T02:18:08+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOENGT0JWcEdNY3B4c3plTC0xQW5aeEM4aHUxSVQ0WFZQT3dueWRnbGp0bXYxZ1MteUpMb1VVdTdFVUM3b0VvNV9zRHR6cDl3MG5mQ01QQ2lYMTNXZ1kwSlVBVWZ6Rmd6MFNOM3NFZHd5ZWhSY3lPcUM0ejdPZlVvOWdB?oc=5"
   }
  ],
  "ok": true,
