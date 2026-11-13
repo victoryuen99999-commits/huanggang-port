@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-13T18:57:21+08:00",
+ "generated_at": "2026-11-13T19:03:25+08:00",
  "date": "2026-11-13",
  "weekday": "星期五",
- "clock": "18:57",
+ "clock": "19:03",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 24,
   "humidity": 79,
-  "wind": 12.4,
+  "wind": 12.2,
   "code": 3,
   "desc": "多雲",
   "tmax": 28,
@@ -54,6 +54,13 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "【今日網圖】促進深港融合- 港人花生- 港人講地 - LOOOP MEDIA LIMITED",
+   "source": "LOOOP MEDIA LIMITED",
+   "date": "11-13 11:00",
+   "iso": "2026-11-13T11:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWEVPUmhaUnhyTGZCaXotZTlDY0ZGdFY0eDl4elNuNGozYXEtV0YwRmFMQ05OTm1hQThNd3dNYTR6cDF2M1pqLTZucVV4bFY5RVd0aTJrWHB0SVpSdmxScUkwbFhGMnBpR05UOGxEVjFyOTk5d3ZxNGk0SFVGVXJXemVDdXVtTmN0MEhyOGJFQ1NxNFE0d3pVNUlxNHd2cUNDVkhObTZyeXhJRlFBSkxieTBYRjh0OXdQNzV1dkZFZTJfM1JTQXFiQXhSd2ZycEFScE5fZTNTQ0dvQlU1ZzFXQjhuN3FHV0ZIWVVDSzZkTUNmQQ?oc=5"
+  },
   {
    "title": "時事全方位｜北都發展提速提效(一)",
    "source": "Now 新聞",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-13 02:18",
    "iso": "2026-11-13T02:18:08+00:00",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOENGT0JWcEdNY3B4c3plTC0xQW5aeEM4aHUxSVQ0WFZQT3dueWRnbGp0bXYxZ1MteUpMb1VVdTdFVUM3b0VvNV9zRHR6cDl3MG5mQ01QQ2lYMTNXZ1kwSlVBVWZ6Rmd6MFNOM3NFZHd5ZWhSY3lPcUM0ejdPZlVvOWdB?oc=5"
-  },
-  {
-   "title": "報章要聞｜大公：水務署「智駕洗」改善筲箕灣食水問題／星島：新皇崗「滿月」",
-   "source": "TVB",
-   "date": "11-13 01:01",
-   "iso": "2026-11-13T01:01:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxORXVvUHJ5Nkphb182U1pzV2FnMUItckdSMmtONmNZZTlwaWhGRGVqeC01WEpqZjVTVjlrRVNlTk9NMXJocmFvUzRXTGluZjJkU09HYjBuc2Exb3RWRk9nbkxJQ1hhQU5uUzRaMm80ZC1BUTFUUGlpNFhSRV9MMUppeXY0U2JLV2lOWG9MNG1hazBGY1Y5QXROeXNHVlY1VkYxNlFYNlI2YjVGVVN5dDV0RGYyRlpFYzcyUWJnaDFMeVZWYUFabmR0WTRkdmRoV3ZkN3NQYnpZWXIzajJoNlZUV05DSHB5OWpMMkRBTWpXeGxaLVlFbWN5TW5jTV9idTRxWTdkc3I4X3pPZXRNT1RCMHNjcGRyNk9ocDhsM1hjYUpoVHJoSmhUamlONWtjSmxlSksyVjNCRkpPTF94dGh5YXBLcUh6MEJCanJRUmhqRDEzOEJTZkxJOVJqQkFUYjNOcDFZemZVSWJLQ0RzdTNoTEs1TkZwNTdta291MVZITm1iWFE2SFgxbzJWakotaTJzZFZtQjdfYw?oc=5"
   }
  ],
  "ok": true,
