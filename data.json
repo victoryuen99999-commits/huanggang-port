@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T05:14:49+08:00",
+ "generated_at": "2026-11-14T05:20:59+08:00",
  "date": "2026-11-14",
  "weekday": "星期六",
- "clock": "05:14",
+ "clock": "05:20",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,7 +44,7 @@
  "weather": {
   "temp": 22,
   "humidity": 97,
-  "wind": 8.0,
+  "wind": 8.6,
   "code": 81,
   "desc": "驟雨",
   "tmax": 26,
@@ -86,13 +86,6 @@
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWEVPUmhaUnhyTGZCaXotZTlDY0ZGdFY0eDl4elNuNGozYXEtV0YwRmFMQ05OTm1hQThNd3dNYTR6cDF2M1pqLTZucVV4bFY5RVd0aTJrWHB0SVpSdmxScUkwbFhGMnBpR05UOGxEVjFyOTk5d3ZxNGk0SFVGVXJXemVDdXVtTmN0MEhyOGJFQ1NxNFE0d3pVNUlxNHd2cUNDVkhObTZyeXhJRlFBSkxieTBYRjh0OXdQNzV1dkZFZTJfM1JTQXFiQXhSd2ZycEFScE5fZTNTQ0dvQlU1ZzFXQjhuN3FHV0ZIWVVDSzZkTUNmQQ?oc=5"
   },
   {
-   "title": "城巴專線B14全日服務常態化 啟德往皇崗最快40分鐘",
-   "source": "堅料網",
-   "date": "11-13 09:12",
-   "iso": "2026-11-13T09:12:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNRV90MkNvTUNFXzJLUlZpQ3RRN1IyQTFuM1FBSWY0WG94LXVOSnFnOWFYc3B2SDl3QWdnSVNoZi1LQzRja1BISWh5OW83Y092aWlMb1lmaHFIMnZwV0VzY01RSGpVd3dRdjFUVkIxVG5tMkFzaG9xWXZtaXVtX1NHT1NRT0NuemVTeFg2SWYtQUlfcWR5dDdzWE5VZFNXWDBZY2NYYVRycU52MHdVOU9jTVdXdy1DeVlwMWtzQmc2M2VCdjljR2x4NUZFMGJwTmxOQVhKZkQySzh3RGdiUG9RWXd6Ri11UFFPUld4SjRGVGhrS0U5THNyYUFiQ2tBcHV0U2ZCUnhNSnlQQ18yZDdQWExLRUNUeXFKTG9FU2RoVnNZMTVzU3VmUEFoak5uX0Q4dFFiUWZSTGRVUzBOelQ3Y05kTkQ4VTdQOGVSdHphc3RzVEVpR1MxMlFTQlZFcGJiLV9xaHg4dEduNWNxSzk5bDZoOFVYY3prbkNUcWltMjZhX0lKYWRrNE4xLUNYVGtEbDdqR1pKbXl0ajZkYTFtUUhfdw?oc=5"
-  },
-  {
    "title": "時事全方位｜北都發展提速提效(二)",
    "source": "Now 新聞",
    "date": "11-13 06:42",
@@ -119,6 +112,13 @@
    "date": "11-13 05:44",
    "iso": "2026-11-13T05:44:46+00:00",
    "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPTmhDR05Bcmp5NGV0cEYwQUstZlNjdnc3SUJyMGdlVm02MDNkSUdBM3M3MVlBV1FEV20xUHB6bTNCWHpvc2dCT09CVHl2cDRMWURKd3UyYkFuemFtdDNhNnI2NlRpMzNjbG9lckdXYzJDNm1yY1ZEQlU4czZRYTVXejAtT1FIZUtIa3FLUTd6Z1lQTzN1WVNqYUlLbk5lRXBrTmV1M3Q2OHE0NFV6R0l4S1VVYS1UckROY1VlMC1zRHhEX25ENHROTTY5SWo0dkVZdEJwdmxFNjU4azk0WWJ3N2M1LVAxWEdfLVBhci13S29PVi03NVdzSVpZZnZhdVlHS1Y5R0lYTDF1V3pjV2J5SUxfUHdRRi16N3F3XzV4ZWhiazlQZ2V2YWZwdVM4SG8tbjk1OEhVY2FQNGk2ckdqMkwza2VVWVZ0M1JLWGdyN3JjcjNYN0hheFY0ZHJSZ2pFWm0wLUNNMmNCVnI1b2NIM1d3ekJESXFZcFMyYlllcDBNb0hqVkoxaFVOVGxWd0F4dkVCUzRKNElUdU5WTDlqNmY0V1ZPSHdzVkhYOE5fLUFYQnVNMkFuVC1tc2F5WGhMNVllbnR5OUlxRDBxWWlHaUtGUHVVTE0?oc=5"
+  },
+  {
+   "title": "城巴皇崗專線B14全日服務常態化 往返啟德將軍澳一口價20.8元",
+   "source": "dotdotnews",
+   "date": "11-13 04:32",
+   "iso": "2026-11-13T04:32:03+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1saDRmVHl0NHJIUHNpTmMycW1zUXJ0QU9DcV9pS3JpejVBeHF4c3Z2NS00V2NTeFVROVNnNXVKVFE0eElwQUtvMURFdFByX3ZxTUstYzQxY0IzTGNqbENLREJFOG0zb0NTc3R0Z1Zna2swaVpZWThxNTBB?oc=5"
   }
  ],
  "ok": true,
