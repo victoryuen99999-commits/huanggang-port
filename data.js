@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-14T05:57:27+08:00",
+ "generated_at": "2026-11-14T06:03:35+08:00",
  "date": "2026-11-14",
  "weekday": "星期六",
- "clock": "05:57",
+ "clock": "06:03",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,20 +45,14 @@ window.HGP_DATA = {
  "weather": {
   "temp": 22,
   "humidity": 98,
-  "wind": 12.1,
+  "wind": 13.0,
   "code": 81,
   "desc": "驟雨",
   "tmax": 26,
   "tmin": 20,
   "pop": 100
  },
- "warnings": [
-  {
-   "title": "雷暴警告",
-   "desc": "雷暴警告在00時45分發出( 2026年11月14日 )。",
-   "updated": "Sat, 14 Nov 2026 00:45:00 +0800"
-  }
- ],
+ "warnings": [],
  "news": [
   {
    "title": "口岸紅利逐步釋放 樓市價值需時印證",
@@ -121,14 +115,9 @@ window.HGP_DATA = {
  "vehicle_events": [],
  "tips": [
   {
-   "tag": "警告",
-   "text": "天文台現正生效：雷暴警告。戶外崗位（上落客區、落馬洲大橋、交匯處）注意強風、雷擊及地滑。",
-   "level": "warn"
-  },
-  {
-   "tag": "夜更",
-   "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
-   "level": "warn"
+   "tag": "天氣",
+   "text": "天文台現時無天氣警告生效。",
+   "level": "ok"
   },
   {
    "tag": "週六",
