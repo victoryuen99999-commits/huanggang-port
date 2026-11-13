@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-13T18:32:38+08:00",
+ "generated_at": "2026-11-13T18:39:03+08:00",
  "date": "2026-11-13",
  "weekday": "星期五",
- "clock": "18:32",
+ "clock": "18:39",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -76,7 +76,7 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPTmhDR05Bcmp5NGV0cEYwQUstZlNjdnc3SUJyMGdlVm02MDNkSUdBM3M3MVlBV1FEV20xUHB6bTNCWHpvc2dCT09CVHl2cDRMWURKd3UyYkFuemFtdDNhNnI2NlRpMzNjbG9lckdXYzJDNm1yY1ZEQlU4czZRYTVXejAtT1FIZUtIa3FLUTd6Z1lQTzN1WVNqYUlLbk5lRXBrTmV1M3Q2OHE0NFV6R0l4S1VVYS1UckROY1VlMC1zRHhEX25ENHROTTY5SWo0dkVZdEJwdmxFNjU4azk0WWJ3N2M1LVAxWEdfLVBhci13S29PVi03NVdzSVpZZnZhdVlHS1Y5R0lYTDF1V3pjV2J5SUxfUHdRRi16N3F3XzV4ZWhiazlQZ2V2YWZwdVM4SG8tbjk1OEhVY2FQNGk2ckdqMkwza2VVWVZ0M1JLWGdyN3JjcjNYN0hheFY0ZHJSZ2pFWm0wLUNNMmNCVnI1b2NIM1d3ekJESXFZcFMyYlllcDBNb0hqVkoxaFVOVGxWd0F4dkVCUzRKNElUdU5WTDlqNmY0V1ZPSHdzVkhYOE5fLUFYQnVNMkFuVC1tc2F5WGhMNVllbnR5OUlxRDBxWWlHaUtGUHVVTE0?oc=5"
   },
   {
-   "title": "城巴皇崗專線B14全日服務常態化$20.8往返啟德將軍澳路線/發車時間一文睇- 港聞",
+   "title": "城巴皇崗專線B14全日服務常態化 往返啟德將軍澳一口價20.8元",
    "source": "dotdotnews",
    "date": "11-13 04:32",
    "iso": "2026-11-13T04:32:03+00:00",
