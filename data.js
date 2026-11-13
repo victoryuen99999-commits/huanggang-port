@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-14T05:27:06+08:00",
+ "generated_at": "2026-11-14T05:33:12+08:00",
  "date": "2026-11-14",
  "weekday": "星期六",
- "clock": "05:27",
+ "clock": "05:33",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 22,
-  "humidity": 97,
-  "wind": 8.6,
+  "humidity": 98,
+  "wind": 10.3,
   "code": 81,
   "desc": "驟雨",
   "tmax": 26,
@@ -53,11 +53,6 @@ window.HGP_DATA = {
   "pop": 100
  },
  "warnings": [
-  {
-   "title": "黃色暴雨警告信號",
-   "desc": "黃色暴雨警告信號在03時50分發出( 2026年11月14日 )。",
-   "updated": "Sat, 14 Nov 2026 03:50:00 +0800"
-  },
   {
    "title": "雷暴警告",
    "desc": "雷暴警告在00時45分發出( 2026年11月14日 )。",
@@ -127,7 +122,7 @@ window.HGP_DATA = {
  "tips": [
   {
    "tag": "警告",
-   "text": "天文台現正生效：黃色暴雨警告信號、雷暴警告。戶外崗位（上落客區、落馬洲大橋、交匯處）注意強風、雷擊及地滑。",
+   "text": "天文台現正生效：雷暴警告。戶外崗位（上落客區、落馬洲大橋、交匯處）注意強風、雷擊及地滑。",
    "level": "warn"
   },
   {
