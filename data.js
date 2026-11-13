@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-14T00:35:10+08:00",
+ "generated_at": "2026-11-14T00:51:05+08:00",
  "date": "2026-11-14",
  "weekday": "星期六",
- "clock": "00:35",
+ "clock": "00:51",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,14 +45,20 @@ window.HGP_DATA = {
  "weather": {
   "temp": 22,
   "humidity": 97,
-  "wind": 10.4,
+  "wind": 10.8,
   "code": 81,
   "desc": "驟雨",
   "tmax": 28,
   "tmin": 20,
   "pop": 100
  },
- "warnings": [],
+ "warnings": [
+  {
+   "title": "雷暴警告",
+   "desc": "雷暴警告在00時45分發出( 2026年11月14日 )。",
+   "updated": "Sat, 14 Nov 2026 00:45:00 +0800"
+  }
+ ],
  "news": [
   {
    "title": "九巴路線 ｜配合11月紅館多場活動：開辦11條特別線｜旅客可轉乘九巴皇崗口岸路線前往深圳｜詳情一覽",
@@ -115,9 +121,9 @@ window.HGP_DATA = {
  "vehicle_events": [],
  "tips": [
   {
-   "tag": "天氣",
-   "text": "天文台現時無天氣警告生效。",
-   "level": "ok"
+   "tag": "警告",
+   "text": "天文台現正生效：雷暴警告。戶外崗位（上落客區、落馬洲大橋、交匯處）注意強風、雷擊及地滑。",
+   "level": "warn"
   },
   {
    "tag": "夜更",
