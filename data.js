@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-14T21:23:36+08:00",
+ "generated_at": "2026-11-14T21:30:57+08:00",
  "date": "2026-11-14",
  "weekday": "星期六",
- "clock": "21:23",
+ "clock": "21:30",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 22,
   "humidity": 91,
-  "wind": 3.3,
+  "wind": 3.1,
   "code": 0,
   "desc": "天晴",
   "tmax": 26,
@@ -54,6 +54,13 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "新皇崗口岸｜專家料路面排水防滑欠佳致跣胎 當局擬下周加鋪物料",
+   "source": "香港01",
+   "date": "11-14 13:23",
+   "iso": "2026-11-14T13:23:01+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaVnRGRTJ2d2dfQXBDYy1KdXlUZ3VNeENPRDg2aVBKQzZQYUNQdnFjTXhMOGdwMUJQSy1PaEVESzlyMkRkTWlibEFaS3pXQQ?oc=5"
+  },
   {
    "title": "（有片）新皇崗口岸｜公共運輸處路面滑如溜冰？直通巴的士「跣胎」撞牆",
    "source": "dotdotnews",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-13 11:00",
    "iso": "2026-11-13T11:00:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWEVPUmhaUnhyTGZCaXotZTlDY0ZGdFY0eDl4elNuNGozYXEtV0YwRmFMQ05OTm1hQThNd3dNYTR6cDF2M1pqLTZucVV4bFY5RVd0aTJrWHB0SVpSdmxScUkwbFhGMnBpR05UOGxEVjFyOTk5d3ZxNGk0SFVGVXJXemVDdXVtTmN0MEhyOGJFQ1NxNFE0d3pVNUlxNHd2cUNDVkhObTZyeXhJRlFBSkxieTBYRjh0OXdQNzV1dkZFZTJfM1JTQXFiQXhSd2ZycEFScE5fZTNTQ0dvQlU1ZzFXQjhuN3FHV0ZIWVVDSzZkTUNmQQ?oc=5"
-  },
-  {
-   "title": "城巴專線B14全日服務常態化 啟德往皇崗最快40分鐘",
-   "source": "堅料網",
-   "date": "11-13 09:12",
-   "iso": "2026-11-13T09:12:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQVGNqTVJwUEM4WHNkbXdsUDZjMzNpYXFVNjd5RWlYd21wYWZYeTJ6ejRQZDNybEx4M2VqMjBadmNZdW40blQwbU5NaGx1dkU0ZllWdTVLeGxNZXhGQWtiaFgtVlBaQ1ZneHdPcmtoQ29FMUVfUWVBdlc2MlNpVHNvX1AyaHV5QWw1YTBrb3VsMTRaTXRkUDhCNEpTTm52bEdETG1SRnM2ZXJwd0hNT2xIX0VsaXRUQWFfVHlWanFEYkFFUGtkQVRQRHpZOVNhMDlKcHlkcHV1NFFuX1lneHpNeUNZb3RHTlJ4NWhObWdjdmxNRWtqWFpYUC1iTEpJV2tINGpTMU1jRGN3NktMb2xxcVZCYjV6Z1VkRjhJLW1vU0I4RjhhM0N0RjluQkI1NnZNVjRzUzZiUmdUUzctb1dORHpDNmxUV2FC?oc=5"
   }
  ],
  "ok": true,
