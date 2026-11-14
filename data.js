@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-14T10:04:16+08:00",
+ "generated_at": "2026-11-14T10:10:23+08:00",
  "date": "2026-11-14",
  "weekday": "星期六",
- "clock": "10:04",
+ "clock": "10:10",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "新皇崗口岸深夜過關慳錢有辦法 ¥2直達水圍食消夜",
+   "source": "香港文匯報",
+   "date": "11-14 02:00",
+   "iso": "2026-11-14T02:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiNzg2RTRwNl9rZDRoUmJXQnVlYnRhOHRZSFM4cmhZSV92QTNjeWZNc0RKbENaQndIV0hfUWRUa3NsZzJPT1FLWmNtcXQxeUV4MkZNUEFCamNBYjFrZHpyYlNid041blZEYlh4VkVSMHNGTDk1Y0xV?oc=5"
+  },
+  {
    "title": "口岸紅利逐步釋放 樓市價值需時印證",
    "source": "信報網站",
    "date": "11-13 18:26",
@@ -83,6 +90,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQVGNqTVJwUEM4WHNkbXdsUDZjMzNpYXFVNjd5RWlYd21wYWZYeTJ6ejRQZDNybEx4M2VqMjBadmNZdW40blQwbU5NaGx1dkU0ZllWdTVLeGxNZXhGQWtiaFgtVlBaQ1ZneHdPcmtoQ29FMUVfUWVBdlc2MlNpVHNvX1AyaHV5QWw1YTBrb3VsMTRaTXRkUDhCNEpTTm52bEdETG1SRnM2ZXJwd0hNT2xIX0VsaXRUQWFfVHlWanFEYkFFUGtkQVRQRHpZOVNhMDlKcHlkcHV1NFFuX1lneHpNeUNZb3RHTlJ4NWhObWdjdmxNRWtqWFpYUC1iTEpJV2tINGpTMU1jRGN3NktMb2xxcVZCYjV6Z1VkRjhJLW1vU0I4RjhhM0N0RjluQkI1NnZNVjRzUzZiUmdUUzctb1dORHpDNmxUV2FC?oc=5"
   },
   {
+   "title": "城巴路線｜皇崗專線B14拓展為全日服務：服務時間及「一口價」轉乘優惠詳情",
+   "source": "香港財經時報HKBT",
+   "date": "11-13 07:14",
+   "iso": "2026-11-13T07:14:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNNG9YREVRM2wtYlVlelRPZ0c3RGJBdm1haUw3WEw5QmpSTVJGMTZvbTFybWg1V1ZJdTB5RXlvdVJ5blhwNWJxWW44NnBQT1hUdlN1NjhlMEJ6dTl5cXI5cnEtcFh2eDRkRm1ZR3BUS0NvMUdmZE9GaERqQUVWUXlaWlhWcTVUbUxKWWxGRERNMDBpRkVMeDB2bmJkT1BwU1ZIRHVLbTBnNlhWVlhDRHhxUFdjbTctY1VCNDhqa0h0X0RPeU9rdVhoYThjcm5FZS1WQWc1RnpSck4wT2VCX1hKN1dfMU05bGVwNzVLTUhKeFIwN2Izc0cyT010YXVPQW9FT0dDSVZNYS0xdkQtai0yNjhDbXczZTNBTEpkbzBjZ3d0UXQxb2xKeklCdUhrQUdWWVY2Yjg0dEsweEtiQkRmZl9xQ1VLdkdwVEpBdA?oc=5"
+  },
+  {
    "title": "時事全方位｜北都發展提速提效(二)",
    "source": "Now 新聞",
    "date": "11-13 06:42",
@@ -95,20 +109,6 @@ window.HGP_DATA = {
    "date": "11-13 06:41",
    "iso": "2026-11-13T06:41:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05Wmxuc0l1NFlJSzR3T21GdzVUR0tCS1VuUFlmRmhGaFdIRVBzdkVTRFU5LTF3dFQ5NkRFS01TbG5CdmpFS2JvQUlTYnRmNThCTTdjUlYwZ3ZjOTRnSllQejVR?oc=5"
-  },
-  {
-   "title": "城巴皇崗專線B14拓展為全日服務九龍市區全日連接皇崗- 香港",
-   "source": "香港文匯報",
-   "date": "11-13 06:39",
-   "iso": "2026-11-13T06:39:52+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vVTk2TVBMTTlnaW9XdkhnTkNJR2YxaHoxaUp2M254M0pzeFpxcVR4RThMQTAwSlNFUmxKSEhfakNPX0FFNXgtUy02b0xfdHc0ZHlXRDVhb2RVampiNFVkMkMwXzBTR0kxbzYxMTBmSkJYenZzcUZr?oc=5"
-  },
-  {
-   "title": "城巴皇崗專線B14全日服務常態化 往返啟德將軍澳一口價20.8元",
-   "source": "dotdotnews",
-   "date": "11-13 04:32",
-   "iso": "2026-11-13T04:32:03+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1saDRmVHl0NHJIUHNpTmMycW1zUXJ0QU9DcV9pS3JpejVBeHF4c3Z2NS00V2NTeFVROVNnNXVKVFE0eElwQUtvMURFdFByX3ZxTUstYzQxY0IzTGNqbENLREJFOG0zb0NTc3R0Z1Zna2swaVpZWThxNTBB?oc=5"
   }
  ],
  "ok": true,
