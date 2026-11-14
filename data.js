@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-14T20:23:41+08:00",
+ "generated_at": "2026-11-14T20:30:08+08:00",
  "date": "2026-11-14",
  "weekday": "星期六",
- "clock": "20:23",
+ "clock": "20:30",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -42,7 +42,16 @@ window.HGP_DATA = {
    "dep": 99
   }
  },
- "weather": null,
+ "weather": {
+  "temp": 22,
+  "humidity": 90,
+  "wind": 3.8,
+  "code": 0,
+  "desc": "天晴",
+  "tmax": 26,
+  "tmin": 20,
+  "pop": 100
+ },
  "warnings": [],
  "news": [
   {
@@ -114,6 +123,11 @@ window.HGP_DATA = {
    "tag": "週六",
    "text": "早上北上、晚上返港雙高峰；落客區與上客區容易同時塞。",
    "level": "info"
+  },
+  {
+   "tag": "有雨",
+   "text": "預測降雨機率 100%，室外通道及上落客區會濕滑，提醒旅客及同事小心。",
+   "level": "warn"
   },
   {
    "tag": "通告",
