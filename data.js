@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-14T18:48:01+08:00",
+ "generated_at": "2026-11-14T18:54:10+08:00",
  "date": "2026-11-14",
  "weekday": "星期六",
- "clock": "18:48",
+ "clock": "18:54",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "新皇崗口岸直通巴的士跣胎撞牆 職業司機反映路面不夠防滑：落毛毛細雨已經咁跣",
+   "source": "星島頭條",
+   "date": "11-14 10:44",
+   "iso": "2026-11-14T10:44:35+00:00",
+   "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxNUzh4Mll0dzlEZVNrRFhuc1l4STRQM2o3RFNIdVNmU3lnWXRERmd5Q1lEWTJkUEtqVHdOT3R3QjZYLXJKX2ItT2JFS2Uwc2ZKVUxzbmhLdjBYSWVMbUJCZ0tqWEctdjA5QVlkSVlNeUVLREFRSi0tbms2ODRlRjZKTmVfSkJzX2pCVURqaGp4d2JIR1hldG11TkItQkh5aE85OHl0ekRRc3NLM01KM2locmhEV1hTN3lCbHBNdlY4WjFrRnJXMF9rUGxaU2RrekVoRnlKbk9NWVpvX09IandZTkJZTEFGa3lnMWkwYnRNWjFMMFU1ZEUxeU5FbWRReWFOclVRaUpNbFlGWWFCUmxRaE16TnN2THR2M1F1cUpMcEFPWFQ1a1JxdlZocTh6ZHFCT1FkUmhueGdWVENVREpsYXpXRi1CTk5Kc0lUelk0SlR5VUhtV0RqbjEwcXJ1cjg0cWt4bm1DVWJsMnNvdEE4UXM3dmpDWlRtRTgwSHFITnlrMV9JSXpsV3pPTmpYbEFDLWlmOVFqZXFsZlZ3em9ITVVpVnhPSzBBS1M3Y2dGcHRjTU9RNkFVTXlWejhTeENHdWhvOWlOTTlKTlRLaDF4RHdMTzhwZVY5MzlTTnRpSmh0b3dIWWZYSmFybTF4TV82MVhHaXJnNXVmNS0xY0JhZzgwUQ?oc=5"
+  },
+  {
    "title": "新皇崗口岸｜有直通巴疑受天雨影響跣軚撞牆 當局擬下周加設防滑物料 - i-CABLE",
    "source": "i-CABLE",
    "date": "11-14 10:35",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-13 07:14",
    "iso": "2026-11-13T07:14:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNNG9YREVRM2wtYlVlelRPZ0c3RGJBdm1haUw3WEw5QmpSTVJGMTZvbTFybWg1V1ZJdTB5RXlvdVJ5blhwNWJxWW44NnBQT1hUdlN1NjhlMEJ6dTl5cXI5cnEtcFh2eDRkRm1ZR3BUS0NvMUdmZE9GaERqQUVWUXlaWlhWcTVUbUxKWWxGRERNMDBpRkVMeDB2bmJkT1BwU1ZIRHVLbTBnNlhWVlhDRHhxUFdjbTctY1VCNDhqa0h0X0RPeU9rdVhoYThjcm5FZS1WQWc1RnpSck4wT2VCX1hKN1dfMU05bGVwNzVLTUhKeFIwN2Izc0cyT010YXVPQW9FT0dDSVZNYS0xdkQtai0yNjhDbXczZTNBTEpkbzBjZ3d0UXQxb2xKeklCdUhrQUdWWVY2Yjg0dEsweEtiQkRmZl9xQ1VLdkdwVEpBdA?oc=5"
-  },
-  {
-   "title": "時事全方位｜北都發展提速提效(二)",
-   "source": "Now 新聞",
-   "date": "11-13 06:42",
-   "iso": "2026-11-13T06:42:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwZmdmSzVWRzVuZmFtVkFpNmk1emdTUTNpendaSG9ZeWxjU2I5NXQ0VXFDendxclJnbzEwQ3NJWnJaOFJTcFVqbTgyaUZXTDBMdW8wTm1CclVBajF1UEFJUHJR?oc=5"
   }
  ],
  "ok": true,
