@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-14T16:03:16+08:00",
+ "generated_at": "2026-11-14T16:09:27+08:00",
  "date": "2026-11-14",
  "weekday": "星期六",
- "clock": "16:03",
+ "clock": "16:09",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,13 +55,6 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "新皇崗口岸深夜過關慳錢有辦法 ¥2直達水圍食消夜",
-   "source": "香港文匯報",
-   "date": "11-14 02:00",
-   "iso": "2026-11-14T02:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiNzg2RTRwNl9rZDRoUmJXQnVlYnRhOHRZSFM4cmhZSV92QTNjeWZNc0RKbENaQndIV0hfUWRUa3NsZzJPT1FLWmNtcXQxeUV4MkZNUEFCamNBYjFrZHpyYlNid041blZEYlh4VkVSMHNGTDk1Y0xV?oc=5"
-  },
-  {
    "title": "口岸紅利逐步釋放 樓市價值需時印證",
    "source": "信報網站",
    "date": "11-13 18:26",
@@ -88,6 +81,13 @@ window.HGP_DATA = {
    "date": "11-13 09:12",
    "iso": "2026-11-13T09:12:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQVGNqTVJwUEM4WHNkbXdsUDZjMzNpYXFVNjd5RWlYd21wYWZYeTJ6ejRQZDNybEx4M2VqMjBadmNZdW40blQwbU5NaGx1dkU0ZllWdTVLeGxNZXhGQWtiaFgtVlBaQ1ZneHdPcmtoQ29FMUVfUWVBdlc2MlNpVHNvX1AyaHV5QWw1YTBrb3VsMTRaTXRkUDhCNEpTTm52bEdETG1SRnM2ZXJwd0hNT2xIX0VsaXRUQWFfVHlWanFEYkFFUGtkQVRQRHpZOVNhMDlKcHlkcHV1NFFuX1lneHpNeUNZb3RHTlJ4NWhObWdjdmxNRWtqWFpYUC1iTEpJV2tINGpTMU1jRGN3NktMb2xxcVZCYjV6Z1VkRjhJLW1vU0I4RjhhM0N0RjluQkI1NnZNVjRzUzZiUmdUUzctb1dORHpDNmxUV2FC?oc=5"
+  },
+  {
+   "title": "城巴路線｜皇崗專線B14拓展為全日服務：服務時間及「一口價」轉乘優惠詳情",
+   "source": "香港財經時報HKBT",
+   "date": "11-13 07:14",
+   "iso": "2026-11-13T07:14:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNNG9YREVRM2wtYlVlelRPZ0c3RGJBdm1haUw3WEw5QmpSTVJGMTZvbTFybWg1V1ZJdTB5RXlvdVJ5blhwNWJxWW44NnBQT1hUdlN1NjhlMEJ6dTl5cXI5cnEtcFh2eDRkRm1ZR3BUS0NvMUdmZE9GaERqQUVWUXlaWlhWcTVUbUxKWWxGRERNMDBpRkVMeDB2bmJkT1BwU1ZIRHVLbTBnNlhWVlhDRHhxUFdjbTctY1VCNDhqa0h0X0RPeU9rdVhoYThjcm5FZS1WQWc1RnpSck4wT2VCX1hKN1dfMU05bGVwNzVLTUhKeFIwN2Izc0cyT010YXVPQW9FT0dDSVZNYS0xdkQtai0yNjhDbXczZTNBTEpkbzBjZ3d0UXQxb2xKeklCdUhrQUdWWVY2Yjg0dEsweEtiQkRmZl9xQ1VLdkdwVEpBdA?oc=5"
   },
   {
    "title": "時事全方位｜北都發展提速提效(二)",
