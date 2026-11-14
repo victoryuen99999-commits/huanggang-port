@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T20:55:48+08:00",
+ "generated_at": "2026-11-14T21:04:06+08:00",
  "date": "2026-11-14",
  "weekday": "星期六",
- "clock": "20:55",
+ "clock": "21:04",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -41,16 +41,7 @@
    "dep": 99
   }
  },
- "weather": {
-  "temp": 22,
-  "humidity": 90,
-  "wind": 3.6,
-  "code": 0,
-  "desc": "天晴",
-  "tmax": 26,
-  "tmin": 20,
-  "pop": 100
- },
+ "weather": null,
  "warnings": [],
  "news": [
   {
