@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-14T21:56:40+08:00",
+ "generated_at": "2026-11-14T22:02:50+08:00",
  "date": "2026-11-14",
  "weekday": "星期六",
- "clock": "21:56",
+ "clock": "22:02",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "新皇崗口岸雨後路面濕滑 有車輛「跣胎」撞牆 業界促鋪設防滑物料",
+   "source": "堅料網",
+   "date": "11-14 13:54",
+   "iso": "2026-11-14T13:54:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiigRBVV95cUxPRzNsWE1oOHphRjVDYXJQcEFRdTVUZGRfbC1UcjlqS1AtUzJqSGFSZ3hvdHp3NjJVdEZBQVU2OWVYSldETFlsQ2NQN1hueGRZc2tHdGlzZzl4LVhHVktGODFtQjhKbmFlX0wtVzA3alRCazB6a2tRbDlYa2lHLUpWN1AxN19kVmlTWXdWajBBWEdQUVFwckxLVDE2ejJjM3JLMUVuZURwV1dNbVp0a1RnSV8tWnhlemtVS2E0T1pGY3czSkp3MGkzRHRYdTdpUDBiWllmNnFtOGd5anQ5bjBrb28yWXdocmxtdU5oOFo3QThUd200S0FWZ0w3ak5MbzFJczdhQWt3N05yejk1LXAzUmpYa1VsSEx1eXZtLXZfSEF5X2NVQkt6Q3FldnJfWjZRSi1IN0JCMU5ocUpJb0U4UzBPSWx6V0JQRGhmalItck5DaU5wTkFyUkx6QlViQm91dEd2Y0dFa2F1ejdHX1BQQ0FrVU94ZzRlT005d3lRNXFfdkN0QW55bFZTZTVvX1FyYjUtUV9mTDNZVm5vVWI0amdKSjlBVF9MeXZTSi1uMEVyUEhaaWVJTUM2LVc4dEZfSnYya19La19hbkdCTDd6NXZhZ0ZVLVRqRGJLZERrN1NsWm4zbjFXMXJWRl9xUXIzdmUzdTg5VklYM3JxVGNWa3hkX1dSLXdxTFE?oc=5"
+  },
+  {
    "title": "新皇崗口岸｜專家料路面排水防滑欠佳致跣胎 當局擬下周加鋪物料",
    "source": "香港01",
    "date": "11-14 13:23",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-13 12:16",
    "iso": "2026-11-13T12:16:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQdDFTOER5Ni1pRV95eW5TWnJON1VONE9lclIwaklnQUc0Q1ZIRDU3QWU2TThHNDVuSzJXZEI3RVpnME5WWGl6NVVzMzR6dld1UHZGTTQxQWxKTWY0dmtPWTdNUWhrQVVIaW1nS2RLOU5hbjlneVdtLTJmaWlhZTRmeWhDOWl4NlNzcVJTV2k3WG9BLTgxa3JvVTduMEkxaDBmcEpQOEYxWlE2VFhRUE9Ec1ozOVczSG1vaEhsQzJ2eG52OFR5XzBBNFRGVnhDdWw0RjVnYnVMVHRUdkhlMDVqMHZkTUk4d1o4SjBYQ0hmSG1sSkNxdFNaUUV5YWo1WThSd01UNEpUMXlhYnAwMUU3djJKVG9kS3BTNk55N2FjM1pFU3k5dFZGbGF5aFpGcGRkQ1NudE1qQVAtLUZBUlF6WmpNa3paSTBQcHBiVFJmcllwcHdwV1BTZzl4MjhuOUh4RUcw?oc=5"
-  },
-  {
-   "title": "【今日網圖】促進深港融合- 港人花生- 港人講地 - LOOOP MEDIA LIMITED",
-   "source": "LOOOP MEDIA LIMITED",
-   "date": "11-13 11:00",
-   "iso": "2026-11-13T11:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWEVPUmhaUnhyTGZCaXotZTlDY0ZGdFY0eDl4elNuNGozYXEtV0YwRmFMQ05OTm1hQThNd3dNYTR6cDF2M1pqLTZucVV4bFY5RVd0aTJrWHB0SVpSdmxScUkwbFhGMnBpR05UOGxEVjFyOTk5d3ZxNGk0SFVGVXJXemVDdXVtTmN0MEhyOGJFQ1NxNFE0d3pVNUlxNHd2cUNDVkhObTZyeXhJRlFBSkxieTBYRjh0OXdQNzV1dkZFZTJfM1JTQXFiQXhSd2ZycEFScE5fZTNTQ0dvQlU1ZzFXQjhuN3FHV0ZIWVVDSzZkTUNmQQ?oc=5"
   }
  ],
  "ok": true,
