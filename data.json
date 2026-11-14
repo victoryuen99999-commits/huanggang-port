@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T22:33:43+08:00",
+ "generated_at": "2026-11-14T22:39:52+08:00",
  "date": "2026-11-14",
  "weekday": "星期六",
- "clock": "22:33",
+ "clock": "22:39",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -21,8 +21,8 @@
    "dep": 0
   },
   "LSC": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "LWS": {
    "arr": 0,
@@ -59,6 +59,13 @@
    "date": "11-14 13:54",
    "iso": "2026-11-14T13:54:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiigRBVV95cUxPRzNsWE1oOHphRjVDYXJQcEFRdTVUZGRfbC1UcjlqS1AtUzJqSGFSZ3hvdHp3NjJVdEZBQVU2OWVYSldETFlsQ2NQN1hueGRZc2tHdGlzZzl4LVhHVktGODFtQjhKbmFlX0wtVzA3alRCazB6a2tRbDlYa2lHLUpWN1AxN19kVmlTWXdWajBBWEdQUVFwckxLVDE2ejJjM3JLMUVuZURwV1dNbVp0a1RnSV8tWnhlemtVS2E0T1pGY3czSkp3MGkzRHRYdTdpUDBiWllmNnFtOGd5anQ5bjBrb28yWXdocmxtdU5oOFo3QThUd200S0FWZ0w3ak5MbzFJczdhQWt3N05yejk1LXAzUmpYa1VsSEx1eXZtLXZfSEF5X2NVQkt6Q3FldnJfWjZRSi1IN0JCMU5ocUpJb0U4UzBPSWx6V0JQRGhmalItck5DaU5wTkFyUkx6QlViQm91dEd2Y0dFa2F1ejdHX1BQQ0FrVU94ZzRlT005d3lRNXFfdkN0QW55bFZTZTVvX1FyYjUtUV9mTDNZVm5vVWI0amdKSjlBVF9MeXZTSi1uMEVyUEhaaWVJTUM2LVc4dEZfSnYya19La19hbkdCTDd6NXZhZ0ZVLVRqRGJLZERrN1NsWm4zbjFXMXJWRl9xUXIzdmUzdTg5VklYM3JxVGNWa3hkX1dSLXdxTFE?oc=5"
+  },
+  {
+   "title": "新皇崗口岸落客區疑因下雨路面「太跣」 一晚兩車失控撞牆 無人受傷 (21:47) - 20261114 - 港聞",
+   "source": "明報新聞網",
+   "date": "11-14 13:47",
+   "iso": "2026-11-14T13:47:11+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNdW1wcDhOTnZhX2k1dUFNWDNad1BVZWsySTc5V19ZT3JjTlhjVGFER1dmU3duRU9OMGFCUndZa2paYjZSb1NfbmQ2R2p2SUxQZmJXZWFZT2lMTHBOdHFOUU1KNnhyVTR3SklrWEUxOWp2akVOQm1ESU9EcFEyWUkyZ0FnOGdSN2gzTFpYQWkzWHZpYUpHRTRhT2hEYmdmQkhsanFSVExHX2dmSktzZmFyRF9WaDBRd0JHV0VTV0NqakpFVWc1akx6dVNWMENYcTYzWnVMVHFKRXlwd3JtUXVyVGlUMm1WbDVuWnp4b2VCOUJYQVdiNXBheWkyaVZjdmExeHcyN2V4LXRqVjBZVVRuazFjZVJhUWJpWUkxMWRwQUxnbExuYnVacjN5TDc0TzZBdWhjMnRSWHZVQlZqRTFPa2w0M2k1RzFDMnBWeUVFNi0wOWNEV2sxRnYzZ0xxemwtWEJXZVJhUmlXSlBGZG1feXlScnRUX0VCSkJNaFFzN2J4LTF6OW9uWk9LS1VRYXRNUTVHeFR0R2dRVlh3OFdxWjlsUEhudy1hVWh4RHNqOFlNMS1lS3I1OWk2UktoaDZHdGc4YUZmRTlhQnZWLWhxb09wMi11SzBuX0poZzBiM0toQkdpZDV3LTMxZW1fbF9NdDh0dlFkZWd4Zw?oc=5"
   },
   {
    "title": "新皇崗口岸｜專家料路面排水防滑欠佳致跣胎 當局擬下周加鋪物料",
@@ -101,13 +108,6 @@
    "date": "11-13 18:26",
    "iso": "2026-11-13T18:26:27+00:00",
    "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOa3RxNnpQNlBway1EaS1Sdkx6UGxqOXlkMTJfdmlUbjZQT1ZoQ1RaMGM2UlMtODZHVkdwRTloVVR6RlROVHJocU1KZnFMM05PNDZWUEN5R3k4dlBpUHItOEVvN281SUVreWZEWWU5Qk1MQ29oQ0VNLWU1cm5fV3VRZTIxdjg5YTJtVS1JQXBqU29sSHpYajBCLUZNSWpWOFpjOGxrZ1JuWnI4blhuVTJjNHg2SktEbllTa3ZsQl9zMWxQRjhuWmlnMzZkaGZOVGhKVjJVR2QycXVrdk40eWdhR1hESzM0YjU0RXE4X1dyWVN6c2cyd2ZxMXRaTld6eUtVRVBrZjEyME5yaWV3UjVVd2F1THFLenh5Vnk2aVFVVGwtQXFKdk1uTHB2Yw?oc=5"
-  },
-  {
-   "title": "九巴路線 ｜配合11月紅館多場活動：開辦11條特別線｜旅客可轉乘九巴皇崗口岸路線前往深圳｜詳情一覽",
-   "source": "香港財經時報HKBT",
-   "date": "11-13 12:16",
-   "iso": "2026-11-13T12:16:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQdDFTOER5Ni1pRV95eW5TWnJON1VONE9lclIwaklnQUc0Q1ZIRDU3QWU2TThHNDVuSzJXZEI3RVpnME5WWGl6NVVzMzR6dld1UHZGTTQxQWxKTWY0dmtPWTdNUWhrQVVIaW1nS2RLOU5hbjlneVdtLTJmaWlhZTRmeWhDOWl4NlNzcVJTV2k3WG9BLTgxa3JvVTduMEkxaDBmcEpQOEYxWlE2VFhRUE9Ec1ozOVczSG1vaEhsQzJ2eG52OFR5XzBBNFRGVnhDdWw0RjVnYnVMVHRUdkhlMDVqMHZkTUk4d1o4SjBYQ0hmSG1sSkNxdFNaUUV5YWo1WThSd01UNEpUMXlhYnAwMUU3djJKVG9kS3BTNk55N2FjM1pFU3k5dFZGbGF5aFpGcGRkQ1NudE1qQVAtLUZBUlF6WmpNa3paSTBQcHBiVFJmcllwcHdwV1BTZzl4MjhuOUh4RUcw?oc=5"
   }
  ],
  "ok": true,
