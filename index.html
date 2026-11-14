@@ -174,7 +174,12 @@
   .trend-stats b{color:var(--fg)}
 
   /* 繁忙程度：主欄 + 突發新聞側欄 */
-  .dash-grid{display:grid;grid-template-columns:minmax(0,1.08fr) minmax(0,1fr);gap:16px;align-items:start}
+  .dash-grid{display:grid;grid-template-columns:minmax(0,1.08fr) minmax(0,1fr);gap:14px 16px;align-items:stretch}
+  .dch{display:flex;align-items:center;gap:8px;padding:8px 12px;border-radius:10px;background:rgba(255,255,255,.045);border:1px solid var(--line)}
+  .dch b{font-size:14.5px;letter-spacing:.3px}
+  .dch .ch-sub{font-size:12px;color:var(--mut2);margin-left:auto;white-space:nowrap}
+  .cell{min-width:0;display:grid;gap:12px;align-content:start}
+  .cell-tag{display:none}
   .dash-main{min-width:0;display:grid;gap:12px}
   .dash-side{min-width:0;display:grid;gap:12px;align-content:start}
   .agg{display:flex;align-items:center;justify-content:space-between;gap:16px;
@@ -269,6 +274,11 @@
     background:rgba(242,96,79,.25);border:1px solid rgba(242,96,79,.5);color:#ffd3cc;margin-right:6px;vertical-align:1px}
 
   @media(max-width:900px){
+  .dash-grid{grid-template-columns:minmax(0,1fr);gap:10px}
+  .dch{display:none}
+  .cell-tag{display:inline-block;font-size:11px;font-weight:700;padding:1px 8px;border-radius:6px;justify-self:start}
+  .cell-tag.hk{background:rgba(47,212,182,.16);color:#8ee8d6;border:1px solid rgba(47,212,182,.4)}
+  .cell-tag.sz{background:rgba(246,178,60,.16);color:#fbd08a;border:1px solid rgba(246,178,60,.42)}
   .feed-wide{grid-template-columns:minmax(0,1fr)}
     .dash-grid{grid-template-columns:1fr}
     .dash-side{position:static}
@@ -281,6 +291,11 @@
     .agg-meter span{width:22px;height:8px}
   }
   @media(max-width:900px){
+  .dash-grid{grid-template-columns:minmax(0,1fr);gap:10px}
+  .dch{display:none}
+  .cell-tag{display:inline-block;font-size:11px;font-weight:700;padding:1px 8px;border-radius:6px;justify-self:start}
+  .cell-tag.hk{background:rgba(47,212,182,.16);color:#8ee8d6;border:1px solid rgba(47,212,182,.4)}
+  .cell-tag.sz{background:rgba(246,178,60,.16);color:#fbd08a;border:1px solid rgba(246,178,60,.42)}
   .feed-wide{grid-template-columns:minmax(0,1fr)}
     .status-grid{grid-template-columns:repeat(2,1fr)}
     .duty-grid{grid-template-columns:1fr}
@@ -383,126 +398,144 @@
     </div>
 
     <div class="dash-grid">
-      <div class="dash-main">
-        <div class="col-head"><span class="chip-hk">港方</span><b>港方口岸區</b><span class="ch-sub">入境處・運輸署</span></div>
+      <div class="dch"><span class="chip-hk">港方</span><b>港方口岸區</b><span class="ch-sub">入境處・運輸署</span></div>
+      <div class="dch"><span class="chip-cn">深方</span><b>深方口岸區</b><span class="ch-sub">深圳口岸辦</span></div>
 
+      <div class="cell">
+        <span class="cell-tag hk">港方</span>
         <div class="agg" id="aggBanner">
-          <div class="agg-l">
-            <div class="agg-lab">現時旅客通關</div>
-            <div class="agg-val" id="aggVal">—</div>
-            <div class="agg-hint" id="aggHint">綜合香港居民／訪客 × 入境／出境</div>
-          </div>
-          <div class="agg-meter" id="aggMeter"><span></span><span></span><span></span></div>
+        <div class="agg-l">
+        <div class="agg-lab">現時旅客通關</div>
+        <div class="agg-val" id="aggVal">—</div>
+        <div class="agg-hint" id="aggHint">綜合香港居民／訪客 × 入境／出境</div>
         </div>
-
+        <div class="agg-meter" id="aggMeter"><span></span><span></span><span></span></div>
+        </div>
         <div class="status-grid" aria-live="polite">
-          <div class="stat st-na" id="s-r-in"><div class="lab">香港居民 · 入境</div><div class="val">—</div><div class="hint">等待數據</div></div>
-          <div class="stat st-na" id="s-r-out"><div class="lab">香港居民 · 出境</div><div class="val">—</div><div class="hint">等待數據</div></div>
-          <div class="stat st-na" id="s-v-in"><div class="lab">訪港旅客 · 入境</div><div class="val">—</div><div class="hint">等待數據</div></div>
-          <div class="stat st-na" id="s-v-out"><div class="lab">訪港旅客 · 出境</div><div class="val">—</div><div class="hint">等待數據</div></div>
+        <div class="stat st-na" id="s-r-in"><div class="lab">香港居民 · 入境</div><div class="val">—</div><div class="hint">等待數據</div></div>
+        <div class="stat st-na" id="s-r-out"><div class="lab">香港居民 · 出境</div><div class="val">—</div><div class="hint">等待數據</div></div>
+        <div class="stat st-na" id="s-v-in"><div class="lab">訪港旅客 · 入境</div><div class="val">—</div><div class="hint">等待數據</div></div>
+        <div class="stat st-na" id="s-v-out"><div class="lab">訪港旅客 · 出境</div><div class="val">—</div><div class="hint">等待數據</div></div>
         </div>
-
         <p class="note" style="margin:-2px 0 0">港方級別（入境處定義）：正常＝一般 &lt;15 分鐘、繁忙≈15 分鐘、非常繁忙≈30 分鐘或以上 —— 是級別定義，不是實際等候時間。</p>
-
-        <h3 class="h3">過去 48 小時旅客輪候走勢</h3>
-        <div class="panel">
-          <p class="trend-note" id="trendNote" style="display:none"></p>
-          <div class="trend-bars" id="trendBars"></div>
-          <div class="trend-axis" id="trendAxis"></div>
-          <div class="trend-legend">
-            <span><b style="background:var(--teal)"></b>正常</span>
-            <span><b style="background:var(--amber)"></b>繁忙</span>
-            <span><b style="background:var(--red)"></b>非常繁忙</span>
-            <span><b style="background:rgba(255,255,255,.14)"></b>無數據</span>
-          </div>
-          <div class="trend-stats" id="trendStats">載入中…</div>
+      </div>
+      <div class="cell">
+        <span class="cell-tag sz">深方</span>
+        <div class="panel side-panel" style="margin-bottom:12px">
+        <div class="side-head">
+        <h3>皇崗口岸</h3>
+        <span class="side-sub" id="szTime">—</span>
         </div>
-
-        <h3 class="h3">過去 48 小時車輛擠塞報道</h3>
-        <div class="panel">
-          <div class="trend-bars" id="vehBars"></div>
-          <div class="trend-axis" id="vehAxis"></div>
-          <div class="trend-stats" id="vehStats">載入中…</div>
-          <p class="note" style="margin-top:8px">以媒體報道提及「塞／車龍／巴士排隊」的次數作代理指標（非官方車輛排隊數據；時間為報道發佈時間）。</p>
+        <div id="szStatus"><div class="empty">載入中…</div></div>
+        <p class="note" style="margin:8px 0 0">深方評級：暢通／正常／繁忙，不公布分鐘數。</p>
+        <div class="side-foot">
+        來源：深圳口岸辦「口岸通」· <a id="szLink" href="https://i.ka.sz.gov.cn/attend/kab-park/park/index?type=xianggang&language=zhs" target="_blank" rel="noopener">查看原頁</a>
         </div>
-
-        <h3 class="h3">即時車輛排隊（交通快拍）</h3>
-        <div class="cam-row" id="camRow">
-          <div class="cam-card"><div class="cam-t">載入中…</div></div>
-        </div>
-        <p class="note">
-          入境處<b>只公布旅客輪候，沒有車輛排隊數據</b>。以下為運輸署交通快拍（每 2 分鐘更新），
-          用來目測新深路迴旋處、新田公路一帶車龍；口岸內車檢通道的實際等候以現場為準。
-          高峰參考：傳媒報道新皇崗口岸私家車高峰輪候約 45–50 分鐘。
-        </p>
-
-        <h3 class="h3">港方近期大型活動</h3>
-        <div class="panel">
-          <div id="evHk"><div class="empty">載入中…</div></div>
-          <p class="note" style="margin:8px 0 0">用於人流預測參考：活動散場、假期首尾為跨境高峰。日期時間以主辦方公布為準<span id="evChecked"></span>。</p>
         </div>
       </div>
 
-      <aside class="dash-side">
-        <div class="col-head"><span class="chip-cn">深方</span><b>深方口岸區</b><span class="ch-sub">深圳口岸辦</span></div>
-
-        <div class="panel side-panel" style="margin-bottom:12px">
-          <div class="side-head">
-            <h3>皇崗口岸</h3>
-            <span class="side-sub" id="szTime">—</span>
-          </div>
-          <div id="szStatus"><div class="empty">載入中…</div></div>
-          <p class="note" style="margin:8px 0 0">深方評級：暢通／正常／繁忙，不公布分鐘數。</p>
-          <div class="side-foot">
-            來源：深圳口岸辦「口岸通」· <a id="szLink" href="https://i.ka.sz.gov.cn/attend/kab-park/park/index?type=xianggang&language=zhs" target="_blank" rel="noopener">查看原頁</a>
-          </div>
+      <div class="cell">
+        <span class="cell-tag hk">港方</span>
+        <h3 class="h3">即時車輛排隊（交通快拍）</h3>
+        <div class="cam-row" id="camRow">
+        <div class="cam-card"><div class="cam-t">載入中…</div></div>
         </div>
-
+        <p class="note">
+        入境處<b>只公布旅客輪候，沒有車輛排隊數據</b>。以下為運輸署交通快拍（每 2 分鐘更新），
+        用來目測新深路迴旋處、新田公路一帶車龍；口岸內車檢通道的實際等候以現場為準。
+        高峰參考：傳媒報道新皇崗口岸私家車高峰輪候約 45–50 分鐘。
+        </p>
+      </div>
+      <div class="cell">
+        <span class="cell-tag sz">深方</span>
         <div class="panel side-panel">
-          <div class="side-head">
-            <h3>聯檢大樓實時畫面</h3>
-            <span class="side-sub" id="camTime">—</span>
-          </div>
-          <div class="pz-grid" id="camGrid"><div class="empty">載入中…</div></div>
-          <p class="note" style="margin:8px 0 0">定格畫面，非直播；右下為拍攝時間。如顯示「鏡頭暫時無法載入」代表該鏡頭當刻無新畫面。</p>
+        <div class="side-head">
+        <h3>聯檢大樓實時畫面</h3>
+        <span class="side-sub" id="camTime">—</span>
         </div>
+        <div class="pz-grid" id="camGrid"><div class="empty">載入中…</div></div>
+        <p class="note" style="margin:8px 0 0">定格畫面，非直播；右下為拍攝時間。如顯示「鏡頭暫時無法載入」代表該鏡頭當刻無新畫面。</p>
+        </div>
+      </div>
 
-        <div class="panel side-panel">
-          <div class="side-head">
-            <h3>聯檢大樓樓層分佈</h3>
-            <span class="side-sub">按口岸辦鏡頭位置整理</span>
-          </div>
-          <div class="flr"><b>L5</b><span>入境人流 · 西側交通廳</span></div>
-          <div class="flr"><b>L4</b><span>出境人流 · 東側交通廳</span></div>
-          <div class="flr"><b>L3</b><span>出境車流 · 車檢區、跨境私家車落客</span></div>
-          <div class="flr"><b>L2</b><span>跨境巴士上客／落客</span></div>
-          <div class="flr"><b>L1</b><span>入境車流 · 車檢區</span></div>
-          <div class="flr"><b>B1</b><span>公交上客、出租車上落客</span></div>
-          <div class="flr"><b>B2</b><span>出境人流</span></div>
-          <div class="flr"><b>B3</b><span>網約車／私家車上落客</span></div>
+      <div class="cell">
+        <span class="cell-tag hk">港方</span>
+        <h3 class="h3">過去 48 小時旅客輪候走勢</h3>
+        <div class="panel">
+        <p class="trend-note" id="trendNote" style="display:none"></p>
+        <div class="trend-bars" id="trendBars"></div>
+        <div class="trend-axis" id="trendAxis"></div>
+        <div class="trend-legend">
+        <span><b style="background:var(--teal)"></b>正常</span>
+        <span><b style="background:var(--amber)"></b>繁忙</span>
+        <span><b style="background:var(--red)"></b>非常繁忙</span>
+        <span><b style="background:rgba(255,255,255,.14)"></b>無數據</span>
         </div>
+        <div class="trend-stats" id="trendStats">載入中…</div>
+        </div>
+      </div>
+      <div class="cell">
+        <span class="cell-tag sz">深方</span>
+        <div class="panel side-panel">
+        <div class="side-head">
+        <h3>聯檢大樓樓層分佈</h3>
+        <span class="side-sub">按口岸辦鏡頭位置整理</span>
+        </div>
+        <div class="flr"><b>L5</b><span>入境人流 · 西側交通廳</span></div>
+        <div class="flr"><b>L4</b><span>出境人流 · 東側交通廳</span></div>
+        <div class="flr"><b>L3</b><span>出境車流 · 車檢區、跨境私家車落客</span></div>
+        <div class="flr"><b>L2</b><span>跨境巴士上客／落客</span></div>
+        <div class="flr"><b>L1</b><span>入境車流 · 車檢區</span></div>
+        <div class="flr"><b>B1</b><span>公交上客、出租車上落客</span></div>
+        <div class="flr"><b>B2</b><span>出境人流</span></div>
+        <div class="flr"><b>B3</b><span>網約車／私家車上落客</span></div>
+        </div>
+      </div>
 
-        <div class="panel side-panel">
-          <div class="side-head">
-            <h3>深方連結</h3>
-            <span class="side-sub">官方</span>
-          </div>
-          <div class="lnk"><a href="https://i.ka.sz.gov.cn/attend/kab-park/park/index?type=xianggang&language=zhs" target="_blank" rel="noopener">深圳口岸辦「口岸通」實時頁</a></div>
-          <div class="lnk"><a href="https://ka.sz.gov.cn/" target="_blank" rel="noopener">深圳市口岸辦官網</a></div>
-          <div class="lnk"><a href="https://www.szmc.net/" target="_blank" rel="noopener">深圳地鐵（7 號線皇崗口岸站）</a></div>
+      <div class="cell">
+        <span class="cell-tag hk">港方</span>
+        <h3 class="h3">過去 48 小時車輛擠塞報道</h3>
+        <div class="panel">
+        <div class="trend-bars" id="vehBars"></div>
+        <div class="trend-axis" id="vehAxis"></div>
+        <div class="trend-stats" id="vehStats">載入中…</div>
+        <p class="note" style="margin-top:8px">以媒體報道提及「塞／車龍／巴士排隊」的次數作代理指標（非官方車輛排隊數據；時間為報道發佈時間）。</p>
         </div>
+      </div>
+      <div class="cell">
+        <span class="cell-tag sz">深方</span>
+        <div class="panel side-panel">
+        <div class="side-head">
+        <h3>深方連結</h3>
+        <span class="side-sub">官方</span>
+        </div>
+        <div class="lnk"><a href="https://i.ka.sz.gov.cn/attend/kab-park/park/index?type=xianggang&language=zhs" target="_blank" rel="noopener">深圳口岸辦「口岸通」實時頁</a></div>
+        <div class="lnk"><a href="https://ka.sz.gov.cn/" target="_blank" rel="noopener">深圳市口岸辦官網</a></div>
+        <div class="lnk"><a href="https://www.szmc.net/" target="_blank" rel="noopener">深圳地鐵（7 號線皇崗口岸站）</a></div>
+        </div>
+      </div>
 
-        <div class="panel side-panel">
-          <div class="side-head">
-            <h3>深方近期大型活動</h3>
-            <span class="side-sub" id="evSzTime">—</span>
-          </div>
-          <div id="evSz"><div class="empty">載入中…</div></div>
-          <p class="note" style="margin:8px 0 0">散場時段（約 22:00–00:30）為入境高峰；活動日期以主辦方公布為準。</p>
+      <div class="cell">
+        <span class="cell-tag hk">港方</span>
+        <h3 class="h3">港方近期大型活動</h3>
+        <div class="panel">
+        <div id="evHk"><div class="empty">載入中…</div></div>
+        <p class="note" style="margin:8px 0 0">用於人流預測參考：活動散場、假期首尾為跨境高峰。日期時間以主辦方公布為準<span id="evChecked"></span>。</p>
         </div>
-      </aside>
+      </div>
+      <div class="cell">
+        <span class="cell-tag sz">深方</span>
+        <div class="panel side-panel">
+        <div class="side-head">
+        <h3>深方近期大型活動</h3>
+        <span class="side-sub" id="evSzTime">—</span>
+        </div>
+        <div id="evSz"><div class="empty">載入中…</div></div>
+        <p class="note" style="margin:8px 0 0">散場時段（約 22:00–00:30）為入境高峰；活動日期以主辦方公布為準。</p>
+        </div>
+      </div>
     </div>
-  </section>
+  
 
 
   <section id="news">
