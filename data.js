@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-15T04:42:27+08:00",
+ "generated_at": "2026-11-15T04:50:47+08:00",
  "date": "2026-11-15",
  "weekday": "星期日",
- "clock": "04:42",
+ "clock": "04:50",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,20 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "【本報直擊】警體育園遏「白牌車」見效記者順暢過皇崗- 香港",
+   "source": "香港文匯報",
+   "date": "11-14 20:47",
+   "iso": "2026-11-14T20:47:31+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fZW4wYVl2RlBhNV8zMUNKWGRBQ2pxTXdkdzZoM3I4SmFWWG9Cc084TENpSlNwdGs0NjB5Qm4tN2l0NWg4aHlqVTc0SExaVEUtVVRxV1M3THZBbXUzQ2JNMHlpRzZITWNKTlZEd2hhN1Q4dXdWaTJB?oc=5"
+  },
+  {
+   "title": "新皇崗兩車跣胎撞牆 業界：運署稱加鋪防滑 - 20261115 - 港聞",
+   "source": "明報新聞網",
+   "date": "11-14 20:30",
+   "iso": "2026-11-14T20:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQUVo3NFozdllfVzRJMXp1QVo0T3NjMzdTSzQ3TkhyOVBHUnpLYWl2TDdqaGx2MEFMSDlYX3dPdWcwMUxSV3IyWC1KdGk4ckNHbFRWT1V4OHFDb1o2enBWT3lxaWU2NkJnVUxQOUp1WllsSV9mbFUyMGxYQTlqSFVxWDRacXYydDJ4V25ybjd2OEVJb05WamxvcXF6eDdUdDN4YnV2QXdYd2VQdkx1OUFHMHVOLVRkR1J3YXBibEwzQWVaOVI1WjNXYXE2MHdqbUZ0YlhHOUtwNVA4b0dmeEl4NmNZY1VMcE56Y3FCN00ycG01NjctMHk0bDNrblVxWUdIT3M1X2dvVVYxa2VNSnFLNTJtTzJxWGNmYXIwdVRjUWNET0p6Mm5YWEo4c3JrRGRiZWhFZnZuZE9fT1JMM243UGZwa0pSanlERmZ0U1EwWlpmYS15aGIyZFpKOXlxcllLWFRNYWM1TE5tUQ?oc=5"
+  },
+  {
    "title": "新皇崗口岸路面疑防滑不足 直通巴及的士先後跣胎撞牆",
    "source": "Singtaousa",
    "date": "11-14 15:22",
@@ -95,20 +109,6 @@ window.HGP_DATA = {
    "date": "11-14 13:03",
    "iso": "2026-11-14T13:03:40+00:00",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Jd1NQTnZ0N2ZoNlpsaVpySURDZlVfR3V5VFUtNVo0X3FUbzdmbUxSeWk5M1lRT1JTVmlMMkxIbEVNd3FIeU50VEhseGh1bDdBNjcwbnFfM25TdDluOVFBMG1veHJEZEx1RS01YTVVbFJzcHdvdXQ1V3Zn?oc=5"
-  },
-  {
-   "title": "新皇崗口岸直通巴的士跣胎撞牆 職業司機反映路面不夠防滑：落毛毛細雨已經咁跣",
-   "source": "星島頭條",
-   "date": "11-14 10:44",
-   "iso": "2026-11-14T10:44:35+00:00",
-   "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxNUzh4Mll0dzlEZVNrRFhuc1l4STRQM2o3RFNIdVNmU3lnWXRERmd5Q1lEWTJkUEtqVHdOT3R3QjZYLXJKX2ItT2JFS2Uwc2ZKVUxzbmhLdjBYSWVMbUJCZ0tqWEctdjA5QVlkSVlNeUVLREFRSi0tbms2ODRlRjZKTmVfSkJzX2pCVURqaGp4d2JIR1hldG11TkItQkh5aE85OHl0ekRRc3NLM01KM2locmhEV1hTN3lCbHBNdlY4WjFrRnJXMF9rUGxaU2RrekVoRnlKbk9NWVpvX09IandZTkJZTEFGa3lnMWkwYnRNWjFMMFU1ZEUxeU5FbWRReWFOclVRaUpNbFlGWWFCUmxRaE16TnN2THR2M1F1cUpMcEFPWFQ1a1JxdlZocTh6ZHFCT1FkUmhueGdWVENVREpsYXpXRi1CTk5Kc0lUelk0SlR5VUhtV0RqbjEwcXJ1cjg0cWt4bm1DVWJsMnNvdEE4UXM3dmpDWlRtRTgwSHFITnlrMV9JSXpsV3pPTmpYbEFDLWlmOVFqZXFsZlZ3em9ITVVpVnhPSzBBS1M3Y2dGcHRjTU9RNkFVTXlWejhTeENHdWhvOWlOTTlKTlRLaDF4RHdMTzhwZVY5MzlTTnRpSmh0b3dIWWZYSmFybTF4TV82MVhHaXJnNXVmNS0xY0JhZzgwUQ?oc=5"
-  },
-  {
-   "title": "新皇崗口岸｜有直通巴疑受天雨影響跣軚撞牆 當局擬下周加設防滑物料 - i-CABLE",
-   "source": "i-CABLE",
-   "date": "11-14 10:35",
-   "iso": "2026-11-14T10:35:35+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOV2xnVnpCZEhha0ppaVB5SVVVTnRhRnFzZVByb3JDUVJUbndYMDFPc3hFWDlNREhxZkhyOWVpR3pySS1LVGlrVlJDRHJmb0dDWlAxQjhNa0hwYjJWeUlPUE8yV3hnV08ta3htQkx1cHhCWlhyV0RXeExtaXd0eW5Uc0x2REhQSTlROUotaW1iUGlHei1aUUNrZjV2cld3M0RXZjVXY29iWVBvMWdUc3VXTmhzWk42NmJubklRTkVpbjF0SUw4WTlPaDJxcldGSnJnR0ZRcWY5WFd0a1JsTlV3aTY0b1ZZVmdRb3doUmRkdDVqaFRFbVFyTVd0ZFp0N3RZN25Mbm4xeHhiT3dvc2djTU5SSlpzSDBQRDhITHFkdm91MVJTQm9vZXpOcVlzMTM4OW1uUlc5VTRlUHd2Qi1aY196Qkk1dlZXMTcyRDJGNkQ1bEFvY3BJRXdmeWVxeUVLZ1ZSNk4yR0hXZw?oc=5"
   }
  ],
  "ok": true,
