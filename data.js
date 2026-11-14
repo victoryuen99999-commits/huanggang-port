@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-14T20:42:31+08:00",
+ "generated_at": "2026-11-14T20:48:41+08:00",
  "date": "2026-11-14",
  "weekday": "星期六",
- "clock": "20:42",
+ "clock": "20:48",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 22,
   "humidity": 90,
-  "wind": 3.8,
+  "wind": 3.6,
   "code": 0,
   "desc": "天晴",
   "tmax": 26,
@@ -67,13 +67,6 @@ window.HGP_DATA = {
    "date": "11-14 10:35",
    "iso": "2026-11-14T10:35:35+00:00",
    "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOV2xnVnpCZEhha0ppaVB5SVVVTnRhRnFzZVByb3JDUVJUbndYMDFPc3hFWDlNREhxZkhyOWVpR3pySS1LVGlrVlJDRHJmb0dDWlAxQjhNa0hwYjJWeUlPUE8yV3hnV08ta3htQkx1cHhCWlhyV0RXeExtaXd0eW5Uc0x2REhQSTlROUotaW1iUGlHei1aUUNrZjV2cld3M0RXZjVXY29iWVBvMWdUc3VXTmhzWk42NmJubklRTkVpbjF0SUw4WTlPaDJxcldGSnJnR0ZRcWY5WFd0a1JsTlV3aTY0b1ZZVmdRb3doUmRkdDVqaFRFbVFyTVd0ZFp0N3RZN25Mbm4xeHhiT3dvc2djTU5SSlpzSDBQRDhITHFkdm91MVJTQm9vZXpOcVlzMTM4OW1uUlc5VTRlUHd2Qi1aY196Qkk1dlZXMTcyRDJGNkQ1bEFvY3BJRXdmeWVxeUVLZ1ZSNk4yR0hXZw?oc=5"
-  },
-  {
-   "title": "皇崗口岸｜港方公共交滙處被指路面不夠防滑 直通巴的士跣胎撞牆",
-   "source": "香港01",
-   "date": "11-14 09:52",
-   "iso": "2026-11-14T09:52:14+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOalFHb0M1SHJxdC1qX1FmQkdUdzhfUHMtb3JLdTByaDdpdlVXRmdTUlJldkZaSXZCZmJaM2x0NVBJa0p0YVphMlpFMTFueXFPUGNYTHB1TGFRT29hdHVTUEtpQ0lCN1lQTHN3cldrLWJVbmFUNHJ4LXpHRVVyOVpHSEx5R3VmT2lwY0M4MmVJMnR0QmxiY2tPWkpkenF4YWdLdTVlbHo0ZENDdlVXTW9NbFhiUTJiZVZtNnN0cTBXa1EzMzJwbVNGazJONkNET3Z4YUExU0NZNlhKaTNpTVNzVEVXR0d6aXZEeUVVUVVqeHdLNUN2UXFUMENiLXBFUldqTjJQLVJVdTQwRmhjakVJSV8zejJ4NlROanlid2htSDJkUUJYaVItbUZ0NG1Wd25rRm81eVhlWk1aUTEzbTRrLVJ4R2Q0OUE4WlAwOWZLcWZmdDBGVnVzeDVOd2dyeDFybU9pVjVVNWlGRjl5V09jVEctSG9SSWJ0cU8zMnVTbV9ZQ21IeWlZdG9ndlVrajVrUXBaY0hBQmx2U1NNR09VZVotMWZPQ2JyazVjRDVwSURvSWtZNjVvNkhNN3d0bTd3TXNCMGtyZzM?oc=5"
   },
   {
    "title": "皇崗口岸｜港方公共交匯處被指路面不夠防滑 直通巴的士跣胎撞牆",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "11-13 09:12",
    "iso": "2026-11-13T09:12:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQVGNqTVJwUEM4WHNkbXdsUDZjMzNpYXFVNjd5RWlYd21wYWZYeTJ6ejRQZDNybEx4M2VqMjBadmNZdW40blQwbU5NaGx1dkU0ZllWdTVLeGxNZXhGQWtiaFgtVlBaQ1ZneHdPcmtoQ29FMUVfUWVBdlc2MlNpVHNvX1AyaHV5QWw1YTBrb3VsMTRaTXRkUDhCNEpTTm52bEdETG1SRnM2ZXJwd0hNT2xIX0VsaXRUQWFfVHlWanFEYkFFUGtkQVRQRHpZOVNhMDlKcHlkcHV1NFFuX1lneHpNeUNZb3RHTlJ4NWhObWdjdmxNRWtqWFpYUC1iTEpJV2tINGpTMU1jRGN3NktMb2xxcVZCYjV6Z1VkRjhJLW1vU0I4RjhhM0N0RjluQkI1NnZNVjRzUzZiUmdUUzctb1dORHpDNmxUV2FC?oc=5"
+  },
+  {
+   "title": "時事全方位｜北都發展提速提效(二)",
+   "source": "Now 新聞",
+   "date": "11-13 06:42",
+   "iso": "2026-11-13T06:42:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwZmdmSzVWRzVuZmFtVkFpNmk1emdTUTNpendaSG9ZeWxjU2I5NXQ0VXFDendxclJnbzEwQ3NJWnJaOFJTcFVqbTgyaUZXTDBMdW8wTm1CclVBajF1UEFJUHJR?oc=5"
   }
  ],
  "ok": true,
