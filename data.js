@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-14T09:52:00+08:00",
+ "generated_at": "2026-11-14T09:58:08+08:00",
  "date": "2026-11-14",
  "weekday": "星期六",
- "clock": "09:52",
+ "clock": "09:58",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -104,11 +104,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vVTk2TVBMTTlnaW9XdkhnTkNJR2YxaHoxaUp2M254M0pzeFpxcVR4RThMQTAwSlNFUmxKSEhfakNPX0FFNXgtUy02b0xfdHc0ZHlXRDVhb2RVampiNFVkMkMwXzBTR0kxbzYxMTBmSkJYenZzcUZr?oc=5"
   },
   {
-   "title": "深圳親子好去處｜新皇崗口岸附近5大商場推介 地鐵直達食買玩睇水豚、行山姆",
-   "source": "星島頭條",
-   "date": "11-13 05:44",
-   "iso": "2026-11-13T05:44:46+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPTmhDR05Bcmp5NGV0cEYwQUstZlNjdnc3SUJyMGdlVm02MDNkSUdBM3M3MVlBV1FEV20xUHB6bTNCWHpvc2dCT09CVHl2cDRMWURKd3UyYkFuemFtdDNhNnI2NlRpMzNjbG9lckdXYzJDNm1yY1ZEQlU4czZRYTVXejAtT1FIZUtIa3FLUTd6Z1lQTzN1WVNqYUlLbk5lRXBrTmV1M3Q2OHE0NFV6R0l4S1VVYS1UckROY1VlMC1zRHhEX25ENHROTTY5SWo0dkVZdEJwdmxFNjU4azk0WWJ3N2M1LVAxWEdfLVBhci13S29PVi03NVdzSVpZZnZhdVlHS1Y5R0lYTDF1V3pjV2J5SUxfUHdRRi16N3F3XzV4ZWhiazlQZ2V2YWZwdVM4SG8tbjk1OEhVY2FQNGk2ckdqMkwza2VVWVZ0M1JLWGdyN3JjcjNYN0hheFY0ZHJSZ2pFWm0wLUNNMmNCVnI1b2NIM1d3ekJESXFZcFMyYlllcDBNb0hqVkoxaFVOVGxWd0F4dkVCUzRKNElUdU5WTDlqNmY0V1ZPSHdzVkhYOE5fLUFYQnVNMkFuVC1tc2F5WGhMNVllbnR5OUlxRDBxWWlHaUtGUHVVTE0?oc=5"
+   "title": "城巴皇崗專線B14全日服務常態化 往返啟德將軍澳一口價20.8元",
+   "source": "dotdotnews",
+   "date": "11-13 04:32",
+   "iso": "2026-11-13T04:32:03+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1saDRmVHl0NHJIUHNpTmMycW1zUXJ0QU9DcV9pS3JpejVBeHF4c3Z2NS00V2NTeFVROVNnNXVKVFE0eElwQUtvMURFdFByX3ZxTUstYzQxY0IzTGNqbENLREJFOG0zb0NTc3R0Z1Zna2swaVpZWThxNTBB?oc=5"
   }
  ],
  "ok": true,
