@@ -1,0 +1,30 @@
+{
+  "_note": "人手核對的大型活動（自動來源以外的補充）。每次更新請改 checked 日期。",
+  "checked": "2026-11-07",
+  "hk": [
+    {
+      "name": "渣打香港馬拉松 2027",
+      "start": "2027-01-17",
+      "end": "2027-01-17",
+      "time": "清晨起跑（全馬 05:35 起）",
+      "venue": "尖沙咀彌敦道起步 → 維多利亞公園",
+      "type": "sport",
+      "impact": "high",
+      "note": "全港多處封路，港島／九龍交通大受影響；跨境跑手多於前一日入境",
+      "source": "https://www.hkmarathon.com/zh-hant/race-information"
+    }
+  ],
+  "sz": [
+    {
+      "name": "2026 深圳馬拉松",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "time": "07:00 鳴槍",
+      "venue": "深圳市民中心 → 寶安區海濱廣場",
+      "type": "sport",
+      "impact": "high",
+      "note": "3 萬人賽事，福田／南山多處封路；前一晚起住宿需求上升",
+      "source": "https://www.sz.gov.cn/szzt2010/szwtt/wthd/content/post_12992633.html"
+    }
+  ]
+}

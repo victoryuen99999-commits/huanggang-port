@@ -241,6 +241,26 @@
   .flr span{flex:1;min-width:0;line-height:1.5}
   .lnk{padding:6px 0;border-bottom:1px solid rgba(255,255,255,.06);font-size:13px}
   .lnk:last-child{border-bottom:none}
+  .ev-row{display:flex;gap:9px;padding:9px 0;border-bottom:1px solid rgba(255,255,255,.07);align-items:flex-start}
+  .ev-row:last-child{border-bottom:none}
+  .ev-d{flex:0 0 52px;text-align:center;line-height:1.25}
+  .ev-d b{display:block;font-size:13px;color:var(--fg);font-variant-numeric:tabular-nums}
+  .ev-d span{font-size:10.5px;color:var(--mut2);font-variant-numeric:tabular-nums}
+  .ev-m{flex:1;min-width:0}
+  .ev-n{font-size:13px;line-height:1.45;color:var(--fg);overflow-wrap:anywhere}
+  .ev-v{font-size:11.5px;color:var(--mut2);margin-top:2px;overflow-wrap:anywhere}
+  .ev-i{font-size:11.5px;color:var(--mut);margin-top:3px;line-height:1.5}
+  .ev-t{flex:0 0 auto;font-size:10.5px;font-weight:700;padding:1px 6px;border-radius:5px;background:rgba(255,255,255,.1);color:var(--mut)}
+  .ev-t.show{background:rgba(246,178,60,.2);color:#fbd08a}
+  .ev-t.sport{background:rgba(120,190,255,.18);color:#a9d4ff}
+  .ev-t.expo{background:rgba(47,212,182,.16);color:#8ee8d6}
+  .ev-t.holiday{background:rgba(242,96,79,.2);color:#ffcfc8}
+  .ev-hi .ev-n{font-weight:600}
+  .ev-cf{font-size:10.5px;color:#fbd08a;margin-left:4px}
+  .views{margin-top:12px;display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:12.5px;color:var(--mut2)}
+  .views b{color:var(--fg);font-variant-numeric:tabular-nums;font-size:14px}
+  .vw-sep{color:var(--line2, #2a3344)}
+  .vw-note{color:var(--mut2);font-size:11.5px}
   .more-btn{margin:10px 0 0;padding:8px 14px;border-radius:9px;border:1px solid var(--line);background:rgba(255,255,255,.05);color:var(--fg);font-size:13px;cursor:pointer;font-family:inherit}
   .more-btn:hover{background:rgba(255,255,255,.1)}
   .side-foot{font-size:11.8px;color:var(--mut2);margin-top:9px;padding-top:9px;border-top:1px solid var(--line)}
@@ -415,6 +435,12 @@
           用來目測新深路迴旋處、新田公路一帶車龍；口岸內車檢通道的實際等候以現場為準。
           高峰參考：傳媒報道新皇崗口岸私家車高峰輪候約 45–50 分鐘。
         </p>
+
+        <h3 class="h3">港方近期大型活動</h3>
+        <div class="panel">
+          <div id="evHk"><div class="empty">載入中…</div></div>
+          <p class="note" style="margin:8px 0 0">用於人流預測參考：活動散場、假期首尾為跨境高峰。日期時間以主辦方公布為準<span id="evChecked"></span>。</p>
+        </div>
       </div>
 
       <aside class="dash-side">
@@ -464,6 +490,15 @@
           <div class="lnk"><a href="https://i.ka.sz.gov.cn/attend/kab-park/park/index?type=xianggang&language=zhs" target="_blank" rel="noopener">深圳口岸辦「口岸通」實時頁</a></div>
           <div class="lnk"><a href="https://ka.sz.gov.cn/" target="_blank" rel="noopener">深圳市口岸辦官網</a></div>
           <div class="lnk"><a href="https://www.szmc.net/" target="_blank" rel="noopener">深圳地鐵（7 號線皇崗口岸站）</a></div>
+        </div>
+
+        <div class="panel side-panel">
+          <div class="side-head">
+            <h3>深方近期大型活動</h3>
+            <span class="side-sub" id="evSzTime">—</span>
+          </div>
+          <div id="evSz"><div class="empty">載入中…</div></div>
+          <p class="note" style="margin:8px 0 0">散場時段（約 22:00–00:30）為入境高峰；活動日期以主辦方公布為準。</p>
         </div>
       </aside>
     </div>
@@ -732,6 +767,12 @@
       本頁為<b>非官方</b>資訊整合，供值班參考，<b>不代表任何政府部門，亦不可作為內部操作或法律依據</b>。口岸安排、班次、票價及管制措施會不時調整，一切以部門指示、官方公布及現場指示為準。
       <br><span id="footStamp"></span>
     </div>
+    <div class="views" id="viewsBox">
+      <span class="vw"><b id="pvAll">—</b> 總瀏覽量</span>
+      <span class="vw-sep">·</span>
+      <span class="vw"><b id="pvToday">—</b> 今日瀏覽量</span>
+      <span class="vw-note">（第三方計數，同一工作階段只計一次）</span>
+    </div>
   </footer>
 </div>
 
@@ -740,6 +781,7 @@
 <script src="data.js"></script>
 <script src="history.js"></script>
 <script src="sz.js"></script>
+<script src="events.js"></script>
 <script>
 (function(){
   "use strict";
@@ -1117,6 +1159,65 @@
     }
   }
 
+
+  var EV_TAG = {show:"演唱會", sport:"賽事", expo:"展覽", holiday:"假期", other:"活動"};
+
+  function evRow(e){
+    var d1 = (e.start || "").slice(5).replace("-", "/");
+    var d2 = (e.end && e.end !== e.start) ? (e.end.slice(5).replace("-", "/")) : "";
+    var tag = EV_TAG[e.type] || "活動";
+    var when = "";
+    if(e.time) when = " · " + e.time;
+    else if(e.days === 0) when = " · 今日";
+    else if(e.days === 1) when = " · 明日";
+    else if(e.days > 0) when = " · " + e.days + " 日後";
+    return '<div class="ev-row' + (e.impact === "high" ? " ev-hi" : "") + '">' +
+      '<div class="ev-d"><b>' + d1 + '</b><span>' + (d2 ? "–" + d2 : "") + '</span></div>' +
+      '<div class="ev-m">' +
+        '<div class="ev-n">' + e.name + (e.confirm ? '<span class="ev-cf">' + e.confirm + '</span>' : '') + '</div>' +
+        (e.venue ? '<div class="ev-v">' + e.venue + when + '</div>' : (when ? '<div class="ev-v">' + when.replace(" · ", "") + '</div>' : '')) +
+        (e.note ? '<div class="ev-i">' + e.note + '</div>' : '') +
+      '</div>' +
+      '<span class="ev-t ' + (e.type || "other") + '">' + tag + '</span>' +
+    '</div>';
+  }
+
+  function renderEvents(){
+    var d = window.HGP_EVENTS || {};
+    [["evHk", d.hk], ["evSz", d.sz]].forEach(function(pair){
+      var box = $(pair[0]); if(!box) return;
+      var list = pair[1] || [];
+      box.innerHTML = list.length
+        ? list.map(evRow).join("")
+        : '<div class="empty">未來兩個月暫無已公布的大型活動。</div>';
+    });
+    if($("evSzTime") && d.clock) $("evSzTime").textContent = d.clock + " 更新";
+    if($("evChecked") && d.checked) $("evChecked").textContent = "（活動清單核對：" + d.checked + "）";
+  }
+
+
+  // ── 瀏覽量（第三方免費計數：abacus.jasoncameron.dev，無需帳戶）──
+  function trackViews(){
+    var NS = "victoryuen-hgp";
+    var allEl = $("pvAll"), dayEl = $("pvToday");
+    if(!allEl || typeof fetch !== "function") return;
+    var now = new Date();
+    var day = now.getFullYear() + String(now.getMonth()+1).padStart(2,"0") + String(now.getDate()).padStart(2,"0");
+    var first = true;
+    try {
+      first = !sessionStorage.getItem("hgp_counted");
+      if(first) sessionStorage.setItem("hgp_counted", "1");
+    } catch(e){ first = true; }
+    function call(key, hit){
+      var url = "https://abacus.jasoncameron.dev/" + (hit ? "hit" : "get") + "/" + NS + "/" + key;
+      return fetch(url, {cache:"no-store"}).then(function(r){ return r.json(); })
+             .then(function(d){ return (d && typeof d.value === "number") ? d.value : null; })
+             .catch(function(){ return null; });
+    }
+    call("total", first).then(function(v){ if(v !== null) allEl.textContent = v.toLocaleString("en-US"); });
+    call("d" + day, first).then(function(v){ if(v !== null) dayEl.textContent = v.toLocaleString("en-US"); });
+  }
+
   function renderAll(d){
     if(!d) return;
     renderSignals(d);
@@ -1126,6 +1227,7 @@
     renderTrend();
     renderSZ();
     renderCam();
+    renderEvents();
     renderVeh(d.vehicle_events);
     renderWarnings(d.warnings === undefined ? null : d.warnings);
     if(d.generated_at){
@@ -1226,6 +1328,8 @@
   renderTrend();
   renderSZ();
   renderCam();
+  renderEvents();
+  trackViews();
   renderCountdowns(); setInterval(renderCountdowns, 30000);
   if(DATA){ renderAll(DATA); }
   else {
