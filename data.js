@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-15T13:41:04+08:00",
+ "generated_at": "2026-11-15T13:47:15+08:00",
  "date": "2026-11-15",
  "weekday": "星期日",
- "clock": "13:41",
+ "clock": "13:47",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,9 +45,9 @@ window.HGP_DATA = {
  "weather": {
   "temp": 26,
   "humidity": 61,
-  "wind": 6.1,
-  "code": 2,
-  "desc": "局部多雲",
+  "wind": 6.0,
+  "code": 1,
+  "desc": "大致晴朗",
   "tmax": 26,
   "tmin": 19,
   "pop": 25
@@ -73,6 +73,13 @@ window.HGP_DATA = {
    "date": "11-15 04:18",
    "iso": "2026-11-15T04:18:40+00:00",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR0ZtUVQyaVRIbzc1aXUxRjE3N01SR0Y2MHdjbDBoZEZBYk5JS0dqRHBVVUVDVXRKQk1ieExpUzg5MEgwR21RbnpURVpfWWhtNm5OLTk2V2ZMMzdXLVZpMXhnRUMwUGlaTi1Vb2dJcFlrQUNtMmFCUjQ5VlhKaHUwaHRIU2dlU2stWmJF?oc=5"
+  },
+  {
+   "title": "皇崗口岸兩車跣胎撞牆 政府：相關路段無鋪防滑物料 本周初加鋪",
+   "source": "香港01",
+   "date": "11-15 03:26",
+   "iso": "2026-11-15T03:26:42+00:00",
+   "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQRGtQdS1hOThqT3p3NlJaaU8zWnFfdWgwWXhQdndITVcyckpuRm93WnZZY29hT0x1U1pTM2hlTHhTQUdqYkg4RlhDakFkdFotblpKa3B3U2Y4NHZFdnQ2VHY5SlFQUzZnVGdBWVZpS0t1QXVJMnpvXy1pT0ZiQnN1dHhsd08xTTBDTFdUY3l0RGNXby1MS3pLWmlSR3pYZ0NvTU9fYnEwRHQ0ZjdaZE01clhyWnFqSjIxSVk5dWxhbGw1UUdpbTUyUVYwU2wxTHZ5NjBVUHdzVElMOF9UX05KbXNlVXRtbUNrbWxKdndwaUdTUFdkMnhFTFFOZVRRbTRxZFVVemJnazMzQk5GNU9ZQ1E2ZXEwcWlSMXJKRTc4eDU3a3I4TkxvNDFYUENmOHM1VFJUTGNrTmhMRlhrUDA2cTFwT0pvZFVVam5FeXpTZnY0RTFBVVlGbmZuQ1VQZ3FERUFfRks1ZzFCUkczRlV1dnluQXVTcXg0bTFvNDFRajVHX2VQdWVQUTNiNXNrcjkwZ1ZlSUd1RXkzWDdIWHBFcnNSMUpjYldCUDUwRWJFWGtuYjM5RUNBaEo4ZWFHUQ?oc=5"
   },
   {
    "title": "報章要聞｜大公：浸大教500老友記用智能手機／明報：新皇崗兩車跣胎撞牆",
@@ -108,13 +115,6 @@ window.HGP_DATA = {
    "date": "11-14 15:00",
    "iso": "2026-11-14T15:00:02+00:00",
    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOb3NSU1dlQmJZNlRtSDBfbE5kU0t4dFBSVnlaVTg0dGUzMUxEd3FaMjcxc0o2dmgteVQycEZsRG4xNExoYkZOQl9TVktPMV9mcnozQ2Fmb2s4MURNSE1obU04TnlpZVZjSnhYaENsU05kcjQzVi1Tb3REdDE4V0dUa09CRmtvOXdCd282aFhlMXhnZ3lsdVN1aDN3T2tyT2NINHdYOTlRemd2cWdKRnc4UDBySGxyV2NUQ3FFTmNFeTVXTTdjM2haNDBPRGFxYXc3UDQ2ZzdwMGI2OWowUXlyNllTZEl0X0NKb2Rnb09ac1VLX1JXSjdPS2N5d1ZPZk12Y0hQLW1lWVNHanVRN1NRTGJSa2Q4Q2NBRVNhQUdRazFRV0hYNFVHUTIxN2FSQTU0XzBkYUJoWEdlOTdZTW14MXVGdEw3c3ZiSnU4Y1l1VWdpVGpvQjIzQm52dy1Wa2NhQndoa2FqSUkya1J0LTJR?oc=5"
-  },
-  {
-   "title": "新皇崗口岸雨後路面濕滑 有車輛「跣胎」撞牆 業界促鋪設防滑物料",
-   "source": "堅料網",
-   "date": "11-14 13:54",
-   "iso": "2026-11-14T13:54:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiigRBVV95cUxPRzNsWE1oOHphRjVDYXJQcEFRdTVUZGRfbC1UcjlqS1AtUzJqSGFSZ3hvdHp3NjJVdEZBQVU2OWVYSldETFlsQ2NQN1hueGRZc2tHdGlzZzl4LVhHVktGODFtQjhKbmFlX0wtVzA3alRCazB6a2tRbDlYa2lHLUpWN1AxN19kVmlTWXdWajBBWEdQUVFwckxLVDE2ejJjM3JLMUVuZURwV1dNbVp0a1RnSV8tWnhlemtVS2E0T1pGY3czSkp3MGkzRHRYdTdpUDBiWllmNnFtOGd5anQ5bjBrb28yWXdocmxtdU5oOFo3QThUd200S0FWZ0w3ak5MbzFJczdhQWt3N05yejk1LXAzUmpYa1VsSEx1eXZtLXZfSEF5X2NVQkt6Q3FldnJfWjZRSi1IN0JCMU5ocUpJb0U4UzBPSWx6V0JQRGhmalItck5DaU5wTkFyUkx6QlViQm91dEd2Y0dFa2F1ejdHX1BQQ0FrVU94ZzRlT005d3lRNXFfdkN0QW55bFZTZTVvX1FyYjUtUV9mTDNZVm5vVWI0amdKSjlBVF9MeXZTSi1uMEVyUEhaaWVJTUM2LVc4dEZfSnYya19La19hbkdCTDd6NXZhZ0ZVLVRqRGJLZERrN1NsWm4zbjFXMXJWRl9xUXIzdmUzdTg5VklYM3JxVGNWa3hkX1dSLXdxTFE?oc=5"
   }
  ],
  "ok": true,
