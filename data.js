@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-15T23:53:40+08:00",
- "date": "2026-11-15",
- "weekday": "星期日",
- "clock": "23:53",
+ "generated_at": "2026-11-16T00:00:45+08:00",
+ "date": "2026-11-16",
+ "weekday": "星期一",
+ "clock": "00:00",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -50,7 +50,7 @@ window.HGP_DATA = {
   "desc": "大致晴朗",
   "tmax": 26,
   "tmin": 19,
-  "pop": 25
+  "pop": 18
  },
  "warnings": [],
  "news": [
@@ -138,11 +138,6 @@ window.HGP_DATA = {
   {
    "tag": "夜更",
    "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
-   "level": "warn"
-  },
-  {
-   "tag": "週日",
-   "text": "傍晚 5 時至 10 時返港高峰，入境大堂壓力最大。",
    "level": "warn"
   },
   {
