@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-16T00:06:55+08:00",
+ "generated_at": "2026-11-16T00:13:05+08:00",
  "date": "2026-11-16",
  "weekday": "星期一",
- "clock": "00:06",
+ "clock": "00:13",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -83,6 +83,20 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNTW1xMDZFWkZjbllQX0llTGZVaHdnaGwxRHJLaC01OGZmRVJDU2dtNndtZ05hRFV2NE9zZVpoS0R6X1owZ1NuVmliWEkzUVV2eERrV0dWZUhPRlhrY01ocUNtZFpfVi1mNm5MMjNqRWhUQktlSC05MnVRYnM5cFVJRlpBbklxN2FnY01FemRVYWNSZjU4SHctR3BOUTNkakRGSlpPLUZqY3lCSmNTMkY0N2dNZXpVTjd2b2p2VW10U3FMekM0SXd4bDNhdTY3MzM0RTVYWXRxbi01ekwycGt6d3FTcDVCaDhPZFJWVEF3S09yZ0gxSVB0NUtKYTNoeFdaMDhrOTBlYndEZVdaN2YxMWprY0IzRDlSZDJXWDJ5Yzk3YTlhN3I3M2ZMX29SZWs5dHNhTzYxOEFDejZ4OXpsM0tTRkJYTTQtYVgxVTVZTEllUU44Ym9nZDVHOVpzUHFZVVdSSV96NFViLXBaeHFsS2hReFZibmR2aUFabGR0V1h3c29KWVYzbHlRTE8zMkF0Um1CNEZYT0tTN2Z4R2JEZjI0WU5DTlFmUU5Z?oc=5"
   },
   {
+   "title": "新皇崗口岸一個月內第三宗巴士撞指示牌事故",
+   "source": "Singtaousa",
+   "date": "11-15 13:22",
+   "iso": "2026-11-15T13:22:33+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcngtRG5tOVlqQkdQbDBOZ3hiSGJnYlR5WnBoQU5tMjdUQ0xpSnFiOGhWLUMxU19fTFlzcXMxeTMydzVYTmwwMVJpU0dPazlDMzF0VXpULU5fd0hrTlJjenNxeEdDRTRLYTkyNGxlNXVaRElLMVpDWGkzQlVtVzAwZ0ZCN1RsVVZvSkJDTVZxYVhzd1lD?oc=5"
+  },
+  {
+   "title": "新皇崗口岸巴士又撞天花指示牌 啟用至今第三度發生",
+   "source": "巴士的報",
+   "date": "11-15 13:06",
+   "iso": "2026-11-15T13:06:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNNlJMZG02MDJEMWVKRzA1M2Npc25ianA5Zm0wVlh5QTNneHoteF8zRkRRMWtyakF5ajVTbmlaR1ZmR0VDTlRqeEFhUXIxaE84YndvWVNBN2RWdXFkbWo2bDhwSXdvck1lNzE2Rl9ZRFFtNjZUZEhURlZVVTNwVEtwX1R6VWx5c0ctd1Q4emQ2dE9FREZNemIxcXdSN3FUQW5PUm5Bc3ZNMUJwV0FZcUl0MG9fRmFESThnMXQ5RGE1bGNNc2lQcTc1VmpTcEg4ODlLR2tOSmlhaVlib0Y1SjdwUkRkUDZESmJFRWwyZndzUHltY2pvelpYQTRENGt6YzNGSHRId3FVQmY1N3JBUjhzNWtIcVNGUXV3Z2J2RlVsd3gwRnFiTllKWHBnVkVFdk9WRUYydThUdzJsakY2bTZWZVVLTV9KUjhTcXZ5LUxhRDdUWXM4UFdmZXFzYmI1eVB0LWozcUpkWnNkVkh3RWtJ?oc=5"
+  },
+  {
    "title": "新皇崗口岸巴士撼天花懸掛交通指示牌口岸啟用以來同類第三宗- 港聞",
    "source": "dotdotnews",
    "date": "11-15 13:00",
@@ -95,20 +109,6 @@ window.HGP_DATA = {
    "date": "11-15 12:20",
    "iso": "2026-11-15T12:20:38+00:00",
    "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNUnZzZW52NmJDVVJjVlVPcHFFQ1AxbnR5OHllMmVqN3hlQi04d1JSLWNsUHpFT1dtQmNHcjlHWE96dVNRNUJrNzlBYjNjNnp6YTFXT2V6RElEVEd5aC1SS2pxalhhb1RoUEhqS3ZQMkZ6Q3RQUDZOWEQ2Mm5FaVNlMVNPeElHc2dUUHpRNXRoR0ppZHc5MS0zNGoxWFlBM3ZmNHdDemo4TjZtRndUSjhYbDc2S1NpckZmdHhQVFlfcUhMYTRNZlZFQ2tTQk9yYmFNcmlQN3cxTmRIMmF5am95MEhWbFdrMllvMkZzN0RaakdfQ1NyYTNGb2xxck01cklwbVEyZFBHRV9YcXd4cGhCdkVfbmNxWVNLRnFZRFZaQzl0M2VpMFJnS3h5UHJOLVJFVURiZ05ULXVlZkZEV1gyZTlrVXJ6Z2dPNVMzbjhqTEZYalJVRTFMazYzcDRVd0RJT1NzZURvbkY5V0ZmR3NMX2d0SXNEM0taS3RsWDJaRzdLNXhmSGVqMXBLUVRna2NjNWpKNUhuaHI?oc=5"
-  },
-  {
-   "title": "專家斥新皇崗口岸防滑欠佳 促勿頭痛醫頭應即時鋪防滑料",
-   "source": "on.cc東網",
-   "date": "11-15 10:11",
-   "iso": "2026-11-15T10:11:10+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT2RlcHdGRHZEWU1YQ2stMTVzV3VocFNadVNLQVJsNDZheVB0TGNaWGwyajVwenhSbzhzRUpjUUVROC1GWVpBQkFfY2pndS1Ec0s3Q2FaRHNqUjRyNUVob20yU3BwaXVPS2dGZTQyM0RFV3VZQ1NVSzhuaFhWSFptOHMwcnJWZ1A4YU5N?oc=5"
-  },
-  {
-   "title": "皇崗口岸巴士落客區兩宗打滑撞牆 路政署指位置不在防滑物料範圍",
-   "source": "GOtrip.hk",
-   "date": "11-15 08:15",
-   "iso": "2026-11-15T08:15:50+00:00",
-   "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPa1ZvS2xBTWdrMGNOZGJPRHVBRHZvZVkyM3pqTjJPM3BxQ1FSQmdVbWZlX0FHeF9NNm5YeEpwMjd0a3Rud1lIaUhmY08xMnhXclc5aWdYWnZDVWZ2X2NaaHIxVG1MamJHUGtSaTNtRDlwbjVZMU04V1pkQWJjYWM3LVRoQUhVdXFlWTZRdlVFZFJ0Q1hnMjV1amZudEs3ZF9oVVRyRW5mN0lvdDNlNV9IT0lrNUNKZnlQLWhlT3M2ei16ZVQ3VjVuYlFwMnAtejFTZFhnNjlhQU54WnlsRzAtNmFadlRNN0xNZU5wRm1WUWtHU25mYm9VRnVPaHpVSTFXVjFscTJpeUZvSVlJbFBzUGp6NUZpSTJwM0hSbzZ6em9icm1lRWxSbXFjTnR3eVU5b1JIMDhMSW5YalNIRTNiYVVnUFBPcTVTaGtkclJGcG1hWG9iZVowN29WcDFCbjJIX0lEVnNuUDdRbUthalhqYTNoVjV5NW1SWTkxa055VUc?oc=5"
   }
  ],
  "ok": true,
@@ -119,14 +119,19 @@ window.HGP_DATA = {
    "ti": "衛蘭紅館演唱會首日散場數百人等巴士到皇崗 九巴﹕即開6 車疏導人流"
   },
   {
+   "t": 1794748953000,
+   "s": "Singtaousa",
+   "ti": "新皇崗口岸一個月內第三宗巴士撞指示牌事故"
+  },
+  {
+   "t": 1794747960000,
+   "s": "巴士的報",
+   "ti": "新皇崗口岸巴士又撞天花指示牌 啟用至今第三度發生"
+  },
+  {
    "t": 1794747615000,
    "s": "dotdotnews",
    "ti": "新皇崗口岸巴士撼天花懸掛交通指示牌口岸啟用以來同類第三宗- 港聞"
-  },
-  {
-   "t": 1794730550000,
-   "s": "GOtrip.hk",
-   "ti": "皇崗口岸巴士落客區兩宗打滑撞牆 路政署指位置不在防滑物料範圍"
   }
  ],
  "tips": [
