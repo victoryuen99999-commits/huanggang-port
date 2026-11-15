@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-16T04:51:09+08:00",
+ "generated_at": "2026-11-16T04:57:20+08:00",
  "date": "2026-11-16",
  "weekday": "星期一",
- "clock": "04:51",
+ "clock": "04:57",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "皇崗6條APEC專道開啟 通關僅5分鐘 自助通道最快20秒 參會嘉賓國際媒體及工商界代表可24小時「即到即走」",
+   "source": "香港文匯報",
+   "date": "11-15 20:51",
+   "iso": "2026-11-15T20:51:13+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yMk9ndXFReWJRMDQybHV2MHFDMjVCVEprZHZOREdZWFVqaEVGVGtOcl8wQmNKeDVvdXkxUXN4TlVNUFZqVVRqdEdLaEdfUzhwdV9lZUdpODBkRlNrNEktLWlUUmhpUTRjalJsaHhvbVU4OXZ6TTZz?oc=5"
+  },
+  {
    "title": "新皇崗口岸｜再有巴士行錯路撼天花指示牌 月內第三宗 - Sing Tao Daily 星島日報加拿大",
    "source": "Sing Tao Daily 星島日報加拿大",
    "date": "11-15 19:41",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-15 13:00",
    "iso": "2026-11-15T13:00:15+00:00",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BMHp4OF90Z1pyNTg3QnBLQ2FmNUJxdUdkcTRtZzNDMy1FSzFGMmxrOG9sT0hYUEFUVVRTVzdmTlk4V0pQOW9SUmVlMFAyR0gzbUNOTEpDWV9UU2RHdmhvWGRLMHNhVWIwMFJiM0VDemlncnprOTVyRWFn?oc=5"
-  },
-  {
-   "title": "大型活動後的深宵過境交通問題，該如何解決?",
-   "source": "獨立媒體",
-   "date": "11-15 12:44",
-   "iso": "2026-11-15T12:44:36+00:00",
-   "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOSGk1RlUzZkdDSmdpYlY0dk8wVjlQNm0xTmhZN1lESHEyNWtycjlRY3lQY0JqU2RZZ1RQQzhWTWRwblZ3dm91VTg2RklqTklaNXZLSmRUSHNjZWM0Y1FrTVRLdUpIUTIzRVp6cXJHaDBFOEMzd3lmQ2RrV0NfNnllN2hjekFZenN4Ny0wbFhDc3FfXzNOaGtjU3R1ZDZ1UGxEZ3F5NnRMQ19MN3IwOGw4OGNrMWktZmt2VGZOQ1ZGYXg2c3dKY3pDS0txX1lwNWpJZGVqbnpVSEFocWhLWXVvZXZEMF9iTlNKSlhsQlRQUUdSajhnUEVES0ttcU0yM3hHdHpGZDVNaDJCQXVEN2s0T0ZrQU1PN2tMM19ZamVXRUJPdDQtbGQ4azBsMzNfS3dkOVdIVHh2REIzQjQtZmx1ZjlLYmRjSjMxVWQwemF6VQ?oc=5"
   }
  ],
  "ok": true,
