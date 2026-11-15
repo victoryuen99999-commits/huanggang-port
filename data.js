@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-15T14:04:31+08:00",
+ "generated_at": "2026-11-15T14:11:01+08:00",
  "date": "2026-11-15",
  "weekday": "星期日",
- "clock": "14:04",
+ "clock": "14:11",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -61,6 +61,13 @@ window.HGP_DATA = {
  ],
  "news": [
   {
+   "title": "新皇崗口岸兩車跣胎撞牆 路政署：加設防滑物料工程短期內完成 (13:45) - 20261115 - 港聞",
+   "source": "明報新聞網",
+   "date": "11-15 05:45",
+   "iso": "2026-11-15T05:45:36+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOVEJiLTh0ZlVwdDRqNHJnbTNTX2VIOFNFbmJjY0hjbklpMy1GNmdVaEFfaGJxN1dETWdJZTduMWZ1VDdqdmx6RXJOSXVnbkg0S0tadVRPQjBXVGMwSGM4dVNDN0R0b3ZzdTczUFRqUmxkc29PSGZLYkhEU2I5Yklsa2hsRkhJZDRBY0t0ZXhkVnZOSUhKa3BkaVp0ekthNlR3VjA5ZTZBZ2JsNURoVElDUWs3WDNBVEdYWjNvWmNrWDRDWHJWVWJsUE5Md3gtcVdkeWRWSG04eG0wTlpsT3VoQWF4a1JNa3h0UlFSRVZ4WFUzZE1mUVFQTnJtLWJ3MGl5MEE1ejFyazFIXy15YXU4bWNWYUlfUFFkVG85cFFBT0JWeWhJV2NKV3NkNXJIRVZFNW9CdlE1NjR0S3VVRmJidHRvUGh4UkRLSUU0WS16OHBxYmpaNkItRWRIUUc5TDc0aHFYSU12ZWpfNk1Wa2RkVEJmNHBXUzh2ZUducDZjWHZqWWRlWUhiN1ExTUpZUkNaVFZJT2FUMGRmc0VtUlhUZDc1T2pTQlRzalh1eEZlSDMzaDFiUWViaEoxSGM4VEJJV0RyRm9vOUdKNGgxWnM5eURQS09tZw?oc=5"
+  },
+  {
    "title": "新皇崗口岸兩車跣胎撞牆路政署：相關路段將加設防滑物料- 港聞",
    "source": "dotdotnews",
    "date": "11-15 04:18",
@@ -68,11 +75,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOQWFYRUg1aGdGZ1hUZHh1T0tjSWRTZnpjLUY2TUI4TWhNTlQ0MGYyUlc5VHFBRDJ4UU1fMllWSHJYTTZ1enNoZEt1S19VOWtnS0QtZUhhT1V0Q29neEE4STFmVmkwRF96RjlOWmZWakluZ2FPWEVpSzdB?oc=5"
   },
   {
-   "title": "皇崗口岸兩車跣胎撞牆 政府：相關路段無鋪防滑物料 本周初加鋪",
-   "source": "香港01",
-   "date": "11-15 03:26",
-   "iso": "2026-11-15T03:26:42+00:00",
-   "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQRGtQdS1hOThqT3p3NlJaaU8zWnFfdWgwWXhQdndITVcyckpuRm93WnZZY29hT0x1U1pTM2hlTHhTQUdqYkg4RlhDakFkdFotblpKa3B3U2Y4NHZFdnQ2VHY5SlFQUzZnVGdBWVZpS0t1QXVJMnpvXy1pT0ZiQnN1dHhsd08xTTBDTFdUY3l0RGNXby1MS3pLWmlSR3pYZ0NvTU9fYnEwRHQ0ZjdaZE01clhyWnFqSjIxSVk5dWxhbGw1UUdpbTUyUVYwU2wxTHZ5NjBVUHdzVElMOF9UX05KbXNlVXRtbUNrbWxKdndwaUdTUFdkMnhFTFFOZVRRbTRxZFVVemJnazMzQk5GNU9ZQ1E2ZXEwcWlSMXJKRTc4eDU3a3I4TkxvNDFYUENmOHM1VFJUTGNrTmhMRlhrUDA2cTFwT0pvZFVVam5FeXpTZnY0RTFBVVlGbmZuQ1VQZ3FERUFfRks1ZzFCUkczRlV1dnluQXVTcXg0bTFvNDFRajVHX2VQdWVQUTNiNXNrcjkwZ1ZlSUd1RXkzWDdIWHBFcnNSMUpjYldCUDUwRWJFWGtuYjM5RUNBaEo4ZWFHUQ?oc=5"
+   "title": "皇崗口岸兩巴士跣胎撞牆 路政署：本周初將加設防滑物料",
+   "source": "on.cc東網",
+   "date": "11-15 04:18",
+   "iso": "2026-11-15T04:18:40+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR0ZtUVQyaVRIbzc1aXUxRjE3N01SR0Y2MHdjbDBoZEZBYk5JS0dqRHBVVUVDVXRKQk1ieExpUzg5MEgwR21RbnpURVpfWWhtNm5OLTk2V2ZMMzdXLVZpMXhnRUMwUGlaTi1Vb2dJcFlrQUNtMmFCUjQ5VlhKaHUwaHRIU2dlU2stWmJF?oc=5"
   },
   {
    "title": "報章要聞｜大公：浸大教500老友記用智能手機／明報：新皇崗兩車跣胎撞牆",
@@ -96,29 +103,28 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQUVo3NFozdllfVzRJMXp1QVo0T3NjMzdTSzQ3TkhyOVBHUnpLYWl2TDdqaGx2MEFMSDlYX3dPdWcwMUxSV3IyWC1KdGk4ckNHbFRWT1V4OHFDb1o2enBWT3lxaWU2NkJnVUxQOUp1WllsSV9mbFUyMGxYQTlqSFVxWDRacXYydDJ4V25ybjd2OEVJb05WamxvcXF6eDdUdDN4YnV2QXdYd2VQdkx1OUFHMHVOLVRkR1J3YXBibEwzQWVaOVI1WjNXYXE2MHdqbUZ0YlhHOUtwNVA4b0dmeEl4NmNZY1VMcE56Y3FCN00ycG01NjctMHk0bDNrblVxWUdIT3M1X2dvVVYxa2VNSnFLNTJtTzJxWGNmYXIwdVRjUWNET0p6Mm5YWEo4c3JrRGRiZWhFZnZuZE9fT1JMM243UGZwa0pSanlERmZ0U1EwWlpmYS15aGIyZFpKOXlxcllLWFRNYWM1TE5tUQ?oc=5"
   },
   {
-   "title": "新皇崗口岸雨後路面濕滑 有車輛「跣胎」撞牆 業界促鋪設防滑物料",
-   "source": "堅料網",
-   "date": "11-14 13:54",
-   "iso": "2026-11-14T13:54:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiigRBVV95cUxPRzNsWE1oOHphRjVDYXJQcEFRdTVUZGRfbC1UcjlqS1AtUzJqSGFSZ3hvdHp3NjJVdEZBQVU2OWVYSldETFlsQ2NQN1hueGRZc2tHdGlzZzl4LVhHVktGODFtQjhKbmFlX0wtVzA3alRCazB6a2tRbDlYa2lHLUpWN1AxN19kVmlTWXdWajBBWEdQUVFwckxLVDE2ejJjM3JLMUVuZURwV1dNbVp0a1RnSV8tWnhlemtVS2E0T1pGY3czSkp3MGkzRHRYdTdpUDBiWllmNnFtOGd5anQ5bjBrb28yWXdocmxtdU5oOFo3QThUd200S0FWZ0w3ak5MbzFJczdhQWt3N05yejk1LXAzUmpYa1VsSEx1eXZtLXZfSEF5X2NVQkt6Q3FldnJfWjZRSi1IN0JCMU5ocUpJb0U4UzBPSWx6V0JQRGhmalItck5DaU5wTkFyUkx6QlViQm91dEd2Y0dFa2F1ejdHX1BQQ0FrVU94ZzRlT005d3lRNXFfdkN0QW55bFZTZTVvX1FyYjUtUV9mTDNZVm5vVWI0amdKSjlBVF9MeXZTSi1uMEVyUEhaaWVJTUM2LVc4dEZfSnYya19La19hbkdCTDd6NXZhZ0ZVLVRqRGJLZERrN1NsWm4zbjFXMXJWRl9xUXIzdmUzdTg5VklYM3JxVGNWa3hkX1dSLXdxTFE?oc=5"
+   "title": "新皇崗口岸路面疑防滑不足 直通巴及的士先後跣胎撞牆",
+   "source": "Singtaousa",
+   "date": "11-14 15:22",
+   "iso": "2026-11-14T15:22:35+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNFpNYWUwcWhTUmxhbmY1M2Y5TTdxXzJLcW1PeWJMM0xBTEJRV25DUTNFTmpjQXZOSlpWVUhLbEVlSUY2a2RFUE5iWTdVbnQ0Rml1cl94TVFnNTF2M3VqNWYtVkNqS2k5bXp1NWMzMWJ6d1oyd0lya192c29kdnJkSHQ2amg0eUx0TGRfQ0h5aFVaR3ZS?oc=5"
   },
   {
-   "title": "（有片）新皇崗口岸｜直通巴的士「跣胎」撞牆路政署早前已鋪防滑物料- 港聞",
-   "source": "dotdotnews",
-   "date": "11-14 13:03",
-   "iso": "2026-11-14T13:03:40+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Jd1NQTnZ0N2ZoNlpsaVpySURDZlVfR3V5VFUtNVo0X3FUbzdmbUxSeWk5M1lRT1JTVmlMMkxIbEVNd3FIeU50VEhseGh1bDdBNjcwbnFfM25TdDluOVFBMG1veHJEZEx1RS01YTVVbFJzcHdvdXQ1V3Zn?oc=5"
-  },
-  {
-   "title": "皇崗口岸｜港方公共交滙處被指路面不夠防滑 直通巴的士跣胎撞牆",
-   "source": "香港01",
-   "date": "11-14 09:52",
-   "iso": "2026-11-14T09:52:14+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOalFHb0M1SHJxdC1qX1FmQkdUdzhfUHMtb3JLdTByaDdpdlVXRmdTUlJldkZaSXZCZmJaM2x0NVBJa0p0YVphMlpFMTFueXFPUGNYTHB1TGFRT29hdHVTUEtpQ0lCN1lQTHN3cldrLWJVbmFUNHJ4LXpHRVVyOVpHSEx5R3VmT2lwY0M4MmVJMnR0QmxiY2tPWkpkenF4YWdLdTVlbHo0ZENDdlVXTW9NbFhiUTJiZVZtNnN0cTBXa1EzMzJwbVNGazJONkNET3Z4YUExU0NZNlhKaTNpTVNzVEVXR0d6aXZEeUVVUVVqeHdLNUN2UXFUMENiLXBFUldqTjJQLVJVdTQwRmhjakVJSV8zejJ4NlROanlid2htSDJkUUJYaVItbUZ0NG1Wd25rRm81eVhlWk1aUTEzbTRrLVJ4R2Q0OUE4WlAwOWZLcWZmdDBGVnVzeDVOd2dyeDFybU9pVjVVNWlGRjl5V09jVEctSG9SSWJ0cU8zMnVTbV9ZQ21IeWlZdG9ndlVrajVrUXBaY0hBQmx2U1NNR09VZVotMWZPQ2JyazVjRDVwSURvSWtZNjVvNkhNN3d0bTd3TXNCMGtyZzM?oc=5"
+   "title": "新皇崗口岸發生連環「跣胎」 撞牆意外直通巴車頭損毀的士乘客報稱受傷",
+   "source": "巴士的報",
+   "date": "11-14 15:00",
+   "iso": "2026-11-14T15:00:02+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOb3NSU1dlQmJZNlRtSDBfbE5kU0t4dFBSVnlaVTg0dGUzMUxEd3FaMjcxc0o2dmgteVQycEZsRG4xNExoYkZOQl9TVktPMV9mcnozQ2Fmb2s4MURNSE1obU04TnlpZVZjSnhYaENsU05kcjQzVi1Tb3REdDE4V0dUa09CRmtvOXdCd282aFhlMXhnZ3lsdVN1aDN3T2tyT2NINHdYOTlRemd2cWdKRnc4UDBySGxyV2NUQ3FFTmNFeTVXTTdjM2haNDBPRGFxYXc3UDQ2ZzdwMGI2OWowUXlyNllTZEl0X0NKb2Rnb09ac1VLX1JXSjdPS2N5d1ZPZk12Y0hQLW1lWVNHanVRN1NRTGJSa2Q4Q2NBRVNhQUdRazFRV0hYNFVHUTIxN2FSQTU0XzBkYUJoWEdlOTdZTW14MXVGdEw3c3ZiSnU4Y1l1VWdpVGpvQjIzQm52dy1Wa2NhQndoa2FqSUkya1J0LTJR?oc=5"
   }
  ],
  "ok": true,
- "vehicle_events": [],
+ "vehicle_events": [
+  {
+   "t": 1794716320000,
+   "s": "on.cc東網",
+   "ti": "皇崗口岸兩巴士跣胎撞牆 路政署：本周初將加設防滑物料"
+  }
+ ],
  "tips": [
   {
    "tag": "警告",
