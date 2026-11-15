@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-16T03:21:07+08:00",
+ "generated_at": "2026-11-16T03:27:17+08:00",
  "date": "2026-11-16",
  "weekday": "星期一",
- "clock": "03:21",
+ "clock": "03:27",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -83,13 +83,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNTW1xMDZFWkZjbllQX0llTGZVaHdnaGwxRHJLaC01OGZmRVJDU2dtNndtZ05hRFV2NE9zZVpoS0R6X1owZ1NuVmliWEkzUVV2eERrV0dWZUhPRlhrY01ocUNtZFpfVi1mNm5MMjNqRWhUQktlSC05MnVRYnM5cFVJRlpBbklxN2FnY01FemRVYWNSZjU4SHctR3BOUTNkakRGSlpPLUZqY3lCSmNTMkY0N2dNZXpVTjd2b2p2VW10U3FMekM0SXd4bDNhdTY3MzM0RTVYWXRxbi01ekwycGt6d3FTcDVCaDhPZFJWVEF3S09yZ0gxSVB0NUtKYTNoeFdaMDhrOTBlYndEZVdaN2YxMWprY0IzRDlSZDJXWDJ5Yzk3YTlhN3I3M2ZMX29SZWs5dHNhTzYxOEFDejZ4OXpsM0tTRkJYTTQtYVgxVTVZTEllUU44Ym9nZDVHOVpzUHFZVVdSSV96NFViLXBaeHFsS2hReFZibmR2aUFabGR0V1h3c29KWVYzbHlRTE8zMkF0Um1CNEZYT0tTN2Z4R2JEZjI0WU5DTlFmUU5Z?oc=5"
   },
   {
-   "title": "新皇崗口岸一個月內第三宗巴士撞指示牌事故",
-   "source": "Singtaousa",
-   "date": "11-15 13:22",
-   "iso": "2026-11-15T13:22:33+00:00",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcngtRG5tOVlqQkdQbDBOZ3hiSGJnYlR5WnBoQU5tMjdUQ0xpSnFiOGhWLUMxU19fTFlzcXMxeTMydzVYTmwwMVJpU0dPazlDMzF0VXpULU5fd0hrTlJjenNxeEdDRTRLYTkyNGxlNXVaRElLMVpDWGkzQlVtVzAwZ0ZCN1RsVVZvSkJDTVZxYVhzd1lD?oc=5"
-  },
-  {
    "title": "新皇崗口岸巴士又撞天花指示牌 啟用至今第三度發生",
    "source": "巴士的報",
    "date": "11-15 13:06",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "11-15 12:44",
    "iso": "2026-11-15T12:44:36+00:00",
    "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOSGk1RlUzZkdDSmdpYlY0dk8wVjlQNm0xTmhZN1lESHEyNWtycjlRY3lQY0JqU2RZZ1RQQzhWTWRwblZ3dm91VTg2RklqTklaNXZLSmRUSHNjZWM0Y1FrTVRLdUpIUTIzRVp6cXJHaDBFOEMzd3lmQ2RrV0NfNnllN2hjekFZenN4Ny0wbFhDc3FfXzNOaGtjU3R1ZDZ1UGxEZ3F5NnRMQ19MN3IwOGw4OGNrMWktZmt2VGZOQ1ZGYXg2c3dKY3pDS0txX1lwNWpJZGVqbnpVSEFocWhLWXVvZXZEMF9iTlNKSlhsQlRQUUdSajhnUEVES0ttcU0yM3hHdHpGZDVNaDJCQXVEN2s0T0ZrQU1PN2tMM19ZamVXRUJPdDQtbGQ4azBsMzNfS3dkOVdIVHh2REIzQjQtZmx1ZjlLYmRjSjMxVWQwemF6VQ?oc=5"
+  },
+  {
+   "title": "新皇崗口岸｜城巴撼天花懸掛交通指示牌 月內第三宗同類意外",
+   "source": "香港01",
+   "date": "11-15 12:20",
+   "iso": "2026-11-15T12:20:38+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNUnZzZW52NmJDVVJjVlVPcHFFQ1AxbnR5OHllMmVqN3hlQi04d1JSLWNsUHpFT1dtQmNHcjlHWE96dVNRNUJrNzlBYjNjNnp6YTFXT2V6RElEVEd5aC1SS2pxalhhb1RoUEhqS3ZQMkZ6Q3RQUDZOWEQ2Mm5FaVNlMVNPeElHc2dUUHpRNXRoR0ppZHc5MS0zNGoxWFlBM3ZmNHdDemo4TjZtRndUSjhYbDc2S1NpckZmdHhQVFlfcUhMYTRNZlZFQ2tTQk9yYmFNcmlQN3cxTmRIMmF5am95MEhWbFdrMllvMkZzN0RaakdfQ1NyYTNGb2xxck01cklwbVEyZFBHRV9YcXd4cGhCdkVfbmNxWVNLRnFZRFZaQzl0M2VpMFJnS3h5UHJOLVJFVURiZ05ULXVlZkZEV1gyZTlrVXJ6Z2dPNVMzbjhqTEZYalJVRTFMazYzcDRVd0RJT1NzZURvbkY5V0ZmR3NMX2d0SXNEM0taS3RsWDJaRzdLNXhmSGVqMXBLUVRna2NjNWpKNUhuaHI?oc=5"
   }
  ],
  "ok": true,
@@ -117,11 +117,6 @@ window.HGP_DATA = {
    "t": 1794752281000,
    "s": "巴士的報",
    "ti": "衛蘭紅館演唱會首日散場數百人等巴士到皇崗 九巴﹕即開6 車疏導人流"
-  },
-  {
-   "t": 1794748953000,
-   "s": "Singtaousa",
-   "ti": "新皇崗口岸一個月內第三宗巴士撞指示牌事故"
   },
   {
    "t": 1794747960000,
