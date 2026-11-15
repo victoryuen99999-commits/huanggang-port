@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-15T20:56:51+08:00",
+ "generated_at": "2026-11-15T21:04:50+08:00",
  "date": "2026-11-15",
  "weekday": "星期日",
- "clock": "20:56",
+ "clock": "21:04",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 21,
-  "humidity": 95,
-  "wind": 2.0,
+  "humidity": 96,
+  "wind": 2.3,
   "code": 51,
   "desc": "毛毛雨",
   "tmax": 26,
@@ -54,6 +54,13 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "新皇崗口岸巴士撼天花懸掛交通指示牌口岸啟用以來同類第三宗- 港聞",
+   "source": "dotdotnews",
+   "date": "11-15 13:00",
+   "iso": "2026-11-15T13:00:15+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BMHp4OF90Z1pyNTg3QnBLQ2FmNUJxdUdkcTRtZzNDMy1FSzFGMmxrOG9sT0hYUEFUVVRTVzdmTlk4V0pQOW9SUmVlMFAyR0gzbUNOTEpDWV9UU2RHdmhvWGRLMHNhVWIwMFJiM0VDemlncnprOTVyRWFn?oc=5"
+  },
   {
    "title": "新皇崗口岸｜城巴撼天花懸掛交通指示牌 月內第三宗同類意外",
    "source": "香港01",
@@ -102,17 +109,15 @@ window.HGP_DATA = {
    "date": "11-15 08:10",
    "iso": "2026-11-15T08:10:39+00:00",
    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNV2tGbzRpektYRGJvVDc3LWlfdkhOaVVqSVlRQWdESnR6Y2cyUEhHd3pTWFNhd1FabjljbnR1TU1YVFd0dExKZGlJaDI4Yng2RHN2emFYa01WLVJCWFFFeXlVWDdhc0FLMlM1d0U4RTgxbURLdzRJV3h2RUZnV2xHN01NZm5QNVJsWnhyUHFpaHpqTXRyNnVYNDZNU2xTM2RtU3dESzRIN2ZwTlVvcFVKSU1TVVNPb2N0Um5vNEZtZTJONDFXZWxCZEtXdnVNWkllekkwcUtGN3dDa2dLQ2lMUl9ZaXlrbkxEXzRadzJxMlRzNmZzOHp5NU5GNU9jM2pKeFViSHZvVENKUms2NjBnSGpWakFpYWp1UDJYRjlQV2lmc0ZCTWhmREE0VlNRc1Vtc2hCT0JMX09wa1lyVTQybHItSmlzMjczWWdVaFdFUkR4dWZMQVFyVGRYOTA4Y19rdERUdG5GYTJPX0l3YUd3?oc=5"
-  },
-  {
-   "title": "體驗新皇崗口岸北上在港外商探訪APEC地標：看到科技與產業的蓬勃活力- 港聞",
-   "source": "dotdotnews",
-   "date": "11-15 07:20",
-   "iso": "2026-11-15T07:20:03+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZYkctV3FLeWFYbE1DbTFhemlHM2xESVp1MTdpS2tOY1RESkxRd0Fad2FCY1J0VlFBalNUYmtVZ2RxWDFYWXdLczV0M2pUR0hRdTlQeHRpZWxQeDJMRFBHQ0YtMFNhSU1OVzYydFdjSUJsSUYtaVhZZElB?oc=5"
   }
  ],
  "ok": true,
  "vehicle_events": [
+  {
+   "t": 1794747615000,
+   "s": "dotdotnews",
+   "ti": "新皇崗口岸巴士撼天花懸掛交通指示牌口岸啟用以來同類第三宗- 港聞"
+  },
   {
    "t": 1794741195000,
    "s": "星島頭條",
