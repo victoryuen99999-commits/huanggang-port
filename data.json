@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T22:28:17+08:00",
+ "generated_at": "2026-11-15T22:35:07+08:00",
  "date": "2026-11-15",
  "weekday": "星期日",
- "clock": "22:28",
+ "clock": "22:35",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -21,8 +21,8 @@
    "dep": 0
   },
   "LSC": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "LWS": {
    "arr": 0,
@@ -43,7 +43,7 @@
  },
  "weather": {
   "temp": 21,
-  "humidity": 98,
+  "humidity": 97,
   "wind": 5.2,
   "code": 1,
   "desc": "大致晴朗",
@@ -96,18 +96,18 @@
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BMHp4OF90Z1pyNTg3QnBLQ2FmNUJxdUdkcTRtZzNDMy1FSzFGMmxrOG9sT0hYUEFUVVRTVzdmTlk4V0pQOW9SUmVlMFAyR0gzbUNOTEpDWV9UU2RHdmhvWGRLMHNhVWIwMFJiM0VDemlncnprOTVyRWFn?oc=5"
   },
   {
+   "title": "新皇崗口岸｜城巴撼天花懸掛交通指示牌 月內第三宗同類意外",
+   "source": "香港01",
+   "date": "11-15 12:20",
+   "iso": "2026-11-15T12:20:38+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNUnZzZW52NmJDVVJjVlVPcHFFQ1AxbnR5OHllMmVqN3hlQi04d1JSLWNsUHpFT1dtQmNHcjlHWE96dVNRNUJrNzlBYjNjNnp6YTFXT2V6RElEVEd5aC1SS2pxalhhb1RoUEhqS3ZQMkZ6Q3RQUDZOWEQ2Mm5FaVNlMVNPeElHc2dUUHpRNXRoR0ppZHc5MS0zNGoxWFlBM3ZmNHdDemo4TjZtRndUSjhYbDc2S1NpckZmdHhQVFlfcUhMYTRNZlZFQ2tTQk9yYmFNcmlQN3cxTmRIMmF5am95MEhWbFdrMllvMkZzN0RaakdfQ1NyYTNGb2xxck01cklwbVEyZFBHRV9YcXd4cGhCdkVfbmNxWVNLRnFZRFZaQzl0M2VpMFJnS3h5UHJOLVJFVURiZ05ULXVlZkZEV1gyZTlrVXJ6Z2dPNVMzbjhqTEZYalJVRTFMazYzcDRVd0RJT1NzZURvbkY5V0ZmR3NMX2d0SXNEM0taS3RsWDJaRzdLNXhmSGVqMXBLUVRna2NjNWpKNUhuaHI?oc=5"
+  },
+  {
    "title": "新皇崗口岸｜再有巴士行錯路撼天花指示牌 月內第三宗",
    "source": "星島頭條",
    "date": "11-15 11:13",
    "iso": "2026-11-15T11:13:15+00:00",
    "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQYXNlUkVqM1YxYU1CcEpzbmtwQkZPQlMxNlYxeGpQekdZX0FGaFlnd1ZrSlFZcWY4TGQyWEIzV0dPRldCYTB4X2NtWENUQmNrOEE0YWVwYkZkRW4wQ2M5M1doLXpLLVJIa2Itb3I2ZGU5eDNVMnVWdXViZVRXNERxWjJnUENZbjNIX2VVTlBFUVk4UXl6OEVyUzFHSDYyd2FWMERKX0NadFNWeG1hRmtfcXEwZm5ZR2thX1pwcC00OFBqaS05SS1PbW1lNlRQQUZJSWVOYW9wWWc0OFE1UExNQmYwNFBpN0d1bGJJdlp2VG5VTXZBb0VqWWFBTlB5bjVBeERhRFFGakk1eHQwajM2bERSOWhGVzFxWURtVUtFMVFkdEVfMU4ybkFScDd4bmhEcGJ6MHVDWEE1alpsTUR4S3pGNE9Ib2VXTlZSVGFKcGUxX0hUamhhM2dsa3ZzMVVZdzhIOTluTHc4ZHdJb2lNa1BDVQ?oc=5"
-  },
-  {
-   "title": "專家斥新皇崗口岸防滑欠佳 促勿頭痛醫頭應即時鋪防滑料",
-   "source": "on.cc東網",
-   "date": "11-15 10:11",
-   "iso": "2026-11-15T10:11:10+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT2RlcHdGRHZEWU1YQ2stMTVzV3VocFNadVNLQVJsNDZheVB0TGNaWGwyajVwenhSbzhzRUpjUUVROC1GWVpBQkFfY2pndS1Ec0s3Q2FaRHNqUjRyNUVob20yU3BwaXVPS2dGZTQyM0RFV3VZQ1NVSzhuaFhWSFptOHMwcnJWZ1A4YU5N?oc=5"
   }
  ],
  "ok": true,
