@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-15T22:09:47+08:00",
+ "generated_at": "2026-11-15T22:15:58+08:00",
  "date": "2026-11-15",
  "weekday": "星期日",
- "clock": "22:09",
+ "clock": "22:15",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,15 +45,22 @@ window.HGP_DATA = {
  "weather": {
   "temp": 21,
   "humidity": 98,
-  "wind": 5.0,
-  "code": 51,
-  "desc": "毛毛雨",
+  "wind": 5.2,
+  "code": 1,
+  "desc": "大致晴朗",
   "tmax": 26,
   "tmin": 19,
   "pop": 25
  },
  "warnings": [],
  "news": [
+  {
+   "title": "新皇崗口岸城巴撞及懸掛指示牌 啟用一個月內同類事故至少三宗",
+   "source": "新假期",
+   "date": "11-15 13:37",
+   "iso": "2026-11-15T13:37:18+00:00",
+   "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPNG56eU4yRjFfMmFlOUtOZU9PbVpHbl9nRkxLLXMySFY0clVvdER0Q0pJLUlXNllVQjVwVU1fTElRUlJUWThKa3g0WmtIaTZZYndXUmFrVlVTRDlHUVV2UUtKX25wVHF3dW1OM3dNSGQ0YXdYVjdSckVPUGpHcThTdEtNMm1pM2VrdnZkZ3RYdGZxZFZRQUlNdkRrX0FFSFhiYnczVlBKcWhzckZSUXNmX0ZiQTdFUzhRbWM2MVZyTllwbU9VdzExYThaTEFhRThUYnF6TFFsRTJHM01iZ3F3emw3LUpaek55TXUwRG5STURZZUpfVElNSmhUQkpSdUZobUpiajZBcVRtQlF3ZEp0dFkzREJ2RlNSOVlWeUpNZnJPQTBoMDhvbmVDMjYtS3ZlSkZ0MmV4V2VOTmd5NWlDLTI4cEFXTVlVdkx0c3VKTi1NZUVuRTdYakZDYzAwNGVSODluVWFxbXlXVmRDSU9lQ0sxVldkaVZtR3NCN0Jnd1pkemF5bGc?oc=5"
+  },
   {
    "title": "衛蘭紅館騷散場數百人等270R 九巴半小時開6班 研特別車往皇崗",
    "source": "香港01",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-15 11:07",
    "iso": "2026-11-15T11:07:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0RF8wMzJTSDd0ZE1Icm5ud205VE8zbWl6MUZGanZkNGZtbWxDWEtmeXpyN3dnLXE1eDFSYU1hbmZrc21GRHFxUEZOb1BENTVvM1Z5TTZnam54LWFZdURr?oc=5"
-  },
-  {
-   "title": "專家斥新皇崗口岸防滑欠佳 促勿頭痛醫頭應即時鋪防滑料",
-   "source": "on.cc東網",
-   "date": "11-15 10:11",
-   "iso": "2026-11-15T10:11:10+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT2RlcHdGRHZEWU1YQ2stMTVzV3VocFNadVNLQVJsNDZheVB0TGNaWGwyajVwenhSbzhzRUpjUUVROC1GWVpBQkFfY2pndS1Ec0s3Q2FaRHNqUjRyNUVob20yU3BwaXVPS2dGZTQyM0RFV3VZQ1NVSzhuaFhWSFptOHMwcnJWZ1A4YU5N?oc=5"
   }
  ],
  "ok": true,
