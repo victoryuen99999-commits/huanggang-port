@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-15T19:06:59+08:00",
+ "generated_at": "2026-11-15T19:14:47+08:00",
  "date": "2026-11-15",
  "weekday": "星期日",
- "clock": "19:06",
+ "clock": "19:14",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "新皇崗口岸落客區2車失控撞牆 路政署將補鋪防滑物料",
+   "source": "大紀元時報香港",
+   "date": "11-15 11:07",
+   "iso": "2026-11-15T11:07:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0RF8wMzJTSDd0ZE1Icm5ud205VE8zbWl6MUZGanZkNGZtbWxDWEtmeXpyN3dnLXE1eDFSYU1hbmZrc21GRHFxUEZOb1BENTVvM1Z5TTZnam54LWFZdURr?oc=5"
+  },
+  {
    "title": "新皇崗口岸｜旅巴疑跣胎撞牆 路政署：正加設防滑物料 - i-CABLE",
    "source": "i-CABLE",
    "date": "11-15 08:17",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-15 00:41",
    "iso": "2026-11-15T00:41:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOUUdmbEdXdWQ2TnRiT3RiOXAtTEs0OWcwSE1mTVg0c3lHSzNSMFc1RF9oYk9oUU94b3BTallpdjlCbWNvQVRnWlJkZVVYaVNjMi1QdC1Pa1hqR0k4VUZTcEpZV2pnUVk1SFplQno2bngwM3pOOF9vajdwcHlCMERvZlEtWlBlX0lZLTZjRmhIclJOQWlWMDFCMC1NUXFwOFFkRU9MSlpQZGdwWE1ndlY1TGhXRVpRZEhmQVJ6VkF2dGZLR3E0ZDVUMGRRS1pla0drbmd3bGdtemVUM2xQZUV6TDVrR25naEdwZ3ZhbTBfR2o5ck5JZFlSQlpsSi16ZGdTdG1rUHVnd3FSZzNTRlhCaVg3dkJqRUlCTDNyeUg1U1kwcm5zUThUcXNNR0Iwb19JUFFjZVhPUHB6OHBpQUVhREVQaTBZcnVwbl9fVHpqdVNiczNZLVp4bDh0aFVKbzM0RDJzWGltNnRMcjhRbk1Vc1lJNnBNamVVcHkyUjlJRmdJNFdNeUI0ckh0UlNWU21TcHdQbDJ5MWJ1VGM?oc=5"
-  },
-  {
-   "title": "【本報直擊】警體育園遏「白牌車」見效記者順暢過皇崗- 香港",
-   "source": "香港文匯報",
-   "date": "11-14 20:47",
-   "iso": "2026-11-14T20:47:31+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fZW4wYVl2RlBhNV8zMUNKWGRBQ2pxTXdkdzZoM3I4SmFWWG9Cc084TENpSlNwdGs0NjB5Qm4tN2l0NWg4aHlqVTc0SExaVEUtVVRxV1M3THZBbXUzQ2JNMHlpRzZITWNKTlZEd2hhN1Q4dXdWaTJB?oc=5"
   }
  ],
  "ok": true,
