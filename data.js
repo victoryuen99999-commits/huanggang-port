@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-15T22:55:12+08:00",
+ "generated_at": "2026-11-15T23:01:22+08:00",
  "date": "2026-11-15",
  "weekday": "星期日",
- "clock": "22:55",
+ "clock": "23:01",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "衛蘭紅館演唱會首日散場數百人等巴士到皇崗 九巴﹕即開6 車疏導人流",
+   "source": "巴士的報",
+   "date": "11-15 14:18",
+   "iso": "2026-11-15T14:18:01+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNYURQZlJIeUhZN1ZWbFVLLTRUTlllR182WndEZ3J4UlRlTm5EbDltNFYyZXNMYWlYWm5iRUN5WTNCV2xWNXhNd2U4STJ2SEszSzUzWjVmV1lmZ1N6LWdrTHNwUUtGS3YxSVJoamlVT1ZtdUgtd1NDWWhqd05QeE53Qm9SN1FidWNzMEFlaXBiNXgtUWlhc1E3bWtQUTlxeGdYVENrZnExRlZKNUNhaXc3aktZeVZ0RXRxOEQtLXlCUlhncjJ0M0hHWW9fS2JIaGNlanJmczh4N0t0dXNEYmhsVTRsNFBqeUdlZEtLbmhLMm9Ia2tXWGZJbmYzdFJEamh1S0dDSEFEbS03TzhQUTFRSUZ3ek9wMDFmbTFnZWkwWTFVRmJDOEVlLVl6WnFGNW93aEhwbkxrbjJjdFJkX3k5c2NNQnNGNkQ1X2lSdTZfNHRmVTlfTVU2SS1ZdWhnRUlrd0RsTXJSTUV2WG5lR2pR?oc=5"
+  },
+  {
    "title": "衛蘭紅館騷散場數百人等270R 九巴：研開特別班次往新皇崗口岸- 港聞",
    "source": "dotdotnews",
    "date": "11-15 14:12",
@@ -102,17 +109,15 @@ window.HGP_DATA = {
    "date": "11-15 08:10",
    "iso": "2026-11-15T08:10:39+00:00",
    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNV2tGbzRpektYRGJvVDc3LWlfdkhOaVVqSVlRQWdESnR6Y2cyUEhHd3pTWFNhd1FabjljbnR1TU1YVFd0dExKZGlJaDI4Yng2RHN2emFYa01WLVJCWFFFeXlVWDdhc0FLMlM1d0U4RTgxbURLdzRJV3h2RUZnV2xHN01NZm5QNVJsWnhyUHFpaHpqTXRyNnVYNDZNU2xTM2RtU3dESzRIN2ZwTlVvcFVKSU1TVVNPb2N0Um5vNEZtZTJONDFXZWxCZEtXdnVNWkllekkwcUtGN3dDa2dLQ2lMUl9ZaXlrbkxEXzRadzJxMlRzNmZzOHp5NU5GNU9jM2pKeFViSHZvVENKUms2NjBnSGpWakFpYWp1UDJYRjlQV2lmc0ZCTWhmREE0VlNRc1Vtc2hCT0JMX09wa1lyVTQybHItSmlzMjczWWdVaFdFUkR4dWZMQVFyVGRYOTA4Y19rdERUdG5GYTJPX0l3YUd3?oc=5"
-  },
-  {
-   "title": "體驗新皇崗口岸北上在港外商探訪APEC地標：看到科技與產業的蓬勃活力- 港聞",
-   "source": "dotdotnews",
-   "date": "11-15 07:20",
-   "iso": "2026-11-15T07:20:03+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZYkctV3FLeWFYbE1DbTFhemlHM2xESVp1MTdpS2tOY1RESkxRd0Fad2FCY1J0VlFBalNUYmtVZ2RxWDFYWXdLczV0M2pUR0hRdTlQeHRpZWxQeDJMRFBHQ0YtMFNhSU1OVzYydFdjSUJsSUYtaVhZZElB?oc=5"
   }
  ],
  "ok": true,
  "vehicle_events": [
+  {
+   "t": 1794752281000,
+   "s": "巴士的報",
+   "ti": "衛蘭紅館演唱會首日散場數百人等巴士到皇崗 九巴﹕即開6 車疏導人流"
+  },
   {
    "t": 1794747615000,
    "s": "dotdotnews",
@@ -129,6 +134,11 @@ window.HGP_DATA = {
    "tag": "天氣",
    "text": "天文台現時無天氣警告生效。",
    "level": "ok"
+  },
+  {
+   "tag": "夜更",
+   "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
+   "level": "warn"
   },
   {
    "tag": "週日",
