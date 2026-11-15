@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-15T16:58:47+08:00",
+ "generated_at": "2026-11-15T17:06:20+08:00",
  "date": "2026-11-15",
  "weekday": "星期日",
- "clock": "16:58",
+ "clock": "17:06",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 25,
-  "humidity": 71,
-  "wind": 6.1,
+  "temp": 24,
+  "humidity": 74,
+  "wind": 7.4,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 26,
@@ -60,6 +60,13 @@ window.HGP_DATA = {
   }
  ],
  "news": [
+  {
+   "title": "新皇崗口岸接連跣胎撞牆 路政署日內加設防滑物料",
+   "source": "巴士的報",
+   "date": "11-15 08:10",
+   "iso": "2026-11-15T08:10:39+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNV2tGbzRpektYRGJvVDc3LWlfdkhOaVVqSVlRQWdESnR6Y2cyUEhHd3pTWFNhd1FabjljbnR1TU1YVFd0dExKZGlJaDI4Yng2RHN2emFYa01WLVJCWFFFeXlVWDdhc0FLMlM1d0U4RTgxbURLdzRJV3h2RUZnV2xHN01NZm5QNVJsWnhyUHFpaHpqTXRyNnVYNDZNU2xTM2RtU3dESzRIN2ZwTlVvcFVKSU1TVVNPb2N0Um5vNEZtZTJONDFXZWxCZEtXdnVNWkllekkwcUtGN3dDa2dLQ2lMUl9ZaXlrbkxEXzRadzJxMlRzNmZzOHp5NU5GNU9jM2pKeFViSHZvVENKUms2NjBnSGpWakFpYWp1UDJYRjlQV2lmc0ZCTWhmREE0VlNRc1Vtc2hCT0JMX09wa1lyVTQybHItSmlzMjczWWdVaFdFUkR4dWZMQVFyVGRYOTA4Y19rdERUdG5GYTJPX0l3YUd3?oc=5"
+  },
   {
    "title": "體驗新皇崗口岸北上在港外商探訪APEC地標：看到科技與產業的蓬勃活力- 港聞",
    "source": "dotdotnews",
@@ -108,13 +115,6 @@ window.HGP_DATA = {
    "date": "11-14 20:30",
    "iso": "2026-11-14T20:30:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQUVo3NFozdllfVzRJMXp1QVo0T3NjMzdTSzQ3TkhyOVBHUnpLYWl2TDdqaGx2MEFMSDlYX3dPdWcwMUxSV3IyWC1KdGk4ckNHbFRWT1V4OHFDb1o2enBWT3lxaWU2NkJnVUxQOUp1WllsSV9mbFUyMGxYQTlqSFVxWDRacXYydDJ4V25ybjd2OEVJb05WamxvcXF6eDdUdDN4YnV2QXdYd2VQdkx1OUFHMHVOLVRkR1J3YXBibEwzQWVaOVI1WjNXYXE2MHdqbUZ0YlhHOUtwNVA4b0dmeEl4NmNZY1VMcE56Y3FCN00ycG01NjctMHk0bDNrblVxWUdIT3M1X2dvVVYxa2VNSnFLNTJtTzJxWGNmYXIwdVRjUWNET0p6Mm5YWEo4c3JrRGRiZWhFZnZuZE9fT1JMM243UGZwa0pSanlERmZ0U1EwWlpmYS15aGIyZFpKOXlxcllLWFRNYWM1TE5tUQ?oc=5"
-  },
-  {
-   "title": "新皇崗口岸發生連環「跣胎」 撞牆意外直通巴車頭損毀的士乘客報稱受傷",
-   "source": "巴士的報",
-   "date": "11-14 15:00",
-   "iso": "2026-11-14T15:00:02+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOb3NSU1dlQmJZNlRtSDBfbE5kU0t4dFBSVnlaVTg0dGUzMUxEd3FaMjcxc0o2dmgteVQycEZsRG4xNExoYkZOQl9TVktPMV9mcnozQ2Fmb2s4MURNSE1obU04TnlpZVZjSnhYaENsU05kcjQzVi1Tb3REdDE4V0dUa09CRmtvOXdCd282aFhlMXhnZ3lsdVN1aDN3T2tyT2NINHdYOTlRemd2cWdKRnc4UDBySGxyV2NUQ3FFTmNFeTVXTTdjM2haNDBPRGFxYXc3UDQ2ZzdwMGI2OWowUXlyNllTZEl0X0NKb2Rnb09ac1VLX1JXSjdPS2N5d1ZPZk12Y0hQLW1lWVNHanVRN1NRTGJSa2Q4Q2NBRVNhQUdRazFRV0hYNFVHUTIxN2FSQTU0XzBkYUJoWEdlOTdZTW14MXVGdEw3c3ZiSnU4Y1l1VWdpVGpvQjIzQm52dy1Wa2NhQndoa2FqSUkya1J0LTJR?oc=5"
   }
  ],
  "ok": true,
@@ -129,6 +129,11 @@ window.HGP_DATA = {
    "tag": "防火",
    "text": "火災危險警告生效：吸煙、明火、戶外焊接及燃燒作業須停止或按程序審批；留意雜草及垃圾堆積起火風險。",
    "level": "warn"
+  },
+  {
+   "tag": "傍晚",
+   "text": "雙向高峰：出境（北上）與入境（返港）同時加壓，L2 候車區最擠。",
+   "level": "info"
   },
   {
    "tag": "週日",
