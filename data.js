@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-15T17:12:29+08:00",
+ "generated_at": "2026-11-15T17:18:40+08:00",
  "date": "2026-11-15",
  "weekday": "星期日",
- "clock": "17:12",
+ "clock": "17:18",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 24,
-  "humidity": 74,
-  "wind": 7.4,
+  "humidity": 76,
+  "wind": 8.2,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 26,
@@ -60,6 +60,13 @@ window.HGP_DATA = {
   }
  ],
  "news": [
+  {
+   "title": "皇崗口岸巴士落客區兩宗打滑撞牆 路政署指位置不在防滑物料範圍",
+   "source": "GOtrip.hk",
+   "date": "11-15 08:15",
+   "iso": "2026-11-15T08:15:50+00:00",
+   "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPa1ZvS2xBTWdrMGNOZGJPRHVBRHZvZVkyM3pqTjJPM3BxQ1FSQmdVbWZlX0FHeF9NNm5YeEpwMjd0a3Rud1lIaUhmY08xMnhXclc5aWdYWnZDVWZ2X2NaaHIxVG1MamJHUGtSaTNtRDlwbjVZMU04V1pkQWJjYWM3LVRoQUhVdXFlWTZRdlVFZFJ0Q1hnMjV1amZudEs3ZF9oVVRyRW5mN0lvdDNlNV9IT0lrNUNKZnlQLWhlT3M2ei16ZVQ3VjVuYlFwMnAtejFTZFhnNjlhQU54WnlsRzAtNmFadlRNN0xNZU5wRm1WUWtHU25mYm9VRnVPaHpVSTFXVjFscTJpeUZvSVlJbFBzUGp6NUZpSTJwM0hSbzZ6em9icm1lRWxSbXFjTnR3eVU5b1JIMDhMSW5YalNIRTNiYVVnUFBPcTVTaGtkclJGcG1hWG9iZVowN29WcDFCbjJIX0lEVnNuUDdRbUthalhqYTNoVjV5NW1SWTkxa055VUc?oc=5"
+  },
   {
    "title": "新皇崗口岸接連跣胎撞牆 路政署日內加設防滑物料",
    "source": "巴士的報",
@@ -108,17 +115,16 @@ window.HGP_DATA = {
    "date": "11-14 20:47",
    "iso": "2026-11-14T20:47:31+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fZW4wYVl2RlBhNV8zMUNKWGRBQ2pxTXdkdzZoM3I4SmFWWG9Cc084TENpSlNwdGs0NjB5Qm4tN2l0NWg4aHlqVTc0SExaVEUtVVRxV1M3THZBbXUzQ2JNMHlpRzZITWNKTlZEd2hhN1Q4dXdWaTJB?oc=5"
-  },
-  {
-   "title": "新皇崗兩車跣胎撞牆 業界：運署稱加鋪防滑 - 20261115 - 港聞",
-   "source": "明報新聞網",
-   "date": "11-14 20:30",
-   "iso": "2026-11-14T20:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQUVo3NFozdllfVzRJMXp1QVo0T3NjMzdTSzQ3TkhyOVBHUnpLYWl2TDdqaGx2MEFMSDlYX3dPdWcwMUxSV3IyWC1KdGk4ckNHbFRWT1V4OHFDb1o2enBWT3lxaWU2NkJnVUxQOUp1WllsSV9mbFUyMGxYQTlqSFVxWDRacXYydDJ4V25ybjd2OEVJb05WamxvcXF6eDdUdDN4YnV2QXdYd2VQdkx1OUFHMHVOLVRkR1J3YXBibEwzQWVaOVI1WjNXYXE2MHdqbUZ0YlhHOUtwNVA4b0dmeEl4NmNZY1VMcE56Y3FCN00ycG01NjctMHk0bDNrblVxWUdIT3M1X2dvVVYxa2VNSnFLNTJtTzJxWGNmYXIwdVRjUWNET0p6Mm5YWEo4c3JrRGRiZWhFZnZuZE9fT1JMM243UGZwa0pSanlERmZ0U1EwWlpmYS15aGIyZFpKOXlxcllLWFRNYWM1TE5tUQ?oc=5"
   }
  ],
  "ok": true,
- "vehicle_events": [],
+ "vehicle_events": [
+  {
+   "t": 1794730550000,
+   "s": "GOtrip.hk",
+   "ti": "皇崗口岸巴士落客區兩宗打滑撞牆 路政署指位置不在防滑物料範圍"
+  }
+ ],
  "tips": [
   {
    "tag": "警告",
