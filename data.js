@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-16T00:33:50+08:00",
+ "generated_at": "2026-11-16T00:40:06+08:00",
  "date": "2026-11-16",
  "weekday": "星期一",
- "clock": "00:33",
+ "clock": "00:40",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -62,13 +62,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNYURQZlJIeUhZN1ZWbFVLLTRUTlllR182WndEZ3J4UlRlTm5EbDltNFYyZXNMYWlYWm5iRUN5WTNCV2xWNXhNd2U4STJ2SEszSzUzWjVmV1lmZ1N6LWdrTHNwUUtGS3YxSVJoamlVT1ZtdUgtd1NDWWhqd05QeE53Qm9SN1FidWNzMEFlaXBiNXgtUWlhc1E3bWtQUTlxeGdYVENrZnExRlZKNUNhaXc3aktZeVZ0RXRxOEQtLXlCUlhncjJ0M0hHWW9fS2JIaGNlanJmczh4N0t0dXNEYmhsVTRsNFBqeUdlZEtLbmhLMm9Ia2tXWGZJbmYzdFJEamh1S0dDSEFEbS03TzhQUTFRSUZ3ek9wMDFmbTFnZWkwWTFVRmJDOEVlLVl6WnFGNW93aEhwbkxrbjJjdFJkX3k5c2NNQnNGNkQ1X2lSdTZfNHRmVTlfTVU2SS1ZdWhnRUlrd0RsTXJSTUV2WG5lR2pR?oc=5"
   },
   {
-   "title": "新皇崗口岸再有巴士行錯路撼天花指示牌月內第三宗- 香港",
-   "source": "香港文匯報",
-   "date": "11-15 14:12",
-   "iso": "2026-11-15T14:12:20+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzaHNRVHRIRFJfR19hUENEN3ViVjBqdnBQVnQ1OF8zdVRzYXlmcXQzZkJ6Q2FPSWMyejZKalRUM2ZrcUVnaXJzTS1FTEtEQkJqejVXQlVnbmgtTnpWRFoyb0V6ZVVNQnJMcU56clZYOVhNYWpQTWdN?oc=5"
-  },
-  {
    "title": "衛蘭紅館騷散場數百人等270R 九巴：研開特別班次往新皇崗口岸- 港聞",
    "source": "dotdotnews",
    "date": "11-15 14:12",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "11-15 13:00",
    "iso": "2026-11-15T13:00:15+00:00",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BMHp4OF90Z1pyNTg3QnBLQ2FmNUJxdUdkcTRtZzNDMy1FSzFGMmxrOG9sT0hYUEFUVVRTVzdmTlk4V0pQOW9SUmVlMFAyR0gzbUNOTEpDWV9UU2RHdmhvWGRLMHNhVWIwMFJiM0VDemlncnprOTVyRWFn?oc=5"
+  },
+  {
+   "title": "新皇崗口岸｜城巴撼天花懸掛交通指示牌 月內第三宗同類意外",
+   "source": "香港01",
+   "date": "11-15 12:20",
+   "iso": "2026-11-15T12:20:38+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNUnZzZW52NmJDVVJjVlVPcHFFQ1AxbnR5OHllMmVqN3hlQi04d1JSLWNsUHpFT1dtQmNHcjlHWE96dVNRNUJrNzlBYjNjNnp6YTFXT2V6RElEVEd5aC1SS2pxalhhb1RoUEhqS3ZQMkZ6Q3RQUDZOWEQ2Mm5FaVNlMVNPeElHc2dUUHpRNXRoR0ppZHc5MS0zNGoxWFlBM3ZmNHdDemo4TjZtRndUSjhYbDc2S1NpckZmdHhQVFlfcUhMYTRNZlZFQ2tTQk9yYmFNcmlQN3cxTmRIMmF5am95MEhWbFdrMllvMkZzN0RaakdfQ1NyYTNGb2xxck01cklwbVEyZFBHRV9YcXd4cGhCdkVfbmNxWVNLRnFZRFZaQzl0M2VpMFJnS3h5UHJOLVJFVURiZ05ULXVlZkZEV1gyZTlrVXJ6Z2dPNVMzbjhqTEZYalJVRTFMazYzcDRVd0RJT1NzZURvbkY5V0ZmR3NMX2d0SXNEM0taS3RsWDJaRzdLNXhmSGVqMXBLUVRna2NjNWpKNUhuaHI?oc=5"
   }
  ],
  "ok": true,
@@ -117,11 +117,6 @@ window.HGP_DATA = {
    "t": 1794752281000,
    "s": "巴士的報",
    "ti": "衛蘭紅館演唱會首日散場數百人等巴士到皇崗 九巴﹕即開6 車疏導人流"
-  },
-  {
-   "t": 1794751940000,
-   "s": "香港文匯報",
-   "ti": "新皇崗口岸再有巴士行錯路撼天花指示牌月內第三宗- 香港"
   },
   {
    "t": 1794748953000,
