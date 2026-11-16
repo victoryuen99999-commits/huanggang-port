@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-17T01:08:24+08:00",
+ "generated_at": "2026-11-17T01:41:43+08:00",
  "date": "2026-11-17",
  "weekday": "星期二",
- "clock": "01:08",
+ "clock": "01:41",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 22,
   "humidity": 90,
-  "wind": 9.1,
+  "wind": 8.8,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 28,
@@ -55,11 +55,11 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "時事全方位｜演唱會白牌車(一)",
+   "title": "時事全方位｜演唱會白牌車(二)",
    "source": "Now 新聞",
-   "date": "11-16 06:35",
-   "iso": "2026-11-16T06:35:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DSTVkbW9jTEhOcVRJcEdLZW5TRTMzZVpyb29vX3VVVDRqRnl6N1B4OWQ3bHVVcHhxMjhjMDh5eGs1M0h4TTd6ODA3Z3ZUR013VE9iNmFQSW80b3ZnVG00WHFn?oc=5"
+   "date": "11-16 06:36",
+   "iso": "2026-11-16T06:36:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkdVZJeEdUZmNSdnY0MFRGWkFjM2lZaHU5eUNtYkhjOFBOLXRoQXdfOEZyb016NDJxUnFuTGY0ZmIyMGxCMnVDZzRVSkRoejRidHBCQ18wOUVuVFp3dFUwTDNR?oc=5"
   },
   {
    "title": "新皇崗口岸巴士線｜城巴B14變全日 九龍區客轉乘優惠一口價$20.8",
@@ -83,13 +83,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOVml4MWp6YURJWjN6bjJ4TkR0NDd0T2g1WVhKTk50OWcxemIwMm1NSWM1RzhiZS1rMVp6Z1pNWnIzLW82NVkwOGlmNFJCcEFEeWVtWnZLazcyTlFsNk92dVJveThSMWdyX0FEQllfTUQ0em1xZmtFMXZRejRlbGp2Wm9GS3pWbXJZSnZubHlWNTc5VGhLcjBtUmlCV3ZwZTJSVzByWU1TRWxmand4bWtjR3RkVmlwZmtDNWVidElnMTNSZDJKQkplTGJ5azBHc0d1WUFVaHRnX0o2VHptRGt0VDh5RmdwUUg1RWJhMnhjM1dNUFN1cWU0OWFvdGVhSzY3TUhVSjl1VExaN1VoaHNYTjhib3RQTURQc0otYWtlSEJGdmEtWF9Ib2t6ZEhBOHAtQjN0N3ZQM21XbHBpd1hMd21ETTRDbDVBY0hOYnFWaF9vdw?oc=5"
   },
   {
-   "title": "新皇崗交滙處路滑 多次發生跣胎意外",
-   "source": "信報網站",
-   "date": "11-16 02:13",
-   "iso": "2026-11-16T02:13:22+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPSFo4T0p5cHI5NldZV3B3cnpHdTBEaTNfSjJEWlVhdHExM3UxdDNZQ0dVMVJqekhyQ3NJblZ1RjlyMmlEY1VxS1JkRlhmWjlNUVFRUncwaTRHM19LaVZiSjlhZndjejVyYmF5Y0FWaHRQdWN5Nmw4M2RKa0l1Z3l4aWR0OUstek5JdUNyVzN3S2dXNW1wanU0TEpaT1pLYWRNUFFkNWJkRFdwNXVKOTFfZ1VoQkR4WHJLMzdtTm1SNWNXX2NiNEhUZVJidDBJdHNZQVlwREwzOUY4QlpqUkUzRmVfY3RfR0VkdkFGWkpEVjk2U1pmX21FLXJZZzRqNTdTVlpGOUo1Y2t1ajduRHlMTDQ0M1l6V2tYUzZuMzVaMVpvRHZObVZXV1hB?oc=5"
-  },
-  {
    "title": "5分鐘通關、20秒自助 新皇崗口岸提速迎APEC",
    "source": "香港文匯報",
    "date": "11-16 00:43",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "11-15 20:01",
    "iso": "2026-11-15T20:01:08+00:00",
    "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOTGFOS2ZQYW9RVUJoaEtDNXVCNnV6bzgzZ3AyaTJCYnk5dW01emFtcFpCaFgxX184SE10RGx3N1FrbmVTcWZxOVpaMWFrUTlkOVhZaTJ1LTR1dFo0MmJrbjVUMGtIbTM1ODZEZWNpUE5TVlJsSWxpRnNIOXIxR19ZQXVsckR1Z3BQMU9hbjAzVmgweGlJdWpkTlhiRk9hN294VUNjLXl5Ry0zNVk2ZEZ3OXdpZmJITnNsWWtLaDNPd3NiM3d4eTZJMzlucFFYWnYtZGNQOGpkVlhIMlF6Z0dYOFVhTHZITWZ3aFJZWHZPSGhnZE1QbGM1RVlXZ3ZtSnlyZGlTQVY3b1RjZHZrQ3ZmWENjel90ZTluRjUzaGRwU2pjUVpsOW1DODVVWlgtWVIxRlVLczhQeUNzY0t3MTJuemx6bWF0a2h3ZDdFUEZrTzNEdnQ0NTh2eWZaeDljUGZ4LTNkS2dKRTlIbzJ0Y2IwMjAwd2xhZzBOaHp3SUFB?oc=5"
+  },
+  {
+   "title": "新皇崗口岸｜再有巴士行錯路撼天花指示牌 月內第三宗 - Sing Tao Daily 星島日報加拿大",
+   "source": "Sing Tao Daily 星島日報加拿大",
+   "date": "11-15 19:41",
+   "iso": "2026-11-15T19:41:15+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPeE93bHpIQXF5Zjc5SGNkMUhsYkpmdUFmQ0Y5OTEtQk5raEZGUHNGNTUxLW9uV1MtVnFWd1dVS1g4NnRTN0p1bGVPX3RTSE5Qek00d0dRc2lHTHRjNE5GNjJXeFN5SmtWc3N6Z2luOHJIWnlRbFR1eGk1Q2JScjUzS1RwMVdlYVQtaC1Id3JhY0IycHJIX1VuWGpGRDBGRHIxTng4cDd6c0t0YUlrUldpZzNKX1dTUGJjRVRUMTEyZlVqb3BjWFVqbzlKQUx4Zkdmc0U3UGFGU1NtZnJHTGdnOW5sMXg1eVY4dDFDSm8tWUpSVWJDbWtYTllIdFNKZVpRZm5ZOGNkYzFRbDFJdlhydk9WWHZ6ME9tUk01VF9MZlNOYW9tXzJncGNPeGlJeFFuZzctUkRaUWRYZ0VxZkRCOURwd1ROZ213RFNyblg2cmRYaHNTSUZnUTY4c2hkdjY0UGRDd2JWVmx5N2w5bmFtOTFwWFRJX3ZOZ2JDRmFB0gGKAUFVX3lxTE13LS1IMDRxbFFVY1B5UDJnT0Y4TlFmQ09ra0FVbTMyZ01IbzFtUExrUFoxZnFVaVdvOVF0NjBFSUVUUjRXWlhSWlFmcmd4aE5GMms3VlNuS2ZnWTBfTC1OUXRRRDdXb0xnZ2lHNkhWS3BXUE5wV1B2Sk9oWC0tbERjTVdORHJybm5jdw?oc=5"
   }
  ],
  "ok": true,
@@ -122,6 +122,11 @@ window.HGP_DATA = {
    "t": 1794797869000,
    "s": "Yahoo",
    "ti": "皇崗口岸跨境巴士疑路面防滑欠佳撞牆 路政署：將加設防滑物料"
+  },
+  {
+   "t": 1794771675000,
+   "s": "Sing Tao Daily 星島日報加拿大",
+   "ti": "新皇崗口岸｜再有巴士行錯路撼天花指示牌 月內第三宗 - Sing Tao Dai"
   }
  ],
  "tips": [
