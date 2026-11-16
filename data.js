@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-16T08:56:51+08:00",
+ "generated_at": "2026-11-16T09:03:01+08:00",
  "date": "2026-11-16",
  "weekday": "星期一",
- "clock": "08:56",
+ "clock": "09:03",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,7 +44,7 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 84,
+  "humidity": 81,
   "wind": 8.5,
   "code": 0,
   "desc": "天晴",
@@ -60,13 +60,6 @@ window.HGP_DATA = {
    "date": "11-16 00:43",
    "iso": "2026-11-16T00:43:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kX0VpRUhmNlpkU0hELThxQ05MNkVSNWxnWG1xdmY3d1A4ME5xVVpGZlpScndYc0N6ZnhQUVAyU0Y2MjhBdTlaUVBWdE1uRHFzM21Pb2lZSTZJM3dKd0stN2dXQVVWbmRabHJtVWl5ZkFYWWZCMzY0?oc=5"
-  },
-  {
-   "title": "皇崗6條APEC專道開啟 通關僅5分鐘 24小時「即到即走」",
-   "source": "dotdotnews",
-   "date": "11-16 00:07",
-   "iso": "2026-11-16T00:07:41+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CTERfRUtkeDM4MUc5ZjJaX3laQnk3d3Rna1pPNVppcm10ckJLX29qUkRjQ3VQbDlVbU9pWUp3b3dzeUsxNExmbDdmNGEtTEUyTURIZGZiZktyTUVqUGl0LTBjVnRKU3BFbHVYTW0ySDlDXzdnZDZRSFhR?oc=5"
   },
   {
    "title": "報章要聞｜文匯：皇崗6條APEC專道開啟／東方：市民自創聲演推廣禮讓",
@@ -88,6 +81,13 @@ window.HGP_DATA = {
    "date": "11-15 19:41",
    "iso": "2026-11-15T19:41:15+00:00",
    "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPeE93bHpIQXF5Zjc5SGNkMUhsYkpmdUFmQ0Y5OTEtQk5raEZGUHNGNTUxLW9uV1MtVnFWd1dVS1g4NnRTN0p1bGVPX3RTSE5Qek00d0dRc2lHTHRjNE5GNjJXeFN5SmtWc3N6Z2luOHJIWnlRbFR1eGk1Q2JScjUzS1RwMVdlYVQtaC1Id3JhY0IycHJIX1VuWGpGRDBGRHIxTng4cDd6c0t0YUlrUldpZzNKX1dTUGJjRVRUMTEyZlVqb3BjWFVqbzlKQUx4Zkdmc0U3UGFGU1NtZnJHTGdnOW5sMXg1eVY4dDFDSm8tWUpSVWJDbWtYTllIdFNKZVpRZm5ZOGNkYzFRbDFJdlhydk9WWHZ6ME9tUk01VF9MZlNOYW9tXzJncGNPeGlJeFFuZzctUkRaUWRYZ0VxZkRCOURwd1ROZ213RFNyblg2cmRYaHNTSUZnUTY4c2hkdjY0UGRDd2JWVmx5N2w5bmFtOTFwWFRJX3ZOZ2JDRmFB0gGKAUFVX3lxTE13LS1IMDRxbFFVY1B5UDJnT0Y4TlFmQ09ra0FVbTMyZ01IbzFtUExrUFoxZnFVaVdvOVF0NjBFSUVUUjRXWlhSWlFmcmd4aE5GMms3VlNuS2ZnWTBfTC1OUXRRRDdXb0xnZ2lHNkhWS3BXUE5wV1B2Sk9oWC0tbERjTVdORHJybm5jdw?oc=5"
+  },
+  {
+   "title": "新皇崗交滙處路滑 多次發生跣胎意外",
+   "source": "信報網站",
+   "date": "11-15 18:34",
+   "iso": "2026-11-15T18:34:30+00:00",
+   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOX2pnakMyMEg3cWo2RUlOZVZwdXFpbjFWZkV0MERQczdodF9uTUhJU19oUV93a3RKMjhydzctbUpzVTBqaW42Ty1qcXpONV84VlhpSUJZVDNDaDJoeHV4Q2lvYm1YZEYzZW5fMjZBR1UzZ05Xay1qaDc5dFlkQmozTmEwcUVjbm9BVUVvQTVJMFhUbjk3aWpyWGVsUTFfblJ6TGVDYm5aSklHZkduNjlhWWxGSm9iRy1CbTc3UzA3NVpsUm4zYUxuNUhabDQzdjd6SDJkYW5GZTJpeDAwSDlUN2xwYnpzYjA4WjBzUkc0WlBzaV9pQWk4M2NkZlYtS3ZqV3VMWjluOEdMTGw5UkwtQXlVUm0tR21wUE9pR0NJM0U3MlR1Vm9B?oc=5"
   },
   {
    "title": "衛蘭紅館演唱會首日散場數百人等巴士到皇崗 九巴﹕即開6 車疏導人流",
@@ -134,11 +134,6 @@ window.HGP_DATA = {
    "tag": "天氣",
    "text": "天文台現時無天氣警告生效。",
    "level": "ok"
-  },
-  {
-   "tag": "早更",
-   "text": "跨境上班上學人流集中，出境大堂及 L2 交匯處會出現短時人龍。",
-   "level": "info"
   },
   {
    "tag": "通告",
