@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-16T15:21:59+08:00",
+ "generated_at": "2026-11-16T15:28:08+08:00",
  "date": "2026-11-16",
  "weekday": "星期一",
- "clock": "15:21",
+ "clock": "15:28",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -62,13 +62,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkdVZJeEdUZmNSdnY0MFRGWkFjM2lZaHU5eUNtYkhjOFBOLXRoQXdfOEZyb016NDJxUnFuTGY0ZmIyMGxCMnVDZzRVSkRoejRidHBCQ18wOUVuVFp3dFUwTDNR?oc=5"
   },
   {
-   "title": "皇崗口岸跨境巴士疑路面防滑欠佳撞牆 路政署：將加設防滑物料",
-   "source": "Yahoo",
-   "date": "11-16 02:57",
-   "iso": "2026-11-16T02:57:49+00:00",
-   "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOSHNjRmhOTkI0d0tXQ3pnbzd5Y2VWOTNrcTd1SXVjREp5eXlTdG0yLTdOeFFGRWxWNTBqbUhZMDROZWJXcFVUcGhLd2JHQ3BhRmU4RTN5S0dmWUtkLURmN3lDb29ZSU1YcjhmaHFIR2FvZzEzZFU4WG4xelZWS1VWeWI3YnIySThkTEg0LXNWMTlrckM2VVJpZHY4bENQbjhXZzkwTm1yaDhtVFdiYUFrR0tGYzk5RU56LU9ueEhlUHlFQjkwTkJxbGRRZTlRZVZ2UkVIU1pjUHh3OWZ4b2hmcldjWXhZSXROT09zUjY2MHBiMmF1WTUxLWk4V2xOSGRGelRsU2NfWDQ2S0RXby01Z0lRYkw2OWRmMWZmT1NETU1fSnBRb0VRVFFzWG1pTldnMUNyTkV6cFlzc21mR0hSUFBLelQ1bWk5a2Q1SDZCUjFJYkVqcTRRSWU0TUxkcUw0eTd2OTU2b1BZSjRKQjFpVzE4WThTOHp3SHNKTUtrdUFfb0dTUTY2QXdtWl9fUXZ4QlBxMnRLVVVvQQ?oc=5"
-  },
-  {
    "title": "深圳APEC｜皇崗6條APEC專道開啟 5分鐘通關24小時「即到即走」",
    "source": "橙新聞",
    "date": "11-16 02:27",
@@ -109,19 +102,26 @@ window.HGP_DATA = {
    "date": "11-15 19:41",
    "iso": "2026-11-15T19:41:15+00:00",
    "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPeE93bHpIQXF5Zjc5SGNkMUhsYkpmdUFmQ0Y5OTEtQk5raEZGUHNGNTUxLW9uV1MtVnFWd1dVS1g4NnRTN0p1bGVPX3RTSE5Qek00d0dRc2lHTHRjNE5GNjJXeFN5SmtWc3N6Z2luOHJIWnlRbFR1eGk1Q2JScjUzS1RwMVdlYVQtaC1Id3JhY0IycHJIX1VuWGpGRDBGRHIxTng4cDd6c0t0YUlrUldpZzNKX1dTUGJjRVRUMTEyZlVqb3BjWFVqbzlKQUx4Zkdmc0U3UGFGU1NtZnJHTGdnOW5sMXg1eVY4dDFDSm8tWUpSVWJDbWtYTllIdFNKZVpRZm5ZOGNkYzFRbDFJdlhydk9WWHZ6ME9tUk01VF9MZlNOYW9tXzJncGNPeGlJeFFuZzctUkRaUWRYZ0VxZkRCOURwd1ROZ213RFNyblg2cmRYaHNTSUZnUTY4c2hkdjY0UGRDd2JWVmx5N2w5bmFtOTFwWFRJX3ZOZ2JDRmFB0gGKAUFVX3lxTE13LS1IMDRxbFFVY1B5UDJnT0Y4TlFmQ09ra0FVbTMyZ01IbzFtUExrUFoxZnFVaVdvOVF0NjBFSUVUUjRXWlhSWlFmcmd4aE5GMms3VlNuS2ZnWTBfTC1OUXRRRDdXb0xnZ2lHNkhWS3BXUE5wV1B2Sk9oWC0tbERjTVdORHJybm5jdw?oc=5"
+  },
+  {
+   "title": "衛蘭紅館演唱會首日散場數百人等巴士到皇崗 九巴﹕即開6 車疏導人流",
+   "source": "巴士的報",
+   "date": "11-15 14:18",
+   "iso": "2026-11-15T14:18:01+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNYURQZlJIeUhZN1ZWbFVLLTRUTlllR182WndEZ3J4UlRlTm5EbDltNFYyZXNMYWlYWm5iRUN5WTNCV2xWNXhNd2U4STJ2SEszSzUzWjVmV1lmZ1N6LWdrTHNwUUtGS3YxSVJoamlVT1ZtdUgtd1NDWWhqd05QeE53Qm9SN1FidWNzMEFlaXBiNXgtUWlhc1E3bWtQUTlxeGdYVENrZnExRlZKNUNhaXc3aktZeVZ0RXRxOEQtLXlCUlhncjJ0M0hHWW9fS2JIaGNlanJmczh4N0t0dXNEYmhsVTRsNFBqeUdlZEtLbmhLMm9Ia2tXWGZJbmYzdFJEamh1S0dDSEFEbS03TzhQUTFRSUZ3ek9wMDFmbTFnZWkwWTFVRmJDOEVlLVl6WnFGNW93aEhwbkxrbjJjdFJkX3k5c2NNQnNGNkQ1X2lSdTZfNHRmVTlfTVU2SS1ZdWhnRUlrd0RsTXJSTUV2WG5lR2pR?oc=5"
   }
  ],
  "ok": true,
  "vehicle_events": [
   {
-   "t": 1794797869000,
-   "s": "Yahoo",
-   "ti": "皇崗口岸跨境巴士疑路面防滑欠佳撞牆 路政署：將加設防滑物料"
-  },
-  {
    "t": 1794771675000,
    "s": "Sing Tao Daily 星島日報加拿大",
    "ti": "新皇崗口岸｜再有巴士行錯路撼天花指示牌 月內第三宗 - Sing Tao Dai"
+  },
+  {
+   "t": 1794752281000,
+   "s": "巴士的報",
+   "ti": "衛蘭紅館演唱會首日散場數百人等巴士到皇崗 九巴﹕即開6 車疏導人流"
   }
  ],
  "tips": [
