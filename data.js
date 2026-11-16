@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-17T06:50:58+08:00",
+ "generated_at": "2026-11-17T06:57:08+08:00",
  "date": "2026-11-17",
  "weekday": "星期二",
- "clock": "06:50",
+ "clock": "06:57",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -97,11 +97,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOSHNjRmhOTkI0d0tXQ3pnbzd5Y2VWOTNrcTd1SXVjREp5eXlTdG0yLTdOeFFGRWxWNTBqbUhZMDROZWJXcFVUcGhLd2JHQ3BhRmU4RTN5S0dmWUtkLURmN3lDb29ZSU1YcjhmaHFIR2FvZzEzZFU4WG4xelZWS1VWeWI3YnIySThkTEg0LXNWMTlrckM2VVJpZHY4bENQbjhXZzkwTm1yaDhtVFdiYUFrR0tGYzk5RU56LU9ueEhlUHlFQjkwTkJxbGRRZTlRZVZ2UkVIU1pjUHh3OWZ4b2hmcldjWXhZSXROT09zUjY2MHBiMmF1WTUxLWk4V2xOSGRGelRsU2NfWDQ2S0RXby01Z0lRYkw2OWRmMWZmT1NETU1fSnBRb0VRVFFzWG1pTldnMUNyTkV6cFlzc21mR0hSUFBLelQ1bWk5a2Q1SDZCUjFJYkVqcTRRSWU0TUxkcUw0eTd2OTU2b1BZSjRKQjFpVzE4WThTOHp3SHNKTUtrdUFfb0dTUTY2QXdtWl9fUXZ4QlBxMnRLVVVvQQ?oc=5"
   },
   {
-   "title": "5分鐘通關、20秒自助 新皇崗口岸提速迎APEC",
-   "source": "香港文匯報",
-   "date": "11-16 00:43",
-   "iso": "2026-11-16T00:43:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kX0VpRUhmNlpkU0hELThxQ05MNkVSNWxnWG1xdmY3d1A4ME5xVVpGZlpScndYc0N6ZnhQUVAyU0Y2MjhBdTlaUVBWdE1uRHFzM21Pb2lZSTZJM3dKd0stN2dXQVVWbmRabHJtVWl5ZkFYWWZCMzY0?oc=5"
+   "title": "深圳APEC｜皇崗6條APEC專道開啟 5分鐘通關24小時「即到即走」",
+   "source": "橙新聞",
+   "date": "11-16 02:27",
+   "iso": "2026-11-16T02:27:55+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOVml4MWp6YURJWjN6bjJ4TkR0NDd0T2g1WVhKTk50OWcxemIwMm1NSWM1RzhiZS1rMVp6Z1pNWnIzLW82NVkwOGlmNFJCcEFEeWVtWnZLazcyTlFsNk92dVJveThSMWdyX0FEQllfTUQ0em1xZmtFMXZRejRlbGp2Wm9GS3pWbXJZSnZubHlWNTc5VGhLcjBtUmlCV3ZwZTJSVzByWU1TRWxmand4bWtjR3RkVmlwZmtDNWVidElnMTNSZDJKQkplTGJ5azBHc0d1WUFVaHRnX0o2VHptRGt0VDh5RmdwUUg1RWJhMnhjM1dNUFN1cWU0OWFvdGVhSzY3TUhVSjl1VExaN1VoaHNYTjhib3RQTURQc0otYWtlSEJGdmEtWF9Ib2t6ZEhBOHAtQjN0N3ZQM21XbHBpd1hMd21ETTRDbDVBY0hOYnFWaF9vdw?oc=5"
   },
   {
    "title": "報章要聞｜文匯：皇崗6條APEC專道開啟／東方：市民自創聲演推廣禮讓",
