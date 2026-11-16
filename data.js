@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-16T22:25:16+08:00",
+ "generated_at": "2026-11-16T22:31:25+08:00",
  "date": "2026-11-16",
  "weekday": "星期一",
- "clock": "22:25",
+ "clock": "22:31",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 22,
   "humidity": 88,
-  "wind": 9.8,
+  "wind": 9.9,
   "code": 0,
   "desc": "天晴",
   "tmax": 27,
@@ -67,6 +67,13 @@ window.HGP_DATA = {
    "date": "11-16 04:12",
    "iso": "2026-11-16T04:12:25+00:00",
    "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOd3R3RTNOaHF4RDRRNHZ3RjRXNEdOZGRHMU5lXzB1b2ZUMTdtaTFid2lRSmVPblJucTdBck42eDlLRFNXMFJjRHZRVHVtOWxuU2kxX0czdzBDaUNzcDNoaE1wWmpmNDhKcjI5b1pfRVBMZzNEY2RJTmp3b0I1Q210d05JdHBlM1JrdVVUQ05kWG9naTR6RXF6ZjN3SDM2SXNXZVR3aDVvdnotWVhmWWtqZEhwLWZjdU81UkRkeGF1aWpmOUVRR2YtN2V0Wmlma1FSQXgxRDNKSEdiOEFzQ2VMM0ttVGVvekpBMkxBZl91MW9BVC1DaW9nMmg2SU1RYldUWTZ4VklKZEpXWE5seTN2WHI3SGtBOU1Ma0ppWnJTejhIWUdOaEdmaG5ib3JwZFBiaUw0NmM5cGIwbXEtU3ZCX2VEcDUzOWxjbjV6WEd6ZUFFdjdXTVRzVkdHeEZ2bnFVSUhUVmNTemltSWhCcHVvZFU4UUE0cHdOM21KMHVONDdSMFktWWU0dFdXWEM1X2libkhKazI0NEh2dV9XSTJuZHY0cw?oc=5"
+  },
+  {
+   "title": "深圳APEC｜皇崗6條APEC專道開啟 5分鐘通關24小時「即到即走」",
+   "source": "橙新聞",
+   "date": "11-16 02:27",
+   "iso": "2026-11-16T02:27:55+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOVml4MWp6YURJWjN6bjJ4TkR0NDd0T2g1WVhKTk50OWcxemIwMm1NSWM1RzhiZS1rMVp6Z1pNWnIzLW82NVkwOGlmNFJCcEFEeWVtWnZLazcyTlFsNk92dVJveThSMWdyX0FEQllfTUQ0em1xZmtFMXZRejRlbGp2Wm9GS3pWbXJZSnZubHlWNTc5VGhLcjBtUmlCV3ZwZTJSVzByWU1TRWxmand4bWtjR3RkVmlwZmtDNWVidElnMTNSZDJKQkplTGJ5azBHc0d1WUFVaHRnX0o2VHptRGt0VDh5RmdwUUg1RWJhMnhjM1dNUFN1cWU0OWFvdGVhSzY3TUhVSjl1VExaN1VoaHNYTjhib3RQTURQc0otYWtlSEJGdmEtWF9Ib2t6ZEhBOHAtQjN0N3ZQM21XbHBpd1hMd21ETTRDbDVBY0hOYnFWaF9vdw?oc=5"
   },
   {
    "title": "新皇崗交滙處路滑 多次發生跣胎意外",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-15 19:41",
    "iso": "2026-11-15T19:41:15+00:00",
    "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPeE93bHpIQXF5Zjc5SGNkMUhsYkpmdUFmQ0Y5OTEtQk5raEZGUHNGNTUxLW9uV1MtVnFWd1dVS1g4NnRTN0p1bGVPX3RTSE5Qek00d0dRc2lHTHRjNE5GNjJXeFN5SmtWc3N6Z2luOHJIWnlRbFR1eGk1Q2JScjUzS1RwMVdlYVQtaC1Id3JhY0IycHJIX1VuWGpGRDBGRHIxTng4cDd6c0t0YUlrUldpZzNKX1dTUGJjRVRUMTEyZlVqb3BjWFVqbzlKQUx4Zkdmc0U3UGFGU1NtZnJHTGdnOW5sMXg1eVY4dDFDSm8tWUpSVWJDbWtYTllIdFNKZVpRZm5ZOGNkYzFRbDFJdlhydk9WWHZ6ME9tUk01VF9MZlNOYW9tXzJncGNPeGlJeFFuZzctUkRaUWRYZ0VxZkRCOURwd1ROZ213RFNyblg2cmRYaHNTSUZnUTY4c2hkdjY0UGRDd2JWVmx5N2w5bmFtOTFwWFRJX3ZOZ2JDRmFB0gGKAUFVX3lxTE13LS1IMDRxbFFVY1B5UDJnT0Y4TlFmQ09ra0FVbTMyZ01IbzFtUExrUFoxZnFVaVdvOVF0NjBFSUVUUjRXWlhSWlFmcmd4aE5GMms3VlNuS2ZnWTBfTC1OUXRRRDdXb0xnZ2lHNkhWS3BXUE5wV1B2Sk9oWC0tbERjTVdORHJybm5jdw?oc=5"
-  },
-  {
-   "title": "衛蘭紅館演唱會首日散場數百人等巴士到皇崗 九巴﹕即開6 車疏導人流",
-   "source": "巴士的報",
-   "date": "11-15 14:18",
-   "iso": "2026-11-15T14:18:01+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNYURQZlJIeUhZN1ZWbFVLLTRUTlllR182WndEZ3J4UlRlTm5EbDltNFYyZXNMYWlYWm5iRUN5WTNCV2xWNXhNd2U4STJ2SEszSzUzWjVmV1lmZ1N6LWdrTHNwUUtGS3YxSVJoamlVT1ZtdUgtd1NDWWhqd05QeE53Qm9SN1FidWNzMEFlaXBiNXgtUWlhc1E3bWtQUTlxeGdYVENrZnExRlZKNUNhaXc3aktZeVZ0RXRxOEQtLXlCUlhncjJ0M0hHWW9fS2JIaGNlanJmczh4N0t0dXNEYmhsVTRsNFBqeUdlZEtLbmhLMm9Ia2tXWGZJbmYzdFJEamh1S0dDSEFEbS03TzhQUTFRSUZ3ek9wMDFmbTFnZWkwWTFVRmJDOEVlLVl6WnFGNW93aEhwbkxrbjJjdFJkX3k5c2NNQnNGNkQ1X2lSdTZfNHRmVTlfTVU2SS1ZdWhnRUlrd0RsTXJSTUV2WG5lR2pR?oc=5"
   }
  ],
  "ok": true,
@@ -122,11 +122,6 @@ window.HGP_DATA = {
    "t": 1794771675000,
    "s": "Sing Tao Daily 星島日報加拿大",
    "ti": "新皇崗口岸｜再有巴士行錯路撼天花指示牌 月內第三宗 - Sing Tao Dai"
-  },
-  {
-   "t": 1794752281000,
-   "s": "巴士的報",
-   "ti": "衛蘭紅館演唱會首日散場數百人等巴士到皇崗 九巴﹕即開6 車疏導人流"
   }
  ],
  "tips": [
