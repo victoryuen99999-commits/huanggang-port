@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-16T09:03:01+08:00",
+ "generated_at": "2026-11-16T09:18:47+08:00",
  "date": "2026-11-16",
  "weekday": "星期一",
- "clock": "09:03",
+ "clock": "09:18",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 23,
-  "humidity": 81,
-  "wind": 8.5,
+  "temp": 24,
+  "humidity": 79,
+  "wind": 8.3,
   "code": 0,
   "desc": "天晴",
   "tmax": 26,
@@ -62,18 +62,18 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kX0VpRUhmNlpkU0hELThxQ05MNkVSNWxnWG1xdmY3d1A4ME5xVVpGZlpScndYc0N6ZnhQUVAyU0Y2MjhBdTlaUVBWdE1uRHFzM21Pb2lZSTZJM3dKd0stN2dXQVVWbmRabHJtVWl5ZkFYWWZCMzY0?oc=5"
   },
   {
+   "title": "皇崗6條APEC專道開啟 通關僅5分鐘 24小時「即到即走」",
+   "source": "dotdotnews",
+   "date": "11-16 00:07",
+   "iso": "2026-11-16T00:07:41+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CTERfRUtkeDM4MUc5ZjJaX3laQnk3d3Rna1pPNVppcm10ckJLX29qUkRjQ3VQbDlVbU9pWUp3b3dzeUsxNExmbDdmNGEtTEUyTURIZGZiZktyTUVqUGl0LTBjVnRKU3BFbHVYTW0ySDlDXzdnZDZRSFhR?oc=5"
+  },
+  {
    "title": "報章要聞｜文匯：皇崗6條APEC專道開啟／東方：市民自創聲演推廣禮讓",
    "source": "TVB",
    "date": "11-16 00:01",
    "iso": "2026-11-16T00:01:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNOWFaRGtLNGdRcnQybDBvVTlOMnNGWnFxSkh3dkg3anktZ29idkZmVHMxc0duNGpHb0xpNl9BQ0dJUTR6UHpNQmVVUjB0dG5xd3ZMN0VCaXFNN01oV044bUZOVU4wdGFoR1l1N0VQZE5ueEJJYVhYcnl2cUhRcU9VLUlXcHZEMG5pbHJfRThjbjE5dksteUZiQmZRMDNINFE0MHNHMnFJNUY0YTM2dlU4eVVjNUxfTUFjaU1QbkNqaUo3bE5uTkUxWTJuRkNMUVVFY3NLRlRWZHduc1d1VFBfc2hBTkEydUdOaHhNWGFGa1d4bXBYRTVGSWhCZHh0M0pGVFZJZlNqbnJYbUFwWFhTS1BCSF9oU0psdGZybnpud052QWYtb00xTWFkSVA4bGs4bVBMLTZ6VmpJZHI1Q04tTVJIaW5UQmhfZEFReEFGMW1TcVczaFVDMEJYVjNHNkZMREhQemNhZWNmY0RCNHBoZXlId3BWQmJHZ0E?oc=5"
-  },
-  {
-   "title": "新皇崗交匯處路極跣 直通巴一撞牆一溜前",
-   "source": "東方日報",
-   "date": "11-15 20:01",
-   "iso": "2026-11-15T20:01:08+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOTGFOS2ZQYW9RVUJoaEtDNXVCNnV6bzgzZ3AyaTJCYnk5dW01emFtcFpCaFgxX184SE10RGx3N1FrbmVTcWZxOVpaMWFrUTlkOVhZaTJ1LTR1dFo0MmJrbjVUMGtIbTM1ODZEZWNpUE5TVlJsSWxpRnNIOXIxR19ZQXVsckR1Z3BQMU9hbjAzVmgweGlJdWpkTlhiRk9hN294VUNjLXl5Ry0zNVk2ZEZ3OXdpZmJITnNsWWtLaDNPd3NiM3d4eTZJMzlucFFYWnYtZGNQOGpkVlhIMlF6Z0dYOFVhTHZITWZ3aFJZWHZPSGhnZE1QbGM1RVlXZ3ZtSnlyZGlTQVY3b1RjZHZrQ3ZmWENjel90ZTluRjUzaGRwU2pjUVpsOW1DODVVWlgtWVIxRlVLczhQeUNzY0t3MTJuemx6bWF0a2h3ZDdFUEZrTzNEdnQ0NTh2eWZaeDljUGZ4LTNkS2dKRTlIbzJ0Y2IwMjAwd2xhZzBOaHp3SUFB?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOcTdVTkNXdnVOYzdtSS1xR2xJZEEyRVM5Tml1Y3ZOZ1Z2aVJVQ1o2QkEyeW0ycUFLRUxxcktZa1NSN0ZtR01xR3VFdXdzMXpoYUIxSWc5ZlRfbms0WWIyM0RSTU83Q3BYX3psNURqRlgtbXc4amxnM2wxejgtWl9wdkdieDNzbVJObXRnS1RkSFdWZ0tzd0JjUVNBYVEwdmd0dW9NVV9falM2X2xrcDJncUhQXzF4S1AzY21Md0wycW9QalQ3ak9tZzYteHZ2WXdEb1NoMm14eWNnM1FCS3BMeS1IOGs5N2puMkxqak1Xb3R2a1oydTNfRGViRVJKWmNwVVdlTnZ1eWZUMEI4eENxLXI0M1c1S2NodkY5YXo4QmJFcktuSkJ0aFlaaFpkZDNobmpCVEdZS1NwbHQyc2lPMmR6YmdZdFZmbUZqYXdsNkNPMERpTXV0WEE2S1VaWFJnQXBTejh5dEZQMllVMUUwRFNtRDVzVmlmdVE?oc=5"
   },
   {
    "title": "新皇崗口岸｜再有巴士行錯路撼天花指示牌 月內第三宗 - Sing Tao Daily 星島日報加拿大",
