@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-16T08:05:50+08:00",
+ "generated_at": "2026-11-16T08:11:57+08:00",
  "date": "2026-11-16",
  "weekday": "星期一",
- "clock": "08:05",
+ "clock": "08:11",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "報章要聞｜文匯：皇崗6條APEC專道開啟／東方：市民自創聲演推廣禮讓",
+   "source": "TVB",
+   "date": "11-16 00:01",
+   "iso": "2026-11-16T00:01:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOZi1JTnVKcXEyVVR0WWpUUldmMDlNODY2R3dpN2JLLWtlZW84SVBIeVB4V2cxajNWQWFmSkVramMyWG5rWktoNWxoM3VnUnhVQV80Nm40UlBObzVDVFJ0NHZyenZTMmRFSmt1ak9XR3dvWDNkSGxRSGVoQWstRzgxLVVFV3FJNjZNbFdSQTgwOUc1RnoxVVBWOTZfSUJrVmZ4LTJ1VWJ0QkFxa3lycWdhRnQ0cjFWQk5WNVhhQmR3WFlxbFF6WHRiRjJxM0RBSTltVXpucm5ScjMxTDVSemlqdXhNcnVGVkItMDg2Q0pBcWpHaXloMktZdkVpWEhYeW1lMFpIR28xY1BWV2pGaDBGNEZkbVJDaDB5VGhSOHhEUXFQVUp4YTFLZWJSNzBkTXRhWS13QUFHVENBRFR4eDFJTWM3NmV0c1RpWDhOeG42ek5yNzhUWEZ6MERKUWkzNmM1QXVlQ0dEaW9vX29jNnlXSHV6WWFsMmxSX1E?oc=5"
+  },
+  {
    "title": "皇崗6條APEC專道開啟 通關僅5分鐘 自助通道最快20秒 參會嘉賓國際媒體及工商界代表可24小時「即到即走」",
    "source": "香港文匯報",
    "date": "11-15 20:51",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-15 13:22",
    "iso": "2026-11-15T13:22:33+00:00",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcngtRG5tOVlqQkdQbDBOZ3hiSGJnYlR5WnBoQU5tMjdUQ0xpSnFiOGhWLUMxU19fTFlzcXMxeTMydzVYTmwwMVJpU0dPazlDMzF0VXpULU5fd0hrTlJjenNxeEdDRTRLYTkyNGxlNXVaRElLMVpDWGkzQlVtVzAwZ0ZCN1RsVVZvSkJDTVZxYVhzd1lD?oc=5"
-  },
-  {
-   "title": "新皇崗口岸巴士又撞天花指示牌 啟用至今第三度發生",
-   "source": "巴士的報",
-   "date": "11-15 13:06",
-   "iso": "2026-11-15T13:06:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNNlJMZG02MDJEMWVKRzA1M2Npc25ianA5Zm0wVlh5QTNneHoteF8zRkRRMWtyakF5ajVTbmlaR1ZmR0VDTlRqeEFhUXIxaE84YndvWVNBN2RWdXFkbWo2bDhwSXdvck1lNzE2Rl9ZRFFtNjZUZEhURlZVVTNwVEtwX1R6VWx5c0ctd1Q4emQ2dE9FREZNemIxcXdSN3FUQW5PUm5Bc3ZNMUJwV0FZcUl0MG9fRmFESThnMXQ5RGE1bGNNc2lQcTc1VmpTcEg4ODlLR2tOSmlhaVlib0Y1SjdwUkRkUDZESmJFRWwyZndzUHltY2pvelpYQTRENGt6YzNGSHRId3FVQmY1N3JBUjhzNWtIcVNGUXV3Z2J2RlVsd3gwRnFiTllKWHBnVkVFdk9WRUYydThUdzJsakY2bTZWZVVLTV9KUjhTcXZ5LUxhRDdUWXM4UFdmZXFzYmI1eVB0LWozcUpkWnNkVkh3RWtJ?oc=5"
   }
  ],
  "ok": true,
@@ -127,11 +127,6 @@ window.HGP_DATA = {
    "t": 1794748953000,
    "s": "Singtaousa",
    "ti": "新皇崗口岸一個月內第三宗巴士撞指示牌事故"
-  },
-  {
-   "t": 1794747960000,
-   "s": "巴士的報",
-   "ti": "新皇崗口岸巴士又撞天花指示牌 啟用至今第三度發生"
   }
  ],
  "tips": [
