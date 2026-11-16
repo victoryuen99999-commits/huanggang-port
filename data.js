@@ -42,16 +42,7 @@ window.HGP_DATA = {
    "dep": 99
   }
  },
- "weather": {
-  "temp": 22,
-  "humidity": 94,
-  "wind": 10.3,
-  "code": 0,
-  "desc": "天晴",
-  "tmax": 28,
-  "tmin": 21,
-  "pop": 2
- },
+ "weather": null,
  "warnings": [],
  "news": [
   {
