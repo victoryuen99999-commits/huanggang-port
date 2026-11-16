@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-16T19:57:29+08:00",
+ "generated_at": "2026-11-16T20:04:34+08:00",
  "date": "2026-11-16",
  "weekday": "星期一",
- "clock": "19:57",
+ "clock": "20:04",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -52,11 +52,6 @@ window.HGP_DATA = {
    "tag": "天氣",
    "text": "天文台現時無天氣警告生效。",
    "level": "ok"
-  },
-  {
-   "tag": "傍晚",
-   "text": "雙向高峰：出境（北上）與入境（返港）同時加壓，L2 候車區最擠。",
-   "level": "info"
   },
   {
    "tag": "禁區",
