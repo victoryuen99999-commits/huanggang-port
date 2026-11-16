@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-17T01:02:15+08:00",
+ "generated_at": "2026-11-17T01:08:24+08:00",
  "date": "2026-11-17",
  "weekday": "星期二",
- "clock": "01:02",
+ "clock": "01:08",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,11 +55,11 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "時事全方位｜演唱會白牌車(二)",
+   "title": "時事全方位｜演唱會白牌車(一)",
    "source": "Now 新聞",
-   "date": "11-16 06:36",
-   "iso": "2026-11-16T06:36:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkdVZJeEdUZmNSdnY0MFRGWkFjM2lZaHU5eUNtYkhjOFBOLXRoQXdfOEZyb016NDJxUnFuTGY0ZmIyMGxCMnVDZzRVSkRoejRidHBCQ18wOUVuVFp3dFUwTDNR?oc=5"
+   "date": "11-16 06:35",
+   "iso": "2026-11-16T06:35:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DSTVkbW9jTEhOcVRJcEdLZW5TRTMzZVpyb29vX3VVVDRqRnl6N1B4OWQ3bHVVcHhxMjhjMDh5eGs1M0h4TTd6ODA3Z3ZUR013VE9iNmFQSW80b3ZnVG00WHFn?oc=5"
   },
   {
    "title": "新皇崗口岸巴士線｜城巴B14變全日 九龍區客轉乘優惠一口價$20.8",
