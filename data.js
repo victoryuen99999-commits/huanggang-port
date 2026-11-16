@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-16T08:11:57+08:00",
+ "generated_at": "2026-11-16T08:19:31+08:00",
  "date": "2026-11-16",
  "weekday": "星期一",
- "clock": "08:11",
+ "clock": "08:19",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,8 +43,8 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 21,
-  "humidity": 89,
+  "temp": 22,
+  "humidity": 88,
   "wind": 8.1,
   "code": 0,
   "desc": "天晴",
@@ -59,7 +59,7 @@ window.HGP_DATA = {
    "source": "TVB",
    "date": "11-16 00:01",
    "iso": "2026-11-16T00:01:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOZi1JTnVKcXEyVVR0WWpUUldmMDlNODY2R3dpN2JLLWtlZW84SVBIeVB4V2cxajNWQWFmSkVramMyWG5rWktoNWxoM3VnUnhVQV80Nm40UlBObzVDVFJ0NHZyenZTMmRFSmt1ak9XR3dvWDNkSGxRSGVoQWstRzgxLVVFV3FJNjZNbFdSQTgwOUc1RnoxVVBWOTZfSUJrVmZ4LTJ1VWJ0QkFxa3lycWdhRnQ0cjFWQk5WNVhhQmR3WFlxbFF6WHRiRjJxM0RBSTltVXpucm5ScjMxTDVSemlqdXhNcnVGVkItMDg2Q0pBcWpHaXloMktZdkVpWEhYeW1lMFpIR28xY1BWV2pGaDBGNEZkbVJDaDB5VGhSOHhEUXFQVUp4YTFLZWJSNzBkTXRhWS13QUFHVENBRFR4eDFJTWM3NmV0c1RpWDhOeG42ek5yNzhUWEZ6MERKUWkzNmM1QXVlQ0dEaW9vX29jNnlXSHV6WWFsMmxSX1E?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNOWFaRGtLNGdRcnQybDBvVTlOMnNGWnFxSkh3dkg3anktZ29idkZmVHMxc0duNGpHb0xpNl9BQ0dJUTR6UHpNQmVVUjB0dG5xd3ZMN0VCaXFNN01oV044bUZOVU4wdGFoR1l1N0VQZE5ueEJJYVhYcnl2cUhRcU9VLUlXcHZEMG5pbHJfRThjbjE5dksteUZiQmZRMDNINFE0MHNHMnFJNUY0YTM2dlU4eVVjNUxfTUFjaU1QbkNqaUo3bE5uTkUxWTJuRkNMUVVFY3NLRlRWZHduc1d1VFBfc2hBTkEydUdOaHhNWGFGa1d4bXBYRTVGSWhCZHh0M0pGVFZJZlNqbnJYbUFwWFhTS1BCSF9oU0psdGZybnpud052QWYtb00xTWFkSVA4bGs4bVBMLTZ6VmpJZHI1Q04tTVJIaW5UQmhfZEFReEFGMW1TcVczaFVDMEJYVjNHNkZMREhQemNhZWNmY0RCNHBoZXlId3BWQmJHZ0E?oc=5"
   },
   {
    "title": "皇崗6條APEC專道開啟 通關僅5分鐘 自助通道最快20秒 參會嘉賓國際媒體及工商界代表可24小時「即到即走」",
