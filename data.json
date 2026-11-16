@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T18:03:25+08:00",
+ "generated_at": "2026-11-16T18:10:51+08:00",
  "date": "2026-11-16",
  "weekday": "星期一",
- "clock": "18:03",
+ "clock": "18:10",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -41,7 +41,16 @@
    "dep": 99
   }
  },
- "weather": null,
+ "weather": {
+  "temp": 23,
+  "humidity": 83,
+  "wind": 9.4,
+  "code": 0,
+  "desc": "天晴",
+  "tmax": 27,
+  "tmin": 19,
+  "pop": 57
+ },
  "warnings": [],
  "news": [
   {
@@ -50,13 +59,6 @@
    "date": "11-16 06:36",
    "iso": "2026-11-16T06:36:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkdVZJeEdUZmNSdnY0MFRGWkFjM2lZaHU5eUNtYkhjOFBOLXRoQXdfOEZyb016NDJxUnFuTGY0ZmIyMGxCMnVDZzRVSkRoejRidHBCQ18wOUVuVFp3dFUwTDNR?oc=5"
-  },
-  {
-   "title": "皇崗口岸跨境巴士疑路面防滑欠佳撞牆 路政署：將加設防滑物料",
-   "source": "Yahoo",
-   "date": "11-16 02:57",
-   "iso": "2026-11-16T02:57:49+00:00",
-   "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOSHNjRmhOTkI0d0tXQ3pnbzd5Y2VWOTNrcTd1SXVjREp5eXlTdG0yLTdOeFFGRWxWNTBqbUhZMDROZWJXcFVUcGhLd2JHQ3BhRmU4RTN5S0dmWUtkLURmN3lDb29ZSU1YcjhmaHFIR2FvZzEzZFU4WG4xelZWS1VWeWI3YnIySThkTEg0LXNWMTlrckM2VVJpZHY4bENQbjhXZzkwTm1yaDhtVFdiYUFrR0tGYzk5RU56LU9ueEhlUHlFQjkwTkJxbGRRZTlRZVZ2UkVIU1pjUHh3OWZ4b2hmcldjWXhZSXROT09zUjY2MHBiMmF1WTUxLWk4V2xOSGRGelRsU2NfWDQ2S0RXby01Z0lRYkw2OWRmMWZmT1NETU1fSnBRb0VRVFFzWG1pTldnMUNyTkV6cFlzc21mR0hSUFBLelQ1bWk5a2Q1SDZCUjFJYkVqcTRRSWU0TUxkcUw0eTd2OTU2b1BZSjRKQjFpVzE4WThTOHp3SHNKTUtrdUFfb0dTUTY2QXdtWl9fUXZ4QlBxMnRLVVVvQQ?oc=5"
   },
   {
    "title": "5分鐘通關、20秒自助 新皇崗口岸提速迎APEC",
@@ -99,15 +101,17 @@
    "date": "11-15 14:12",
    "iso": "2026-11-15T14:12:20+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzaHNRVHRIRFJfR19hUENEN3ViVjBqdnBQVnQ1OF8zdVRzYXlmcXQzZkJ6Q2FPSWMyejZKalRUM2ZrcUVnaXJzTS1FTEtEQkJqejVXQlVnbmgtTnpWRFoyb0V6ZVVNQnJMcU56clZYOVhNYWpQTWdN?oc=5"
+  },
+  {
+   "title": "衛蘭紅館騷散場數百人等270R 九巴：研開特別班次往新皇崗口岸- 港聞",
+   "source": "dotdotnews",
+   "date": "11-15 14:12",
+   "iso": "2026-11-15T14:12:14+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84blJQSGtVaGo3ZXVwZlZtRGJEYllIdlN4R080ckExbk8wMVIxcjZmb0lGYXN5TDcwMzVsMlhrck5NTEUwdHIxamRERzZvS0ZLY1RSb3pKQXA3OW5fVWtzeExxSXF2dDRkeXBfTHVobFZKOVhicUh0bnlR?oc=5"
   }
  ],
  "ok": true,
  "vehicle_events": [
-  {
-   "t": 1794797869000,
-   "s": "Yahoo",
-   "ti": "皇崗口岸跨境巴士疑路面防滑欠佳撞牆 路政署：將加設防滑物料"
-  },
   {
    "t": 1794771675000,
    "s": "Sing Tao Daily 星島日報加拿大",
