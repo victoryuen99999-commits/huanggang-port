@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T11:01:42+08:00",
+ "generated_at": "2026-11-16T11:07:52+08:00",
  "date": "2026-11-16",
  "weekday": "星期一",
- "clock": "11:01",
+ "clock": "11:07",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -54,11 +54,11 @@
  "warnings": [],
  "news": [
   {
-   "title": "皇崗口岸跨境巴士疑路面防滑欠佳撞牆 路政署：將加設防滑物料",
-   "source": "Yahoo",
-   "date": "11-16 02:59",
-   "iso": "2026-11-16T02:59:09+00:00",
-   "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOSHNjRmhOTkI0d0tXQ3pnbzd5Y2VWOTNrcTd1SXVjREp5eXlTdG0yLTdOeFFGRWxWNTBqbUhZMDROZWJXcFVUcGhLd2JHQ3BhRmU4RTN5S0dmWUtkLURmN3lDb29ZSU1YcjhmaHFIR2FvZzEzZFU4WG4xelZWS1VWeWI3YnIySThkTEg0LXNWMTlrckM2VVJpZHY4bENQbjhXZzkwTm1yaDhtVFdiYUFrR0tGYzk5RU56LU9ueEhlUHlFQjkwTkJxbGRRZTlRZVZ2UkVIU1pjUHh3OWZ4b2hmcldjWXhZSXROT09zUjY2MHBiMmF1WTUxLWk4V2xOSGRGelRsU2NfWDQ2S0RXby01Z0lRYkw2OWRmMWZmT1NETU1fSnBRb0VRVFFzWG1pTldnMUNyTkV6cFlzc21mR0hSUFBLelQ1bWk5a2Q1SDZCUjFJYkVqcTRRSWU0TUxkcUw0eTd2OTU2b1BZSjRKQjFpVzE4WThTOHp3SHNKTUtrdUFfb0dTUTY2QXdtWl9fUXZ4QlBxMnRLVVVvQQ?oc=5"
+   "title": "新皇崗交滙處路滑 多次發生跣胎意外",
+   "source": "信報網站",
+   "date": "11-16 02:13",
+   "iso": "2026-11-16T02:13:22+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPSFo4T0p5cHI5NldZV3B3cnpHdTBEaTNfSjJEWlVhdHExM3UxdDNZQ0dVMVJqekhyQ3NJblZ1RjlyMmlEY1VxS1JkRlhmWjlNUVFRUncwaTRHM19LaVZiSjlhZndjejVyYmF5Y0FWaHRQdWN5Nmw4M2RKa0l1Z3l4aWR0OUstek5JdUNyVzN3S2dXNW1wanU0TEpaT1pLYWRNUFFkNWJkRFdwNXVKOTFfZ1VoQkR4WHJLMzdtTm1SNWNXX2NiNEhUZVJidDBJdHNZQVlwREwzOUY4QlpqUkUzRmVfY3RfR0VkdkFGWkpEVjk2U1pmX21FLXJZZzRqNTdTVlpGOUo1Y2t1ajduRHlMTDQ0M1l6V2tYUzZuMzVaMVpvRHZObVZXV1hB?oc=5"
   },
   {
    "title": "5分鐘通關、20秒自助 新皇崗口岸提速迎APEC",
@@ -112,11 +112,6 @@
  ],
  "ok": true,
  "vehicle_events": [
-  {
-   "t": 1794797949000,
-   "s": "Yahoo",
-   "ti": "皇崗口岸跨境巴士疑路面防滑欠佳撞牆 路政署：將加設防滑物料"
-  },
   {
    "t": 1794771675000,
    "s": "Sing Tao Daily 星島日報加拿大",
