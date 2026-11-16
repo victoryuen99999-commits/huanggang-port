@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-17T07:16:03+08:00",
+ "generated_at": "2026-11-17T07:22:14+08:00",
  "date": "2026-11-17",
  "weekday": "星期二",
- "clock": "07:16",
+ "clock": "07:22",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -62,13 +62,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56LVpKYUtIZ1dYeHhySVhyWVNhMWJlZm9OMTlteXF2a1RHMDhtRjkySEtGMU9iS3ZRTllNM1dUdGV5MnJKb3h1YUQ5OE5iS0twRnVBWFhNRHNZeEFranRVNHFOUGp6SWQtWTBmcUVEcEM0OGpHVENZ?oc=5"
   },
   {
-   "title": "皇崗口岸跣胎撞牆 的哥睹行家「打白鴿轉」 專家促加快鋪防滑砂",
-   "source": "香港01",
-   "date": "11-16 14:30",
-   "iso": "2026-11-16T14:30:15+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOQ0xiNjlnMkJfME5LVGpweXlJS0RzdDJGRi1tbXRxaVJDMzJnSTBJUTF3cXFMT0xTX25DcmV2WTRfemFMV09QWEI0aGtGQWlNcGY2UXgyRHVZOEpiYmdEajk3QXFEbXpfa203MTBLeEpfUWtaeUpJQm5lS0VrY05MRFVoRllOWlJDQWZOd0xFXzZKaklOZDdaQmhrbEh6VkxVV2hqUDJmM1haVUwzQUlwM1BaN0hCRUdYSzBlX05WeFg1NTlFRVBOdUdOdTVPWVZpR05lcFl3aDUxLUdMVDFyU005dUhybkZiUDZsUC1UT0VBakNqLWg5ZERjN3NrXzk4MjNrWEQxYmIzbGRKNDR4RlNRcHVMS3BVcEs2MkRPclNOcmtaMnpIU1ZleVFKY2dwUlpXRmdFOFhFZ053QnJybkRPRUt4Tk5zRk5QSmY1UDhVNXVBaGdtdGlRcDhSTm0wLXBDWGpfTG53TXpfZHRtOFBSOGwtUmhaNGxVdHRUc1ZCai1wTU5aZy1lR0NIaEJlNDJwOEIwWF9TN1NhZHVtNllmNy1rYkdjczlpby1fUjJoZw?oc=5"
-  },
-  {
    "title": "時事全方位｜演唱會白牌車(二)",
    "source": "Now 新聞",
    "date": "11-16 06:36",
@@ -97,11 +90,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOSHNjRmhOTkI0d0tXQ3pnbzd5Y2VWOTNrcTd1SXVjREp5eXlTdG0yLTdOeFFGRWxWNTBqbUhZMDROZWJXcFVUcGhLd2JHQ3BhRmU4RTN5S0dmWUtkLURmN3lDb29ZSU1YcjhmaHFIR2FvZzEzZFU4WG4xelZWS1VWeWI3YnIySThkTEg0LXNWMTlrckM2VVJpZHY4bENQbjhXZzkwTm1yaDhtVFdiYUFrR0tGYzk5RU56LU9ueEhlUHlFQjkwTkJxbGRRZTlRZVZ2UkVIU1pjUHh3OWZ4b2hmcldjWXhZSXROT09zUjY2MHBiMmF1WTUxLWk4V2xOSGRGelRsU2NfWDQ2S0RXby01Z0lRYkw2OWRmMWZmT1NETU1fSnBRb0VRVFFzWG1pTldnMUNyTkV6cFlzc21mR0hSUFBLelQ1bWk5a2Q1SDZCUjFJYkVqcTRRSWU0TUxkcUw0eTd2OTU2b1BZSjRKQjFpVzE4WThTOHp3SHNKTUtrdUFfb0dTUTY2QXdtWl9fUXZ4QlBxMnRLVVVvQQ?oc=5"
   },
   {
-   "title": "5分鐘通關、20秒自助 新皇崗口岸提速迎APEC",
-   "source": "香港文匯報",
-   "date": "11-16 00:43",
-   "iso": "2026-11-16T00:43:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kX0VpRUhmNlpkU0hELThxQ05MNkVSNWxnWG1xdmY3d1A4ME5xVVpGZlpScndYc0N6ZnhQUVAyU0Y2MjhBdTlaUVBWdE1uRHFzM21Pb2lZSTZJM3dKd0stN2dXQVVWbmRabHJtVWl5ZkFYWWZCMzY0?oc=5"
+   "title": "深圳APEC｜皇崗6條APEC專道開啟 5分鐘通關24小時「即到即走」",
+   "source": "橙新聞",
+   "date": "11-16 02:27",
+   "iso": "2026-11-16T02:27:55+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOVml4MWp6YURJWjN6bjJ4TkR0NDd0T2g1WVhKTk50OWcxemIwMm1NSWM1RzhiZS1rMVp6Z1pNWnIzLW82NVkwOGlmNFJCcEFEeWVtWnZLazcyTlFsNk92dVJveThSMWdyX0FEQllfTUQ0em1xZmtFMXZRejRlbGp2Wm9GS3pWbXJZSnZubHlWNTc5VGhLcjBtUmlCV3ZwZTJSVzByWU1TRWxmand4bWtjR3RkVmlwZmtDNWVidElnMTNSZDJKQkplTGJ5azBHc0d1WUFVaHRnX0o2VHptRGt0VDh5RmdwUUg1RWJhMnhjM1dNUFN1cWU0OWFvdGVhSzY3TUhVSjl1VExaN1VoaHNYTjhib3RQTURQc0otYWtlSEJGdmEtWF9Ib2t6ZEhBOHAtQjN0N3ZQM21XbHBpd1hMd21ETTRDbDVBY0hOYnFWaF9vdw?oc=5"
   },
   {
    "title": "報章要聞｜文匯：皇崗6條APEC專道開啟／東方：市民自創聲演推廣禮讓",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "11-16 00:01",
    "iso": "2026-11-16T00:01:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNOWFaRGtLNGdRcnQybDBvVTlOMnNGWnFxSkh3dkg3anktZ29idkZmVHMxc0duNGpHb0xpNl9BQ0dJUTR6UHpNQmVVUjB0dG5xd3ZMN0VCaXFNN01oV044bUZOVU4wdGFoR1l1N0VQZE5ueEJJYVhYcnl2cUhRcU9VLUlXcHZEMG5pbHJfRThjbjE5dksteUZiQmZRMDNINFE0MHNHMnFJNUY0YTM2dlU4eVVjNUxfTUFjaU1QbkNqaUo3bE5uTkUxWTJuRkNMUVVFY3NLRlRWZHduc1d1VFBfc2hBTkEydUdOaHhNWGFGa1d4bXBYRTVGSWhCZHh0M0pGVFZJZlNqbnJYbUFwWFhTS1BCSF9oU0psdGZybnpud052QWYtb00xTWFkSVA4bGs4bVBMLTZ6VmpJZHI1Q04tTVJIaW5UQmhfZEFReEFGMW1TcVczaFVDMEJYVjNHNkZMREhQemNhZWNmY0RCNHBoZXlId3BWQmJHZ0E?oc=5"
+  },
+  {
+   "title": "新皇崗交匯處路極跣 直通巴一撞牆一溜前",
+   "source": "東方日報",
+   "date": "11-15 20:01",
+   "iso": "2026-11-15T20:01:08+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOTGFOS2ZQYW9RVUJoaEtDNXVCNnV6bzgzZ3AyaTJCYnk5dW01emFtcFpCaFgxX184SE10RGx3N1FrbmVTcWZxOVpaMWFrUTlkOVhZaTJ1LTR1dFo0MmJrbjVUMGtIbTM1ODZEZWNpUE5TVlJsSWxpRnNIOXIxR19ZQXVsckR1Z3BQMU9hbjAzVmgweGlJdWpkTlhiRk9hN294VUNjLXl5Ry0zNVk2ZEZ3OXdpZmJITnNsWWtLaDNPd3NiM3d4eTZJMzlucFFYWnYtZGNQOGpkVlhIMlF6Z0dYOFVhTHZITWZ3aFJZWHZPSGhnZE1QbGM1RVlXZ3ZtSnlyZGlTQVY3b1RjZHZrQ3ZmWENjel90ZTluRjUzaGRwU2pjUVpsOW1DODVVWlgtWVIxRlVLczhQeUNzY0t3MTJuemx6bWF0a2h3ZDdFUEZrTzNEdnQ0NTh2eWZaeDljUGZ4LTNkS2dKRTlIbzJ0Y2IwMjAwd2xhZzBOaHp3SUFB?oc=5"
   }
  ],
  "ok": true,
