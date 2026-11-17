@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-17T21:00:09+08:00",
+ "generated_at": "2026-11-17T21:06:19+08:00",
  "date": "2026-11-17",
  "weekday": "星期二",
- "clock": "21:00",
+ "clock": "21:06",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -57,8 +57,8 @@ window.HGP_DATA = {
   {
    "title": "APEC現場｜外國領袖陸續抵達 香蜜湖主會場外清場 市民拍照圍觀",
    "source": "香港01",
-   "date": "11-17 10:14",
-   "iso": "2026-11-17T10:14:40+00:00",
+   "date": "11-17 06:55",
+   "iso": "2026-11-17T06:55:40+00:00",
    "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQT2gtY1M1STdVeVp2MDNvaldKRVNOdk1TdTJJbXNoNDNnXzcyaTdQTmZ5RlByOGhxQ0o3QzlmVUJlWURTSks5WWhqU3Bic1VCMDVpZDlhVFRCNXI4dE5qaWtkSlpNZFBCcDRBSEcwc2hqQjJDdExtUlBJY3pRRS1GMnRxM3lXcTFIcFlZQkxaR1VQS3JrWG5tRkNzeWpnSk5QLURHZXhrQWxDLUR0c3o2YU1vRmtNaWlReDEzWE5HM1VrR0R4ZjN3eWRwb3JPX3QxanljNmlqYkp6SHpQZmE1ejlTOTJ0Nm1wdmlmcFZiUURFeUxDXzZRc0M1XzNTQVh4bWRKMUlacmpyQXZVMGUyUXY2bXhRLVM1MmJaM1VCdE5RZkpLU0pGSF9zN2loelE1VzFxZmRTS2c4UWVxTnoyWHVaZXM0WWNJQ3JFdFpGRTRXZkFzU3Z1aFZ0R1BfU0d5NnpzeV9Bam1fdnhLY2s5XzFvTmdwd0NhbWp3NHNid1lCQWs5TThabkd6cmxMVGZ5ckFCcVQ3LTFlcngyX2RkUXBYZXhidHVUT29Z?oc=5"
   },
   {
