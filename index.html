@@ -261,6 +261,8 @@
   .ev-t.expo{background:rgba(47,212,182,.16);color:#8ee8d6}
   .ev-t.holiday{background:rgba(242,96,79,.2);color:#ffcfc8}
   .ev-hi .ev-n{font-weight:600}
+  .ev-live{display:inline-block;font-size:10.5px;font-weight:700;padding:0 6px;border-radius:5px;margin-right:5px;background:rgba(47,212,182,.2);color:#8ee8d6;vertical-align:1px}
+  .ev-live.last{background:rgba(242,96,79,.24);color:#ffd0c9}
   .ev-cf{font-size:10.5px;color:#fbd08a;margin-left:4px}
   .views{margin-top:12px;display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:12.5px;color:var(--mut2)}
   .views b{color:var(--fg);font-variant-numeric:tabular-nums;font-size:14px}
@@ -520,7 +522,7 @@
         <h3 class="h3">港方近期大型活動</h3>
         <div class="panel">
         <div id="evHk"><div class="empty">載入中…</div></div>
-        <p class="note" style="margin:8px 0 0">用於人流預測參考：活動散場、假期首尾為跨境高峰。日期時間以主辦方公布為準<span id="evChecked"></span>。</p>
+        <p class="note" style="margin:8px 0 0">用於人流預測參考：活動散場、假期首尾為跨境高峰。<b>高影響活動會保留至活動最後一日完結後才移除</b>。日期時間以主辦方公布為準<span id="evChecked"></span>。</p>
         </div>
       </div>
       <div class="cell">
@@ -1201,13 +1203,19 @@
     var tag = EV_TAG[e.type] || "活動";
     var when = "";
     if(e.time) when = " · " + e.time;
-    else if(e.days === 0) when = " · 今日";
-    else if(e.days === 1) when = " · 明日";
-    else if(e.days > 0) when = " · " + e.days + " 日後";
+    if(e.status === "ongoing"){
+      if(e.left === 0) when += " · 最後一日";
+      else if(e.left > 0) when += " · 尚餘 " + e.left + " 日";
+    } else if(e.days === 0) when += " · 今日";
+    else if(e.days === 1) when += " · 明日";
+    else if(e.days > 0) when += " · " + e.days + " 日後";
+    var live = e.status === "ongoing"
+      ? '<span class="ev-live' + (e.left === 0 ? " last" : "") + '">' + (e.left === 0 ? "最後一日" : "進行中") + '</span>'
+      : "";
     return '<div class="ev-row' + (e.impact === "high" ? " ev-hi" : "") + '">' +
       '<div class="ev-d"><b>' + d1 + '</b><span>' + (d2 ? "–" + d2 : "") + '</span></div>' +
       '<div class="ev-m">' +
-        '<div class="ev-n">' + e.name + (e.confirm ? '<span class="ev-cf">' + e.confirm + '</span>' : '') + '</div>' +
+        '<div class="ev-n">' + live + e.name + (e.confirm ? '<span class="ev-cf">' + e.confirm + '</span>' : '') + '</div>' +
         (e.venue ? '<div class="ev-v">' + e.venue + when + '</div>' : (when ? '<div class="ev-v">' + when.replace(" · ", "") + '</div>' : '')) +
         (e.note ? '<div class="ev-i">' + e.note + '</div>' : '') +
       '</div>' +

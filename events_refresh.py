@@ -160,7 +160,8 @@ def fetch_bdb():
     s = get(BDB)
     s = re.sub(r"<script.*?</script>|<style.*?</style>", "", s, flags=re.S)
     lines = [l.strip() for l in html.unescape(re.sub(r"<[^>]+>", "\n", s)).split("\n") if l.strip()]
-    skip = {"查看攻略", "推荐指数", "推薦指數", "即将开始", "即將開始", "推荐", "推薦", "演唱会小助手"}
+    skip = {"查看攻略", "推荐指数", "推薦指數", "即将开始", "即將開始", "推荐", "推薦", "演唱会小助手",
+            "售票", "购票", "購票", "猫眼", "貓眼", "大麦", "大麥", "豆瓣", "活动网", "活動網", "摩天轮", "摩天輪"}
     out, seen = [], set()
     for i, line in enumerate(lines):
         if line not in ("活动时间", "活動時間"):
@@ -184,7 +185,7 @@ def fetch_bdb():
                 break
         name = to_trad(clean_name(name))
         venue = to_trad(re.sub(r"\s+", " ", venue).strip())
-        if not name or name in seen:
+        if not name or len(name) < 4 or name in skip or name in seen:
             continue
         seen.add(name)
         typ, imp, note = classify(name)
@@ -218,7 +219,11 @@ def norm_curated(block, kind):
     return out
 
 
-def finalize(items, today, limit):
+NOISE_RE = re.compile(r"^(貓眼|猫眼|購票入口|购票入口|購票|购票|售票|大麥|大麦|豆瓣|摩天輪|摩天轮|查看攻略|推薦|推荐|活動網|活动网)$")
+
+
+def finalize(items, today, limit, keep_all_high=True):
+    """保留規則：活動要「完全完結」才移除 —— end >= today 都保留（最後一日仍顯示）。"""
     keep, seen = [], set()
     for e in items:
         try:
@@ -226,19 +231,49 @@ def finalize(items, today, limit):
             en = datetime.strptime(e["end"] or e["start"], "%Y-%m-%d").date()
         except Exception:           # noqa: BLE001
             continue
-        if en < today:                       # 已結束
+        if en < today:                       # 已完全結束 → 移除
             continue
         if st > today + timedelta(days=WINDOW_DAYS):
+            continue
+        if NOISE_RE.match((e.get("name") or "").strip()) or len((e.get("name") or "").strip()) < 4:
             continue
         key = (e["name"][:18], e["start"])
         if key in seen:
             continue
         seen.add(key)
         e["days"] = (st - today).days
+        e["left"] = (en - today).days        # 距離活動最後一日
+        if st <= today <= en:
+            e["status"] = "ongoing"
+        else:
+            e["status"] = "upcoming"
         keep.append(e)
     order = {"high": 0, "mid": 1}
-    keep.sort(key=lambda e: (e["start"], order.get(e["impact"], 2)))
-    return keep[:limit]
+    # 進行中先（按最後一日），其餘按開始日期；影響力只作同日次序
+    keep.sort(key=lambda e: (0 if e["status"] == "ongoing" else 1,
+                             e["end"] if e["status"] == "ongoing" else e["start"],
+                             order.get(e["impact"], 2)))
+    if not keep_all_high:
+        return keep[:limit]
+    # 高影響活動一律保留（不受筆數上限影響，直至活動完結）；其餘按上限
+    highs = [e for e in keep if e.get("impact") == "high"]
+    others = [e for e in keep if e.get("impact") != "high"]
+    return sorted(highs + others[:limit], key=lambda e: (
+        0 if e["status"] == "ongoing" else 1,
+        e["end"] if e["status"] == "ongoing" else e["start"]))
+
+
+def load_prev():
+    """讀回上一次成功快照，作為來源失敗時的備援。"""
+    try:
+        raw = open(OUT, encoding="utf-8").read()
+        m = re.search(r"window\.HGP_EVENTS\s*=\s*(\{.*\});", raw, re.S)
+        if not m:
+            return {"hk": [], "sz": []}
+        d = json.loads(m.group(1))
+        return {"hk": d.get("hk", []), "sz": d.get("sz", [])}
+    except Exception:                   # noqa: BLE001
+        return {"hk": [], "sz": []}
 
 
 def main():
@@ -260,6 +295,8 @@ def main():
     except Exception as e:              # noqa: BLE001
         errs.append("bendibao: %s" % str(e)[:80])
 
+    prev = load_prev()
+
     checked = ""
     try:
         cur = json.load(open(CURATED, encoding="utf-8"))
@@ -269,8 +306,11 @@ def main():
     except Exception as e:              # noqa: BLE001
         errs.append("curated: %s" % str(e)[:80])
 
-    hk = finalize(got["hk"], today, MAX_PER_SIDE * 2)     # 假期多，港方容許多幾筆
-    sz = finalize(got["sz"], today, MAX_PER_SIDE)
+    got["hk"] = got["hk"] + prev["hk"]   # 新資料優先，舊快照作備援
+    got["sz"] = got["sz"] + prev["sz"]
+
+    hk = finalize(got["hk"], today, 4)                  # 高影響全留；中影響最多 4 筆
+    sz = finalize(got["sz"], today, 3)
 
     if not hk and not sz:
         print("[warn] 全部來源失敗，保留舊檔:", "; ".join(errs), file=sys.stderr)
