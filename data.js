@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-17T19:11:14+08:00",
+ "generated_at": "2026-11-17T19:17:23+08:00",
  "date": "2026-11-17",
  "weekday": "星期二",
- "clock": "19:11",
+ "clock": "19:17",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,8 +43,8 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 23,
-  "humidity": 87,
+  "temp": 22,
+  "humidity": 88,
   "wind": 8.9,
   "code": 1,
   "desc": "大致晴朗",
@@ -55,11 +55,11 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "路政署：公共運輸交匯處急轉彎路段已加防滑物料- 港聞",
-   "source": "dotdotnews",
-   "date": "11-17 11:05",
-   "iso": "2026-11-17T11:05:25+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EWDFPRXg4YTlVTkczSDRlS3VnU0p5Ny1GSjRuOXVVSDZVRDQ2Q3dtbkdMRjFXdUtDaG15dmVqdWg4N1pRLUN6X0xhVGN3MmU5anY4RWFyU1AxdDVlcXZHOXJuQjVqQUV6VlhVYmhoZTZqeGxma0FTNFZ3?oc=5"
+   "title": "路政署﹕ 皇崗新聯檢大樓交匯處急彎防滑物料已加周一起分階段進行餘下工程",
+   "source": "巴士的報",
+   "date": "11-17 10:51",
+   "iso": "2026-11-17T10:51:43+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQS3BRdVBNbmF2VlVxWnBoMnhoX0U2Sk5ZWm9iUmhyOHVLalk1MVV4WkZBSW1FRzlxU3lCQVBDQm5jSktrLVZaUzJKTmpUcXFUMlpiTF9HeUNTc1cxbWRXSkZNdVpzU1Q0NGJrdTk1VTdoRWZnU014eVNyaUF3VWdQYkpLVTlHaGI4OWtpRXI4VU1SSWw2Y25sRVBqTTNPMkFjQkxsdWd3ZnRBM2xpNkxzUjVCNkppN3F0Xzc1RzQydVNkZ0V4cFBFTVNERU1MZlRrY0d0ZGlRa1Vzb0lHU1h6ejhWU2owb0dOUXJfSHhYbHBmUTQyaVRxS0lJeWw5ejVJcUxQb2tDbnJvd1g3SDZnWGRoQ3FWSXJ1SW55WFpMOGphbW1aVEJuNzhYRW5YUFM4M0ZTQ2pIeVozZlAzTUEzNG1hRUFKQmp0MGYyX3E4bi1RWTF3cWd3MDBZMGItUGpMdjVPeWYtTXAzSzlfdkE?oc=5"
   },
   {
    "title": "APEC現場｜外國領袖陸續抵達 香蜜湖主會場外清場 市民拍照圍觀",
