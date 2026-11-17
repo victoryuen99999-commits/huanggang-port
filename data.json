@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T14:13:00+08:00",
+ "generated_at": "2026-11-17T14:20:08+08:00",
  "date": "2026-11-17",
  "weekday": "星期二",
- "clock": "14:13",
+ "clock": "14:20",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,7 +44,7 @@
  "weather": {
   "temp": 29,
   "humidity": 54,
-  "wind": 7.0,
+  "wind": 7.3,
   "code": 3,
   "desc": "多雲",
   "tmax": 29,
@@ -54,11 +54,25 @@
  "warnings": [],
  "news": [
   {
+   "title": "皇崗口岸跣胎接4查詢或投訴 路政署加防滑料至未覆蓋段周一展開",
+   "source": "香港01",
+   "date": "11-17 06:08",
+   "iso": "2026-11-17T06:08:57+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83SGs4ZEhVWk5wbzZEVGI3YmhGc0tfY1BNMC1PWkY5Z3hYZTJJc0xNRC1CVlNlMkdWMzJZcXE0Ykl5Vk0xanJEVFFmOFJadw?oc=5"
+  },
+  {
    "title": "皇崗義工戴「NFC手環」 助賓客旅客「一觸即達」",
    "source": "香港文匯報",
    "date": "11-16 20:59",
    "iso": "2026-11-16T20:59:32+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56LVpKYUtIZ1dYeHhySVhyWVNhMWJlZm9OMTlteXF2a1RHMDhtRjkySEtGMU9iS3ZRTllNM1dUdGV5MnJKb3h1YUQ5OE5iS0twRnVBWFhNRHNZeEFranRVNHFOUGp6SWQtWTBmcUVEcEM0OGpHVENZ?oc=5"
+  },
+  {
+   "title": "皇崗6條APEC專道開啟 通關僅5分鐘",
+   "source": "中國評論新聞",
+   "date": "11-16 07:52",
+   "iso": "2026-11-16T07:52:24+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNcGowaXpkSUQ0NkNYZ2RBeG90Ykcta0EzbklJMG5fZFl0WFl5MU9Eank3YmhnSEVQazBoTDZZYVFQLVJ2X0NSTFZhUzN6UGVlb01PTGMtcURuVFFuaDg0YTRjdWJhN0k?oc=5"
   },
   {
    "title": "時事全方位｜演唱會白牌車(二)",
@@ -94,20 +108,6 @@
    "date": "11-16 03:28",
    "iso": "2026-11-16T03:28:08+00:00",
    "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQLTNNVTRkRVhSaldqQkpxVGRURmRKVkFDN1RSZUtiT0lDcmJTVEN0SVNsOXROVjhVWjduYTFhbHE3cXNNTTJOXzhvR2ZiRjRiRlhRM2RaUFl6NC1pdlJlX3NnTFZNS3JXOFpXaWJ0N0tDdVo2d3l5dGRORElpNzI3MUpqckFRZ2ppcXJVM2hMaDBEd3JzYm1XZ1ZHQVBHaDN0TVpTRFQ0b2J0VjNVVy1tSERGLUozNG9nSmFteHJCRU15dzlCd2Q1ZkxFWGxBOTFhUkVRSXpMRUppOTl1RWUtbnltMmRienVQeGVNSGxidjVjVGFqN0cwWHdYVmRJU19JZ0NHaE13emtKOU1vbGdrUHNmU1N2S0hBMGFsQ3ZsNnRyMkpoX0ZudGhmbEo4OW0xbjRHYXR1SXAzZjB2RmhuYklTRmJmWUJFalJVZEZyUEtvaXpYbEJpanl5SXVrWXVGLVVHTERlelh4QlkyWlpJNTVLS3o2NE9oZFJObzZBcXM3N0o3SjFPU0tfZ0VlTnpqakU4dzlLNVRnSXVqV3dnM3hodldUeHVVWTVPS1U1ZEFDWjg2NDRlb0lCZFNvRWh5X3pkS0pXNUc?oc=5"
-  },
-  {
-   "title": "東張西望報料｜新皇崗口岸變婚紗攝影棚的士站旁取景罕見畫面惹目光- 東張+",
-   "source": "myTV SUPER",
-   "date": "11-16 03:25",
-   "iso": "2026-11-16T03:25:05+00:00",
-   "link": "https://news.google.com/rss/articles/CBMikwRBVV95cUxNRHk0M2psellGTWhIVFg0aUdIUkhyZ3FTdkU2SHYzMFhBajctM3RibVFPbkhxemJvYkxVSDNMcFJuWFBTX0dIYmthWEgwaThyZHg1OVJGSnVUMDNvM19QSEFCcXZHNldmcDNMZUtOanBydVAzT3oydGd0eVZZbzFsa0p3M3RZOG9qeGZ0NXVtNHJMNkFnbFF6QmVJUVBlb0Zpd2xOMk5tZmgyNjdzZWpybFRCa00wMlJxaEVzSHZFbk5zS1U0RWpkRTBVQ2JyeVpPc3VuY3UyVVE4LWhNMTRyVHlwTU5OV1FyaHhDaXNLWDRpSm8tQTB3SS0tRkpabTREd1JvY2tfdkVQRXRmcm9rY0dqT1Y4TTN0ZlF1aXo2MndYLW56ZXFaV21jNGtmalRKOG5aMmlxY0lmWS1hU3djMklkX0Q2amViWkJBYkxnQUREZV9ZNXpKcGkzNnpoamNhaTlIbDlpLVEzZ1BvTEpzSGpPRWdVdXc2dWp2WUoxNk9NUDM5aUlnQnJLaENqQWF1SnN4QmJVRlNBcDZHdjNiS3FaZ0hFcDdKMTBQNHk1Vk13YXd3elZDRm9tUks1SzlRWXJfSlBBYWV6UzROd19kOUhzai1zWUFNcS1STmJxcHZpS2tyT3cxMkN6YlpiN0tOLUF1cXlVVHRMQkRUbTR5cS0tLTdtMlRab2RlaTc5ZzNiaFU?oc=5"
-  },
-  {
-   "title": "深圳APEC｜皇崗6條APEC專道開啟 5分鐘通關24小時「即到即走」",
-   "source": "橙新聞",
-   "date": "11-16 02:27",
-   "iso": "2026-11-16T02:27:55+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOVml4MWp6YURJWjN6bjJ4TkR0NDd0T2g1WVhKTk50OWcxemIwMm1NSWM1RzhiZS1rMVp6Z1pNWnIzLW82NVkwOGlmNFJCcEFEeWVtWnZLazcyTlFsNk92dVJveThSMWdyX0FEQllfTUQ0em1xZmtFMXZRejRlbGp2Wm9GS3pWbXJZSnZubHlWNTc5VGhLcjBtUmlCV3ZwZTJSVzByWU1TRWxmand4bWtjR3RkVmlwZmtDNWVidElnMTNSZDJKQkplTGJ5azBHc0d1WUFVaHRnX0o2VHptRGt0VDh5RmdwUUg1RWJhMnhjM1dNUFN1cWU0OWFvdGVhSzY3TUhVSjl1VExaN1VoaHNYTjhib3RQTURQc0otYWtlSEJGdmEtWF9Ib2t6ZEhBOHAtQjN0N3ZQM21XbHBpd1hMd21ETTRDbDVBY0hOYnFWaF9vdw?oc=5"
   }
  ],
  "ok": true,
