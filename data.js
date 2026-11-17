@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-17T22:19:01+08:00",
+ "generated_at": "2026-11-17T22:25:10+08:00",
  "date": "2026-11-17",
  "weekday": "星期二",
- "clock": "22:19",
+ "clock": "22:25",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,20 +55,6 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "皇崗口岸｜路政署：公共運輸交匯處急轉彎路段已加防滑物料- 神州",
-   "source": "香港文匯報",
-   "date": "11-17 11:51",
-   "iso": "2026-11-17T11:51:56+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZRnNnSVhQX0NveG81OXI2TDVPT3AyUzZpS0h2ekhyX3dfN3BUYzFZWE0yMndfcWFfcFJweHJvM3VQVzhuY3lhdkRvblJLUllvUTV4UXl0UHRtcnBoLXU2WV9za2tncUp0OTExSnFPbl9rV3dNZi1V?oc=5"
-  },
-  {
-   "title": "路政署﹕ 皇崗新聯檢大樓交匯處急彎防滑物料已加周一起分階段進行餘下工程",
-   "source": "巴士的報",
-   "date": "11-17 10:51",
-   "iso": "2026-11-17T10:51:43+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQS3BRdVBNbmF2VlVxWnBoMnhoX0U2Sk5ZWm9iUmhyOHVLalk1MVV4WkZBSW1FRzlxU3lCQVBDQm5jSktrLVZaUzJKTmpUcXFUMlpiTF9HeUNTc1cxbWRXSkZNdVpzU1Q0NGJrdTk1VTdoRWZnU014eVNyaUF3VWdQYkpLVTlHaGI4OWtpRXI4VU1SSWw2Y25sRVBqTTNPMkFjQkxsdWd3ZnRBM2xpNkxzUjVCNkppN3F0Xzc1RzQydVNkZ0V4cFBFTVNERU1MZlRrY0d0ZGlRa1Vzb0lHU1h6ejhWU2owb0dOUXJfSHhYbHBmUTQyaVRxS0lJeWw5ejVJcUxQb2tDbnJvd1g3SDZnWGRoQ3FWSXJ1SW55WFpMOGphbW1aVEJuNzhYRW5YUFM4M0ZTQ2pIeVozZlAzTUEzNG1hRUFKQmp0MGYyX3E4bi1RWTF3cWd3MDBZMGItUGpMdjVPeWYtTXAzSzlfdkE?oc=5"
-  },
-  {
    "title": "APEC深圳｜外國領袖陸續抵達 香蜜湖主會場外清場 市民拍照圍觀",
    "source": "香港01",
    "date": "11-17 06:55",
@@ -97,6 +83,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOQ0xiNjlnMkJfME5LVGpweXlJS0RzdDJGRi1tbXRxaVJDMzJnSTBJUTF3cXFMT0xTX25DcmV2WTRfemFMV09QWEI0aGtGQWlNcGY2UXgyRHVZOEpiYmdEajk3QXFEbXpfa203MTBLeEpfUWtaeUpJQm5lS0VrY05MRFVoRllOWlJDQWZOd0xFXzZKaklOZDdaQmhrbEh6VkxVV2hqUDJmM1haVUwzQUlwM1BaN0hCRUdYSzBlX05WeFg1NTlFRVBOdUdOdTVPWVZpR05lcFl3aDUxLUdMVDFyU005dUhybkZiUDZsUC1UT0VBakNqLWg5ZERjN3NrXzk4MjNrWEQxYmIzbGRKNDR4RlNRcHVMS3BVcEs2MkRPclNOcmtaMnpIU1ZleVFKY2dwUlpXRmdFOFhFZ053QnJybkRPRUt4Tk5zRk5QSmY1UDhVNXVBaGdtdGlRcDhSTm0wLXBDWGpfTG53TXpfZHRtOFBSOGwtUmhaNGxVdHRUc1ZCai1wTU5aZy1lR0NIaEJlNDJwOEIwWF9TN1NhZHVtNllmNy1rYkdjczlpby1fUjJoZw?oc=5"
   },
   {
+   "title": "皇崗6條APEC專道開啟 通關僅5分鐘",
+   "source": "中國評論新聞",
+   "date": "11-16 07:52",
+   "iso": "2026-11-16T07:52:24+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNcGowaXpkSUQ0NkNYZ2RBeG90Ykcta0EzbklJMG5fZFl0WFl5MU9Eank3YmhnSEVQazBoTDZZYVFQLVJ2X0NSTFZhUzN6UGVlb01PTGMtcURuVFFuaDg0YTRjdWJhN0k?oc=5"
+  },
+  {
    "title": "時事全方位｜演唱會白牌車(二)",
    "source": "Now 新聞",
    "date": "11-16 06:36",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "11-16 06:35",
    "iso": "2026-11-16T06:35:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DSTVkbW9jTEhOcVRJcEdLZW5TRTMzZVpyb29vX3VVVDRqRnl6N1B4OWQ3bHVVcHhxMjhjMDh5eGs1M0h4TTd6ODA3Z3ZUR013VE9iNmFQSW80b3ZnVG00WHFn?oc=5"
+  },
+  {
+   "title": "深圳食好嘢😋《陶陶居•萬象食家店》➕️ B10🚍 皇崗口岸過關體驗| U Community 社群平台",
+   "source": "U Lifestyle",
+   "date": "11-16 04:57",
+   "iso": "2026-11-16T04:57:04+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOUmUyU1BhSld6dVkxdzVRdGtiaFdiWDROU0U4WjBfc0hpWlpmWGw0Zi1FMW0xck83V3RqZkEwRVE5NkdTR3NDWTloYjhULXdYaDh1M0IwTDVHejByUW9RbE5sbk5YdXZJekwwZGE2SkZST0ktcU54QWhFUmtFOVotS3JWM1dnRmNLRUs2YzNRUEJrR3F5ZGk0VXpib3FBT0U2eUpZV3c1MnNqRWpVZndDY3ZCQmdPTEcwNUJSNWFNU2hXc09YUVRVNXJPdG5IbmZWTTludmd5a1h4RkhCek80a3Znby1tMGYxOHplVkxyVXNITWJPbXk2UENRVTZIZnVjLWoxTnU2N3JIa2JFR0pSREdmazhDYlFvUEgzS0hKaHlNbk8yM3FEQS16T3RqYzhKQ1JTcUMzME1EM09xWkl4OXl5OGhXTW1ndzdnYmtZZ2lPNVo1S1g0WTNVMGhrbFhPZ2h1Mm9QajJJUQ?oc=5"
   }
  ],
  "ok": true,
