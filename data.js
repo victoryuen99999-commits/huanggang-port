@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-17T18:07:23+08:00",
+ "generated_at": "2026-11-17T18:13:33+08:00",
  "date": "2026-11-17",
  "weekday": "星期二",
- "clock": "18:07",
+ "clock": "18:13",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -76,6 +76,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56LVpKYUtIZ1dYeHhySVhyWVNhMWJlZm9OMTlteXF2a1RHMDhtRjkySEtGMU9iS3ZRTllNM1dUdGV5MnJKb3h1YUQ5OE5iS0twRnVBWFhNRHNZeEFranRVNHFOUGp6SWQtWTBmcUVEcEM0OGpHVENZ?oc=5"
   },
   {
+   "title": "皇崗口岸跣胎撞牆 的哥睹行家「打白鴿轉」 專家促加快鋪防滑砂",
+   "source": "香港01",
+   "date": "11-16 14:30",
+   "iso": "2026-11-16T14:30:15+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOQ0xiNjlnMkJfME5LVGpweXlJS0RzdDJGRi1tbXRxaVJDMzJnSTBJUTF3cXFMT0xTX25DcmV2WTRfemFMV09QWEI0aGtGQWlNcGY2UXgyRHVZOEpiYmdEajk3QXFEbXpfa203MTBLeEpfUWtaeUpJQm5lS0VrY05MRFVoRllOWlJDQWZOd0xFXzZKaklOZDdaQmhrbEh6VkxVV2hqUDJmM1haVUwzQUlwM1BaN0hCRUdYSzBlX05WeFg1NTlFRVBOdUdOdTVPWVZpR05lcFl3aDUxLUdMVDFyU005dUhybkZiUDZsUC1UT0VBakNqLWg5ZERjN3NrXzk4MjNrWEQxYmIzbGRKNDR4RlNRcHVMS3BVcEs2MkRPclNOcmtaMnpIU1ZleVFKY2dwUlpXRmdFOFhFZ053QnJybkRPRUt4Tk5zRk5QSmY1UDhVNXVBaGdtdGlRcDhSTm0wLXBDWGpfTG53TXpfZHRtOFBSOGwtUmhaNGxVdHRUc1ZCai1wTU5aZy1lR0NIaEJlNDJwOEIwWF9TN1NhZHVtNllmNy1rYkdjczlpby1fUjJoZw?oc=5"
+  },
+  {
    "title": "時事全方位｜演唱會白牌車(二)",
    "source": "Now 新聞",
    "date": "11-16 06:36",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-16 03:28",
    "iso": "2026-11-16T03:28:08+00:00",
    "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQLTNNVTRkRVhSaldqQkpxVGRURmRKVkFDN1RSZUtiT0lDcmJTVEN0SVNsOXROVjhVWjduYTFhbHE3cXNNTTJOXzhvR2ZiRjRiRlhRM2RaUFl6NC1pdlJlX3NnTFZNS3JXOFpXaWJ0N0tDdVo2d3l5dGRORElpNzI3MUpqckFRZ2ppcXJVM2hMaDBEd3JzYm1XZ1ZHQVBHaDN0TVpTRFQ0b2J0VjNVVy1tSERGLUozNG9nSmFteHJCRU15dzlCd2Q1ZkxFWGxBOTFhUkVRSXpMRUppOTl1RWUtbnltMmRienVQeGVNSGxidjVjVGFqN0cwWHdYVmRJU19JZ0NHaE13emtKOU1vbGdrUHNmU1N2S0hBMGFsQ3ZsNnRyMkpoX0ZudGhmbEo4OW0xbjRHYXR1SXAzZjB2RmhuYklTRmJmWUJFalJVZEZyUEtvaXpYbEJpanl5SXVrWXVGLVVHTERlelh4QlkyWlpJNTVLS3o2NE9oZFJObzZBcXM3N0o3SjFPU0tfZ0VlTnpqakU4dzlLNVRnSXVqV3dnM3hodldUeHVVWTVPS1U1ZEFDWjg2NDRlb0lCZFNvRWh5X3pkS0pXNUc?oc=5"
-  },
-  {
-   "title": "東張西望報料｜新皇崗口岸變婚紗攝影棚的士站旁取景罕見畫面惹目光- 東張+",
-   "source": "myTV SUPER",
-   "date": "11-16 03:25",
-   "iso": "2026-11-16T03:25:05+00:00",
-   "link": "https://news.google.com/rss/articles/CBMikwRBVV95cUxNRHk0M2psellGTWhIVFg0aUdIUkhyZ3FTdkU2SHYzMFhBajctM3RibVFPbkhxemJvYkxVSDNMcFJuWFBTX0dIYmthWEgwaThyZHg1OVJGSnVUMDNvM19QSEFCcXZHNldmcDNMZUtOanBydVAzT3oydGd0eVZZbzFsa0p3M3RZOG9qeGZ0NXVtNHJMNkFnbFF6QmVJUVBlb0Zpd2xOMk5tZmgyNjdzZWpybFRCa00wMlJxaEVzSHZFbk5zS1U0RWpkRTBVQ2JyeVpPc3VuY3UyVVE4LWhNMTRyVHlwTU5OV1FyaHhDaXNLWDRpSm8tQTB3SS0tRkpabTREd1JvY2tfdkVQRXRmcm9rY0dqT1Y4TTN0ZlF1aXo2MndYLW56ZXFaV21jNGtmalRKOG5aMmlxY0lmWS1hU3djMklkX0Q2amViWkJBYkxnQUREZV9ZNXpKcGkzNnpoamNhaTlIbDlpLVEzZ1BvTEpzSGpPRWdVdXc2dWp2WUoxNk9NUDM5aUlnQnJLaENqQWF1SnN4QmJVRlNBcDZHdjNiS3FaZ0hFcDdKMTBQNHk1Vk13YXd3elZDRm9tUks1SzlRWXJfSlBBYWV6UzROd19kOUhzai1zWUFNcS1STmJxcHZpS2tyT3cxMkN6YlpiN0tOLUF1cXlVVHRMQkRUbTR5cS0tLTdtMlRab2RlaTc5ZzNiaFU?oc=5"
   }
  ],
  "ok": true,
