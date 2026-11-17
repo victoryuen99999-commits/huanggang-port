@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-17T17:55:02+08:00",
+ "generated_at": "2026-11-17T18:01:13+08:00",
  "date": "2026-11-17",
  "weekday": "星期二",
- "clock": "17:55",
+ "clock": "18:01",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 24,
-  "humidity": 81,
-  "wind": 9.4,
+  "humidity": 82,
+  "wind": 9.2,
   "code": 1,
   "desc": "大致晴朗",
   "tmax": 29,
@@ -83,13 +83,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkdVZJeEdUZmNSdnY0MFRGWkFjM2lZaHU5eUNtYkhjOFBOLXRoQXdfOEZyb016NDJxUnFuTGY0ZmIyMGxCMnVDZzRVSkRoejRidHBCQ18wOUVuVFp3dFUwTDNR?oc=5"
   },
   {
-   "title": "時事全方位｜演唱會白牌車(一)",
-   "source": "Now 新聞",
-   "date": "11-16 06:35",
-   "iso": "2026-11-16T06:35:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DSTVkbW9jTEhOcVRJcEdLZW5TRTMzZVpyb29vX3VVVDRqRnl6N1B4OWQ3bHVVcHhxMjhjMDh5eGs1M0h4TTd6ODA3Z3ZUR013VE9iNmFQSW80b3ZnVG00WHFn?oc=5"
-  },
-  {
    "title": "深圳食好嘢😋《陶陶居•萬象食家店》➕️ B10🚍 皇崗口岸過關體驗| U Community 社群平台",
    "source": "U Lifestyle",
    "date": "11-16 04:57",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "11-16 03:28",
    "iso": "2026-11-16T03:28:08+00:00",
    "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQLTNNVTRkRVhSaldqQkpxVGRURmRKVkFDN1RSZUtiT0lDcmJTVEN0SVNsOXROVjhVWjduYTFhbHE3cXNNTTJOXzhvR2ZiRjRiRlhRM2RaUFl6NC1pdlJlX3NnTFZNS3JXOFpXaWJ0N0tDdVo2d3l5dGRORElpNzI3MUpqckFRZ2ppcXJVM2hMaDBEd3JzYm1XZ1ZHQVBHaDN0TVpTRFQ0b2J0VjNVVy1tSERGLUozNG9nSmFteHJCRU15dzlCd2Q1ZkxFWGxBOTFhUkVRSXpMRUppOTl1RWUtbnltMmRienVQeGVNSGxidjVjVGFqN0cwWHdYVmRJU19JZ0NHaE13emtKOU1vbGdrUHNmU1N2S0hBMGFsQ3ZsNnRyMkpoX0ZudGhmbEo4OW0xbjRHYXR1SXAzZjB2RmhuYklTRmJmWUJFalJVZEZyUEtvaXpYbEJpanl5SXVrWXVGLVVHTERlelh4QlkyWlpJNTVLS3o2NE9oZFJObzZBcXM3N0o3SjFPU0tfZ0VlTnpqakU4dzlLNVRnSXVqV3dnM3hodldUeHVVWTVPS1U1ZEFDWjg2NDRlb0lCZFNvRWh5X3pkS0pXNUc?oc=5"
+  },
+  {
+   "title": "東張西望報料｜新皇崗口岸變婚紗攝影棚的士站旁取景罕見畫面惹目光- 東張+",
+   "source": "myTV SUPER",
+   "date": "11-16 03:25",
+   "iso": "2026-11-16T03:25:05+00:00",
+   "link": "https://news.google.com/rss/articles/CBMikwRBVV95cUxNRHk0M2psellGTWhIVFg0aUdIUkhyZ3FTdkU2SHYzMFhBajctM3RibVFPbkhxemJvYkxVSDNMcFJuWFBTX0dIYmthWEgwaThyZHg1OVJGSnVUMDNvM19QSEFCcXZHNldmcDNMZUtOanBydVAzT3oydGd0eVZZbzFsa0p3M3RZOG9qeGZ0NXVtNHJMNkFnbFF6QmVJUVBlb0Zpd2xOMk5tZmgyNjdzZWpybFRCa00wMlJxaEVzSHZFbk5zS1U0RWpkRTBVQ2JyeVpPc3VuY3UyVVE4LWhNMTRyVHlwTU5OV1FyaHhDaXNLWDRpSm8tQTB3SS0tRkpabTREd1JvY2tfdkVQRXRmcm9rY0dqT1Y4TTN0ZlF1aXo2MndYLW56ZXFaV21jNGtmalRKOG5aMmlxY0lmWS1hU3djMklkX0Q2amViWkJBYkxnQUREZV9ZNXpKcGkzNnpoamNhaTlIbDlpLVEzZ1BvTEpzSGpPRWdVdXc2dWp2WUoxNk9NUDM5aUlnQnJLaENqQWF1SnN4QmJVRlNBcDZHdjNiS3FaZ0hFcDdKMTBQNHk1Vk13YXd3elZDRm9tUks1SzlRWXJfSlBBYWV6UzROd19kOUhzai1zWUFNcS1STmJxcHZpS2tyT3cxMkN6YlpiN0tOLUF1cXlVVHRMQkRUbTR5cS0tLTdtMlRab2RlaTc5ZzNiaFU?oc=5"
   }
  ],
  "ok": true,
