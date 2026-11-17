@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-17T08:36:34+08:00",
+ "generated_at": "2026-11-17T08:42:44+08:00",
  "date": "2026-11-17",
  "weekday": "星期二",
- "clock": "08:36",
+ "clock": "08:42",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -83,6 +83,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOd3R3RTNOaHF4RDRRNHZ3RjRXNEdOZGRHMU5lXzB1b2ZUMTdtaTFid2lRSmVPblJucTdBck42eDlLRFNXMFJjRHZRVHVtOWxuU2kxX0czdzBDaUNzcDNoaE1wWmpmNDhKcjI5b1pfRVBMZzNEY2RJTmp3b0I1Q210d05JdHBlM1JrdVVUQ05kWG9naTR6RXF6ZjN3SDM2SXNXZVR3aDVvdnotWVhmWWtqZEhwLWZjdU81UkRkeGF1aWpmOUVRR2YtN2V0Wmlma1FSQXgxRDNKSEdiOEFzQ2VMM0ttVGVvekpBMkxBZl91MW9BVC1DaW9nMmg2SU1RYldUWTZ4VklKZEpXWE5seTN2WHI3SGtBOU1Ma0ppWnJTejhIWUdOaEdmaG5ib3JwZFBiaUw0NmM5cGIwbXEtU3ZCX2VEcDUzOWxjbjV6WEd6ZUFFdjdXTVRzVkdHeEZ2bnFVSUhUVmNTemltSWhCcHVvZFU4UUE0cHdOM21KMHVONDdSMFktWWU0dFdXWEM1X2libkhKazI0NEh2dV9XSTJuZHY0cw?oc=5"
   },
   {
+   "title": "東張西望報料｜新皇崗口岸變婚紗攝影棚的士站旁取景罕見畫面惹目光- 東張+",
+   "source": "myTV SUPER",
+   "date": "11-16 03:25",
+   "iso": "2026-11-16T03:25:05+00:00",
+   "link": "https://news.google.com/rss/articles/CBMikwRBVV95cUxNRHk0M2psellGTWhIVFg0aUdIUkhyZ3FTdkU2SHYzMFhBajctM3RibVFPbkhxemJvYkxVSDNMcFJuWFBTX0dIYmthWEgwaThyZHg1OVJGSnVUMDNvM19QSEFCcXZHNldmcDNMZUtOanBydVAzT3oydGd0eVZZbzFsa0p3M3RZOG9qeGZ0NXVtNHJMNkFnbFF6QmVJUVBlb0Zpd2xOMk5tZmgyNjdzZWpybFRCa00wMlJxaEVzSHZFbk5zS1U0RWpkRTBVQ2JyeVpPc3VuY3UyVVE4LWhNMTRyVHlwTU5OV1FyaHhDaXNLWDRpSm8tQTB3SS0tRkpabTREd1JvY2tfdkVQRXRmcm9rY0dqT1Y4TTN0ZlF1aXo2MndYLW56ZXFaV21jNGtmalRKOG5aMmlxY0lmWS1hU3djMklkX0Q2amViWkJBYkxnQUREZV9ZNXpKcGkzNnpoamNhaTlIbDlpLVEzZ1BvTEpzSGpPRWdVdXc2dWp2WUoxNk9NUDM5aUlnQnJLaENqQWF1SnN4QmJVRlNBcDZHdjNiS3FaZ0hFcDdKMTBQNHk1Vk13YXd3elZDRm9tUks1SzlRWXJfSlBBYWV6UzROd19kOUhzai1zWUFNcS1STmJxcHZpS2tyT3cxMkN6YlpiN0tOLUF1cXlVVHRMQkRUbTR5cS0tLTdtMlRab2RlaTc5ZzNiaFU?oc=5"
+  },
+  {
    "title": "皇崗口岸跨境巴士疑路面防滑欠佳撞牆 路政署：將加設防滑物料",
    "source": "Yahoo",
    "date": "11-16 02:57",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-16 00:43",
    "iso": "2026-11-16T00:43:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kX0VpRUhmNlpkU0hELThxQ05MNkVSNWxnWG1xdmY3d1A4ME5xVVpGZlpScndYc0N6ZnhQUVAyU0Y2MjhBdTlaUVBWdE1uRHFzM21Pb2lZSTZJM3dKd0stN2dXQVVWbmRabHJtVWl5ZkFYWWZCMzY0?oc=5"
-  },
-  {
-   "title": "報章要聞｜文匯：皇崗6條APEC專道開啟／東方：市民自創聲演推廣禮讓",
-   "source": "TVB",
-   "date": "11-16 00:01",
-   "iso": "2026-11-16T00:01:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNOWFaRGtLNGdRcnQybDBvVTlOMnNGWnFxSkh3dkg3anktZ29idkZmVHMxc0duNGpHb0xpNl9BQ0dJUTR6UHpNQmVVUjB0dG5xd3ZMN0VCaXFNN01oV044bUZOVU4wdGFoR1l1N0VQZE5ueEJJYVhYcnl2cUhRcU9VLUlXcHZEMG5pbHJfRThjbjE5dksteUZiQmZRMDNINFE0MHNHMnFJNUY0YTM2dlU4eVVjNUxfTUFjaU1QbkNqaUo3bE5uTkUxWTJuRkNMUVVFY3NLRlRWZHduc1d1VFBfc2hBTkEydUdOaHhNWGFGa1d4bXBYRTVGSWhCZHh0M0pGVFZJZlNqbnJYbUFwWFhTS1BCSF9oU0psdGZybnpud052QWYtb00xTWFkSVA4bGs4bVBMLTZ6VmpJZHI1Q04tTVJIaW5UQmhfZEFReEFGMW1TcVczaFVDMEJYVjNHNkZMREhQemNhZWNmY0RCNHBoZXlId3BWQmJHZ0E?oc=5"
   }
  ],
  "ok": true,
