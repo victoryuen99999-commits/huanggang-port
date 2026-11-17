@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-17T19:23:32+08:00",
+ "generated_at": "2026-11-17T19:30:09+08:00",
  "date": "2026-11-17",
  "weekday": "星期二",
- "clock": "19:23",
+ "clock": "19:30",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 22,
   "humidity": 88,
-  "wind": 8.9,
+  "wind": 9.0,
   "code": 1,
   "desc": "大致晴朗",
   "tmax": 29,
@@ -54,6 +54,20 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "皇崗口岸｜路政署：公共運輸交匯處急轉彎路段已加防滑物料- 港聞",
+   "source": "dotdotnews",
+   "date": "11-17 11:05",
+   "iso": "2026-11-17T11:05:25+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EWDFPRXg4YTlVTkczSDRlS3VnU0p5Ny1GSjRuOXVVSDZVRDQ2Q3dtbkdMRjFXdUtDaG15dmVqdWg4N1pRLUN6X0xhVGN3MmU5anY4RWFyU1AxdDVlcXZHOXJuQjVqQUV6VlhVYmhoZTZqeGxma0FTNFZ3?oc=5"
+  },
+  {
+   "title": "路政署﹕ 皇崗新聯檢大樓交匯處急彎防滑物料已加周一起分階段進行餘下工程",
+   "source": "巴士的報",
+   "date": "11-17 10:51",
+   "iso": "2026-11-17T10:51:43+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQS3BRdVBNbmF2VlVxWnBoMnhoX0U2Sk5ZWm9iUmhyOHVLalk1MVV4WkZBSW1FRzlxU3lCQVBDQm5jSktrLVZaUzJKTmpUcXFUMlpiTF9HeUNTc1cxbWRXSkZNdVpzU1Q0NGJrdTk1VTdoRWZnU014eVNyaUF3VWdQYkpLVTlHaGI4OWtpRXI4VU1SSWw2Y25sRVBqTTNPMkFjQkxsdWd3ZnRBM2xpNkxzUjVCNkppN3F0Xzc1RzQydVNkZ0V4cFBFTVNERU1MZlRrY0d0ZGlRa1Vzb0lHU1h6ejhWU2owb0dOUXJfSHhYbHBmUTQyaVRxS0lJeWw5ejVJcUxQb2tDbnJvd1g3SDZnWGRoQ3FWSXJ1SW55WFpMOGphbW1aVEJuNzhYRW5YUFM4M0ZTQ2pIeVozZlAzTUEzNG1hRUFKQmp0MGYyX3E4bi1RWTF3cWd3MDBZMGItUGpMdjVPeWYtTXAzSzlfdkE?oc=5"
+  },
   {
    "title": "APEC現場｜外國領袖陸續抵達 香蜜湖主會場外清場 市民拍照圍觀",
    "source": "香港01",
@@ -66,7 +80,7 @@ window.HGP_DATA = {
    "source": "香港01",
    "date": "11-17 06:08",
    "iso": "2026-11-17T06:08:57+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83SGs4ZEhVWk5wbzZEVGI3YmhGc0tfY1BNMC1PWkY5Z3hYZTJJc0xNRC1CVlNlMkdWMzJZcXE0Ykl5Vk0xanJEVFFmOFJadw?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOSkdiOFZfR2kwbnBwRjBZekRQenJyY0JIOUh4Y18wamNqdlQwckdyREptU0VXY1BVbTFOSUFUa0hENFJCdWplT21KNng3Sks5T0NCSXRlajZjNzhiQWliZ2JzelV5WGNMQUE0bmlSUkxJaExuTk9LTGMwSmlpbVZmTHA0blhMbGhPYnV2RERMYTU2WUtCd1FkbXNlUHhrWHhxbzZmOTl6NkQ5R3dzaE5JSURVaEoza0xZeDNvSkx2T0NJVGlPc3JhTnhlUzY1WjlpS0cxSUdONVBUOGQtSUFIdm9Fck8yaUlYeHo3OWw3MTBNSWx6NXZxdzAwV3BOU2dGbXJuTEREX1VZZXlnNGVaRnJzS21QLWxQTU1rcFZpWEZ3cE94MkhiWnQ3NEpET0p3ZEdsZDRaZ19mSmduT2V3NF9NTUNWcmF5WnFZQzhhdWU2c0d5TTFNVkg2WG4yNGhjY1p6ZzkwU2VIZEFxZnFaUTZ2R2M0Y1RvVEhYVEcwaW52dk5uZjNBWWdDLVk4Nm83azdWd1RjcWFDWHV2RG5wZFQ3QkMwenBrTGpsOF91Vzg0dDFRZ0R0TWJ4VlNiYzJhV1ZiWmRQeVU?oc=5"
   },
   {
    "title": "皇崗義工戴「NFC手環」 助賓客旅客「一觸即達」",
@@ -95,30 +109,10 @@ window.HGP_DATA = {
    "date": "11-16 06:35",
    "iso": "2026-11-16T06:35:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DSTVkbW9jTEhOcVRJcEdLZW5TRTMzZVpyb29vX3VVVDRqRnl6N1B4OWQ3bHVVcHhxMjhjMDh5eGs1M0h4TTd6ODA3Z3ZUR013VE9iNmFQSW80b3ZnVG00WHFn?oc=5"
-  },
-  {
-   "title": "深圳食好嘢😋《陶陶居•萬象食家店》➕️ B10🚍 皇崗口岸過關體驗| U Community 社群平台",
-   "source": "U Lifestyle",
-   "date": "11-16 04:57",
-   "iso": "2026-11-16T04:57:04+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOUmUyU1BhSld6dVkxdzVRdGtiaFdiWDROU0U4WjBfc0hpWlpmWGw0Zi1FMW0xck83V3RqZkEwRVE5NkdTR3NDWTloYjhULXdYaDh1M0IwTDVHejByUW9RbE5sbk5YdXZJekwwZGE2SkZST0ktcU54QWhFUmtFOVotS3JWM1dnRmNLRUs2YzNRUEJrR3F5ZGk0VXpib3FBT0U2eUpZV3c1MnNqRWpVZndDY3ZCQmdPTEcwNUJSNWFNU2hXc09YUVRVNXJPdG5IbmZWTTludmd5a1h4RkhCek80a3Znby1tMGYxOHplVkxyVXNITWJPbXk2UENRVTZIZnVjLWoxTnU2N3JIa2JFR0pSREdmazhDYlFvUEgzS0hKaHlNbk8yM3FEQS16T3RqYzhKQ1JTcUMzME1EM09xWkl4OXl5OGhXTW1ndzdnYmtZZ2lPNVo1S1g0WTNVMGhrbFhPZ2h1Mm9QajJJUQ?oc=5"
-  },
-  {
-   "title": "新皇崗口岸巴士線｜城巴B14變全日 九龍區客轉乘優惠一口價$20.8",
-   "source": "香港01",
-   "date": "11-16 04:12",
-   "iso": "2026-11-16T04:12:25+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOd3R3RTNOaHF4RDRRNHZ3RjRXNEdOZGRHMU5lXzB1b2ZUMTdtaTFid2lRSmVPblJucTdBck42eDlLRFNXMFJjRHZRVHVtOWxuU2kxX0czdzBDaUNzcDNoaE1wWmpmNDhKcjI5b1pfRVBMZzNEY2RJTmp3b0I1Q210d05JdHBlM1JrdVVUQ05kWG9naTR6RXF6ZjN3SDM2SXNXZVR3aDVvdnotWVhmWWtqZEhwLWZjdU81UkRkeGF1aWpmOUVRR2YtN2V0Wmlma1FSQXgxRDNKSEdiOEFzQ2VMM0ttVGVvekpBMkxBZl91MW9BVC1DaW9nMmg2SU1RYldUWTZ4VklKZEpXWE5seTN2WHI3SGtBOU1Ma0ppWnJTejhIWUdOaEdmaG5ib3JwZFBiaUw0NmM5cGIwbXEtU3ZCX2VEcDUzOWxjbjV6WEd6ZUFFdjdXTVRzVkdHeEZ2bnFVSUhUVmNTemltSWhCcHVvZFU4UUE0cHdOM21KMHVONDdSMFktWWU0dFdXWEM1X2libkhKazI0NEh2dV9XSTJuZHY0cw?oc=5"
   }
  ],
  "ok": true,
- "vehicle_events": [
-  {
-   "t": 1794802345000,
-   "s": "香港01",
-   "ti": "新皇崗口岸巴士線｜城巴B14變全日 九龍區客轉乘優惠一口價$20.8"
-  }
- ],
+ "vehicle_events": [],
  "tips": [
   {
    "tag": "天氣",
