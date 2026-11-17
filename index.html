@@ -259,8 +259,10 @@
   .ev-t.show{background:rgba(246,178,60,.2);color:#fbd08a}
   .ev-t.sport{background:rgba(120,190,255,.18);color:#a9d4ff}
   .ev-t.expo{background:rgba(47,212,182,.16);color:#8ee8d6}
+  .ev-t.summit{background:rgba(190,150,255,.2);color:#d9c8ff}
   .ev-t.holiday{background:rgba(242,96,79,.2);color:#ffcfc8}
   .ev-hi .ev-n{font-weight:600}
+  .ev-kt{display:inline-block;font-size:10.5px;font-weight:700;padding:0 6px;border-radius:5px;margin-right:5px;background:rgba(120,160,255,.2);color:#b9ccff;vertical-align:1px}
   .ev-live{display:inline-block;font-size:10.5px;font-weight:700;padding:0 6px;border-radius:5px;margin-right:5px;background:rgba(47,212,182,.2);color:#8ee8d6;vertical-align:1px}
   .ev-live.last{background:rgba(242,96,79,.24);color:#ffd0c9}
   .ev-cf{font-size:10.5px;color:#fbd08a;margin-left:4px}
@@ -522,7 +524,7 @@
         <h3 class="h3">港方近期大型活動</h3>
         <div class="panel">
         <div id="evHk"><div class="empty">載入中…</div></div>
-        <p class="note" style="margin:8px 0 0">用於人流預測參考：活動散場、假期首尾為跨境高峰。<b>高影響活動會保留至活動最後一日完結後才移除</b>。日期時間以主辦方公布為準<span id="evChecked"></span>。</p>
+        <p class="note" style="margin:8px 0 0">用於人流預測參考：活動散場、假期首尾為跨境高峰。<b>高影響活動保留至最後一日完結後才移除</b>；活動太多時只顯示一個月內，但<b>啟德體育園活動優先顯示</b>（皇崗過關後經東鐵／屯馬綫到啟德約 1 小時）。<span id="evChecked"></span></p>
         </div>
       </div>
       <div class="cell">
@@ -533,7 +535,7 @@
         <span class="side-sub" id="evSzTime">—</span>
         </div>
         <div id="evSz"><div class="empty">載入中…</div></div>
-        <p class="note" style="margin:8px 0 0">散場時段（約 22:00–00:30）為入境高峰；活動日期以主辦方公布為準。</p>
+        <p class="note" style="margin:8px 0 0">散場時段（約 22:00–00:30）為入境高峰；活動日期以主辦方公布為準。官方大型會議／交通管制由人手核對加入。</p>
         </div>
       </div>
     </div>
@@ -1195,7 +1197,7 @@
   }
 
 
-  var EV_TAG = {show:"演唱會", sport:"賽事", expo:"展覽", holiday:"假期", other:"活動"};
+  var EV_TAG = {show:"演唱會", sport:"賽事", expo:"展覽", summit:"會議", holiday:"假期", other:"活動"};
 
   function evRow(e){
     var d1 = (e.start || "").slice(5).replace("-", "/");
@@ -1209,13 +1211,14 @@
     } else if(e.days === 0) when += " · 今日";
     else if(e.days === 1) when += " · 明日";
     else if(e.days > 0) when += " · " + e.days + " 日後";
+    var kt = e.kt ? '<span class="ev-kt">啟德</span>' : "";
     var live = e.status === "ongoing"
       ? '<span class="ev-live' + (e.left === 0 ? " last" : "") + '">' + (e.left === 0 ? "最後一日" : "進行中") + '</span>'
       : "";
     return '<div class="ev-row' + (e.impact === "high" ? " ev-hi" : "") + '">' +
       '<div class="ev-d"><b>' + d1 + '</b><span>' + (d2 ? "–" + d2 : "") + '</span></div>' +
       '<div class="ev-m">' +
-        '<div class="ev-n">' + live + e.name + (e.confirm ? '<span class="ev-cf">' + e.confirm + '</span>' : '') + '</div>' +
+        '<div class="ev-n">' + kt + live + e.name + (e.confirm ? '<span class="ev-cf">' + e.confirm + '</span>' : '') + '</div>' +
         (e.venue ? '<div class="ev-v">' + e.venue + when + '</div>' : (when ? '<div class="ev-v">' + when.replace(" · ", "") + '</div>' : '')) +
         (e.note ? '<div class="ev-i">' + e.note + '</div>' : '') +
       '</div>' +

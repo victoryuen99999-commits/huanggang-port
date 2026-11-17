@@ -25,8 +25,11 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/131.0 Safari/537.36")
 HK01 = "https://space.hk01.com/themes/hkevents"
 BDB = "http://sz.bendibao.com/xiuxian/yanchanghui/"
+BDB2 = "http://sz.bendibao.com/xiuxian/zhanhui/"   # 深圳展會
 HOL = "https://www.1823.gov.hk/common/ical/tc.json"
-WINDOW_DAYS = 75          # 只看未來 75 日
+WINDOW_DAYS = 30          # 一般活動：只看未來 30 日（太多活動時只顯示一個月內）
+KAITAK_DAYS = 90          # 啟德體育園活動：優先保留，可看未來 90 日
+KAITAK_MAX = 6            # 啟德活動最多顯示幾筆
 MAX_PER_SIDE = 6
 
 
@@ -156,8 +159,8 @@ def fetch_holidays():
 
 
 # ────────────────────────── 深方：深圳本地寶 ──────────────────────────
-def fetch_bdb():
-    s = get(BDB)
+def fetch_bdb(url=BDB):
+    s = get(url)
     s = re.sub(r"<script.*?</script>|<style.*?</style>", "", s, flags=re.S)
     lines = [l.strip() for l in html.unescape(re.sub(r"<[^>]+>", "\n", s)).split("\n") if l.strip()]
     skip = {"查看攻略", "推荐指数", "推薦指數", "即将开始", "即將開始", "推荐", "推薦", "演唱会小助手",
@@ -187,6 +190,8 @@ def fetch_bdb():
         venue = to_trad(re.sub(r"\s+", " ", venue).strip())
         if not name or len(name) < 4 or name in skip or name in seen:
             continue
+        if "深圳" not in (name + venue) and "福田" not in (name + venue):
+            continue
         seen.add(name)
         typ, imp, note = classify(name)
         confirm = ""
@@ -198,7 +203,7 @@ def fetch_bdb():
             "venue": re.sub(r"\s+", " ", venue).strip(),
             "type": typ, "impact": imp, "note": note,
             "src_kind": "bendibao", "confirm": confirm,
-            "link": BDB,
+            "link": url,
         })
     return out
 
@@ -222,7 +227,14 @@ def norm_curated(block, kind):
 NOISE_RE = re.compile(r"^(貓眼|猫眼|購票入口|购票入口|購票|购票|售票|大麥|大麦|豆瓣|摩天輪|摩天轮|查看攻略|推薦|推荐|活動網|活动网)$")
 
 
-def finalize(items, today, limit, keep_all_high=True):
+KAITAK_RE = re.compile(r"啟德|启德|Kai Tak", re.I)
+
+
+def is_kaitak(e):
+    return bool(KAITAK_RE.search((e.get("venue") or "") + " " + (e.get("name") or "")))
+
+
+def finalize(items, today, limit, keep_all_high=True, win_days=None):
     """保留規則：活動要「完全完結」才移除 —— end >= today 都保留（最後一日仍顯示）。"""
     keep, seen = [], set()
     for e in items:
@@ -233,7 +245,13 @@ def finalize(items, today, limit, keep_all_high=True):
             continue
         if en < today:                       # 已完全結束 → 移除
             continue
-        if st > today + timedelta(days=WINDOW_DAYS):
+        e["kt"] = is_kaitak(e)
+        if e.get("type") == "other" and not e["kt"]:
+            continue
+        if e["kt"]:
+            if st > today + timedelta(days=KAITAK_DAYS):      # 啟德：放寬到 90 日
+                continue
+        elif st > today + timedelta(days=(win_days or WINDOW_DAYS)):   # 其他：預設只留一個月內
             continue
         if NOISE_RE.match((e.get("name") or "").strip()) or len((e.get("name") or "").strip()) < 4:
             continue
@@ -253,8 +271,24 @@ def finalize(items, today, limit, keep_all_high=True):
     keep.sort(key=lambda e: (0 if e["status"] == "ongoing" else 1,
                              e["end"] if e["status"] == "ongoing" else e["start"],
                              order.get(e["impact"], 2)))
+    # 啟德活動一律保留（最多 KAITAK_MAX 筆），其餘高影響全留、中影響受上限
+    kt = [e for e in keep if e.get("kt")]
+    rest = [e for e in keep if not e.get("kt")]
     if not keep_all_high:
-        return keep[:limit]
+        return (kt + rest)[:limit]
+    highs = [e for e in rest if e.get("impact") == "high"]
+    others = [e for e in rest if e.get("impact") != "high"]
+    merged = kt[:KAITAK_MAX] + highs + others[:limit]
+    uniq, seen2 = [], set()
+    for e in merged:
+        k = (e["name"][:18], e["start"])
+        if k in seen2:
+            continue
+        seen2.add(k); uniq.append(e)
+    return sorted(uniq, key=lambda e: (
+        0 if e["status"] == "ongoing" else 1,
+        e["end"] if e["status"] == "ongoing" else e["start"],
+        e["name"]))
     # 高影響活動一律保留（不受筆數上限影響，直至活動完結）；其餘按上限
     highs = [e for e in keep if e.get("impact") == "high"]
     others = [e for e in keep if e.get("impact") != "high"]
@@ -271,7 +305,11 @@ def load_prev():
         if not m:
             return {"hk": [], "sz": []}
         d = json.loads(m.group(1))
-        return {"hk": d.get("hk", []), "sz": d.get("sz", [])}
+        hk = [e for e in d.get("hk", []) if "深圳" not in (e.get("venue", "") + e.get("name", ""))]
+        sz = [e for e in d.get("sz", [])
+              if any(k in (e.get("venue", "") + e.get("name", "")) for k in ("深圳", "福田", "廣東", "皇崗"))
+              and "香港" not in (e.get("venue", "") + e.get("name", ""))]
+        return {"hk": hk, "sz": sz}
     except Exception:                   # noqa: BLE001
         return {"hk": [], "sz": []}
 
@@ -290,10 +328,11 @@ def main():
         got["hk"] += fetch_holidays()
     except Exception as e:              # noqa: BLE001
         errs.append("1823: %s" % str(e)[:80])
-    try:
-        got["sz"] += fetch_bdb()
-    except Exception as e:              # noqa: BLE001
-        errs.append("bendibao: %s" % str(e)[:80])
+    for u in (BDB, BDB2):
+        try:
+            got["sz"] += fetch_bdb(u)
+        except Exception as e:          # noqa: BLE001
+            errs.append("bendibao(%s): %s" % (u.rsplit("/", 2)[-2], str(e)[:60]))
 
     prev = load_prev()
 
@@ -309,8 +348,17 @@ def main():
     got["hk"] = got["hk"] + prev["hk"]   # 新資料優先，舊快照作備援
     got["sz"] = got["sz"] + prev["sz"]
 
-    hk = finalize(got["hk"], today, 4)                  # 高影響全留；中影響最多 4 筆
-    sz = finalize(got["sz"], today, 3)
+    def pick(items, limit):
+        """先試一個月內；若太少（<4 筆）才逐步放寬到兩個月、三個月。"""
+        res = []
+        for w in (30, 60, 90):
+            res = finalize(items, today, limit, True, w)
+            if len(res) >= 4:
+                break
+        return res
+
+    hk = pick(got["hk"], 4)     # 高影響全留；中影響最多 4 筆
+    sz = pick(got["sz"], 3)
 
     if not hk and not sz:
         print("[warn] 全部來源失敗，保留舊檔:", "; ".join(errs), file=sys.stderr)
