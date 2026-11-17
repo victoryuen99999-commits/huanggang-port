@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-17T18:19:49+08:00",
+ "generated_at": "2026-11-17T18:25:59+08:00",
  "date": "2026-11-17",
  "weekday": "星期二",
- "clock": "18:19",
+ "clock": "18:25",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -90,6 +90,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkdVZJeEdUZmNSdnY0MFRGWkFjM2lZaHU5eUNtYkhjOFBOLXRoQXdfOEZyb016NDJxUnFuTGY0ZmIyMGxCMnVDZzRVSkRoejRidHBCQ18wOUVuVFp3dFUwTDNR?oc=5"
   },
   {
+   "title": "時事全方位｜演唱會白牌車(一)",
+   "source": "Now 新聞",
+   "date": "11-16 06:35",
+   "iso": "2026-11-16T06:35:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DSTVkbW9jTEhOcVRJcEdLZW5TRTMzZVpyb29vX3VVVDRqRnl6N1B4OWQ3bHVVcHhxMjhjMDh5eGs1M0h4TTd6ODA3Z3ZUR013VE9iNmFQSW80b3ZnVG00WHFn?oc=5"
+  },
+  {
    "title": "深圳食好嘢😋《陶陶居•萬象食家店》➕️ B10🚍 皇崗口岸過關體驗| U Community 社群平台",
    "source": "U Lifestyle",
    "date": "11-16 04:57",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-16 04:12",
    "iso": "2026-11-16T04:12:25+00:00",
    "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOd3R3RTNOaHF4RDRRNHZ3RjRXNEdOZGRHMU5lXzB1b2ZUMTdtaTFid2lRSmVPblJucTdBck42eDlLRFNXMFJjRHZRVHVtOWxuU2kxX0czdzBDaUNzcDNoaE1wWmpmNDhKcjI5b1pfRVBMZzNEY2RJTmp3b0I1Q210d05JdHBlM1JrdVVUQ05kWG9naTR6RXF6ZjN3SDM2SXNXZVR3aDVvdnotWVhmWWtqZEhwLWZjdU81UkRkeGF1aWpmOUVRR2YtN2V0Wmlma1FSQXgxRDNKSEdiOEFzQ2VMM0ttVGVvekpBMkxBZl91MW9BVC1DaW9nMmg2SU1RYldUWTZ4VklKZEpXWE5seTN2WHI3SGtBOU1Ma0ppWnJTejhIWUdOaEdmaG5ib3JwZFBiaUw0NmM5cGIwbXEtU3ZCX2VEcDUzOWxjbjV6WEd6ZUFFdjdXTVRzVkdHeEZ2bnFVSUhUVmNTemltSWhCcHVvZFU4UUE0cHdOM21KMHVONDdSMFktWWU0dFdXWEM1X2libkhKazI0NEh2dV9XSTJuZHY0cw?oc=5"
-  },
-  {
-   "title": "新皇崗口岸｜專家料路面排水防滑欠佳致跣胎 當局擬下周加鋪物料",
-   "source": "香港01",
-   "date": "11-16 03:28",
-   "iso": "2026-11-16T03:28:08+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQLTNNVTRkRVhSaldqQkpxVGRURmRKVkFDN1RSZUtiT0lDcmJTVEN0SVNsOXROVjhVWjduYTFhbHE3cXNNTTJOXzhvR2ZiRjRiRlhRM2RaUFl6NC1pdlJlX3NnTFZNS3JXOFpXaWJ0N0tDdVo2d3l5dGRORElpNzI3MUpqckFRZ2ppcXJVM2hMaDBEd3JzYm1XZ1ZHQVBHaDN0TVpTRFQ0b2J0VjNVVy1tSERGLUozNG9nSmFteHJCRU15dzlCd2Q1ZkxFWGxBOTFhUkVRSXpMRUppOTl1RWUtbnltMmRienVQeGVNSGxidjVjVGFqN0cwWHdYVmRJU19JZ0NHaE13emtKOU1vbGdrUHNmU1N2S0hBMGFsQ3ZsNnRyMkpoX0ZudGhmbEo4OW0xbjRHYXR1SXAzZjB2RmhuYklTRmJmWUJFalJVZEZyUEtvaXpYbEJpanl5SXVrWXVGLVVHTERlelh4QlkyWlpJNTVLS3o2NE9oZFJObzZBcXM3N0o3SjFPU0tfZ0VlTnpqakU4dzlLNVRnSXVqV3dnM3hodldUeHVVWTVPS1U1ZEFDWjg2NDRlb0lCZFNvRWh5X3pkS0pXNUc?oc=5"
   }
  ],
  "ok": true,
