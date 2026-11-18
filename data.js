@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "姚銘回應新皇崗口岸的最新運作情況：整體運作值得肯定- 香港",
+   "source": "香港文匯報",
+   "date": "11-18 11:41",
+   "iso": "2026-11-18T11:41:17+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xTDcwMXFCZnd1ZUM0LXp3X19qSC0xTngxMHZsWHNBOVBWbzBxOTJOMUlmMUx0UjFIQlJfY3pOWFNWay0tVkp2LUFKVTdOQ2duWkRHR0plLTFvWms3NDd0QjZJU1FrVGczcXVTb29KLWNfdXlqMVMw?oc=5"
+  },
+  {
    "title": "新皇崗口岸平日日均8.8萬人次出入境 較過往落馬洲管制站增逾一倍",
    "source": "Now 新聞",
    "date": "11-18 09:39",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-18 06:54",
    "iso": "2026-11-18T06:54:40+00:00",
    "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOTHdDN1l1bVRXVm04bmFmdjFheWR4S1Vfakc4QkVScWIyeU1CVWVRMFRxYnE0aC13eVhTX2w3cVNqczd5ODVaaXkxMmc4N29KdGdsX1I3TDFRclBQNG9MTDhlM0JFRVpLX2xoazJTQWtoeFBSNTZvZDhmanZ1SjV6QTJUZlV5Y1U5bjVMR0l4YVR4SDd4X3dTZC1PYlRmeDlKRjZqUGRLckRhTGFCbHJtdC1Mc3VHeGpockN4MkZOYXRoRldiY1l4N3lKUnhRZHk4N0RsOWxsc190aVNVc2RzZlhhbUdvSVRMUFBMRVVWV0d6TEt5aXF4b0ducFJhcGJqVWJiOWZKQ0xxT3BpM3Rmc3I0WEhmbFpxTndDaWJ3UGRBb2ZfLXdnc2E2Q1NIMldXNGRSaEVCVHRBRnUwWGFpWlRlMlYxNzhMU1ZCMg?oc=5"
-  },
-  {
-   "title": "皇崗口岸日均出入境旅客錄約8.8萬人次 港深共識「跨河建」 重置沙頭角口岸",
-   "source": "巴士的報",
-   "date": "11-18 06:52",
-   "iso": "2026-11-18T06:52:05+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNenZqa2NGM3c0NVBPbWM4OVdiS2RUQzAwNzA5YkFkTjFJYWxKSzNHcGVyU0kxMFBlNk94TTQwZ3dFRHF4ZmFmWkRBOEZaYXRBZkZ0S3dWc3FHSXVzT3QtTjZZYUd3UG5ucm1wSnhGbXBlbkZGaml2bkZ3S0VRaVF0ZTl1LW92X3JIbzNaR24xTWpkdHozYlY2WGE3djlFdHRTcTFFbjUzVTNtZ2x6LURZOXdoS053TVBJOTk4UVcyZFZIZ1ZNLXBfSzN5M0ktVk1VNEhDYm0zTDJLc1ZKU193dFdmVGtvQVBTcDFIZHJzSUZqSEd5MzRteTY5ZU1FelluOWJzQnl2OWFEZk9hZE5iUW90Vmo3eG8ta0ZmY1VBeEVzZmdrXzJZSDRLZmthY091QVhrSk9BUGZmZktwemlnbVpZV0plZGphMW5FZVc2bXJnT054OHp4QWhUTGtiblE1YnFlRHM2UQ?oc=5"
   }
  ],
  "ok": true,
