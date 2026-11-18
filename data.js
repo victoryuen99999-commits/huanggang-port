@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-18T18:28:59+08:00",
+ "generated_at": "2026-11-18T18:35:59+08:00",
  "date": "2026-11-18",
  "weekday": "星期三",
- "clock": "18:28",
+ "clock": "18:35",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,9 +45,9 @@ window.HGP_DATA = {
  "weather": {
   "temp": 21,
   "humidity": 67,
-  "wind": 17.2,
-  "code": 0,
-  "desc": "天晴",
+  "wind": 17.1,
+  "code": 1,
+  "desc": "大致晴朗",
   "tmax": 28,
   "tmin": 18,
   "pop": 90
@@ -60,6 +60,13 @@ window.HGP_DATA = {
    "date": "11-18 09:39",
    "iso": "2026-11-18T09:39:45+00:00",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtZUpGTDFGN0hjSVB1SkFZdkFXcUpITGxjN0V2bzU4angwRE5JTTB0N3p2aF9BcE51OTk5YzEyOHRNSjdKbGF3YlRUclZLUks5akdJckxVekVxMHgzczd5cXBOOW1tVUduQ1Q1bDY0amQ1NXQydnJ1Qmx3?oc=5"
+  },
+  {
+   "title": "新皇崗口岸平日日均8.8萬人次出入境 較過往落馬洲管制站增逾一倍",
+   "source": "Now 新聞",
+   "date": "11-18 09:39",
+   "iso": "2026-11-18T09:39:26+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJRVpuLU1wUTA4Qk1LbDgwRmhWQmF2c1RLVThmSXN5YTI0aS13OEhzQm5iWHFvd2JjMjFUNnJxTC11aV9CQlV0di1CVk1uTWdEcHVXX2haaU90VWV0U0M3VUFR?oc=5"
   },
   {
    "title": "新皇崗口岸｜平日日均8.8萬人次 較以往落馬洲多逾倍 議員倡增短途巴士分流 - i-CABLE",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-18 08:12",
    "iso": "2026-11-18T08:12:47+00:00",
    "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxPRW14cDZSelJOWHM0Z1JWWXY3cmFUcmsyaXpFOXdINURONzk4RzFFTENCanIyQWJlTTVFZ1ZoWkJxUG5VcGdNdHQtLXhNR3VTakczOVFlTnRvWFlGbURGRjNNUEZVUXJqdmY2OXpwc0ZsdzNuT3FwR2NPaHdBQVB3WWhQR3BEa2E1YWFZbkUtc0tzRG93UWZsSDVjcjkzX3dzSzc3c3F6NlBhMUhiWUdQN2dHVm95N3VybENpY3BnOFRUM2lwTlNMYUhFUmM2c201Rl9PRlFUUEJSZkRqNVZmSU5aLWdFOHBkTGtBbjFEeUZxcnUyOGJwSFJURTEwWTgtRkxxRUxzdkVVYXh0SkJBZFJqcmNYeFh2SFZ4cE9fRGd4UExaWC1jcmRueUptcFhnMHBIS1JzU3lWR3lWVnU1WFVzM05MTjRZaEMzQVdFN1pJZjFINndMNnVHWmU5XzdscTFMZlVmVGFVYVBobnRneGRHTnlkMUZ3MUR2VnlVeXZsSkt5T1hVTnF3TkRNMXIxVlp2U1NtOE9sUW1XYVBRVEZvX3VwR1FyQWlvRHFjZmk0dnJiS1gzQmUwSFBkblJFc09rNjFTcXFqWi1ScnJ6N3Zyd2tUbk9YOXpKLWx1ODBBc1FVcTJXMmdRV2ZrNl9kUURubUdFSmlSV2xqNHVTaUVWeTN2UnM?oc=5"
-  },
-  {
-   "title": "新皇崗口岸｜11.15錄單日旅客高峰3小時內逾3.5萬人出入境政府強調平均輪候時間在15分鐘以下",
-   "source": "香港經濟日報HKET",
-   "date": "11-18 07:51",
-   "iso": "2026-11-18T07:51:54+00:00",
-   "link": "https://news.google.com/rss/articles/CBMivwRBVV95cUxQSkZBaTZKSGJfbGNZZEVlcUJOQlNmaFNKajhVYmhOQWhwa3RnWklHMFgwdS1jaXN4R2FpeDl3Nm9KS2lreXFOaU1KSzZYaEI2LVdQSFk2OTBTUjRRZ0U3d3d3bExuei1CdDh0dUtkWWZwUE1OZTczdVF3elptSnVlOEVmNkMxdTBmUzE2czVnZUM3eDNGbXpadnMwbDFlYmpuQVBnMWt1S3ZoYUo1UWFQNDVDeUg2eUIycUxJMmxyX2VPNFVUWElrQXFrNFlkOTVucTlhS0VpMmU0ZTZ2dWF1U2ZjUHNoakRuX0ExbXZZNi1xUjkwaDVhbkdDSU44b0RpVVk0NzB4M3hPWXRDT1A3VFY0bGJkUng2STZVbER0X1NhNF83bzBwZk4wZVRSbVgwcUdMd00xZ0NoN1ZENjF6Z2tVQ1lYa3o1RXdfXy1oejJBVFVXemsxVk9wZnNUWTZ1dWpPRmxwX0plZXdvcy1VNmlTaFpqT1djQVhBQmtNdTgxeDBuZUV6Q2NVOVRpVUM0cnB3TG9hc3I2dEhoWVVqa2FIT1JObnBtTmkyUXBHNXlmS29VSFpiLVZwSktzcHkxLUdBdzFzbVNiMXFYeHZKN2FHMkdmLXAydWJCcFRXaUVzZ0Uzb0RZdFZVZzl5SkFSbWVrY01CSjlJM2c0cnBGUFNRaVlhMEJaOGN4N2lJS0ozR294RFRGSHF2T2Y1T0h2S1pjRDFsVTlnRkpObEpvUTltYUNPNWktUzhQbHFzQQ?oc=5"
   }
  ],
  "ok": true,
@@ -139,11 +139,6 @@ window.HGP_DATA = {
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
-  },
-  {
-   "tag": "車流",
-   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
-   "level": "warn"
   },
   {
    "tag": "禁區",
