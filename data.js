@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-19T06:23:15+08:00",
+ "generated_at": "2026-11-19T06:30:11+08:00",
  "date": "2026-11-19",
  "weekday": "星期四",
- "clock": "06:23",
+ "clock": "06:30",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 17,
-  "humidity": 70,
-  "wind": 12.9,
+  "temp": 16,
+  "humidity": 69,
+  "wind": 12.7,
   "code": 3,
   "desc": "多雲",
   "tmax": 20,
@@ -97,18 +97,18 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPOTVaWGg5ZVR4U3BYRE9yQXJwZkxnY1Z3YmxLQzY0d0U0S3dvTVpWSVVvRGx4aEsyeE84QTdwT29ibm8yaUxMZVJFNDQzUVRmM3oyT0FQbUx3X1drNEdnWVdRM1QtRVNwNGJxdkVhdzNPZ1hVc09FRWdtMlNRTDVHdW5NY2p3cGJEc3hjQ2VzMThaTlJMcGZhRmlrMk1DVmtSTXo2WnRVTzVuUHZrNERIa09SR1lKUXNkelBuUHktMnFVdW96OElfa2FaMkV3WHdsNzNGYzhhcmtEQWplLWVPeGs4bEhUY1gwdnB1M0NJdmxaWHJWZnhJLWFpZUFzako1YzNnaGc5bDlBdjV1Y1VnWlM0U2RpMXRwUTJLTy1Cei12Ml9HQTBLb3ZndE51MlNMWEhyWGxhYUZlQjYxOHc1YmRNb2tEREhvaFFhZTk4bnVZWXVYdVhJSjdxeFdVX0MwWkY0UlJzYzFlRlp1ZUI5NFBYOE5rUjNmdldtQnNYaFdhYl9jaGtnc3lESGlYZVQ4YWVPaVI2UDBWOTR4Y00zLW5kQ0NOVkp3ZVJIQk9VTDB2ckxMQTJHZmpXM0E3ZXEwYnBmUmNBY3A0bkF5eGlmYkMxNTFwcDZDMkpXLWItM0ZNRUJ3RWpjN3hLanIzRlU?oc=5"
   },
   {
-   "title": "新皇崗口岸平日日均8.8萬人次出入境 較以往落馬洲管制站增加逾一倍",
-   "source": "香港商报",
-   "date": "11-18 07:49",
-   "iso": "2026-11-18T07:49:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RM3dMWmxvZnNUQVBHN2p6T1lCWmxUV0N0bThjQS04OFhqM0xBLW5TZUpWRV9zQTVrQmxteWJNNHljdkQ5S1Z6TXU0SXJnZjIwNjlFRVVfeHRGUE8wVjB4TkYwbzBiYTVQT2dwdlJoSEUwSEQySFE?oc=5"
-  },
-  {
    "title": "新皇崗口岸｜開通逾月 平日日均8.8萬人次出入境",
    "source": "AM730",
    "date": "11-18 06:54",
    "iso": "2026-11-18T06:54:40+00:00",
    "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOTHdDN1l1bVRXVm04bmFmdjFheWR4S1Vfakc4QkVScWIyeU1CVWVRMFRxYnE0aC13eVhTX2w3cVNqczd5ODVaaXkxMmc4N29KdGdsX1I3TDFRclBQNG9MTDhlM0JFRVpLX2xoazJTQWtoeFBSNTZvZDhmanZ1SjV6QTJUZlV5Y1U5bjVMR0l4YVR4SDd4X3dTZC1PYlRmeDlKRjZqUGRLckRhTGFCbHJtdC1Mc3VHeGpockN4MkZOYXRoRldiY1l4N3lKUnhRZHk4N0RsOWxsc190aVNVc2RzZlhhbUdvSVRMUFBMRVVWV0d6TEt5aXF4b0ducFJhcGJqVWJiOWZKQ0xxT3BpM3Rmc3I0WEhmbFpxTndDaWJ3UGRBb2ZfLXdnc2E2Q1NIMldXNGRSaEVCVHRBRnUwWGFpWlRlMlYxNzhMU1ZCMg?oc=5"
+  },
+  {
+   "title": "皇崗口岸日均出入境旅客錄約8.8萬人次 港深共識「跨河建」 重置沙頭角口岸",
+   "source": "巴士的報",
+   "date": "11-18 06:52",
+   "iso": "2026-11-18T06:52:05+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNenZqa2NGM3c0NVBPbWM4OVdiS2RUQzAwNzA5YkFkTjFJYWxKSzNHcGVyU0kxMFBlNk94TTQwZ3dFRHF4ZmFmWkRBOEZaYXRBZkZ0S3dWc3FHSXVzT3QtTjZZYUd3UG5ucm1wSnhGbXBlbkZGaml2bkZ3S0VRaVF0ZTl1LW92X3JIbzNaR24xTWpkdHozYlY2WGE3djlFdHRTcTFFbjUzVTNtZ2x6LURZOXdoS053TVBJOTk4UVcyZFZIZ1ZNLXBfSzN5M0ktVk1VNEhDYm0zTDJLc1ZKU193dFdmVGtvQVBTcDFIZHJzSUZqSEd5MzRteTY5ZU1FelluOWJzQnl2OWFEZk9hZE5iUW90Vmo3eG8ta0ZmY1VBeEVzZmdrXzJZSDRLZmthY091QVhrSk9BUGZmZktwemlnbVpZV0plZGphMW5FZVc2bXJnT054OHp4QWhUTGtiblE1YnFlRHM2UQ?oc=5"
   }
  ],
  "ok": true,
