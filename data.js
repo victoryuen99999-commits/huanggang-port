@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-18T17:23:16+08:00",
+ "generated_at": "2026-11-18T17:29:40+08:00",
  "date": "2026-11-18",
  "weekday": "星期三",
- "clock": "17:23",
+ "clock": "17:29",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,13 +55,6 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "新皇崗口岸｜平日日均8.8萬人次 較以往落馬洲多逾倍 議員倡增短途巴士分流 - i-CABLE",
-   "source": "i-CABLE",
-   "date": "11-18 09:09",
-   "iso": "2026-11-18T09:09:55+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQMnFweVNnVGZNWnVKUTBSNFlucTNaNTBZbEVHX0tyZVpVS2tTRDM0MUFqSXJvN2NrdGZaTVotRmY3X25ydEVWV2laNVVkODNpNUN2TXRGbTcwWlZPZll4OUdYOWJzVHFZMjViYlcyb0RVWUxNNFZoN2x4VW1Tbl9rbGF6TjU3RUl1dUt6UkF6bnAtOGFwZm9XNnFHd19vWE9IVXBlWi1pUUJ5MThKYmFpY0RVMGJvUS1zcDlLWktlMGQyTGZLUm12eHFhQUJJSTFrYW01OWFUNWVKdndac0FXLWk4bG9xamJ4T1lvTE1DREo4VVJzNDJJekRYVnoyb2liUjI0aTRHUVRTb1MyOXdaZklxNXVPT3hiMGFoUnZEWW03M1ZlU3dDQ1NmWkJyb3F0bEpGWEJ0TkhsTVpuQUxBWTN3MmxEU0ttaFNPb2ZIUGtWV0twRTlEQ2l3emwyc0JWOUE?oc=5"
-  },
-  {
    "title": "新皇崗口岸平日日均8.8萬人過關 當局研按需要商特別通關安排",
    "source": "on.cc東網",
    "date": "11-18 08:27",
@@ -109,16 +102,17 @@ window.HGP_DATA = {
    "date": "11-18 07:41",
    "iso": "2026-11-18T07:41:31+00:00",
    "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNcjJqVVM1a2syZ3V4YjZvUUNzbUwxMVF2U2NkcVZqX18xX2FmQzZTdTl1TXZlMTFIS3E2ZlE5QWEzNTFWVWhXckJxX2ZnZGhMWjF3VXUyY09idl9FMGlSQ2ItdnJDOXBXaUtISG43WllMTGl4S2I5c091TlZFeGxNTllFNC1Ldmp3aUUxN0dRdncwbVNHdHluVllRUWNwZURmc1JkYnUzNEtZVEZIVWw5R193VnVaRmVVdUFrYVNmTDFCUFdNY0Y4MmNVYjlMbVdKSm54aWtUNEpaVnRTT09xcTNzQXUybUdGQ2FaTjhHY2hOOG5NM2lRVElPMU9nTFZiRS1pcEVPR1Fjejg1dTdpbHVvUnpLNVRjcFpHUkx5MW5rMkpmRHZZYTZkVGprcnpHTXhhRi1JMmRxTmsxeGI2UEdKX3lhTlF4OFB6S2hsYmhOZm9OOEdPa1VSc0k?oc=5"
+  },
+  {
+   "title": "新皇崗口岸｜開通逾月 平日日均8.8萬人次出入境",
+   "source": "AM730",
+   "date": "11-18 06:54",
+   "iso": "2026-11-18T06:54:40+00:00",
+   "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOTHdDN1l1bVRXVm04bmFmdjFheWR4S1Vfakc4QkVScWIyeU1CVWVRMFRxYnE0aC13eVhTX2w3cVNqczd5ODVaaXkxMmc4N29KdGdsX1I3TDFRclBQNG9MTDhlM0JFRVpLX2xoazJTQWtoeFBSNTZvZDhmanZ1SjV6QTJUZlV5Y1U5bjVMR0l4YVR4SDd4X3dTZC1PYlRmeDlKRjZqUGRLckRhTGFCbHJtdC1Mc3VHeGpockN4MkZOYXRoRldiY1l4N3lKUnhRZHk4N0RsOWxsc190aVNVc2RzZlhhbUdvSVRMUFBMRVVWV0d6TEt5aXF4b0ducFJhcGJqVWJiOWZKQ0xxT3BpM3Rmc3I0WEhmbFpxTndDaWJ3UGRBb2ZfLXdnc2E2Q1NIMldXNGRSaEVCVHRBRnUwWGFpWlRlMlYxNzhMU1ZCMg?oc=5"
   }
  ],
  "ok": true,
- "vehicle_events": [
-  {
-   "t": 1794992995000,
-   "s": "i-CABLE",
-   "ti": "新皇崗口岸｜平日日均8.8萬人次 較以往落馬洲多逾倍 議員倡增短途巴士分流 - "
-  }
- ],
+ "vehicle_events": [],
  "tips": [
   {
    "tag": "天氣",
