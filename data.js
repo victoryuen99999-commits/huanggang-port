@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-19T03:20:18+08:00",
+ "generated_at": "2026-11-19T03:26:34+08:00",
  "date": "2026-11-19",
  "weekday": "星期四",
- "clock": "03:20",
+ "clock": "03:26",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "新皇崗開通一個月 日均8.8萬人次過關",
+   "source": "信報網站",
+   "date": "11-18 18:32",
+   "iso": "2026-11-18T18:32:46+00:00",
+   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPTFBuaVBTSHlmV21oS3Badl9IZFJ3ODRQT3ZGbDJSRWV1dTZueFhjQnN6dkdLWEMzVWpqSDRIY0RHYUdYSjJXVzZhV052VVI5bW94ZnVSc2ZHTzJhbmJ0OWU3TWxfYVR4TGlOdDRBWVBkTW1VZldxZk1hWnlqcFFCRVdrSzJhMjcwUVBhNzlLOFhCQ0pFQl96UGxmWlg1cnRScGZnMW4taGJmWG9kUzcwV0lFbE5xNW94M1BEWldZbFJ1dTZRMmhjYmQ5cEpoZm5kYURwNnZ6c3RBNWZvSjNpNG56b3VoTXM2cWZqWkh1azBGbVI2T2k5Y29XUUZiRXBHQ0NkaENicXlNNnZ2S1E5TGMyM0tqQmRtRHBKWDJsZw?oc=5"
+  },
+  {
    "title": "姚銘回應新皇崗口岸的最新運作情況：整體運作值得肯定- 香港",
    "source": "香港文匯報",
    "date": "11-18 11:41",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-18 08:15",
    "iso": "2026-11-18T08:15:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPOTVaWGg5ZVR4U3BYRE9yQXJwZkxnY1Z3YmxLQzY0d0U0S3dvTVpWSVVvRGx4aEsyeE84QTdwT29ibm8yaUxMZVJFNDQzUVRmM3oyT0FQbUx3X1drNEdnWVdRM1QtRVNwNGJxdkVhdzNPZ1hVc09FRWdtMlNRTDVHdW5NY2p3cGJEc3hjQ2VzMThaTlJMcGZhRmlrMk1DVmtSTXo2WnRVTzVuUHZrNERIa09SR1lKUXNkelBuUHktMnFVdW96OElfa2FaMkV3WHdsNzNGYzhhcmtEQWplLWVPeGs4bEhUY1gwdnB1M0NJdmxaWHJWZnhJLWFpZUFzako1YzNnaGc5bDlBdjV1Y1VnWlM0U2RpMXRwUTJLTy1Cei12Ml9HQTBLb3ZndE51MlNMWEhyWGxhYUZlQjYxOHc1YmRNb2tEREhvaFFhZTk4bnVZWXVYdVhJSjdxeFdVX0MwWkY0UlJzYzFlRlp1ZUI5NFBYOE5rUjNmdldtQnNYaFdhYl9jaGtnc3lESGlYZVQ4YWVPaVI2UDBWOTR4Y00zLW5kQ0NOVkp3ZVJIQk9VTDB2ckxMQTJHZmpXM0E3ZXEwYnBmUmNBY3A0bkF5eGlmYkMxNTFwcDZDMkpXLWItM0ZNRUJ3RWpjN3hLanIzRlU?oc=5"
-  },
-  {
-   "title": "新皇崗口岸平日日均出入境人次約8.8萬 11月15日錄逾15.6萬人次創單日最高紀錄 (16:12) - 20261118 - 港聞",
-   "source": "明報新聞網",
-   "date": "11-18 08:12",
-   "iso": "2026-11-18T08:12:47+00:00",
-   "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxPRW14cDZSelJOWHM0Z1JWWXY3cmFUcmsyaXpFOXdINURONzk4RzFFTENCanIyQWJlTTVFZ1ZoWkJxUG5VcGdNdHQtLXhNR3VTakczOVFlTnRvWFlGbURGRjNNUEZVUXJqdmY2OXpwc0ZsdzNuT3FwR2NPaHdBQVB3WWhQR3BEa2E1YWFZbkUtc0tzRG93UWZsSDVjcjkzX3dzSzc3c3F6NlBhMUhiWUdQN2dHVm95N3VybENpY3BnOFRUM2lwTlNMYUhFUmM2c201Rl9PRlFUUEJSZkRqNVZmSU5aLWdFOHBkTGtBbjFEeUZxcnUyOGJwSFJURTEwWTgtRkxxRUxzdkVVYXh0SkJBZFJqcmNYeFh2SFZ4cE9fRGd4UExaWC1jcmRueUptcFhnMHBIS1JzU3lWR3lWVnU1WFVzM05MTjRZaEMzQVdFN1pJZjFINndMNnVHWmU5XzdscTFMZlVmVGFVYVBobnRneGRHTnlkMUZ3MUR2VnlVeXZsSkt5T1hVTnF3TkRNMXIxVlp2U1NtOE9sUW1XYVBRVEZvX3VwR1FyQWlvRHFjZmk0dnJiS1gzQmUwSFBkblJFc09rNjFTcXFqWi1ScnJ6N3Zyd2tUbk9YOXpKLWx1ODBBc1FVcTJXMmdRV2ZrNl9kUURubUdFSmlSV2xqNHVTaUVWeTN2UnM?oc=5"
   }
  ],
  "ok": true,
