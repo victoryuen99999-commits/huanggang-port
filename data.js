@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-18T15:47:47+08:00",
+ "generated_at": "2026-11-18T15:54:13+08:00",
  "date": "2026-11-18",
  "weekday": "星期三",
- "clock": "15:47",
+ "clock": "15:54",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,17 +43,24 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 24,
-  "humidity": 62,
-  "wind": 18.2,
-  "code": 0,
-  "desc": "天晴",
+  "temp": 25,
+  "humidity": 67,
+  "wind": 17.5,
+  "code": 1,
+  "desc": "大致晴朗",
   "tmax": 27,
   "tmin": 18,
   "pop": 90
  },
  "warnings": [],
  "news": [
+  {
+   "title": "新皇崗口岸平日日均8.8萬人次出入境 較以往落馬洲管制站增加逾一倍",
+   "source": "香港商报",
+   "date": "11-18 07:49",
+   "iso": "2026-11-18T07:49:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RM3dMWmxvZnNUQVBHN2p6T1lCWmxUV0N0bThjQS04OFhqM0xBLW5TZUpWRV9zQTVrQmxteWJNNHljdkQ5S1Z6TXU0SXJnZjIwNjlFRVVfeHRGUE8wVjB4TkYwbzBiYTVQT2dwdlJoSEUwSEQySFE?oc=5"
+  },
   {
    "title": "新皇崗口岸｜開通逾月 平日日均8.8萬人次出入境",
    "source": "AM730",
@@ -67,13 +74,6 @@ window.HGP_DATA = {
    "date": "11-18 06:52",
    "iso": "2026-11-18T06:52:05+00:00",
    "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNenZqa2NGM3c0NVBPbWM4OVdiS2RUQzAwNzA5YkFkTjFJYWxKSzNHcGVyU0kxMFBlNk94TTQwZ3dFRHF4ZmFmWkRBOEZaYXRBZkZ0S3dWc3FHSXVzT3QtTjZZYUd3UG5ucm1wSnhGbXBlbkZGaml2bkZ3S0VRaVF0ZTl1LW92X3JIbzNaR24xTWpkdHozYlY2WGE3djlFdHRTcTFFbjUzVTNtZ2x6LURZOXdoS053TVBJOTk4UVcyZFZIZ1ZNLXBfSzN5M0ktVk1VNEhDYm0zTDJLc1ZKU193dFdmVGtvQVBTcDFIZHJzSUZqSEd5MzRteTY5ZU1FelluOWJzQnl2OWFEZk9hZE5iUW90Vmo3eG8ta0ZmY1VBeEVzZmdrXzJZSDRLZmthY091QVhrSk9BUGZmZktwemlnbVpZV0plZGphMW5FZVc2bXJnT054OHp4QWhUTGtiblE1YnFlRHM2UQ?oc=5"
-  },
-  {
-   "title": "皇崗口岸開通至本月中日均出入境旅客約8.8萬人次",
-   "source": "RTHK News",
-   "date": "11-18 05:24",
-   "iso": "2026-11-18T05:24:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HTnJ5OEJHMUcybUlnb1V1YXFsd3RaSnoyOTNINGdGTzFLS2VlY2RjMnBmaDFGWjd2aHEtSnVIcE1Md2VtbVJaTUxRN1lYVjl6WDZ5WW1fSW9MYzdLTDJjam5ScTlxcDkyT0lCenF4WQ?oc=5"
   },
   {
    "title": "皇崗口岸平日日均8.8萬人次出入境周日15.6萬人次創新高- 港聞",
@@ -90,25 +90,25 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOTkhjX19oVVUyaWUtLUc5YlBkR0pYN0h6VXI1ekM4ZXNveDNkQWhqMTk4dzh1Z3haanE4OHg5MmdiZUFsbGxBQlVoSzl2TGFBTUVjTHVVdHhDcmhxVm9hQU5UWkVFMDRHNXZxMDFBRnl5T2JNX01WUnRMZUYzd0xfTE4yU2lSLV8zcV91ZTllRWRxS1hJaEJqNGc1UXYtSlBNUUxEdUpad2hBdGhFNTFHdjRqY2c0YnZTZlltc0paS09McHpSUjNod2JNTHNjS0NnNXFqT0d4VGMybU9rYmFZUEdyMmNTaFJwMXpFRlJ1aW5oTmFfRDB3WFE4RC1JT0Rib29tQUZHbU1yM3Z3aGNvRFhQdkFiR19JUjZzaDlYNA?oc=5"
   },
   {
+   "title": "皇崗口岸｜路政署：公共運輸交匯處急轉彎路段已加防滑物料- 神州",
+   "source": "香港文匯報",
+   "date": "11-17 11:51",
+   "iso": "2026-11-17T11:51:56+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZRnNnSVhQX0NveG81OXI2TDVPT3AyUzZpS0h2ekhyX3dfN3BUYzFZWE0yMndfcWFfcFJweHJvM3VQVzhuY3lhdkRvblJLUllvUTV4UXl0UHRtcnBoLXU2WV9za2tncUp0OTExSnFPbl9rV3dNZi1V?oc=5"
+  },
+  {
+   "title": "路政署﹕ 皇崗新聯檢大樓交匯處急彎防滑物料已加周一起分階段進行餘下工程",
+   "source": "巴士的報",
+   "date": "11-17 11:13",
+   "iso": "2026-11-17T11:13:46+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQS3BRdVBNbmF2VlVxWnBoMnhoX0U2Sk5ZWm9iUmhyOHVLalk1MVV4WkZBSW1FRzlxU3lCQVBDQm5jSktrLVZaUzJKTmpUcXFUMlpiTF9HeUNTc1cxbWRXSkZNdVpzU1Q0NGJrdTk1VTdoRWZnU014eVNyaUF3VWdQYkpLVTlHaGI4OWtpRXI4VU1SSWw2Y25sRVBqTTNPMkFjQkxsdWd3ZnRBM2xpNkxzUjVCNkppN3F0Xzc1RzQydVNkZ0V4cFBFTVNERU1MZlRrY0d0ZGlRa1Vzb0lHU1h6ejhWU2owb0dOUXJfSHhYbHBmUTQyaVRxS0lJeWw5ejVJcUxQb2tDbnJvd1g3SDZnWGRoQ3FWSXJ1SW55WFpMOGphbW1aVEJuNzhYRW5YUFM4M0ZTQ2pIeVozZlAzTUEzNG1hRUFKQmp0MGYyX3E4bi1RWTF3cWd3MDBZMGItUGpMdjVPeWYtTXAzSzlfdkE?oc=5"
+  },
+  {
    "title": "皇崗口岸｜路政署：公共運輸交匯處急轉彎路段已加防滑物料- 港聞",
    "source": "dotdotnews",
    "date": "11-17 11:05",
    "iso": "2026-11-17T11:05:25+00:00",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EWDFPRXg4YTlVTkczSDRlS3VnU0p5Ny1GSjRuOXVVSDZVRDQ2Q3dtbkdMRjFXdUtDaG15dmVqdWg4N1pRLUN6X0xhVGN3MmU5anY4RWFyU1AxdDVlcXZHOXJuQjVqQUV6VlhVYmhoZTZqeGxma0FTNFZ3?oc=5"
-  },
-  {
-   "title": "APEC現場｜外國領袖陸續抵達 香蜜湖主會場外清場 市民拍照圍觀",
-   "source": "香港01",
-   "date": "11-17 06:55",
-   "iso": "2026-11-17T06:55:40+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQT2gtY1M1STdVeVp2MDNvaldKRVNOdk1TdTJJbXNoNDNnXzcyaTdQTmZ5RlByOGhxQ0o3QzlmVUJlWURTSks5WWhqU3Bic1VCMDVpZDlhVFRCNXI4dE5qaWtkSlpNZFBCcDRBSEcwc2hqQjJDdExtUlBJY3pRRS1GMnRxM3lXcTFIcFlZQkxaR1VQS3JrWG5tRkNzeWpnSk5QLURHZXhrQWxDLUR0c3o2YU1vRmtNaWlReDEzWE5HM1VrR0R4ZjN3eWRwb3JPX3QxanljNmlqYkp6SHpQZmE1ejlTOTJ0Nm1wdmlmcFZiUURFeUxDXzZRc0M1XzNTQVh4bWRKMUlacmpyQXZVMGUyUXY2bXhRLVM1MmJaM1VCdE5RZkpLU0pGSF9zN2loelE1VzFxZmRTS2c4UWVxTnoyWHVaZXM0WWNJQ3JFdFpGRTRXZkFzU3Z1aFZ0R1BfU0d5NnpzeV9Bam1fdnhLY2s5XzFvTmdwd0NhbWp3NHNid1lCQWs5TThabkd6cmxMVGZ5ckFCcVQ3LTFlcngyX2RkUXBYZXhidHVUT29Z?oc=5"
-  },
-  {
-   "title": "皇崗口岸跣胎接4查詢或投訴 路政署加防滑料至未覆蓋段周一展開",
-   "source": "香港01",
-   "date": "11-17 06:08",
-   "iso": "2026-11-17T06:08:57+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOSkdiOFZfR2kwbnBwRjBZekRQenJyY0JIOUh4Y18wamNqdlQwckdyREptU0VXY1BVbTFOSUFUa0hENFJCdWplT21KNng3Sks5T0NCSXRlajZjNzhiQWliZ2JzelV5WGNMQUE0bmlSUkxJaExuTk9LTGMwSmlpbVZmTHA0blhMbGhPYnV2RERMYTU2WUtCd1FkbXNlUHhrWHhxbzZmOTl6NkQ5R3dzaE5JSURVaEoza0xZeDNvSkx2T0NJVGlPc3JhTnhlUzY1WjlpS0cxSUdONVBUOGQtSUFIdm9Fck8yaUlYeHo3OWw3MTBNSWx6NXZxdzAwV3BOU2dGbXJuTEREX1VZZXlnNGVaRnJzS21QLWxQTU1rcFZpWEZ3cE94MkhiWnQ3NEpET0p3ZEdsZDRaZ19mSmduT2V3NF9NTUNWcmF5WnFZQzhhdWU2c0d5TTFNVkg2WG4yNGhjY1p6ZzkwU2VIZEFxZnFaUTZ2R2M0Y1RvVEhYVEcwaW52dk5uZjNBWWdDLVk4Nm83azdWd1RjcWFDWHV2RG5wZFQ3QkMwenBrTGpsOF91Vzg0dDFRZ0R0TWJ4VlNiYzJhV1ZiWmRQeVU?oc=5"
   }
  ],
  "ok": true,
