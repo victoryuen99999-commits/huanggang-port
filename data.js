@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-18T19:44:35+08:00",
+ "generated_at": "2026-11-18T19:51:16+08:00",
  "date": "2026-11-18",
  "weekday": "星期三",
- "clock": "19:44",
+ "clock": "19:51",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,10 +44,10 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 20,
-  "humidity": 66,
+  "humidity": 67,
   "wind": 16.9,
-  "code": 1,
-  "desc": "大致晴朗",
+  "code": 2,
+  "desc": "局部多雲",
   "tmax": 28,
   "tmin": 18,
   "pop": 98
@@ -55,11 +55,11 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "新皇崗口岸｜姚銘促政府檢視人手及交通安排倡加快其他口岸通宵通關- 港聞",
-   "source": "dotdotnews",
-   "date": "11-18 09:39",
-   "iso": "2026-11-18T09:39:45+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtZUpGTDFGN0hjSVB1SkFZdkFXcUpITGxjN0V2bzU4angwRE5JTTB0N3p2aF9BcE51OTk5YzEyOHRNSjdKbGF3YlRUclZLUks5akdJckxVekVxMHgzczd5cXBOOW1tVUduQ1Q1bDY0amQ1NXQydnJ1Qmx3?oc=5"
+   "title": "姚銘回應新皇崗口岸的最新運作情況：整體運作值得肯定- 香港",
+   "source": "香港文匯報",
+   "date": "11-18 11:41",
+   "iso": "2026-11-18T11:41:17+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xTDcwMXFCZnd1ZUM0LXp3X19qSC0xTngxMHZsWHNBOVBWbzBxOTJOMUlmMUx0UjFIQlJfY3pOWFNWay0tVkp2LUFKVTdOQ2duWkRHR0plLTFvWms3NDd0QjZJU1FrVGczcXVTb29KLWNfdXlqMVMw?oc=5"
   },
   {
    "title": "新皇崗口岸平日日均8.8萬人次出入境 較過往落馬洲管制站增逾一倍",
