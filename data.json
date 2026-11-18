@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T19:25:59+08:00",
+ "generated_at": "2026-11-18T19:32:16+08:00",
  "date": "2026-11-18",
  "weekday": "星期三",
- "clock": "19:25",
+ "clock": "19:32",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,7 +44,7 @@
  "weather": {
   "temp": 20,
   "humidity": 66,
-  "wind": 17.0,
+  "wind": 16.9,
   "code": 1,
   "desc": "大致晴朗",
   "tmax": 28,
@@ -103,11 +103,11 @@
    "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxPRW14cDZSelJOWHM0Z1JWWXY3cmFUcmsyaXpFOXdINURONzk4RzFFTENCanIyQWJlTTVFZ1ZoWkJxUG5VcGdNdHQtLXhNR3VTakczOVFlTnRvWFlGbURGRjNNUEZVUXJqdmY2OXpwc0ZsdzNuT3FwR2NPaHdBQVB3WWhQR3BEa2E1YWFZbkUtc0tzRG93UWZsSDVjcjkzX3dzSzc3c3F6NlBhMUhiWUdQN2dHVm95N3VybENpY3BnOFRUM2lwTlNMYUhFUmM2c201Rl9PRlFUUEJSZkRqNVZmSU5aLWdFOHBkTGtBbjFEeUZxcnUyOGJwSFJURTEwWTgtRkxxRUxzdkVVYXh0SkJBZFJqcmNYeFh2SFZ4cE9fRGd4UExaWC1jcmRueUptcFhnMHBIS1JzU3lWR3lWVnU1WFVzM05MTjRZaEMzQVdFN1pJZjFINndMNnVHWmU5XzdscTFMZlVmVGFVYVBobnRneGRHTnlkMUZ3MUR2VnlVeXZsSkt5T1hVTnF3TkRNMXIxVlp2U1NtOE9sUW1XYVBRVEZvX3VwR1FyQWlvRHFjZmk0dnJiS1gzQmUwSFBkblJFc09rNjFTcXFqWi1ScnJ6N3Zyd2tUbk9YOXpKLWx1ODBBc1FVcTJXMmdRV2ZrNl9kUURubUdFSmlSV2xqNHVTaUVWeTN2UnM?oc=5"
   },
   {
-   "title": "新皇崗口岸平日日均8.8萬人次出入境 較以往落馬洲管制站增加逾一倍",
-   "source": "香港商报",
-   "date": "11-18 07:49",
-   "iso": "2026-11-18T07:49:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkNHppUzNQOTVBQnhvWmhReXFWX3Q3Mk1RdkNEVGQ0X255OVkzZHQ0MFU2R19yUDBFNk1CemlxbEU4MWhDalFmNEhPclBLbFZMZkM4UWxZX2JHRnpvMUpCd3d0QXpDaVByX1Q5S0pRMEotZE9aT0FBbTFZZw?oc=5"
+   "title": "新皇崗口岸｜11.15錄單日旅客高峰3小時內逾3.5萬人出入境政府強調平均輪候時間在15分鐘以下",
+   "source": "香港經濟日報HKET",
+   "date": "11-18 07:51",
+   "iso": "2026-11-18T07:51:54+00:00",
+   "link": "https://news.google.com/rss/articles/CBMivwRBVV95cUxQaTB2OHZBai04dVdNcGloU2xLNDVNQVV2b2xkRkoxMWJTcnJIb3JMSnNOTlVnNkFvS0xLeTBoZ25kcFdzUF9yeng0UUgydXBITmVhejNoNGtvWWhwcE10WnRWX01Pc1pKSlNnbUJLQWpzWVB0eEpKSjM2TVlPTk1yejhpQUxSSkdaaHZFamdxZktzVHNacnFQbTJpanpaeTVWNWtTTXNKTnBoQ19tR2kxS19DR21uMnVSZlprMlZURFFDaDJ2Tm52LU9TdTg2S1pNVnJ1MVd1TWdfUWZFUjhBQ1FUanRYR0tUMmJzQ0E5Z1loQ0FCbnQ5cW5zcG5GZ0NPc195WjgtNDJLQTZEdWJoSlROLUE1d3RvcUlBdUJRandvSHI4amVEdU1jWkRTWnR1QmNXdlEtRHBxWXBEZGNSSmM3eWxJTGl4MzdQQUdhZDNYbnNFb2FsM21uZzFSWUZteXJBQkFfMUpJQVhNRElqXzRkTWJsZ1dlb2RuMzAwV3A5N1g4TTdCMUthMXFoOXNRSms3SE9VUlJMaDRwazl1a3NwLVFJajhyWWg4LVNLZEZGeTdwUXZiZ0VoX1FSRW41QTR6OVB6MXZKWlRfaFRQMjlPS2lLN0J4YUhrdVVsZ1dTSmZKSUpFUFg4azEwcnQ2Zy1XSlE2VTd1c20yRzUyWmRNTWlidFJkLWtEYmlPMVU1N1FaTzlEcUc5N01VWVN4VVFNRmVfSGtoakVaTG5MLUhhU0xtYmN4VUV3VDhfUQ?oc=5"
   }
  ],
  "ok": true,
@@ -138,6 +138,11 @@
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
+  },
+  {
+   "tag": "車流",
+   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "level": "warn"
   },
   {
    "tag": "禁區",
