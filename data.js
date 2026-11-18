@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-18T16:13:53+08:00",
+ "generated_at": "2026-11-18T16:20:09+08:00",
  "date": "2026-11-18",
  "weekday": "星期三",
- "clock": "16:13",
+ "clock": "16:20",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 24,
-  "humidity": 66,
-  "wind": 18.1,
+  "humidity": 65,
+  "wind": 18.0,
   "code": 0,
   "desc": "天晴",
   "tmax": 28,
@@ -54,6 +54,20 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "聽▶︎港聞｜鄺球稱全權負責肢解／李家超APEC與多位領導人會談／皇崗口岸人流數據｜2026年11月18日",
+   "source": "TVB",
+   "date": "11-18 08:15",
+   "iso": "2026-11-18T08:15:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPOTVaWGg5ZVR4U3BYRE9yQXJwZkxnY1Z3YmxLQzY0d0U0S3dvTVpWSVVvRGx4aEsyeE84QTdwT29ibm8yaUxMZVJFNDQzUVRmM3oyT0FQbUx3X1drNEdnWVdRM1QtRVNwNGJxdkVhdzNPZ1hVc09FRWdtMlNRTDVHdW5NY2p3cGJEc3hjQ2VzMThaTlJMcGZhRmlrMk1DVmtSTXo2WnRVTzVuUHZrNERIa09SR1lKUXNkelBuUHktMnFVdW96OElfa2FaMkV3WHdsNzNGYzhhcmtEQWplLWVPeGs4bEhUY1gwdnB1M0NJdmxaWHJWZnhJLWFpZUFzako1YzNnaGc5bDlBdjV1Y1VnWlM0U2RpMXRwUTJLTy1Cei12Ml9HQTBLb3ZndE51MlNMWEhyWGxhYUZlQjYxOHc1YmRNb2tEREhvaFFhZTk4bnVZWXVYdVhJSjdxeFdVX0MwWkY0UlJzYzFlRlp1ZUI5NFBYOE5rUjNmdldtQnNYaFdhYl9jaGtnc3lESGlYZVQ4YWVPaVI2UDBWOTR4Y00zLW5kQ0NOVkp3ZVJIQk9VTDB2ckxMQTJHZmpXM0E3ZXEwYnBmUmNBY3A0bkF5eGlmYkMxNTFwcDZDMkpXLWItM0ZNRUJ3RWpjN3hLanIzRlU?oc=5"
+  },
+  {
+   "title": "新皇崗口岸平日日均出入境人次約8.8萬 11月15日錄逾15.6萬人次創單日最高紀錄 (16:12) - 20261118 - 港聞",
+   "source": "明報新聞網",
+   "date": "11-18 08:12",
+   "iso": "2026-11-18T08:12:47+00:00",
+   "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxPRW14cDZSelJOWHM0Z1JWWXY3cmFUcmsyaXpFOXdINURONzk4RzFFTENCanIyQWJlTTVFZ1ZoWkJxUG5VcGdNdHQtLXhNR3VTakczOVFlTnRvWFlGbURGRjNNUEZVUXJqdmY2OXpwc0ZsdzNuT3FwR2NPaHdBQVB3WWhQR3BEa2E1YWFZbkUtc0tzRG93UWZsSDVjcjkzX3dzSzc3c3F6NlBhMUhiWUdQN2dHVm95N3VybENpY3BnOFRUM2lwTlNMYUhFUmM2c201Rl9PRlFUUEJSZkRqNVZmSU5aLWdFOHBkTGtBbjFEeUZxcnUyOGJwSFJURTEwWTgtRkxxRUxzdkVVYXh0SkJBZFJqcmNYeFh2SFZ4cE9fRGd4UExaWC1jcmRueUptcFhnMHBIS1JzU3lWR3lWVnU1WFVzM05MTjRZaEMzQVdFN1pJZjFINndMNnVHWmU5XzdscTFMZlVmVGFVYVBobnRneGRHTnlkMUZ3MUR2VnlVeXZsSkt5T1hVTnF3TkRNMXIxVlp2U1NtOE9sUW1XYVBRVEZvX3VwR1FyQWlvRHFjZmk0dnJiS1gzQmUwSFBkblJFc09rNjFTcXFqWi1ScnJ6N3Zyd2tUbk9YOXpKLWx1ODBBc1FVcTJXMmdRV2ZrNl9kUURubUdFSmlSV2xqNHVTaUVWeTN2UnM?oc=5"
+  },
   {
    "title": "新皇崗口岸｜11.15錄單日旅客高峰3小時內逾3.5萬人出入境政府強調平均輪候時間在15分鐘以下",
    "source": "香港經濟日報HKET",
@@ -95,20 +109,6 @@ window.HGP_DATA = {
    "date": "11-18 05:02",
    "iso": "2026-11-18T05:02:26+00:00",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02SUQzTGgtRlNBWEdLN1NHdmdCOXBINGpVSFp1Z3NLaEFkd2dPdFAySV8zR2s4d2FNNUsyZGI2eFhIaFJVZXpQQmYwX2FDYTBOSG5xLUZWaGF4SlpId1BQeUN4M3BtSjBZNFR1S3FPeHVsWnNqd0N4cTFR?oc=5"
-  },
-  {
-   "title": "新皇崗「上上落落」 不及羅湖方便",
-   "source": "信報網站",
-   "date": "11-17 18:31",
-   "iso": "2026-11-17T18:31:43+00:00",
-   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOTkhjX19oVVUyaWUtLUc5YlBkR0pYN0h6VXI1ekM4ZXNveDNkQWhqMTk4dzh1Z3haanE4OHg5MmdiZUFsbGxBQlVoSzl2TGFBTUVjTHVVdHhDcmhxVm9hQU5UWkVFMDRHNXZxMDFBRnl5T2JNX01WUnRMZUYzd0xfTE4yU2lSLV8zcV91ZTllRWRxS1hJaEJqNGc1UXYtSlBNUUxEdUpad2hBdGhFNTFHdjRqY2c0YnZTZlltc0paS09McHpSUjNod2JNTHNjS0NnNXFqT0d4VGMybU9rYmFZUEdyMmNTaFJwMXpFRlJ1aW5oTmFfRDB3WFE4RC1JT0Rib29tQUZHbU1yM3Z3aGNvRFhQdkFiR19JUjZzaDlYNA?oc=5"
-  },
-  {
-   "title": "皇崗口岸｜路政署：公共運輸交匯處急轉彎路段已加防滑物料- 港聞",
-   "source": "dotdotnews",
-   "date": "11-17 11:05",
-   "iso": "2026-11-17T11:05:25+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EWDFPRXg4YTlVTkczSDRlS3VnU0p5Ny1GSjRuOXVVSDZVRDQ2Q3dtbkdMRjFXdUtDaG15dmVqdWg4N1pRLUN6X0xhVGN3MmU5anY4RWFyU1AxdDVlcXZHOXJuQjVqQUV6VlhVYmhoZTZqeGxma0FTNFZ3?oc=5"
   }
  ],
  "ok": true,
@@ -128,6 +128,11 @@ window.HGP_DATA = {
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
+  },
+  {
+   "tag": "車流",
+   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
+   "level": "warn"
   },
   {
    "tag": "禁區",
