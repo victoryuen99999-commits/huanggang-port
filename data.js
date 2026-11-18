@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-18T21:23:36+08:00",
+ "generated_at": "2026-11-18T21:30:26+08:00",
  "date": "2026-11-18",
  "weekday": "星期三",
- "clock": "21:23",
+ "clock": "21:30",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 19,
   "humidity": 69,
-  "wind": 15.9,
+  "wind": 16.0,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 28,
@@ -54,13 +54,6 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
-  {
-   "title": "姚銘回應新皇崗口岸的最新運作情況：整體運作值得肯定- 香港",
-   "source": "香港文匯報",
-   "date": "11-18 11:41",
-   "iso": "2026-11-18T11:41:17+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xTDcwMXFCZnd1ZUM0LXp3X19qSC0xTngxMHZsWHNBOVBWbzBxOTJOMUlmMUx0UjFIQlJfY3pOWFNWay0tVkp2LUFKVTdOQ2duWkRHR0plLTFvWms3NDd0QjZJU1FrVGczcXVTb29KLWNfdXlqMVMw?oc=5"
-  },
   {
    "title": "新皇崗口岸平日日均8.8萬人次出入境 較過往落馬洲管制站增逾一倍",
    "source": "Now 新聞",
@@ -74,13 +67,6 @@ window.HGP_DATA = {
    "date": "11-18 08:27",
    "iso": "2026-11-18T08:27:49+00:00",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHBDV25JYVBGb0lIZjVqR1daU0d6UHdQbTg3VHE2Ny1QTUZ4d2ozUTVwMzBtMVdXUi1RT29hREllU3JQaWRCeklzb3hDLWF3TU9ZV1JqamtkNllsZ19uM1k1dGgyaW9iaTNzenBzV0dsYUUzTlM1Unp6bkQ5QTkzSkg5YXdzdE9TcDZF?oc=5"
-  },
-  {
-   "title": "新皇崗口岸開通一個月 367.9 萬人次 離境大堂增 e-道登記處",
-   "source": "unwire",
-   "date": "11-18 08:25",
-   "iso": "2026-11-18T08:25:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3RwUWJXa3paZW5qd1R3bl9DNVhCeXRBeXhNd1Q5WVB6aVFnUWF5RTBFQU5YUklDYkQwNXROSVdvQ21qQUpxOUZFNndhQ2kxSFhKZDFuV2ZfYjQ0VllPeUt4WHlNSUVfNktUaVM0QmJoX0dLODZvZFBSVGtYZU9uaFk5WF9SLWUzWlE?oc=5"
   },
   {
    "title": "聽▶︎港聞｜鄺球稱全權負責肢解／李家超APEC與多位領導人會談／皇崗口岸人流數據｜2026年11月18日",
@@ -104,11 +90,25 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkNHppUzNQOTVBQnhvWmhReXFWX3Q3Mk1RdkNEVGQ0X255OVkzZHQ0MFU2R19yUDBFNk1CemlxbEU4MWhDalFmNEhPclBLbFZMZkM4UWxZX2JHRnpvMUpCd3d0QXpDaVByX1Q5S0pRMEotZE9aT0FBbTFZZw?oc=5"
   },
   {
+   "title": "皇崗口岸丨開通後平日日均出入境旅客8.8萬人次",
+   "source": "信報網站",
+   "date": "11-18 07:41",
+   "iso": "2026-11-18T07:41:31+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNcjJqVVM1a2syZ3V4YjZvUUNzbUwxMVF2U2NkcVZqX18xX2FmQzZTdTl1TXZlMTFIS3E2ZlE5QWEzNTFWVWhXckJxX2ZnZGhMWjF3VXUyY09idl9FMGlSQ2ItdnJDOXBXaUtISG43WllMTGl4S2I5c091TlZFeGxNTllFNC1Ldmp3aUUxN0dRdncwbVNHdHluVllRUWNwZURmc1JkYnUzNEtZVEZIVWw5R193VnVaRmVVdUFrYVNmTDFCUFdNY0Y4MmNVYjlMbVdKSm54aWtUNEpaVnRTT09xcTNzQXUybUdGQ2FaTjhHY2hOOG5NM2lRVElPMU9nTFZiRS1pcEVPR1Fjejg1dTdpbHVvUnpLNVRjcFpHUkx5MW5rMkpmRHZZYTZkVGprcnpHTXhhRi1JMmRxTmsxeGI2UEdKX3lhTlF4OFB6S2hsYmhOZm9OOEdPa1VSc0k?oc=5"
+  },
+  {
    "title": "新皇崗口岸｜開通逾月 平日日均8.8萬人次出入境",
    "source": "AM730",
    "date": "11-18 06:54",
    "iso": "2026-11-18T06:54:40+00:00",
    "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOTHdDN1l1bVRXVm04bmFmdjFheWR4S1Vfakc4QkVScWIyeU1CVWVRMFRxYnE0aC13eVhTX2w3cVNqczd5ODVaaXkxMmc4N29KdGdsX1I3TDFRclBQNG9MTDhlM0JFRVpLX2xoazJTQWtoeFBSNTZvZDhmanZ1SjV6QTJUZlV5Y1U5bjVMR0l4YVR4SDd4X3dTZC1PYlRmeDlKRjZqUGRLckRhTGFCbHJtdC1Mc3VHeGpockN4MkZOYXRoRldiY1l4N3lKUnhRZHk4N0RsOWxsc190aVNVc2RzZlhhbUdvSVRMUFBMRVVWV0d6TEt5aXF4b0ducFJhcGJqVWJiOWZKQ0xxT3BpM3Rmc3I0WEhmbFpxTndDaWJ3UGRBb2ZfLXdnc2E2Q1NIMldXNGRSaEVCVHRBRnUwWGFpWlRlMlYxNzhMU1ZCMg?oc=5"
+  },
+  {
+   "title": "皇崗口岸日均出入境旅客錄約8.8萬人次 港深共識「跨河建」 重置沙頭角口岸",
+   "source": "巴士的報",
+   "date": "11-18 06:52",
+   "iso": "2026-11-18T06:52:05+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNenZqa2NGM3c0NVBPbWM4OVdiS2RUQzAwNzA5YkFkTjFJYWxKSzNHcGVyU0kxMFBlNk94TTQwZ3dFRHF4ZmFmWkRBOEZaYXRBZkZ0S3dWc3FHSXVzT3QtTjZZYUd3UG5ucm1wSnhGbXBlbkZGaml2bkZ3S0VRaVF0ZTl1LW92X3JIbzNaR24xTWpkdHozYlY2WGE3djlFdHRTcTFFbjUzVTNtZ2x6LURZOXdoS053TVBJOTk4UVcyZFZIZ1ZNLXBfSzN5M0ktVk1VNEhDYm0zTDJLc1ZKU193dFdmVGtvQVBTcDFIZHJzSUZqSEd5MzRteTY5ZU1FelluOWJzQnl2OWFEZk9hZE5iUW90Vmo3eG8ta0ZmY1VBeEVzZmdrXzJZSDRLZmthY091QVhrSk9BUGZmZktwemlnbVpZV0plZGphMW5FZVc2bXJnT054OHp4QWhUTGtiblE1YnFlRHM2UQ?oc=5"
   }
  ],
  "ok": true,
