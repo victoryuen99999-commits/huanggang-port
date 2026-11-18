@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-18T13:11:53+08:00",
+ "generated_at": "2026-11-18T13:18:33+08:00",
  "date": "2026-11-18",
  "weekday": "星期三",
- "clock": "13:11",
+ "clock": "13:18",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,10 +44,10 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 24,
-  "humidity": 83,
-  "wind": 14.0,
-  "code": 81,
-  "desc": "驟雨",
+  "humidity": 80,
+  "wind": 14.4,
+  "code": 51,
+  "desc": "毛毛雨",
   "tmax": 27,
   "tmin": 18,
   "pop": 90
@@ -67,13 +67,6 @@ window.HGP_DATA = {
    "date": "11-17 18:31",
    "iso": "2026-11-17T18:31:43+00:00",
    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOTkhjX19oVVUyaWUtLUc5YlBkR0pYN0h6VXI1ekM4ZXNveDNkQWhqMTk4dzh1Z3haanE4OHg5MmdiZUFsbGxBQlVoSzl2TGFBTUVjTHVVdHhDcmhxVm9hQU5UWkVFMDRHNXZxMDFBRnl5T2JNX01WUnRMZUYzd0xfTE4yU2lSLV8zcV91ZTllRWRxS1hJaEJqNGc1UXYtSlBNUUxEdUpad2hBdGhFNTFHdjRqY2c0YnZTZlltc0paS09McHpSUjNod2JNTHNjS0NnNXFqT0d4VGMybU9rYmFZUEdyMmNTaFJwMXpFRlJ1aW5oTmFfRDB3WFE4RC1JT0Rib29tQUZHbU1yM3Z3aGNvRFhQdkFiR19JUjZzaDlYNA?oc=5"
-  },
-  {
-   "title": "路政署﹕ 皇崗新聯檢大樓交匯處急彎防滑物料已加周一起分階段進行餘下工程",
-   "source": "巴士的報",
-   "date": "11-17 11:13",
-   "iso": "2026-11-17T11:13:46+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQS3BRdVBNbmF2VlVxWnBoMnhoX0U2Sk5ZWm9iUmhyOHVLalk1MVV4WkZBSW1FRzlxU3lCQVBDQm5jSktrLVZaUzJKTmpUcXFUMlpiTF9HeUNTc1cxbWRXSkZNdVpzU1Q0NGJrdTk1VTdoRWZnU014eVNyaUF3VWdQYkpLVTlHaGI4OWtpRXI4VU1SSWw2Y25sRVBqTTNPMkFjQkxsdWd3ZnRBM2xpNkxzUjVCNkppN3F0Xzc1RzQydVNkZ0V4cFBFTVNERU1MZlRrY0d0ZGlRa1Vzb0lHU1h6ejhWU2owb0dOUXJfSHhYbHBmUTQyaVRxS0lJeWw5ejVJcUxQb2tDbnJvd1g3SDZnWGRoQ3FWSXJ1SW55WFpMOGphbW1aVEJuNzhYRW5YUFM4M0ZTQ2pIeVozZlAzTUEzNG1hRUFKQmp0MGYyX3E4bi1RWTF3cWd3MDBZMGItUGpMdjVPeWYtTXAzSzlfdkE?oc=5"
   },
   {
    "title": "皇崗口岸｜路政署：公共運輸交匯處急轉彎路段已加防滑物料- 港聞",
@@ -109,6 +102,13 @@ window.HGP_DATA = {
    "date": "11-16 14:30",
    "iso": "2026-11-16T14:30:15+00:00",
    "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOQ0xiNjlnMkJfME5LVGpweXlJS0RzdDJGRi1tbXRxaVJDMzJnSTBJUTF3cXFMT0xTX25DcmV2WTRfemFMV09QWEI0aGtGQWlNcGY2UXgyRHVZOEpiYmdEajk3QXFEbXpfa203MTBLeEpfUWtaeUpJQm5lS0VrY05MRFVoRllOWlJDQWZOd0xFXzZKaklOZDdaQmhrbEh6VkxVV2hqUDJmM1haVUwzQUlwM1BaN0hCRUdYSzBlX05WeFg1NTlFRVBOdUdOdTVPWVZpR05lcFl3aDUxLUdMVDFyU005dUhybkZiUDZsUC1UT0VBakNqLWg5ZERjN3NrXzk4MjNrWEQxYmIzbGRKNDR4RlNRcHVMS3BVcEs2MkRPclNOcmtaMnpIU1ZleVFKY2dwUlpXRmdFOFhFZ053QnJybkRPRUt4Tk5zRk5QSmY1UDhVNXVBaGdtdGlRcDhSTm0wLXBDWGpfTG53TXpfZHRtOFBSOGwtUmhaNGxVdHRUc1ZCai1wTU5aZy1lR0NIaEJlNDJwOEIwWF9TN1NhZHVtNllmNy1rYkdjczlpby1fUjJoZw?oc=5"
+  },
+  {
+   "title": "時事全方位｜演唱會白牌車(二)",
+   "source": "Now 新聞",
+   "date": "11-16 06:36",
+   "iso": "2026-11-16T06:36:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkdVZJeEdUZmNSdnY0MFRGWkFjM2lZaHU5eUNtYkhjOFBOLXRoQXdfOEZyb016NDJxUnFuTGY0ZmIyMGxCMnVDZzRVSkRoejRidHBCQ18wOUVuVFp3dFUwTDNR?oc=5"
   }
  ],
  "ok": true,
