@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-18T13:25:24+08:00",
+ "generated_at": "2026-11-18T13:31:42+08:00",
  "date": "2026-11-18",
  "weekday": "星期三",
- "clock": "13:25",
+ "clock": "13:31",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 24,
-  "humidity": 80,
-  "wind": 14.4,
+  "humidity": 74,
+  "wind": 14.7,
   "code": 51,
   "desc": "毛毛雨",
   "tmax": 27,
@@ -104,15 +104,21 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOQ0xiNjlnMkJfME5LVGpweXlJS0RzdDJGRi1tbXRxaVJDMzJnSTBJUTF3cXFMT0xTX25DcmV2WTRfemFMV09QWEI0aGtGQWlNcGY2UXgyRHVZOEpiYmdEajk3QXFEbXpfa203MTBLeEpfUWtaeUpJQm5lS0VrY05MRFVoRllOWlJDQWZOd0xFXzZKaklOZDdaQmhrbEh6VkxVV2hqUDJmM1haVUwzQUlwM1BaN0hCRUdYSzBlX05WeFg1NTlFRVBOdUdOdTVPWVZpR05lcFl3aDUxLUdMVDFyU005dUhybkZiUDZsUC1UT0VBakNqLWg5ZERjN3NrXzk4MjNrWEQxYmIzbGRKNDR4RlNRcHVMS3BVcEs2MkRPclNOcmtaMnpIU1ZleVFKY2dwUlpXRmdFOFhFZ053QnJybkRPRUt4Tk5zRk5QSmY1UDhVNXVBaGdtdGlRcDhSTm0wLXBDWGpfTG53TXpfZHRtOFBSOGwtUmhaNGxVdHRUc1ZCai1wTU5aZy1lR0NIaEJlNDJwOEIwWF9TN1NhZHVtNllmNy1rYkdjczlpby1fUjJoZw?oc=5"
   },
   {
-   "title": "時事全方位｜演唱會白牌車(一)",
-   "source": "Now 新聞",
-   "date": "11-16 06:35",
-   "iso": "2026-11-16T06:35:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DSTVkbW9jTEhOcVRJcEdLZW5TRTMzZVpyb29vX3VVVDRqRnl6N1B4OWQ3bHVVcHhxMjhjMDh5eGs1M0h4TTd6ODA3Z3ZUR013VE9iNmFQSW80b3ZnVG00WHFn?oc=5"
+   "title": "新皇崗口岸巴士線｜城巴B14變全日 九龍區客轉乘優惠一口價$20.8",
+   "source": "香港01",
+   "date": "11-16 04:12",
+   "iso": "2026-11-16T04:12:25+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOd3R3RTNOaHF4RDRRNHZ3RjRXNEdOZGRHMU5lXzB1b2ZUMTdtaTFid2lRSmVPblJucTdBck42eDlLRFNXMFJjRHZRVHVtOWxuU2kxX0czdzBDaUNzcDNoaE1wWmpmNDhKcjI5b1pfRVBMZzNEY2RJTmp3b0I1Q210d05JdHBlM1JrdVVUQ05kWG9naTR6RXF6ZjN3SDM2SXNXZVR3aDVvdnotWVhmWWtqZEhwLWZjdU81UkRkeGF1aWpmOUVRR2YtN2V0Wmlma1FSQXgxRDNKSEdiOEFzQ2VMM0ttVGVvekpBMkxBZl91MW9BVC1DaW9nMmg2SU1RYldUWTZ4VklKZEpXWE5seTN2WHI3SGtBOU1Ma0ppWnJTejhIWUdOaEdmaG5ib3JwZFBiaUw0NmM5cGIwbXEtU3ZCX2VEcDUzOWxjbjV6WEd6ZUFFdjdXTVRzVkdHeEZ2bnFVSUhUVmNTemltSWhCcHVvZFU4UUE0cHdOM21KMHVONDdSMFktWWU0dFdXWEM1X2libkhKazI0NEh2dV9XSTJuZHY0cw?oc=5"
   }
  ],
  "ok": true,
- "vehicle_events": [],
+ "vehicle_events": [
+  {
+   "t": 1794802345000,
+   "s": "香港01",
+   "ti": "新皇崗口岸巴士線｜城巴B14變全日 九龍區客轉乘優惠一口價$20.8"
+  }
+ ],
  "tips": [
   {
    "tag": "天氣",
