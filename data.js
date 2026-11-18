@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-18T21:11:02+08:00",
+ "generated_at": "2026-11-18T21:17:19+08:00",
  "date": "2026-11-18",
  "weekday": "星期三",
- "clock": "21:11",
+ "clock": "21:17",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,9 +45,9 @@ window.HGP_DATA = {
  "weather": {
   "temp": 19,
   "humidity": 69,
-  "wind": 16.0,
-  "code": 1,
-  "desc": "大致晴朗",
+  "wind": 15.9,
+  "code": 2,
+  "desc": "局部多雲",
   "tmax": 28,
   "tmin": 18,
   "pop": 98
@@ -76,6 +76,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHBDV25JYVBGb0lIZjVqR1daU0d6UHdQbTg3VHE2Ny1QTUZ4d2ozUTVwMzBtMVdXUi1RT29hREllU3JQaWRCeklzb3hDLWF3TU9ZV1JqamtkNllsZ19uM1k1dGgyaW9iaTNzenBzV0dsYUUzTlM1Unp6bkQ5QTkzSkg5YXdzdE9TcDZF?oc=5"
   },
   {
+   "title": "新皇崗口岸開通一個月 367.9 萬人次 離境大堂增 e-道登記處",
+   "source": "unwire",
+   "date": "11-18 08:25",
+   "iso": "2026-11-18T08:25:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3RwUWJXa3paZW5qd1R3bl9DNVhCeXRBeXhNd1Q5WVB6aVFnUWF5RTBFQU5YUklDYkQwNXROSVdvQ21qQUpxOUZFNndhQ2kxSFhKZDFuV2ZfYjQ0VllPeUt4WHlNSUVfNktUaVM0QmJoX0dLODZvZFBSVGtYZU9uaFk5WF9SLWUzWlE?oc=5"
+  },
+  {
    "title": "聽▶︎港聞｜鄺球稱全權負責肢解／李家超APEC與多位領導人會談／皇崗口岸人流數據｜2026年11月18日",
    "source": "TVB",
    "date": "11-18 08:15",
@@ -95,13 +102,6 @@ window.HGP_DATA = {
    "date": "11-18 07:49",
    "iso": "2026-11-18T07:49:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkNHppUzNQOTVBQnhvWmhReXFWX3Q3Mk1RdkNEVGQ0X255OVkzZHQ0MFU2R19yUDBFNk1CemlxbEU4MWhDalFmNEhPclBLbFZMZkM4UWxZX2JHRnpvMUpCd3d0QXpDaVByX1Q5S0pRMEotZE9aT0FBbTFZZw?oc=5"
-  },
-  {
-   "title": "皇崗口岸丨開通後平日日均出入境旅客8.8萬人次",
-   "source": "信報網站",
-   "date": "11-18 07:41",
-   "iso": "2026-11-18T07:41:31+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNcjJqVVM1a2syZ3V4YjZvUUNzbUwxMVF2U2NkcVZqX18xX2FmQzZTdTl1TXZlMTFIS3E2ZlE5QWEzNTFWVWhXckJxX2ZnZGhMWjF3VXUyY09idl9FMGlSQ2ItdnJDOXBXaUtISG43WllMTGl4S2I5c091TlZFeGxNTllFNC1Ldmp3aUUxN0dRdncwbVNHdHluVllRUWNwZURmc1JkYnUzNEtZVEZIVWw5R193VnVaRmVVdUFrYVNmTDFCUFdNY0Y4MmNVYjlMbVdKSm54aWtUNEpaVnRTT09xcTNzQXUybUdGQ2FaTjhHY2hOOG5NM2lRVElPMU9nTFZiRS1pcEVPR1Fjejg1dTdpbHVvUnpLNVRjcFpHUkx5MW5rMkpmRHZZYTZkVGprcnpHTXhhRi1JMmRxTmsxeGI2UEdKX3lhTlF4OFB6S2hsYmhOZm9OOEdPa1VSc0k?oc=5"
   },
   {
    "title": "新皇崗口岸｜開通逾月 平日日均8.8萬人次出入境",
