@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T19:32:16+08:00",
+ "generated_at": "2026-11-18T19:38:32+08:00",
  "date": "2026-11-18",
  "weekday": "星期三",
- "clock": "19:32",
+ "clock": "19:38",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -49,7 +49,7 @@
   "desc": "大致晴朗",
   "tmax": 28,
   "tmin": 18,
-  "pop": 90
+  "pop": 98
  },
  "warnings": [],
  "news": [
@@ -62,10 +62,10 @@
   },
   {
    "title": "新皇崗口岸平日日均8.8萬人次出入境 較過往落馬洲管制站增逾一倍",
-   "source": "Now 新聞",
+   "source": "Yahoo",
    "date": "11-18 09:39",
    "iso": "2026-11-18T09:39:26+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJRVpuLU1wUTA4Qk1LbDgwRmhWQmF2c1RLVThmSXN5YTI0aS13OEhzQm5iWHFvd2JjMjFUNnJxTC11aV9CQlV0di1CVk1uTWdEcHVXX2haaU90VWV0U0M3VUFR?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxNU01Wd0x2WG9LWWZSSjdWZVFtWnQ0c1dTblFkb3pMcWRDZ3pBaFZ6TlNyR3dWOUtreEcxVUt0aWQyZlpNLTNnelB5OEFjRGg3b0F6aHZRSVZETmJ3VlFfOVBNbjB4bW8talBsckpOeHRyRW5EamliRFNTdjNTemtZcC1wOTNQcl9pUE1ib1ZJcFowQkhLdlcxckFqRnZ0Y3MwcTNWRS1mTHRKUU10SlBiNFlnVERkRjhRN0Q0VkJPRUtCVGVvRFpoMHFoVlp6dnA3bTRnend3VFFpY1RlMFpjenliV09pT182TXNTdVNLYldEV0J0UTNzaHJRN1M3M1lSX1NOM1d0c0dmZ1VvMDE4Q181R1RrN3RQUWlmSm16bnRidHhhVGxFTDdfRDlfaEd2bW1fT0xQaDZrNWRpc2pUX3NOYWtEVFdMZm4wMTlUcG4zWVEycW5YVWk4bFJUdm5YZUFESi1wT2l4QVRvb0lxZWtsdl9IREF1NklrS0VQcVBFeXBMZTRLUDFOMlJnMmRXZERGdnJESHgxTFJOUGc?oc=5"
   },
   {
    "title": "新皇崗口岸｜平日日均8.8萬人次 較以往落馬洲多逾倍 議員倡增短途巴士分流 - i-CABLE",
@@ -73,6 +73,13 @@
    "date": "11-18 09:09",
    "iso": "2026-11-18T09:09:55+00:00",
    "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQMnFweVNnVGZNWnVKUTBSNFlucTNaNTBZbEVHX0tyZVpVS2tTRDM0MUFqSXJvN2NrdGZaTVotRmY3X25ydEVWV2laNVVkODNpNUN2TXRGbTcwWlZPZll4OUdYOWJzVHFZMjViYlcyb0RVWUxNNFZoN2x4VW1Tbl9rbGF6TjU3RUl1dUt6UkF6bnAtOGFwZm9XNnFHd19vWE9IVXBlWi1pUUJ5MThKYmFpY0RVMGJvUS1zcDlLWktlMGQyTGZLUm12eHFhQUJJSTFrYW01OWFUNWVKdndac0FXLWk4bG9xamJ4T1lvTE1DREo4VVJzNDJJekRYVnoyb2liUjI0aTRHUVRTb1MyOXdaZklxNXVPT3hiMGFoUnZEWW03M1ZlU3dDQ1NmWkJyb3F0bEpGWEJ0TkhsTVpuQUxBWTN3MmxEU0ttaFNPb2ZIUGtWV0twRTlEQ2l3emwyc0JWOUE?oc=5"
+  },
+  {
+   "title": "新皇崗口岸平日客量增至逾8萬人次 11.15錄15.6萬人次創單日新高",
+   "source": "香港01",
+   "date": "11-18 08:53",
+   "iso": "2026-11-18T08:53:43+00:00",
+   "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPQU9XdngxUl9oSllNSmc3aWZxR2lkV21DNTVJbVRGNVB5RURYSTBSQ0JRZHJrOUs0VVVfMHMyTlJNYWkxTGQ0bXM0eU9ndnhoN3E5RTlNN2ZlWC00dkloSEZjVzFWZmdZRlVaUEotWTNtbU9EcnJBcjdINDl4QVNJWGd5M25LaGUwUUxibmF5RTVTYkF0VFRKR1JwMnZnNmFWWDF5ZU82LTR3UEVCbW9kaklSS2lGMEJsR3hyeFFacGJvMEVoYmZ0aEJJa2Y2WHFwTTNtWE9BQThIVV9PM0dSMm82dk1oMWVLN3c0SlpfZ0VucjVvWU5sUVJON3lHYU16TV9SX0lBMUpFMWFGa3hLMzc0RGFZRHBQQ252MzNEUGlxTGxpZjVEVzdkekpCRVVScjlKbkxCRFctZUdRb3ZsLWJZUTJ1WWFwQzBkVWx4T1NrZTZPU3hRLTNsNURtTUN6eXNMMzBtOVpzRTJaOGVyaHQwc2pyMEd2WEkyZm9qeTFMNkQ4YU1fZkZ3dnFGVXBqWW5HaGhnSEh0MlVRblJycWJLbmY?oc=5"
   },
   {
    "title": "新皇崗口岸平日日均8.8萬人過關 當局研按需要商特別通關安排",
@@ -101,13 +108,6 @@
    "date": "11-18 08:12",
    "iso": "2026-11-18T08:12:47+00:00",
    "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxPRW14cDZSelJOWHM0Z1JWWXY3cmFUcmsyaXpFOXdINURONzk4RzFFTENCanIyQWJlTTVFZ1ZoWkJxUG5VcGdNdHQtLXhNR3VTakczOVFlTnRvWFlGbURGRjNNUEZVUXJqdmY2OXpwc0ZsdzNuT3FwR2NPaHdBQVB3WWhQR3BEa2E1YWFZbkUtc0tzRG93UWZsSDVjcjkzX3dzSzc3c3F6NlBhMUhiWUdQN2dHVm95N3VybENpY3BnOFRUM2lwTlNMYUhFUmM2c201Rl9PRlFUUEJSZkRqNVZmSU5aLWdFOHBkTGtBbjFEeUZxcnUyOGJwSFJURTEwWTgtRkxxRUxzdkVVYXh0SkJBZFJqcmNYeFh2SFZ4cE9fRGd4UExaWC1jcmRueUptcFhnMHBIS1JzU3lWR3lWVnU1WFVzM05MTjRZaEMzQVdFN1pJZjFINndMNnVHWmU5XzdscTFMZlVmVGFVYVBobnRneGRHTnlkMUZ3MUR2VnlVeXZsSkt5T1hVTnF3TkRNMXIxVlp2U1NtOE9sUW1XYVBRVEZvX3VwR1FyQWlvRHFjZmk0dnJiS1gzQmUwSFBkblJFc09rNjFTcXFqWi1ScnJ6N3Zyd2tUbk9YOXpKLWx1ODBBc1FVcTJXMmdRV2ZrNl9kUURubUdFSmlSV2xqNHVTaUVWeTN2UnM?oc=5"
-  },
-  {
-   "title": "新皇崗口岸｜11.15錄單日旅客高峰3小時內逾3.5萬人出入境政府強調平均輪候時間在15分鐘以下",
-   "source": "香港經濟日報HKET",
-   "date": "11-18 07:51",
-   "iso": "2026-11-18T07:51:54+00:00",
-   "link": "https://news.google.com/rss/articles/CBMivwRBVV95cUxQaTB2OHZBai04dVdNcGloU2xLNDVNQVV2b2xkRkoxMWJTcnJIb3JMSnNOTlVnNkFvS0xLeTBoZ25kcFdzUF9yeng0UUgydXBITmVhejNoNGtvWWhwcE10WnRWX01Pc1pKSlNnbUJLQWpzWVB0eEpKSjM2TVlPTk1yejhpQUxSSkdaaHZFamdxZktzVHNacnFQbTJpanpaeTVWNWtTTXNKTnBoQ19tR2kxS19DR21uMnVSZlprMlZURFFDaDJ2Tm52LU9TdTg2S1pNVnJ1MVd1TWdfUWZFUjhBQ1FUanRYR0tUMmJzQ0E5Z1loQ0FCbnQ5cW5zcG5GZ0NPc195WjgtNDJLQTZEdWJoSlROLUE1d3RvcUlBdUJRandvSHI4amVEdU1jWkRTWnR1QmNXdlEtRHBxWXBEZGNSSmM3eWxJTGl4MzdQQUdhZDNYbnNFb2FsM21uZzFSWUZteXJBQkFfMUpJQVhNRElqXzRkTWJsZ1dlb2RuMzAwV3A5N1g4TTdCMUthMXFoOXNRSms3SE9VUlJMaDRwazl1a3NwLVFJajhyWWg4LVNLZEZGeTdwUXZiZ0VoX1FSRW41QTR6OVB6MXZKWlRfaFRQMjlPS2lLN0J4YUhrdVVsZ1dTSmZKSUpFUFg4azEwcnQ2Zy1XSlE2VTd1c20yRzUyWmRNTWlidFJkLWtEYmlPMVU1N1FaTzlEcUc5N01VWVN4VVFNRmVfSGtoakVaTG5MLUhhU0xtYmN4VUV3VDhfUQ?oc=5"
   }
  ],
  "ok": true,
@@ -131,18 +131,13 @@
   },
   {
    "tag": "有雨",
-   "text": "預測降雨機率 90%，室外通道及上落客區會濕滑，提醒旅客及同事小心。",
+   "text": "預測降雨機率 98%，室外通道及上落客區會濕滑，提醒旅客及同事小心。",
    "level": "warn"
   },
   {
    "tag": "通告",
    "text": "口岸相關新聞 8 條，見「口岸新聞」。",
    "level": "info"
-  },
-  {
-   "tag": "車流",
-   "text": "近 36 小時有 2 篇報道提及口岸擠塞／高峰：上落客區與 L2 交匯處屬樽頸位，建議按現場情況提早分流。",
-   "level": "warn"
   },
   {
    "tag": "禁區",
