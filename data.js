@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-18T20:17:38+08:00",
+ "generated_at": "2026-11-18T20:25:08+08:00",
  "date": "2026-11-18",
  "weekday": "星期三",
- "clock": "20:17",
+ "clock": "20:25",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,10 +44,10 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 20,
-  "humidity": 67,
-  "wind": 16.9,
-  "code": 2,
-  "desc": "局部多雲",
+  "humidity": 70,
+  "wind": 15.6,
+  "code": 1,
+  "desc": "大致晴朗",
   "tmax": 28,
   "tmin": 18,
   "pop": 98
@@ -67,6 +67,13 @@ window.HGP_DATA = {
    "date": "11-18 09:39",
    "iso": "2026-11-18T09:39:26+00:00",
    "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxNU01Wd0x2WG9LWWZSSjdWZVFtWnQ0c1dTblFkb3pMcWRDZ3pBaFZ6TlNyR3dWOUtreEcxVUt0aWQyZlpNLTNnelB5OEFjRGg3b0F6aHZRSVZETmJ3VlFfOVBNbjB4bW8talBsckpOeHRyRW5EamliRFNTdjNTemtZcC1wOTNQcl9pUE1ib1ZJcFowQkhLdlcxckFqRnZ0Y3MwcTNWRS1mTHRKUU10SlBiNFlnVERkRjhRN0Q0VkJPRUtCVGVvRFpoMHFoVlp6dnA3bTRnend3VFFpY1RlMFpjenliV09pT182TXNTdVNLYldEV0J0UTNzaHJRN1M3M1lSX1NOM1d0c0dmZ1VvMDE4Q181R1RrN3RQUWlmSm16bnRidHhhVGxFTDdfRDlfaEd2bW1fT0xQaDZrNWRpc2pUX3NOYWtEVFdMZm4wMTlUcG4zWVEycW5YVWk4bFJUdm5YZUFESi1wT2l4QVRvb0lxZWtsdl9IREF1NklrS0VQcVBFeXBMZTRLUDFOMlJnMmRXZERGdnJESHgxTFJOUGc?oc=5"
+  },
+  {
+   "title": "新皇崗口岸｜平日日均8.8萬人次 較以往落馬洲多逾倍 議員倡增短途巴士分流 - i-CABLE",
+   "source": "i-CABLE",
+   "date": "11-18 09:09",
+   "iso": "2026-11-18T09:09:55+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQMnFweVNnVGZNWnVKUTBSNFlucTNaNTBZbEVHX0tyZVpVS2tTRDM0MUFqSXJvN2NrdGZaTVotRmY3X25ydEVWV2laNVVkODNpNUN2TXRGbTcwWlZPZll4OUdYOWJzVHFZMjViYlcyb0RVWUxNNFZoN2x4VW1Tbl9rbGF6TjU3RUl1dUt6UkF6bnAtOGFwZm9XNnFHd19vWE9IVXBlWi1pUUJ5MThKYmFpY0RVMGJvUS1zcDlLWktlMGQyTGZLUm12eHFhQUJJSTFrYW01OWFUNWVKdndac0FXLWk4bG9xamJ4T1lvTE1DREo4VVJzNDJJekRYVnoyb2liUjI0aTRHUVRTb1MyOXdaZklxNXVPT3hiMGFoUnZEWW03M1ZlU3dDQ1NmWkJyb3F0bEpGWEJ0TkhsTVpuQUxBWTN3MmxEU0ttaFNPb2ZIUGtWV0twRTlEQ2l3emwyc0JWOUE?oc=5"
   },
   {
    "title": "新皇崗口岸平日日均8.8萬人過關 當局研按需要商特別通關安排",
@@ -102,17 +109,16 @@ window.HGP_DATA = {
    "date": "11-18 07:51",
    "iso": "2026-11-18T07:51:54+00:00",
    "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxQLTBfQ25zRFZVVVVJVjRwY1VadEhRLXBZczRFMWd3VU1SQ3duN0NkY281Mk5aMWpRdm5faHZMVHdDeDBuWEFUU25HMFpVQ1A5Q21fQ1ZtMlNMM0g2WVZhcHNDTjdPVUtlWmFuc1lFOGtSOHdoWmVlek5wZ3cyYXQxeUd0U1haWVpnNDRyU1JSbDdfTGpGTE9XV1NOVmVLTTBIRENsVl9JQ3h3ZUd5ZkZtUWl4d01BSkpJbVR2c2l5blJ2UHM4Rnd3OHFaTTF3cUR6UVRpSHV4QV9XRmNhZlNGYlNyTWhkMVN4YnpDdWpnUV92VzQ1cEVRdEY4QmI3OGU1eFc2ZXdFOTUwczZjajJqb2NzNzFWOUxlMHlLYjBBRWF3OGFldXR0VXVzWXhKRGIyZ2F3UmhURzE4WUl0a1N6M210dVRLc0taTEVkNTViTkJ6eWtOb2NNNVdhWUM2LUZFblc4TlF5VGJZLWJRT09BcHlnNDdRRmJ2b2ZMbnNfS0J0U3prQW9zSU9fTjFncTB6ZHpxZ2hBclhNUlBhSlFZNEk0cUVuNjJIOWN4UnpFenk4MzlVT3hxTXkwWFhUUk5JZHBBMUJmM0FmZGFRa2NmcXludm5ReVpzdTVfVUVqYVZkRXlsRW5adEVXM2JVZTFrclh4V2h3M0V0dTk1M0tRRzIyRjh2YmxqX1lZQTIwZnlSVDNld0h2Rzk2Tnh0dXJmMEhLYlhYeURfVkRQZnQxXzJB?oc=5"
-  },
-  {
-   "title": "新皇崗口岸平日日均8.8萬人次出入境 較以往落馬洲管制站增加逾一倍",
-   "source": "香港商报",
-   "date": "11-18 07:49",
-   "iso": "2026-11-18T07:49:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkNHppUzNQOTVBQnhvWmhReXFWX3Q3Mk1RdkNEVGQ0X255OVkzZHQ0MFU2R19yUDBFNk1CemlxbEU4MWhDalFmNEhPclBLbFZMZkM4UWxZX2JHRnpvMUpCd3d0QXpDaVByX1Q5S0pRMEotZE9aT0FBbTFZZw?oc=5"
   }
  ],
  "ok": true,
- "vehicle_events": [],
+ "vehicle_events": [
+  {
+   "t": 1794992995000,
+   "s": "i-CABLE",
+   "ti": "新皇崗口岸｜平日日均8.8萬人次 較以往落馬洲多逾倍 議員倡增短途巴士分流 - "
+  }
+ ],
  "tips": [
   {
    "tag": "天氣",
