@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-19T19:58:05+08:00",
+ "generated_at": "2026-11-19T20:04:53+08:00",
  "date": "2026-11-19",
  "weekday": "星期四",
- "clock": "19:58",
+ "clock": "20:04",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -81,6 +81,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQMnFweVNnVGZNWnVKUTBSNFlucTNaNTBZbEVHX0tyZVpVS2tTRDM0MUFqSXJvN2NrdGZaTVotRmY3X25ydEVWV2laNVVkODNpNUN2TXRGbTcwWlZPZll4OUdYOWJzVHFZMjViYlcyb0RVWUxNNFZoN2x4VW1Tbl9rbGF6TjU3RUl1dUt6UkF6bnAtOGFwZm9XNnFHd19vWE9IVXBlWi1pUUJ5MThKYmFpY0RVMGJvUS1zcDlLWktlMGQyTGZLUm12eHFhQUJJSTFrYW01OWFUNWVKdndac0FXLWk4bG9xamJ4T1lvTE1DREo4VVJzNDJJekRYVnoyb2liUjI0aTRHUVRTb1MyOXdaZklxNXVPT3hiMGFoUnZEWW03M1ZlU3dDQ1NmWkJyb3F0bEpGWEJ0TkhsTVpuQUxBWTN3MmxEU0ttaFNPb2ZIUGtWV0twRTlEQ2l3emwyc0JWOUE?oc=5"
   },
   {
+   "title": "新皇崗口岸平日客量增至逾8萬人次 11.15錄15.6萬人次創單日新高",
+   "source": "香港01",
+   "date": "11-18 08:53",
+   "iso": "2026-11-18T08:53:43+00:00",
+   "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPQU9XdngxUl9oSllNSmc3aWZxR2lkV21DNTVJbVRGNVB5RURYSTBSQ0JRZHJrOUs0VVVfMHMyTlJNYWkxTGQ0bXM0eU9ndnhoN3E5RTlNN2ZlWC00dkloSEZjVzFWZmdZRlVaUEotWTNtbU9EcnJBcjdINDl4QVNJWGd5M25LaGUwUUxibmF5RTVTYkF0VFRKR1JwMnZnNmFWWDF5ZU82LTR3UEVCbW9kaklSS2lGMEJsR3hyeFFacGJvMEVoYmZ0aEJJa2Y2WHFwTTNtWE9BQThIVV9PM0dSMm82dk1oMWVLN3c0SlpfZ0VucjVvWU5sUVJON3lHYU16TV9SX0lBMUpFMWFGa3hLMzc0RGFZRHBQQ252MzNEUGlxTGxpZjVEVzdkekpCRVVScjlKbkxCRFctZUdRb3ZsLWJZUTJ1WWFwQzBkVWx4T1NrZTZPU3hRLTNsNURtTUN6eXNMMzBtOVpzRTJaOGVyaHQwc2pyMEd2WEkyZm9qeTFMNkQ4YU1fZkZ3dnFGVXBqWW5HaGhnSEh0MlVRblJycWJLbmY?oc=5"
+  },
+  {
    "title": "新皇崗口岸平日日均8.8萬人過關 當局研按需要商特別通關安排",
    "source": "on.cc東網",
    "date": "11-18 08:27",
@@ -93,13 +100,6 @@ window.HGP_DATA = {
    "date": "11-18 08:25",
    "iso": "2026-11-18T08:25:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3RwUWJXa3paZW5qd1R3bl9DNVhCeXRBeXhNd1Q5WVB6aVFnUWF5RTBFQU5YUklDYkQwNXROSVdvQ21qQUpxOUZFNndhQ2kxSFhKZDFuV2ZfYjQ0VllPeUt4WHlNSUVfNktUaVM0QmJoX0dLODZvZFBSVGtYZU9uaFk5WF9SLWUzWlE?oc=5"
-  },
-  {
-   "title": "聽▶︎港聞｜鄺球稱全權負責肢解／李家超APEC與多位領導人會談／皇崗口岸人流數據｜2026年11月18日",
-   "source": "TVB",
-   "date": "11-18 08:15",
-   "iso": "2026-11-18T08:15:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPOTVaWGg5ZVR4U3BYRE9yQXJwZkxnY1Z3YmxLQzY0d0U0S3dvTVpWSVVvRGx4aEsyeE84QTdwT29ibm8yaUxMZVJFNDQzUVRmM3oyT0FQbUx3X1drNEdnWVdRM1QtRVNwNGJxdkVhdzNPZ1hVc09FRWdtMlNRTDVHdW5NY2p3cGJEc3hjQ2VzMThaTlJMcGZhRmlrMk1DVmtSTXo2WnRVTzVuUHZrNERIa09SR1lKUXNkelBuUHktMnFVdW96OElfa2FaMkV3WHdsNzNGYzhhcmtEQWplLWVPeGs4bEhUY1gwdnB1M0NJdmxaWHJWZnhJLWFpZUFzako1YzNnaGc5bDlBdjV1Y1VnWlM0U2RpMXRwUTJLTy1Cei12Ml9HQTBLb3ZndE51MlNMWEhyWGxhYUZlQjYxOHc1YmRNb2tEREhvaFFhZTk4bnVZWXVYdVhJSjdxeFdVX0MwWkY0UlJzYzFlRlp1ZUI5NFBYOE5rUjNmdldtQnNYaFdhYl9jaGtnc3lESGlYZVQ4YWVPaVI2UDBWOTR4Y00zLW5kQ0NOVkp3ZVJIQk9VTDB2ckxMQTJHZmpXM0E3ZXEwYnBmUmNBY3A0bkF5eGlmYkMxNTFwcDZDMkpXLWItM0ZNRUJ3RWpjN3hLanIzRlU?oc=5"
   }
  ],
  "ok": true,
@@ -115,11 +115,6 @@ window.HGP_DATA = {
    "tag": "天氣",
    "text": "天文台現時無天氣警告生效。",
    "level": "ok"
-  },
-  {
-   "tag": "傍晚",
-   "text": "雙向高峰：出境（北上）與入境（返港）同時加壓，L2 候車區最擠。",
-   "level": "info"
   },
   {
    "tag": "通告",
