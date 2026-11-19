@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-19T12:38:52+08:00",
+ "generated_at": "2026-11-19T12:46:27+08:00",
  "date": "2026-11-19",
  "weekday": "星期四",
- "clock": "12:38",
+ "clock": "12:46",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 20,
   "humidity": 55,
-  "wind": 12.2,
+  "wind": 11.9,
   "code": 3,
   "desc": "多雲",
   "tmax": 20,
@@ -54,6 +54,13 @@ window.HGP_DATA = {
  },
  "warnings": [],
  "news": [
+  {
+   "title": "城巴皇崗專線B14改全日服務！「北上神線」40分鐘直達口岸設免費轉乘$20.8全包網民驚嘆︰上水去都無咁快",
+   "source": "星島頭條",
+   "date": "11-19 04:35",
+   "iso": "2026-11-19T04:35:42+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxNc2ZRY3RtUUZPb3hITXFtUm9nM1NXaUxNTWRpVE9nRXhOT2Z6VlpzOGw5eVp3eGVhdFVCVWEwbGJxaGNnazJpQzVLb0ZRRVpWempwY2FRRlJfamd6cjVMUGpmY19FQS1VSzJ3XzRMekp3OEJ0VC1qZGZqelc5d1ozX0lZbzdOOWlaa2cybkdZSUhWTUdpYWs3UHlZdFN0d0VaVG81T2RXMkloVkpaSnVvOW1rWGQzcl8yY0FzSDNxQlJaM3ZyanVJVmdHREhzUFE0elI1Snp2VE42LXJYUWxFNFBMaE1Ua3hTd1JBMmFTRDlxbFE4a1N4cV9KRm9NM3B3RUR0OWszclNtR3BlOERaaEg0a011ZVY0ZmJiSWNUdnVYM3dOT3JHam5wR3YxU2lDYWFYOWxOS1ZwVkdyeGVlR0tkMmpTT0VsUjk1amFSb19nbF95MmJFX0xJNWJDYzdXY2FjNXVwM1p5Mmk0bHY2cVJGTERhSVNDQ0JGa29uRDlLV2Y4TDNRQ2ZzRENpWTluY0pIQUdPRTktWm9IOGQ1YmpzQlFaZXRUa0w0VVFJUTNENXp5OG9sUkxLVXV0SnprQWRRd2E0NXNtd1BKeWFVRlFxUzVFbXcyYXRNR2dBaFZJWUxReEt1Q0tqSGlXN3ZDWW1odVdYdnpvSTM4WGRwV0x6TDU1V3N4R0lFdE9FRHh2elFRZ2dvcjF0OC03NEpkaTlrQ0JEZzRzZGQ4TURqaTkwZnRHQQ?oc=5"
+  },
   {
    "title": "新皇崗口岸開通逾月日均客流達8.8萬人次- 香港",
    "source": "香港文匯報",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-18 06:54",
    "iso": "2026-11-18T06:54:40+00:00",
    "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOTHdDN1l1bVRXVm04bmFmdjFheWR4S1Vfakc4QkVScWIyeU1CVWVRMFRxYnE0aC13eVhTX2w3cVNqczd5ODVaaXkxMmc4N29KdGdsX1I3TDFRclBQNG9MTDhlM0JFRVpLX2xoazJTQWtoeFBSNTZvZDhmanZ1SjV6QTJUZlV5Y1U5bjVMR0l4YVR4SDd4X3dTZC1PYlRmeDlKRjZqUGRLckRhTGFCbHJtdC1Mc3VHeGpockN4MkZOYXRoRldiY1l4N3lKUnhRZHk4N0RsOWxsc190aVNVc2RzZlhhbUdvSVRMUFBMRVVWV0d6TEt5aXF4b0ducFJhcGJqVWJiOWZKQ0xxT3BpM3Rmc3I0WEhmbFpxTndDaWJ3UGRBb2ZfLXdnc2E2Q1NIMldXNGRSaEVCVHRBRnUwWGFpWlRlMlYxNzhMU1ZCMg?oc=5"
-  },
-  {
-   "title": "皇崗口岸日均出入境旅客錄約8.8萬人次 港深共識「跨河建」 重置沙頭角口岸",
-   "source": "巴士的報",
-   "date": "11-18 06:52",
-   "iso": "2026-11-18T06:52:05+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNenZqa2NGM3c0NVBPbWM4OVdiS2RUQzAwNzA5YkFkTjFJYWxKSzNHcGVyU0kxMFBlNk94TTQwZ3dFRHF4ZmFmWkRBOEZaYXRBZkZ0S3dWc3FHSXVzT3QtTjZZYUd3UG5ucm1wSnhGbXBlbkZGaml2bkZ3S0VRaVF0ZTl1LW92X3JIbzNaR24xTWpkdHozYlY2WGE3djlFdHRTcTFFbjUzVTNtZ2x6LURZOXdoS053TVBJOTk4UVcyZFZIZ1ZNLXBfSzN5M0ktVk1VNEhDYm0zTDJLc1ZKU193dFdmVGtvQVBTcDFIZHJzSUZqSEd5MzRteTY5ZU1FelluOWJzQnl2OWFEZk9hZE5iUW90Vmo3eG8ta0ZmY1VBeEVzZmdrXzJZSDRLZmthY091QVhrSk9BUGZmZktwemlnbVpZV0plZGphMW5FZVc2bXJnT054OHp4QWhUTGtiblE1YnFlRHM2UQ?oc=5"
   }
  ],
  "ok": true,
