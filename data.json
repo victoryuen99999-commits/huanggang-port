@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T02:56:28+08:00",
+ "generated_at": "2026-11-20T03:15:52+08:00",
  "date": "2026-11-20",
  "weekday": "星期五",
- "clock": "02:56",
+ "clock": "03:15",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,12 +43,12 @@
  },
  "weather": {
   "temp": 16,
-  "humidity": 49,
-  "wind": 13.7,
+  "humidity": 53,
+  "wind": 17.4,
   "code": 3,
   "desc": "多雲",
   "tmax": 17,
-  "tmin": 13,
+  "tmin": 12,
   "pop": 34
  },
  "warnings": [],
@@ -66,6 +66,13 @@
    "date": "11-19 00:49",
    "iso": "2026-11-19T00:49:56+00:00",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvbTRKQ3F1ellvbGNydDlWcG92VjF6TUZ1b1NDS3h6V0dNRjlRNUVvRTZsRXJHR2s2dXRXb1hUZExwSHROTUZvOG84b25qZE1pb1dsZUo0VUREZ1g3VUZLaHBNdmxJY3VmVGV4VE0tYWxZLW94?oc=5"
+  },
+  {
+   "title": "新皇崗口岸開通逾月日均客流達8.8萬人次- 香港",
+   "source": "香港文匯報",
+   "date": "11-18 20:26",
+   "iso": "2026-11-18T20:26:17+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hTHBhcUd0bldIb0Q1OFE3MGlFSlRETTA1RTVHQ3Zyc2xvbS1TMjJGLVZCNGUtZU5xYnR6Nm8wTWNCSlluZ29HSkducEU2dEdQajhDQW9vY1hlTW9GNWszSGZ5cnU1Z25SRFhtTGRhVFpkV2RQWWlJ?oc=5"
   },
   {
    "title": "姚銘回應新皇崗口岸的最新運作情況：整體運作值得肯定- 香港",
@@ -87,13 +94,6 @@
    "date": "11-18 09:09",
    "iso": "2026-11-18T09:09:55+00:00",
    "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQMnFweVNnVGZNWnVKUTBSNFlucTNaNTBZbEVHX0tyZVpVS2tTRDM0MUFqSXJvN2NrdGZaTVotRmY3X25ydEVWV2laNVVkODNpNUN2TXRGbTcwWlZPZll4OUdYOWJzVHFZMjViYlcyb0RVWUxNNFZoN2x4VW1Tbl9rbGF6TjU3RUl1dUt6UkF6bnAtOGFwZm9XNnFHd19vWE9IVXBlWi1pUUJ5MThKYmFpY0RVMGJvUS1zcDlLWktlMGQyTGZLUm12eHFhQUJJSTFrYW01OWFUNWVKdndac0FXLWk4bG9xamJ4T1lvTE1DREo4VVJzNDJJekRYVnoyb2liUjI0aTRHUVRTb1MyOXdaZklxNXVPT3hiMGFoUnZEWW03M1ZlU3dDQ1NmWkJyb3F0bEpGWEJ0TkhsTVpuQUxBWTN3MmxEU0ttaFNPb2ZIUGtWV0twRTlEQ2l3emwyc0JWOUE?oc=5"
-  },
-  {
-   "title": "新皇崗口岸平日日均8.8萬人過關 當局研按需要商特別通關安排",
-   "source": "on.cc東網",
-   "date": "11-18 08:27",
-   "iso": "2026-11-18T08:27:49+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHBDV25JYVBGb0lIZjVqR1daU0d6UHdQbTg3VHE2Ny1QTUZ4d2ozUTVwMzBtMVdXUi1RT29hREllU3JQaWRCeklzb3hDLWF3TU9ZV1JqamtkNllsZ19uM1k1dGgyaW9iaTNzenBzV0dsYUUzTlM1Unp6bkQ5QTkzSkg5YXdzdE9TcDZF?oc=5"
   },
   {
    "title": "聽▶︎港聞｜鄺球稱全權負責肢解／李家超APEC與多位領導人會談／皇崗口岸人流數據｜2026年11月18日",
