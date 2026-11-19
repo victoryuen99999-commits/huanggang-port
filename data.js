@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-20T07:04:52+08:00",
+ "generated_at": "2026-11-20T07:11:56+08:00",
  "date": "2026-11-20",
  "weekday": "星期五",
- "clock": "07:04",
+ "clock": "07:11",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -14,8 +14,8 @@ window.HGP_DATA = {
  },
  "others": {
   "HYW": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "HZM": {
    "arr": 0,
@@ -30,8 +30,8 @@ window.HGP_DATA = {
    "dep": 0
   },
   "MKT": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "SBC": {
    "arr": 0,
