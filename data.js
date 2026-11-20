@@ -103,13 +103,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hTHBhcUd0bldIb0Q1OFE3MGlFSlRETTA1RTVHQ3Zyc2xvbS1TMjJGLVZCNGUtZU5xYnR6Nm8wTWNCSlluZ29HSkducEU2dEdQajhDQW9vY1hlTW9GNWszSGZ5cnU1Z25SRFhtTGRhVFpkV2RQWWlJ?oc=5"
   },
   {
-   "title": "姚銘回應新皇崗口岸的最新運作情況：整體運作值得肯定- 香港",
-   "source": "香港文匯報",
-   "date": "11-18 11:41",
-   "iso": "2026-11-18T11:41:17+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xTDcwMXFCZnd1ZUM0LXp3X19qSC0xTngxMHZsWHNBOVBWbzBxOTJOMUlmMUx0UjFIQlJfY3pOWFNWay0tVkp2LUFKVTdOQ2duWkRHR0plLTFvWms3NDd0QjZJU1FrVGczcXVTb29KLWNfdXlqMVMw?oc=5"
-  },
-  {
    "title": "新皇崗口岸平日日均8.8萬人次出入境 較過往落馬洲管制站增逾一倍",
    "source": "Now 新聞",
    "date": "11-18 09:39",
