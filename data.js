@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-20T07:56:25+08:00",
+ "generated_at": "2026-11-20T08:02:40+08:00",
  "date": "2026-11-20",
  "weekday": "星期五",
- "clock": "07:56",
+ "clock": "08:02",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,12 +45,12 @@ window.HGP_DATA = {
  "weather": {
   "temp": 13,
   "humidity": 65,
-  "wind": 17.4,
+  "wind": 17.2,
   "code": 51,
   "desc": "毛毛雨",
   "tmax": 17,
   "tmin": 12,
-  "pop": 34
+  "pop": 84
  },
  "warnings": [
   {
@@ -139,6 +139,11 @@ window.HGP_DATA = {
   {
    "tag": "週五",
    "text": "每週最擠時段之一（晚上北上），通宵巴士及跨境巴士都會排隊。",
+   "level": "warn"
+  },
+  {
+   "tag": "有雨",
+   "text": "預測降雨機率 84%，室外通道及上落客區會濕滑，提醒旅客及同事小心。",
    "level": "warn"
   },
   {
