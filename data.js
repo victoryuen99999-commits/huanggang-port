@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-21T00:01:48+08:00",
+ "generated_at": "2026-11-21T00:08:07+08:00",
  "date": "2026-11-21",
  "weekday": "星期六",
- "clock": "00:01",
+ "clock": "00:08",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -26,16 +26,16 @@ window.HGP_DATA = {
    "dep": 99
   },
   "LWS": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "MKT": {
    "arr": 99,
    "dep": 99
   },
   "SBC": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "STK": {
    "arr": 99,
