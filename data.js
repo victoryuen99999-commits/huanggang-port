@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-20T09:02:27+08:00",
+ "generated_at": "2026-11-20T09:08:42+08:00",
  "date": "2026-11-20",
  "weekday": "星期五",
- "clock": "09:02",
+ "clock": "09:08",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -61,6 +61,13 @@ window.HGP_DATA = {
  ],
  "news": [
   {
+   "title": "皇崗口岸大樓便利店開業 受地鐵客流影響非24小時營業 (08:36) - 20261120 - 兩岸",
+   "source": "明報新聞網",
+   "date": "11-20 00:36",
+   "iso": "2026-11-20T00:36:36+00:00",
+   "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNd1pTNjM3Uzh0NlpMMUx3SlotVlUyT05faW1Cd0F3blBROTBST1FDNmtwWjVzZUZFVnRIaDZFaUN6cWY3SlE3dWNETUhsVm9MRWNUbmpzQWx6aTdNS2wtb25iOXdPQl9ZWVp3ZlBscmNudUhubnVNWjhhNEl2di16WHR1WHBMY2FnclZJMV9PQnJYV004MlRlaDBtTkVYOUdCZmoxUUpycmh4aGZqWncyOGpHVWYzVXBwMC1iOTE5TEgwVVpsMGotWV9obWh3ckZXdjRCWGtOTml3VzBZMUVGU0JIcU5iUHRWYUtBNGdCWUd1NDNvTi1kUENrZEpPUDJvYWZfWC16dWhkNlRrVjUzZzROMWZqRmcxTktrcVdaUEF6MnRsSHZqMXJZcUE1QW9HZk5sYjJzcnhXZXNPMDBqWGhQUlJUaUNtRU9mTTNHT1J0QzdnYlBiUDNpZnBhS3Z1QmJiSDJMMHZyeDdvRjNiR1pMNWRKREppM0h1dl9Zbm8tX1NSQWhXVXVOdzg4X2tJclZYczcxVGdlU0hFZndJRlZNTHJTeVU?oc=5"
+  },
+  {
    "title": "站口岸樞紐一線 福田港澳政協委員暖心護航APEC",
    "source": "香港文匯報",
    "date": "11-19 20:21",
@@ -108,13 +115,6 @@ window.HGP_DATA = {
    "date": "11-18 09:09",
    "iso": "2026-11-18T09:09:55+00:00",
    "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQMnFweVNnVGZNWnVKUTBSNFlucTNaNTBZbEVHX0tyZVpVS2tTRDM0MUFqSXJvN2NrdGZaTVotRmY3X25ydEVWV2laNVVkODNpNUN2TXRGbTcwWlZPZll4OUdYOWJzVHFZMjViYlcyb0RVWUxNNFZoN2x4VW1Tbl9rbGF6TjU3RUl1dUt6UkF6bnAtOGFwZm9XNnFHd19vWE9IVXBlWi1pUUJ5MThKYmFpY0RVMGJvUS1zcDlLWktlMGQyTGZLUm12eHFhQUJJSTFrYW01OWFUNWVKdndac0FXLWk4bG9xamJ4T1lvTE1DREo4VVJzNDJJekRYVnoyb2liUjI0aTRHUVRTb1MyOXdaZklxNXVPT3hiMGFoUnZEWW03M1ZlU3dDQ1NmWkJyb3F0bEpGWEJ0TkhsTVpuQUxBWTN3MmxEU0ttaFNPb2ZIUGtWV0twRTlEQ2l3emwyc0JWOUE?oc=5"
-  },
-  {
-   "title": "新皇崗口岸平日客量增至逾8萬人次 11.15錄15.6萬人次創單日新高",
-   "source": "香港01",
-   "date": "11-18 08:53",
-   "iso": "2026-11-18T08:53:43+00:00",
-   "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPQU9XdngxUl9oSllNSmc3aWZxR2lkV21DNTVJbVRGNVB5RURYSTBSQ0JRZHJrOUs0VVVfMHMyTlJNYWkxTGQ0bXM0eU9ndnhoN3E5RTlNN2ZlWC00dkloSEZjVzFWZmdZRlVaUEotWTNtbU9EcnJBcjdINDl4QVNJWGd5M25LaGUwUUxibmF5RTVTYkF0VFRKR1JwMnZnNmFWWDF5ZU82LTR3UEVCbW9kaklSS2lGMEJsR3hyeFFacGJvMEVoYmZ0aEJJa2Y2WHFwTTNtWE9BQThIVV9PM0dSMm82dk1oMWVLN3c0SlpfZ0VucjVvWU5sUVJON3lHYU16TV9SX0lBMUpFMWFGa3hLMzc0RGFZRHBQQ252MzNEUGlxTGxpZjVEVzdkekpCRVVScjlKbkxCRFctZUdRb3ZsLWJZUTJ1WWFwQzBkVWx4T1NrZTZPU3hRLTNsNURtTUN6eXNMMzBtOVpzRTJaOGVyaHQwc2pyMEd2WEkyZm9qeTFMNkQ4YU1fZkZ3dnFGVXBqWW5HaGhnSEh0MlVRblJycWJLbmY?oc=5"
   }
  ],
  "ok": true,
