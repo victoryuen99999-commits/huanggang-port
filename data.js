@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-21T04:05:33+08:00",
+ "generated_at": "2026-11-21T04:11:48+08:00",
  "date": "2026-11-21",
  "weekday": "星期六",
- "clock": "04:05",
+ "clock": "04:11",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -61,13 +61,6 @@ window.HGP_DATA = {
  ],
  "news": [
   {
-   "title": "專題｜新皇崗開通一個月帶旺深圳夜經濟 音樂餐吧港客激增 街市仍嘆生意差",
-   "source": "橙新聞",
-   "date": "11-20 10:25",
-   "iso": "2026-11-20T10:25:53+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPZHJQMkVHWElOeTBHRGx2Sndnbk1VRkp0VmVGSW5ER3A5eERrb1VzUVd0YlZPTkR2TEU2MUNPVm9rRVQ1dkdoR21NTU9aWE5zWnV0X3Y2SmJNZWlsMEYzSGw2VXZjQ1NFdnJGLS1tTkN1ajVtUVNwUG43c3ZKbmhWN0FORUtsb0MyeTlmQ0R1VFdtcEhXVWU5WTRZVjlMWW1EQ194M05lbEg0N0VDaHRPWlFjejlIOVBHTWN6X2ZMRlNLTGFpci1Gd0FtX2xfclR0U0k1VVVvWU9YRVAzWlJWakZjQkdQSl9tXzhDRnhzRW1wWjgyT0dMcjJZZTJldFNJNmNsX1JnNUo0TEJ1cmtsTU1YY2tLaGtjbnY2enNHaWJQam5NWEVrRTZFckZiS0Q2X3VBMTZtc2sxZW90YmhvRVNnTjl4T3lYYmZNWGNoTmpvWi0temNEcEVLaGRoZFNZaHNxYnA3dVdybUpDdV9jc2R6cmN2NEI1TXZ1NlVDZmctSWxlelVVVnhVRHR0Y0RuTW9Fcjd1OXlwcnE0eUVvTUNPTXlDZm5wZUhIREZabkVUdllfSVdEbFhHUHhVWXVwb0RkNnZhV1B2TUhSX2IzRzk1VzMtUllndkxEQlhwLUhTUTA?oc=5"
-  },
-  {
    "title": "必嘆水圍三大抵食人氣火鍋店 新皇崗口岸五分鐘直達 人均¥1XX飽到上心口",
    "source": "香港文匯報",
    "date": "11-20 04:00",
@@ -110,15 +103,28 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hTHBhcUd0bldIb0Q1OFE3MGlFSlRETTA1RTVHQ3Zyc2xvbS1TMjJGLVZCNGUtZU5xYnR6Nm8wTWNCSlluZ29HSkducEU2dEdQajhDQW9vY1hlTW9GNWszSGZ5cnU1Z25SRFhtTGRhVFpkV2RQWWlJ?oc=5"
   },
   {
-   "title": "姚銘回應新皇崗口岸的最新運作情況：整體運作值得肯定- 香港",
-   "source": "香港文匯報",
-   "date": "11-18 11:41",
-   "iso": "2026-11-18T11:41:17+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xTDcwMXFCZnd1ZUM0LXp3X19qSC0xTngxMHZsWHNBOVBWbzBxOTJOMUlmMUx0UjFIQlJfY3pOWFNWay0tVkp2LUFKVTdOQ2duWkRHR0plLTFvWms3NDd0QjZJU1FrVGczcXVTb29KLWNfdXlqMVMw?oc=5"
+   "title": "新皇崗口岸平日日均8.8萬人次出入境 較過往落馬洲管制站增逾一倍",
+   "source": "Now 新聞",
+   "date": "11-18 09:39",
+   "iso": "2026-11-18T09:39:26+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJRVpuLU1wUTA4Qk1LbDgwRmhWQmF2c1RLVThmSXN5YTI0aS13OEhzQm5iWHFvd2JjMjFUNnJxTC11aV9CQlV0di1CVk1uTWdEcHVXX2haaU90VWV0U0M3VUFR?oc=5"
+  },
+  {
+   "title": "新皇崗口岸｜平日日均8.8萬人次 較以往落馬洲多逾倍 議員倡增短途巴士分流 - i-CABLE",
+   "source": "i-CABLE",
+   "date": "11-18 09:09",
+   "iso": "2026-11-18T09:09:55+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQMnFweVNnVGZNWnVKUTBSNFlucTNaNTBZbEVHX0tyZVpVS2tTRDM0MUFqSXJvN2NrdGZaTVotRmY3X25ydEVWV2laNVVkODNpNUN2TXRGbTcwWlZPZll4OUdYOWJzVHFZMjViYlcyb0RVWUxNNFZoN2x4VW1Tbl9rbGF6TjU3RUl1dUt6UkF6bnAtOGFwZm9XNnFHd19vWE9IVXBlWi1pUUJ5MThKYmFpY0RVMGJvUS1zcDlLWktlMGQyTGZLUm12eHFhQUJJSTFrYW01OWFUNWVKdndac0FXLWk4bG9xamJ4T1lvTE1DREo4VVJzNDJJekRYVnoyb2liUjI0aTRHUVRTb1MyOXdaZklxNXVPT3hiMGFoUnZEWW03M1ZlU3dDQ1NmWkJyb3F0bEpGWEJ0TkhsTVpuQUxBWTN3MmxEU0ttaFNPb2ZIUGtWV0twRTlEQ2l3emwyc0JWOUE?oc=5"
   }
  ],
  "ok": true,
- "vehicle_events": [],
+ "vehicle_events": [
+  {
+   "t": 1794992995000,
+   "s": "i-CABLE",
+   "ti": "新皇崗口岸｜平日日均8.8萬人次 較以往落馬洲多逾倍 議員倡增短途巴士分流 - "
+  }
+ ],
  "tips": [
   {
    "tag": "警告",
