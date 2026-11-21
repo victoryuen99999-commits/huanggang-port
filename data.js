@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-21T11:50:22+08:00",
+ "generated_at": "2026-11-21T11:56:58+08:00",
  "date": "2026-11-21",
  "weekday": "星期六",
- "clock": "11:50",
+ "clock": "11:56",
  "queue": {
   "arr": 0,
   "dep": 0
