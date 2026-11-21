@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-21T08:57:58+08:00",
+ "generated_at": "2026-11-21T09:05:53+08:00",
  "date": "2026-11-21",
  "weekday": "星期六",
- "clock": "08:57",
+ "clock": "09:05",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -61,6 +61,13 @@ window.HGP_DATA = {
  ],
  "news": [
   {
+   "title": "專題｜新皇崗開通一個月帶旺深圳夜經濟音樂餐吧港客激增街市仍嘆生意差 - 視頻專題",
+   "source": "橙新聞",
+   "date": "11-20 10:25",
+   "iso": "2026-11-20T10:25:53+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOZUpKODgyREFoNFVHUFUyZnpuSHFBbVZlU2JHNDUwcXU2S1FWY19ZaTBielpBdnhqWlZqclJCVTRIRThSMzZjSklPZUxwU1NNT3hwUVZVWXM2V0ZqZHVLMThmY3gyaGJmOFNyMW80RU5pcGNVaGdpNzhRWnhiQ3pNWm1iQTlGMm0wZUpvckpDaGVhOTA2NzdkY01UTnVxNDdkZERHMU45Yng3VjZGMHlpSFpVaHlWWFVQMHBPM1F2b2lIZ0xYZC0wTEpqT0NlM3NUeThaTjUwYXJZQkpTMkF0YUFEdVp4MGlCMTV1bUdBUnRWdGs4Z1BoT2VyVi1MeTRVRG1JOGQ5T1Z0UDA2eUJ0ZjcwS0M0cjYxb3cwSHNLOWVqVG90Vmh4ZG9BNHF3X2NCaU1Jc0M1REVua3hkMTllZFA1aFdjY0kxcWVOR0NHR1dXNzNnY1psOGxQSFJ0QTdaOXo2YVkySVlOR0hYN1AxMHQ0cmFQNGx3UE9SSHhPYXFMZG45VkZUNC1xc0M1bk1uc3ljSjVKdjFiOVBGaV92eFRrYXNOa1RrOGlWSnRoWl8zQTV2S29GNmU3NXJfVlM4Qm4tVnFQd1ZpT0x0NC11REJrY2FzdjZQei1BdHN3THRCZ0Y0SlIw?oc=5"
+  },
+  {
    "title": "必嘆水圍三大抵食人氣火鍋店 新皇崗口岸五分鐘直達 人均¥1XX飽到上心口",
    "source": "香港文匯報",
    "date": "11-20 04:00",
@@ -108,23 +115,10 @@ window.HGP_DATA = {
    "date": "11-18 09:39",
    "iso": "2026-11-18T09:39:26+00:00",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJRVpuLU1wUTA4Qk1LbDgwRmhWQmF2c1RLVThmSXN5YTI0aS13OEhzQm5iWHFvd2JjMjFUNnJxTC11aV9CQlV0di1CVk1uTWdEcHVXX2haaU90VWV0U0M3VUFR?oc=5"
-  },
-  {
-   "title": "新皇崗口岸｜平日日均8.8萬人次 較以往落馬洲多逾倍 議員倡增短途巴士分流 - i-CABLE",
-   "source": "i-CABLE",
-   "date": "11-18 09:09",
-   "iso": "2026-11-18T09:09:55+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQMnFweVNnVGZNWnVKUTBSNFlucTNaNTBZbEVHX0tyZVpVS2tTRDM0MUFqSXJvN2NrdGZaTVotRmY3X25ydEVWV2laNVVkODNpNUN2TXRGbTcwWlZPZll4OUdYOWJzVHFZMjViYlcyb0RVWUxNNFZoN2x4VW1Tbl9rbGF6TjU3RUl1dUt6UkF6bnAtOGFwZm9XNnFHd19vWE9IVXBlWi1pUUJ5MThKYmFpY0RVMGJvUS1zcDlLWktlMGQyTGZLUm12eHFhQUJJSTFrYW01OWFUNWVKdndac0FXLWk4bG9xamJ4T1lvTE1DREo4VVJzNDJJekRYVnoyb2liUjI0aTRHUVRTb1MyOXdaZklxNXVPT3hiMGFoUnZEWW03M1ZlU3dDQ1NmWkJyb3F0bEpGWEJ0TkhsTVpuQUxBWTN3MmxEU0ttaFNPb2ZIUGtWV0twRTlEQ2l3emwyc0JWOUE?oc=5"
   }
  ],
  "ok": true,
- "vehicle_events": [
-  {
-   "t": 1794992995000,
-   "s": "i-CABLE",
-   "ti": "新皇崗口岸｜平日日均8.8萬人次 較以往落馬洲多逾倍 議員倡增短途巴士分流 - "
-  }
- ],
+ "vehicle_events": [],
  "tips": [
   {
    "tag": "警告",
@@ -135,11 +129,6 @@ window.HGP_DATA = {
    "tag": "防火",
    "text": "火災危險警告生效：吸煙、明火、戶外焊接及燃燒作業須停止或按程序審批；留意雜草及垃圾堆積起火風險。",
    "level": "warn"
-  },
-  {
-   "tag": "早更",
-   "text": "跨境上班上學人流集中，出境大堂及 L2 交匯處會出現短時人龍。",
-   "level": "info"
   },
   {
    "tag": "週六",
