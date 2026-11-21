@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-22T01:36:28+08:00",
+ "generated_at": "2026-11-22T01:42:41+08:00",
  "date": "2026-11-22",
  "weekday": "星期日",
- "clock": "01:36",
+ "clock": "01:42",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -76,6 +76,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNd1pTNjM3Uzh0NlpMMUx3SlotVlUyT05faW1Cd0F3blBROTBST1FDNmtwWjVzZUZFVnRIaDZFaUN6cWY3SlE3dWNETUhsVm9MRWNUbmpzQWx6aTdNS2wtb25iOXdPQl9ZWVp3ZlBscmNudUhubnVNWjhhNEl2di16WHR1WHBMY2FnclZJMV9PQnJYV004MlRlaDBtTkVYOUdCZmoxUUpycmh4aGZqWncyOGpHVWYzVXBwMC1iOTE5TEgwVVpsMGotWV9obWh3ckZXdjRCWGtOTml3VzBZMUVGU0JIcU5iUHRWYUtBNGdCWUd1NDNvTi1kUENrZEpPUDJvYWZfWC16dWhkNlRrVjUzZzROMWZqRmcxTktrcVdaUEF6MnRsSHZqMXJZcUE1QW9HZk5sYjJzcnhXZXNPMDBqWGhQUlJUaUNtRU9mTTNHT1J0QzdnYlBiUDNpZnBhS3Z1QmJiSDJMMHZyeDdvRjNiR1pMNWRKREppM0h1dl9Zbm8tX1NSQWhXVXVOdzg4X2tJclZYczcxVGdlU0hFZndJRlZNTHJTeVU?oc=5"
   },
   {
+   "title": "站口岸樞紐一線 福田港澳政協委員暖心護航APEC",
+   "source": "香港文匯報",
+   "date": "11-19 20:21",
+   "iso": "2026-11-19T20:21:47+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yeW1EUkxnNUFrVTRBYXNGTEQzc2pLX1dwaUEyeXdIMG5SU295WGZVVjJrSjN6ZGY5YmVzZmhuMXoyWlhEbElfQVhLRzduVkhfdVo3TmZScnI1cU1OS2RvRmxyXzlJaDRtZGQ2TGt6WHZlbDRHcTVj?oc=5"
+  },
+  {
    "title": "城巴皇崗專線B14改全日服務！「北上神線」40分鐘直達口岸設免費轉乘$20.8全包網民驚嘆︰上水去都無咁快",
    "source": "星島頭條",
    "date": "11-19 04:35",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-18 11:41",
    "iso": "2026-11-18T11:41:17+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xTDcwMXFCZnd1ZUM0LXp3X19qSC0xTngxMHZsWHNBOVBWbzBxOTJOMUlmMUx0UjFIQlJfY3pOWFNWay0tVkp2LUFKVTdOQ2duWkRHR0plLTFvWms3NDd0QjZJU1FrVGczcXVTb29KLWNfdXlqMVMw?oc=5"
-  },
-  {
-   "title": "新皇崗口岸平日日均8.8萬人次出入境 較過往落馬洲管制站增逾一倍",
-   "source": "Now 新聞",
-   "date": "11-18 09:39",
-   "iso": "2026-11-18T09:39:26+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJRVpuLU1wUTA4Qk1LbDgwRmhWQmF2c1RLVThmSXN5YTI0aS13OEhzQm5iWHFvd2JjMjFUNnJxTC11aV9CQlV0di1CVk1uTWdEcHVXX2haaU90VWV0U0M3VUFR?oc=5"
   }
  ],
  "ok": true,
