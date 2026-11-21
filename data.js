@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-21T09:12:09+08:00",
+ "generated_at": "2026-11-21T09:47:13+08:00",
  "date": "2026-11-21",
  "weekday": "星期六",
- "clock": "09:12",
+ "clock": "09:47",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 14,
   "humidity": 55,
-  "wind": 10.0,
+  "wind": 9.9,
   "code": 3,
   "desc": "多雲",
   "tmax": 21,
@@ -82,13 +82,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNd1pTNjM3Uzh0NlpMMUx3SlotVlUyT05faW1Cd0F3blBROTBST1FDNmtwWjVzZUZFVnRIaDZFaUN6cWY3SlE3dWNETUhsVm9MRWNUbmpzQWx6aTdNS2wtb25iOXdPQl9ZWVp3ZlBscmNudUhubnVNWjhhNEl2di16WHR1WHBMY2FnclZJMV9PQnJYV004MlRlaDBtTkVYOUdCZmoxUUpycmh4aGZqWncyOGpHVWYzVXBwMC1iOTE5TEgwVVpsMGotWV9obWh3ckZXdjRCWGtOTml3VzBZMUVGU0JIcU5iUHRWYUtBNGdCWUd1NDNvTi1kUENrZEpPUDJvYWZfWC16dWhkNlRrVjUzZzROMWZqRmcxTktrcVdaUEF6MnRsSHZqMXJZcUE1QW9HZk5sYjJzcnhXZXNPMDBqWGhQUlJUaUNtRU9mTTNHT1J0QzdnYlBiUDNpZnBhS3Z1QmJiSDJMMHZyeDdvRjNiR1pMNWRKREppM0h1dl9Zbm8tX1NSQWhXVXVOdzg4X2tJclZYczcxVGdlU0hFZndJRlZNTHJTeVU?oc=5"
   },
   {
-   "title": "站口岸樞紐一線 福田港澳政協委員暖心護航APEC",
-   "source": "香港文匯報",
-   "date": "11-19 20:21",
-   "iso": "2026-11-19T20:21:47+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yeW1EUkxnNUFrVTRBYXNGTEQzc2pLX1dwaUEyeXdIMG5SU295WGZVVjJrSjN6ZGY5YmVzZmhuMXoyWlhEbElfQVhLRzduVkhfdVo3TmZScnI1cU1OS2RvRmxyXzlJaDRtZGQ2TGt6WHZlbDRHcTVj?oc=5"
-  },
-  {
    "title": "城巴皇崗專線B14改全日服務！「北上神線」40分鐘直達口岸設免費轉乘$20.8全包網民驚嘆︰上水去都無咁快",
    "source": "星島頭條",
    "date": "11-19 04:35",
@@ -115,10 +108,23 @@ window.HGP_DATA = {
    "date": "11-18 09:39",
    "iso": "2026-11-18T09:39:26+00:00",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJRVpuLU1wUTA4Qk1LbDgwRmhWQmF2c1RLVThmSXN5YTI0aS13OEhzQm5iWHFvd2JjMjFUNnJxTC11aV9CQlV0di1CVk1uTWdEcHVXX2haaU90VWV0U0M3VUFR?oc=5"
+  },
+  {
+   "title": "新皇崗口岸｜平日日均8.8萬人次 較以往落馬洲多逾倍 議員倡增短途巴士分流 - i-CABLE",
+   "source": "i-CABLE",
+   "date": "11-18 09:09",
+   "iso": "2026-11-18T09:09:55+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQMnFweVNnVGZNWnVKUTBSNFlucTNaNTBZbEVHX0tyZVpVS2tTRDM0MUFqSXJvN2NrdGZaTVotRmY3X25ydEVWV2laNVVkODNpNUN2TXRGbTcwWlZPZll4OUdYOWJzVHFZMjViYlcyb0RVWUxNNFZoN2x4VW1Tbl9rbGF6TjU3RUl1dUt6UkF6bnAtOGFwZm9XNnFHd19vWE9IVXBlWi1pUUJ5MThKYmFpY0RVMGJvUS1zcDlLWktlMGQyTGZLUm12eHFhQUJJSTFrYW01OWFUNWVKdndac0FXLWk4bG9xamJ4T1lvTE1DREo4VVJzNDJJekRYVnoyb2liUjI0aTRHUVRTb1MyOXdaZklxNXVPT3hiMGFoUnZEWW03M1ZlU3dDQ1NmWkJyb3F0bEpGWEJ0TkhsTVpuQUxBWTN3MmxEU0ttaFNPb2ZIUGtWV0twRTlEQ2l3emwyc0JWOUE?oc=5"
   }
  ],
  "ok": true,
- "vehicle_events": [],
+ "vehicle_events": [
+  {
+   "t": 1794992995000,
+   "s": "i-CABLE",
+   "ti": "新皇崗口岸｜平日日均8.8萬人次 較以往落馬洲多逾倍 議員倡增短途巴士分流 - "
+  }
+ ],
  "tips": [
   {
    "tag": "警告",
