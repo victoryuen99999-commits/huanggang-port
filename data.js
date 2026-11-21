@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-21T12:28:30+08:00",
+ "generated_at": "2026-11-21T12:35:50+08:00",
  "date": "2026-11-21",
  "weekday": "星期六",
- "clock": "12:28",
+ "clock": "12:35",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 19,
-  "humidity": 38,
-  "wind": 9.9,
+  "temp": 20,
+  "humidity": 37,
+  "wind": 9.6,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 21,
@@ -60,13 +60,6 @@ window.HGP_DATA = {
   }
  ],
  "news": [
-  {
-   "title": "專題｜新皇崗開通一個月帶旺深圳夜經濟音樂餐吧港客激增街市仍嘆生意差 - 視頻專題",
-   "source": "橙新聞",
-   "date": "11-20 10:25",
-   "iso": "2026-11-20T10:25:53+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOZUpKODgyREFoNFVHUFUyZnpuSHFBbVZlU2JHNDUwcXU2S1FWY19ZaTBielpBdnhqWlZqclJCVTRIRThSMzZjSklPZUxwU1NNT3hwUVZVWXM2V0ZqZHVLMThmY3gyaGJmOFNyMW80RU5pcGNVaGdpNzhRWnhiQ3pNWm1iQTlGMm0wZUpvckpDaGVhOTA2NzdkY01UTnVxNDdkZERHMU45Yng3VjZGMHlpSFpVaHlWWFVQMHBPM1F2b2lIZ0xYZC0wTEpqT0NlM3NUeThaTjUwYXJZQkpTMkF0YUFEdVp4MGlCMTV1bUdBUnRWdGs4Z1BoT2VyVi1MeTRVRG1JOGQ5T1Z0UDA2eUJ0ZjcwS0M0cjYxb3cwSHNLOWVqVG90Vmh4ZG9BNHF3X2NCaU1Jc0M1REVua3hkMTllZFA1aFdjY0kxcWVOR0NHR1dXNzNnY1psOGxQSFJ0QTdaOXo2YVkySVlOR0hYN1AxMHQ0cmFQNGx3UE9SSHhPYXFMZG45VkZUNC1xc0M1bk1uc3ljSjVKdjFiOVBGaV92eFRrYXNOa1RrOGlWSnRoWl8zQTV2S29GNmU3NXJfVlM4Qm4tVnFQd1ZpT0x0NC11REJrY2FzdjZQei1BdHN3THRCZ0Y0SlIw?oc=5"
-  },
   {
    "title": "必嘆水圍三大抵食人氣火鍋店 新皇崗口岸五分鐘直達 人均¥1XX飽到上心口",
    "source": "香港文匯報",
@@ -115,6 +108,13 @@ window.HGP_DATA = {
    "date": "11-18 09:09",
    "iso": "2026-11-18T09:09:55+00:00",
    "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQMnFweVNnVGZNWnVKUTBSNFlucTNaNTBZbEVHX0tyZVpVS2tTRDM0MUFqSXJvN2NrdGZaTVotRmY3X25ydEVWV2laNVVkODNpNUN2TXRGbTcwWlZPZll4OUdYOWJzVHFZMjViYlcyb0RVWUxNNFZoN2x4VW1Tbl9rbGF6TjU3RUl1dUt6UkF6bnAtOGFwZm9XNnFHd19vWE9IVXBlWi1pUUJ5MThKYmFpY0RVMGJvUS1zcDlLWktlMGQyTGZLUm12eHFhQUJJSTFrYW01OWFUNWVKdndac0FXLWk4bG9xamJ4T1lvTE1DREo4VVJzNDJJekRYVnoyb2liUjI0aTRHUVRTb1MyOXdaZklxNXVPT3hiMGFoUnZEWW03M1ZlU3dDQ1NmWkJyb3F0bEpGWEJ0TkhsTVpuQUxBWTN3MmxEU0ttaFNPb2ZIUGtWV0twRTlEQ2l3emwyc0JWOUE?oc=5"
+  },
+  {
+   "title": "新皇崗口岸平日日均8.8萬人過關 當局研按需要商特別通關安排",
+   "source": "on.cc東網",
+   "date": "11-18 08:27",
+   "iso": "2026-11-18T08:27:49+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHBDV25JYVBGb0lIZjVqR1daU0d6UHdQbTg3VHE2Ny1QTUZ4d2ozUTVwMzBtMVdXUi1RT29hREllU3JQaWRCeklzb3hDLWF3TU9ZV1JqamtkNllsZ19uM1k1dGgyaW9iaTNzenBzV0dsYUUzTlM1Unp6bkQ5QTkzSkg5YXdzdE9TcDZF?oc=5"
   }
  ],
  "ok": true,
