@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-21T15:46:57+08:00",
+ "generated_at": "2026-11-21T15:53:19+08:00",
  "date": "2026-11-21",
  "weekday": "星期六",
- "clock": "15:46",
+ "clock": "15:53",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -111,10 +111,10 @@ window.HGP_DATA = {
   },
   {
    "title": "新皇崗口岸平日日均8.8萬人次出入境 較過往落馬洲管制站增逾一倍",
-   "source": "Now 新聞",
+   "source": "Yahoo",
    "date": "11-18 09:39",
    "iso": "2026-11-18T09:39:26+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJRVpuLU1wUTA4Qk1LbDgwRmhWQmF2c1RLVThmSXN5YTI0aS13OEhzQm5iWHFvd2JjMjFUNnJxTC11aV9CQlV0di1CVk1uTWdEcHVXX2haaU90VWV0U0M3VUFR?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxNU01Wd0x2WG9LWWZSSjdWZVFtWnQ0c1dTblFkb3pMcWRDZ3pBaFZ6TlNyR3dWOUtreEcxVUt0aWQyZlpNLTNnelB5OEFjRGg3b0F6aHZRSVZETmJ3VlFfOVBNbjB4bW8talBsckpOeHRyRW5EamliRFNTdjNTemtZcC1wOTNQcl9pUE1ib1ZJcFowQkhLdlcxckFqRnZ0Y3MwcTNWRS1mTHRKUU10SlBiNFlnVERkRjhRN0Q0VkJPRUtCVGVvRFpoMHFoVlp6dnA3bTRnend3VFFpY1RlMFpjenliV09pT182TXNTdVNLYldEV0J0UTNzaHJRN1M3M1lSX1NOM1d0c0dmZ1VvMDE4Q181R1RrN3RQUWlmSm16bnRidHhhVGxFTDdfRDlfaEd2bW1fT0xQaDZrNWRpc2pUX3NOYWtEVFdMZm4wMTlUcG4zWVEycW5YVWk4bFJUdm5YZUFESi1wT2l4QVRvb0lxZWtsdl9IREF1NklrS0VQcVBFeXBMZTRLUDFOMlJnMmRXZERGdnJESHgxTFJOUGc?oc=5"
   }
  ],
  "ok": true,
