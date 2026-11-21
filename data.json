@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T06:28:13+08:00",
+ "generated_at": "2026-11-22T06:35:09+08:00",
  "date": "2026-11-22",
  "weekday": "星期日",
- "clock": "06:28",
+ "clock": "06:35",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -21,20 +21,20 @@
    "dep": 0
   },
   "LSC": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "LWS": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "MKT": {
    "arr": 99,
    "dep": 99
   },
   "SBC": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "STK": {
    "arr": 99,
@@ -43,7 +43,7 @@
  },
  "weather": {
   "temp": 16,
-  "humidity": 75,
+  "humidity": 74,
   "wind": 12.0,
   "code": 3,
   "desc": "多雲",
