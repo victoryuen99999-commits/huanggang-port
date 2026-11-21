@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-21T23:55:12+08:00",
- "date": "2026-11-21",
- "weekday": "星期六",
- "clock": "23:55",
+ "generated_at": "2026-11-22T00:01:26+08:00",
+ "date": "2026-11-22",
+ "weekday": "星期日",
+ "clock": "00:01",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,12 +45,12 @@ window.HGP_DATA = {
  "weather": {
   "temp": 15,
   "humidity": 66,
-  "wind": 8.4,
+  "wind": 9.0,
   "code": 2,
   "desc": "局部多雲",
-  "tmax": 21,
-  "tmin": 12,
-  "pop": 52
+  "tmax": 20,
+  "tmin": 15,
+  "pop": 0
  },
  "warnings": [],
  "news": [
@@ -125,9 +125,9 @@ window.HGP_DATA = {
    "level": "warn"
   },
   {
-   "tag": "週六",
-   "text": "早上北上、晚上返港雙高峰；落客區與上客區容易同時塞。",
-   "level": "info"
+   "tag": "週日",
+   "text": "傍晚 5 時至 10 時返港高峰，入境大堂壓力最大。",
+   "level": "warn"
   },
   {
    "tag": "通告",
