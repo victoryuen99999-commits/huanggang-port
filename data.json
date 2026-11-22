@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T09:46:20+08:00",
+ "generated_at": "2026-11-22T09:53:47+08:00",
  "date": "2026-11-22",
  "weekday": "星期日",
- "clock": "09:46",
+ "clock": "09:53",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -41,7 +41,16 @@
    "dep": 99
   }
  },
- "weather": null,
+ "weather": {
+  "temp": 19,
+  "humidity": 60,
+  "wind": 16.7,
+  "code": 3,
+  "desc": "多雲",
+  "tmax": 22,
+  "tmin": 15,
+  "pop": 0
+ },
  "warnings": [
   {
    "title": "黃色火災危險警告",
