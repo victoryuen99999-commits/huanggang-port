@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-23T01:43:12+08:00",
+ "generated_at": "2026-11-23T01:50:14+08:00",
  "date": "2026-11-23",
  "weekday": "星期一",
- "clock": "01:43",
+ "clock": "01:50",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 21,
   "humidity": 85,
-  "wind": 13.8,
+  "wind": 13.6,
   "code": 3,
   "desc": "多雲",
   "tmax": 24,
@@ -60,6 +60,13 @@ window.HGP_DATA = {
    "date": "11-20 10:25",
    "iso": "2026-11-20T10:25:53+00:00",
    "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPZHJQMkVHWElOeTBHRGx2Sndnbk1VRkp0VmVGSW5ER3A5eERrb1VzUVd0YlZPTkR2TEU2MUNPVm9rRVQ1dkdoR21NTU9aWE5zWnV0X3Y2SmJNZWlsMEYzSGw2VXZjQ1NFdnJGLS1tTkN1ajVtUVNwUG43c3ZKbmhWN0FORUtsb0MyeTlmQ0R1VFdtcEhXVWU5WTRZVjlMWW1EQ194M05lbEg0N0VDaHRPWlFjejlIOVBHTWN6X2ZMRlNLTGFpci1Gd0FtX2xfclR0U0k1VVVvWU9YRVAzWlJWakZjQkdQSl9tXzhDRnhzRW1wWjgyT0dMcjJZZTJldFNJNmNsX1JnNUo0TEJ1cmtsTU1YY2tLaGtjbnY2enNHaWJQam5NWEVrRTZFckZiS0Q2X3VBMTZtc2sxZW90YmhvRVNnTjl4T3lYYmZNWGNoTmpvWi0temNEcEVLaGRoZFNZaHNxYnA3dVdybUpDdV9jc2R6cmN2NEI1TXZ1NlVDZmctSWxlelVVVnhVRHR0Y0RuTW9Fcjd1OXlwcnE0eUVvTUNPTXlDZm5wZUhIREZabkVUdllfSVdEbFhHUHhVWXVwb0RkNnZhV1B2TUhSX2IzRzk1VzMtUllndkxEQlhwLUhTUTA?oc=5"
+  },
+  {
+   "title": "新皇崗口岸深化港深產業協同 賦能香港新型工業化",
+   "source": "堅料網",
+   "date": "11-20 08:56",
+   "iso": "2026-11-20T08:56:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQVUk0amlMUVN2VGw3VThTNVpYd0hiRUlqcjFKbVluNzNTTl9ObmFPSE04NllHNDk0aWdaLWxlUTVIRjY1N19IblVvNXlKN1hLZzF1RjRPRm9sU2hsb1NLZmFVVEdLdlJlR1BRR0ZJZUJMNjVrQlp3eU05Q3drVTAyMThsaVBSY2FBQTd4dmRGOGExNGd6RkFBbFAwREF2Y08zM3RLdnlPSVRoRkdMeVpNNFpXX0p4RE5PeWhacWZjdWdxQk5XTF9iLUE1UGVnUlFiNkhGdlA4TllGZmphMnY3SkZJNWVIMGxNREJMU0xfd0FlcUI4VUctOHlzUjhvUzVtdDZQeWdyck1xTXo0ZFBuU3JvZ1ROVERCUGpXN2Flc0JvSmw1S2dSNTV0dTdsenlTT2RGODVjb2RYVW4yZGxNcHNOS0QtZlhqU25TMWc0UHdsV25STVQ4TFUtT3I?oc=5"
   },
   {
    "title": "必嘆水圍三大抵食人氣火鍋店 新皇崗口岸五分鐘直達 人均¥1XX飽到上心口",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-18 11:41",
    "iso": "2026-11-18T11:41:17+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xTDcwMXFCZnd1ZUM0LXp3X19qSC0xTngxMHZsWHNBOVBWbzBxOTJOMUlmMUx0UjFIQlJfY3pOWFNWay0tVkp2LUFKVTdOQ2duWkRHR0plLTFvWms3NDd0QjZJU1FrVGczcXVTb29KLWNfdXlqMVMw?oc=5"
-  },
-  {
-   "title": "新皇崗口岸平日日均8.8萬人次出入境 較過往落馬洲管制站增逾一倍",
-   "source": "Yahoo",
-   "date": "11-18 09:39",
-   "iso": "2026-11-18T09:39:26+00:00",
-   "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxNU01Wd0x2WG9LWWZSSjdWZVFtWnQ0c1dTblFkb3pMcWRDZ3pBaFZ6TlNyR3dWOUtreEcxVUt0aWQyZlpNLTNnelB5OEFjRGg3b0F6aHZRSVZETmJ3VlFfOVBNbjB4bW8talBsckpOeHRyRW5EamliRFNTdjNTemtZcC1wOTNQcl9pUE1ib1ZJcFowQkhLdlcxckFqRnZ0Y3MwcTNWRS1mTHRKUU10SlBiNFlnVERkRjhRN0Q0VkJPRUtCVGVvRFpoMHFoVlp6dnA3bTRnend3VFFpY1RlMFpjenliV09pT182TXNTdVNLYldEV0J0UTNzaHJRN1M3M1lSX1NOM1d0c0dmZ1VvMDE4Q181R1RrN3RQUWlmSm16bnRidHhhVGxFTDdfRDlfaEd2bW1fT0xQaDZrNWRpc2pUX3NOYWtEVFdMZm4wMTlUcG4zWVEycW5YVWk4bFJUdm5YZUFESi1wT2l4QVRvb0lxZWtsdl9IREF1NklrS0VQcVBFeXBMZTRLUDFOMlJnMmRXZERGdnJESHgxTFJOUGc?oc=5"
   }
  ],
  "ok": true,
