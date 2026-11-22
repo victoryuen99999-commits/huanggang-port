@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-22T12:55:51+08:00",
+ "generated_at": "2026-11-22T13:03:23+08:00",
  "date": "2026-11-22",
  "weekday": "星期日",
- "clock": "12:55",
+ "clock": "13:03",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -73,13 +73,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rVl9jelU4R1k1Uy1oaE5qckE2akFJNThINVo4V2JVU2YxN3RFcmxFMzhZa0JkcEhnOWsxMElHQjQ3aVB0cC1vNTZza2pPM3RVTEEtSll5bFlLLV9Jem5iRVZQQ2RrUHNycWt5bUJJVXFjVTA1Zy00?oc=5"
   },
   {
-   "title": "皇崗口岸大樓便利店開業 受地鐵客流影響非24小時營業 (08:36) - 20261120 - 兩岸",
-   "source": "明報新聞網",
-   "date": "11-20 00:36",
-   "iso": "2026-11-20T00:36:36+00:00",
-   "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNd1pTNjM3Uzh0NlpMMUx3SlotVlUyT05faW1Cd0F3blBROTBST1FDNmtwWjVzZUZFVnRIaDZFaUN6cWY3SlE3dWNETUhsVm9MRWNUbmpzQWx6aTdNS2wtb25iOXdPQl9ZWVp3ZlBscmNudUhubnVNWjhhNEl2di16WHR1WHBMY2FnclZJMV9PQnJYV004MlRlaDBtTkVYOUdCZmoxUUpycmh4aGZqWncyOGpHVWYzVXBwMC1iOTE5TEgwVVpsMGotWV9obWh3ckZXdjRCWGtOTml3VzBZMUVGU0JIcU5iUHRWYUtBNGdCWUd1NDNvTi1kUENrZEpPUDJvYWZfWC16dWhkNlRrVjUzZzROMWZqRmcxTktrcVdaUEF6MnRsSHZqMXJZcUE1QW9HZk5sYjJzcnhXZXNPMDBqWGhQUlJUaUNtRU9mTTNHT1J0QzdnYlBiUDNpZnBhS3Z1QmJiSDJMMHZyeDdvRjNiR1pMNWRKREppM0h1dl9Zbm8tX1NSQWhXVXVOdzg4X2tJclZYczcxVGdlU0hFZndJRlZNTHJTeVU?oc=5"
-  },
-  {
    "title": "站口岸樞紐一線 福田港澳政協委員暖心護航APEC",
    "source": "香港文匯報",
    "date": "11-19 20:21",
@@ -106,6 +99,13 @@ window.HGP_DATA = {
    "date": "11-18 20:26",
    "iso": "2026-11-18T20:26:17+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hTHBhcUd0bldIb0Q1OFE3MGlFSlRETTA1RTVHQ3Zyc2xvbS1TMjJGLVZCNGUtZU5xYnR6Nm8wTWNCSlluZ29HSkducEU2dEdQajhDQW9vY1hlTW9GNWszSGZ5cnU1Z25SRFhtTGRhVFpkV2RQWWlJ?oc=5"
+  },
+  {
+   "title": "姚銘回應新皇崗口岸的最新運作情況：整體運作值得肯定- 香港",
+   "source": "香港文匯報",
+   "date": "11-18 11:41",
+   "iso": "2026-11-18T11:41:17+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xTDcwMXFCZnd1ZUM0LXp3X19qSC0xTngxMHZsWHNBOVBWbzBxOTJOMUlmMUx0UjFIQlJfY3pOWFNWay0tVkp2LUFKVTdOQ2duWkRHR0plLTFvWms3NDd0QjZJU1FrVGczcXVTb29KLWNfdXlqMVMw?oc=5"
   }
  ],
  "ok": true,
