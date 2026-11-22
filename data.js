@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 17,
   "humidity": 65,
-  "wind": 13.3,
+  "wind": 13.4,
   "code": 3,
   "desc": "多雲",
   "tmax": 22,
