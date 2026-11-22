@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-22T10:40:11+08:00",
+ "generated_at": "2026-11-22T10:51:14+08:00",
  "date": "2026-11-22",
  "weekday": "星期日",
- "clock": "10:40",
+ "clock": "10:51",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 19,
   "humidity": 61,
-  "wind": 16.7,
+  "wind": 16.6,
   "code": 3,
   "desc": "多雲",
   "tmax": 22,
@@ -68,13 +68,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOZUpKODgyREFoNFVHUFUyZnpuSHFBbVZlU2JHNDUwcXU2S1FWY19ZaTBielpBdnhqWlZqclJCVTRIRThSMzZjSklPZUxwU1NNT3hwUVZVWXM2V0ZqZHVLMThmY3gyaGJmOFNyMW80RU5pcGNVaGdpNzhRWnhiQ3pNWm1iQTlGMm0wZUpvckpDaGVhOTA2NzdkY01UTnVxNDdkZERHMU45Yng3VjZGMHlpSFpVaHlWWFVQMHBPM1F2b2lIZ0xYZC0wTEpqT0NlM3NUeThaTjUwYXJZQkpTMkF0YUFEdVp4MGlCMTV1bUdBUnRWdGs4Z1BoT2VyVi1MeTRVRG1JOGQ5T1Z0UDA2eUJ0ZjcwS0M0cjYxb3cwSHNLOWVqVG90Vmh4ZG9BNHF3X2NCaU1Jc0M1REVua3hkMTllZFA1aFdjY0kxcWVOR0NHR1dXNzNnY1psOGxQSFJ0QTdaOXo2YVkySVlOR0hYN1AxMHQ0cmFQNGx3UE9SSHhPYXFMZG45VkZUNC1xc0M1bk1uc3ljSjVKdjFiOVBGaV92eFRrYXNOa1RrOGlWSnRoWl8zQTV2S29GNmU3NXJfVlM4Qm4tVnFQd1ZpT0x0NC11REJrY2FzdjZQei1BdHN3THRCZ0Y0SlIw?oc=5"
   },
   {
-   "title": "新皇崗口岸深化港深產業協同 賦能香港新型工業化",
-   "source": "堅料網",
-   "date": "11-20 08:56",
-   "iso": "2026-11-20T08:56:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQVUk0amlMUVN2VGw3VThTNVpYd0hiRUlqcjFKbVluNzNTTl9ObmFPSE04NllHNDk0aWdaLWxlUTVIRjY1N19IblVvNXlKN1hLZzF1RjRPRm9sU2hsb1NLZmFVVEdLdlJlR1BRR0ZJZUJMNjVrQlp3eU05Q3drVTAyMThsaVBSY2FBQTd4dmRGOGExNGd6RkFBbFAwREF2Y08zM3RLdnlPSVRoRkdMeVpNNFpXX0p4RE5PeWhacWZjdWdxQk5XTF9iLUE1UGVnUlFiNkhGdlA4TllGZmphMnY3SkZJNWVIMGxNREJMU0xfd0FlcUI4VUctOHlzUjhvUzVtdDZQeWdyck1xTXo0ZFBuU3JvZ1ROVERCUGpXN2Flc0JvSmw1S2dSNTV0dTdsenlTT2RGODVjb2RYVW4yZGxNcHNOS0QtZlhqU25TMWc0UHdsV25STVQ4TFUtT3I?oc=5"
-  },
-  {
    "title": "必嘆水圍三大抵食人氣火鍋店 新皇崗口岸五分鐘直達 人均¥1XX飽到上心口",
    "source": "香港文匯報",
    "date": "11-20 04:00",
@@ -87,13 +80,6 @@ window.HGP_DATA = {
    "date": "11-20 00:36",
    "iso": "2026-11-20T00:36:36+00:00",
    "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNd1pTNjM3Uzh0NlpMMUx3SlotVlUyT05faW1Cd0F3blBROTBST1FDNmtwWjVzZUZFVnRIaDZFaUN6cWY3SlE3dWNETUhsVm9MRWNUbmpzQWx6aTdNS2wtb25iOXdPQl9ZWVp3ZlBscmNudUhubnVNWjhhNEl2di16WHR1WHBMY2FnclZJMV9PQnJYV004MlRlaDBtTkVYOUdCZmoxUUpycmh4aGZqWncyOGpHVWYzVXBwMC1iOTE5TEgwVVpsMGotWV9obWh3ckZXdjRCWGtOTml3VzBZMUVGU0JIcU5iUHRWYUtBNGdCWUd1NDNvTi1kUENrZEpPUDJvYWZfWC16dWhkNlRrVjUzZzROMWZqRmcxTktrcVdaUEF6MnRsSHZqMXJZcUE1QW9HZk5sYjJzcnhXZXNPMDBqWGhQUlJUaUNtRU9mTTNHT1J0QzdnYlBiUDNpZnBhS3Z1QmJiSDJMMHZyeDdvRjNiR1pMNWRKREppM0h1dl9Zbm8tX1NSQWhXVXVOdzg4X2tJclZYczcxVGdlU0hFZndJRlZNTHJTeVU?oc=5"
-  },
-  {
-   "title": "站口岸樞紐一線 福田港澳政協委員暖心護航APEC",
-   "source": "香港文匯報",
-   "date": "11-19 20:21",
-   "iso": "2026-11-19T20:21:47+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yeW1EUkxnNUFrVTRBYXNGTEQzc2pLX1dwaUEyeXdIMG5SU295WGZVVjJrSjN6ZGY5YmVzZmhuMXoyWlhEbElfQVhLRzduVkhfdVo3TmZScnI1cU1OS2RvRmxyXzlJaDRtZGQ2TGt6WHZlbDRHcTVj?oc=5"
   },
   {
    "title": "城巴皇崗專線B14改全日服務！「北上神線」40分鐘直達口岸設免費轉乘$20.8全包網民驚嘆︰上水去都無咁快",
@@ -115,6 +101,20 @@ window.HGP_DATA = {
    "date": "11-18 20:26",
    "iso": "2026-11-18T20:26:17+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hTHBhcUd0bldIb0Q1OFE3MGlFSlRETTA1RTVHQ3Zyc2xvbS1TMjJGLVZCNGUtZU5xYnR6Nm8wTWNCSlluZ29HSkducEU2dEdQajhDQW9vY1hlTW9GNWszSGZ5cnU1Z25SRFhtTGRhVFpkV2RQWWlJ?oc=5"
+  },
+  {
+   "title": "姚銘回應新皇崗口岸的最新運作情況：整體運作值得肯定- 香港",
+   "source": "香港文匯報",
+   "date": "11-18 11:41",
+   "iso": "2026-11-18T11:41:17+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xTDcwMXFCZnd1ZUM0LXp3X19qSC0xTngxMHZsWHNBOVBWbzBxOTJOMUlmMUx0UjFIQlJfY3pOWFNWay0tVkp2LUFKVTdOQ2duWkRHR0plLTFvWms3NDd0QjZJU1FrVGczcXVTb29KLWNfdXlqMVMw?oc=5"
+  },
+  {
+   "title": "新皇崗口岸平日日均8.8萬人次出入境 較過往落馬洲管制站增逾一倍",
+   "source": "Now 新聞",
+   "date": "11-18 09:39",
+   "iso": "2026-11-18T09:39:26+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJRVpuLU1wUTA4Qk1LbDgwRmhWQmF2c1RLVThmSXN5YTI0aS13OEhzQm5iWHFvd2JjMjFUNnJxTC11aV9CQlV0di1CVk1uTWdEcHVXX2haaU90VWV0U0M3VUFR?oc=5"
   }
  ],
  "ok": true,
