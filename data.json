@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T01:23:13+08:00",
+ "generated_at": "2026-11-23T01:30:03+08:00",
  "date": "2026-11-23",
  "weekday": "星期一",
- "clock": "01:23",
+ "clock": "01:30",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -42,7 +42,7 @@
   }
  },
  "weather": {
-  "temp": 20,
+  "temp": 21,
   "humidity": 85,
   "wind": 13.8,
   "code": 3,
