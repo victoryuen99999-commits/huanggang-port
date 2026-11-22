@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-22T23:06:59+08:00",
+ "generated_at": "2026-11-22T23:14:03+08:00",
  "date": "2026-11-22",
  "weekday": "星期日",
- "clock": "23:06",
+ "clock": "23:14",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -76,6 +76,13 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rVl9jelU4R1k1Uy1oaE5qckE2akFJNThINVo4V2JVU2YxN3RFcmxFMzhZa0JkcEhnOWsxMElHQjQ3aVB0cC1vNTZza2pPM3RVTEEtSll5bFlLLV9Jem5iRVZQQ2RrUHNycWt5bUJJVXFjVTA1Zy00?oc=5"
   },
   {
+   "title": "皇崗口岸大樓便利店開業 受地鐵客流影響非24小時營業 (08:36) - 20261120 - 兩岸",
+   "source": "明報新聞網",
+   "date": "11-20 00:36",
+   "iso": "2026-11-20T00:36:36+00:00",
+   "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNd1pTNjM3Uzh0NlpMMUx3SlotVlUyT05faW1Cd0F3blBROTBST1FDNmtwWjVzZUZFVnRIaDZFaUN6cWY3SlE3dWNETUhsVm9MRWNUbmpzQWx6aTdNS2wtb25iOXdPQl9ZWVp3ZlBscmNudUhubnVNWjhhNEl2di16WHR1WHBMY2FnclZJMV9PQnJYV004MlRlaDBtTkVYOUdCZmoxUUpycmh4aGZqWncyOGpHVWYzVXBwMC1iOTE5TEgwVVpsMGotWV9obWh3ckZXdjRCWGtOTml3VzBZMUVGU0JIcU5iUHRWYUtBNGdCWUd1NDNvTi1kUENrZEpPUDJvYWZfWC16dWhkNlRrVjUzZzROMWZqRmcxTktrcVdaUEF6MnRsSHZqMXJZcUE1QW9HZk5sYjJzcnhXZXNPMDBqWGhQUlJUaUNtRU9mTTNHT1J0QzdnYlBiUDNpZnBhS3Z1QmJiSDJMMHZyeDdvRjNiR1pMNWRKREppM0h1dl9Zbm8tX1NSQWhXVXVOdzg4X2tJclZYczcxVGdlU0hFZndJRlZNTHJTeVU?oc=5"
+  },
+  {
    "title": "城巴皇崗專線B14改全日服務！「北上神線」40分鐘直達口岸設免費轉乘$20.8全包網民驚嘆︰上水去都無咁快",
    "source": "星島頭條",
    "date": "11-19 04:35",
@@ -102,13 +109,6 @@ window.HGP_DATA = {
    "date": "11-18 11:41",
    "iso": "2026-11-18T11:41:17+00:00",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xTDcwMXFCZnd1ZUM0LXp3X19qSC0xTngxMHZsWHNBOVBWbzBxOTJOMUlmMUx0UjFIQlJfY3pOWFNWay0tVkp2LUFKVTdOQ2duWkRHR0plLTFvWms3NDd0QjZJU1FrVGczcXVTb29KLWNfdXlqMVMw?oc=5"
-  },
-  {
-   "title": "新皇崗口岸平日日均8.8萬人次出入境 較過往落馬洲管制站增逾一倍",
-   "source": "Now 新聞",
-   "date": "11-18 09:39",
-   "iso": "2026-11-18T09:39:26+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJRVpuLU1wUTA4Qk1LbDgwRmhWQmF2c1RLVThmSXN5YTI0aS13OEhzQm5iWHFvd2JjMjFUNnJxTC11aV9CQlV0di1CVk1uTWdEcHVXX2haaU90VWV0U0M3VUFR?oc=5"
   }
  ],
  "ok": true,
