@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-23T13:28:55+08:00",
+ "generated_at": "2026-11-23T13:36:11+08:00",
  "date": "2026-11-23",
  "weekday": "星期一",
- "clock": "13:28",
+ "clock": "13:36",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 23,
   "humidity": 78,
-  "wind": 14.6,
+  "wind": 13.8,
   "code": 3,
   "desc": "多雲",
   "tmax": 23,
@@ -83,25 +83,18 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvbTRKQ3F1ellvbGNydDlWcG92VjF6TUZ1b1NDS3h6V0dNRjlRNUVvRTZsRXJHR2s2dXRXb1hUZExwSHROTUZvOG84b25qZE1pb1dsZUo0VUREZ1g3VUZLaHBNdmxJY3VmVGV4VE0tYWxZLW94?oc=5"
   },
   {
-   "title": "新皇崗口岸開通逾月日均客流達8.8萬人次- 香港",
+   "title": "皇崗口岸丨開通後平日日均出入境旅客8.8萬人次",
+   "source": "信報網站",
+   "date": "11-18 07:41",
+   "iso": "2026-11-18T07:41:31+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNcjJqVVM1a2syZ3V4YjZvUUNzbUwxMVF2U2NkcVZqX18xX2FmQzZTdTl1TXZlMTFIS3E2ZlE5QWEzNTFWVWhXckJxX2ZnZGhMWjF3VXUyY09idl9FMGlSQ2ItdnJDOXBXaUtISG43WllMTGl4S2I5c091TlZFeGxNTllFNC1Ldmp3aUUxN0dRdncwbVNHdHluVllRUWNwZURmc1JkYnUzNEtZVEZIVWw5R193VnVaRmVVdUFrYVNmTDFCUFdNY0Y4MmNVYjlMbVdKSm54aWtUNEpaVnRTT09xcTNzQXUybUdGQ2FaTjhHY2hOOG5NM2lRVElPMU9nTFZiRS1pcEVPR1Fjejg1dTdpbHVvUnpLNVRjcFpHUkx5MW5rMkpmRHZZYTZkVGprcnpHTXhhRi1JMmRxTmsxeGI2UEdKX3lhTlF4OFB6S2hsYmhOZm9OOEdPa1VSc0k?oc=5"
+  },
+  {
+   "title": "新皇崗口岸日均8.8萬人次出入境較以往增逾一倍- 灣區生活",
    "source": "香港文匯報",
-   "date": "11-18 20:26",
-   "iso": "2026-11-18T20:26:17+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hTHBhcUd0bldIb0Q1OFE3MGlFSlRETTA1RTVHQ3Zyc2xvbS1TMjJGLVZCNGUtZU5xYnR6Nm8wTWNCSlluZ29HSkducEU2dEdQajhDQW9vY1hlTW9GNWszSGZ5cnU1Z25SRFhtTGRhVFpkV2RQWWlJ?oc=5"
-  },
-  {
-   "title": "新皇崗口岸開通一個月 367.9 萬人次 離境大堂增 e-道登記處",
-   "source": "unwire",
-   "date": "11-18 08:25",
-   "iso": "2026-11-18T08:25:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3RwUWJXa3paZW5qd1R3bl9DNVhCeXRBeXhNd1Q5WVB6aVFnUWF5RTBFQU5YUklDYkQwNXROSVdvQ21qQUpxOUZFNndhQ2kxSFhKZDFuV2ZfYjQ0VllPeUt4WHlNSUVfNktUaVM0QmJoX0dLODZvZFBSVGtYZU9uaFk5WF9SLWUzWlE?oc=5"
-  },
-  {
-   "title": "皇崗口岸開通至本月中日均出入境旅客約8.8萬人次",
-   "source": "RTHK News",
-   "date": "11-18 05:24",
-   "iso": "2026-11-18T05:24:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HTnJ5OEJHMUcybUlnb1V1YXFsd3RaSnoyOTNINGdGTzFLS2VlY2RjMnBmaDFGWjd2aHEtSnVIcE1Md2VtbVJaTUxRN1lYVjl6WDZ5WW1fSW9MYzdLTDJjam5ScTlxcDkyT0lCenF4WQ?oc=5"
+   "date": "11-18 06:10",
+   "iso": "2026-11-18T06:10:05+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11N0NDd3lMTkwzc3FWYl9NLUJFR2R1SXJrTjBCOGNwVzZSRzAxTGxHbmVpNkZINDdpS1VXWjFBN281WVJ5dGJyUHhDbnN1NXpvblQ2MjhGLU1lYXhtZWxmTVZqVFBNVWh1OTJKT0RDSWZDQXdVdi0w?oc=5"
   }
  ],
  "ok": true,
@@ -114,7 +107,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "通告",
-   "text": "口岸相關新聞 7 條，見「口岸新聞」。",
+   "text": "口岸相關新聞 6 條，見「口岸新聞」。",
    "level": "info"
   },
   {
