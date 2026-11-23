@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T20:25:30+08:00",
+ "generated_at": "2026-11-23T20:53:10+08:00",
  "date": "2026-11-23",
  "weekday": "星期一",
- "clock": "20:25",
+ "clock": "20:53",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,59 +43,16 @@
  },
  "weather": {
   "temp": 22,
-  "humidity": 91,
-  "wind": 10.8,
-  "code": 3,
-  "desc": "多雲",
+  "humidity": 90,
+  "wind": 10.6,
+  "code": 2,
+  "desc": "局部多雲",
   "tmax": 25,
   "tmin": 20,
   "pop": 0
  },
  "warnings": [],
- "news": [
-  {
-   "title": "福田口岸︱婦人北上腳綁21條生猛活蛇 著鬆身褲過關被截︱有片",
-   "source": "加拿大星島日報",
-   "date": "11-23 11:03",
-   "iso": "2026-11-23T11:03:45+00:00",
-   "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQd2tVbExKcXFSaWVxTHdRUFJ2bTk2eFpTU0U4dzRDQVJ2S2k4bHlhNFZEdkhnbFRtWG5vZ3J2aFduVXRTdEw4QUhWU0ZFYlFQOFRMdzNvSFZIQU9Oek5Sb0R4aW9td1ZTdElGbzFqVDRqVzcySjN1cDZtV1ZxTVFLNTRETUV2ckNrdEd4YkFCeW5qZlBnR1dBcWFRR0xBeG1wM2pkd0wySzVqaE9rOGRXT1ZfSjFjYm1WeHBKM0xFVFoyY0JHVWFTZWZOWENIdUdJN0FVOFN1elVaeGFlUnBHb3dIV29KdlB0RW03Z2RlNHBXTzUzNVh2ZVA1c0ZFM2ZFRFdiVHl4RTJJcndXZ21BQVNkaWdFaFVrdEFUU1ZuUXAxWFBDajBQMDc5aTJPQURVbUpqc04teFdsRi1wZ3ZnQnRQSnREaS1rbnpaZHo4UWlxTFM2cUN4R19IRWo1TVFibWd1ZWNlWmhFeHltY21UT3NKQklmTTgtZFRDZ1p3Z1Z5ZTZYSm00MWpUSk9QeUs2Q3dFZnFZYWJyMGVPbWgtX3RzZDVJUQ?oc=5"
-  },
-  {
-   "title": "專題｜新皇崗開通一個月帶旺深圳夜經濟 音樂餐吧港客激增 街市仍嘆生意差",
-   "source": "橙新聞",
-   "date": "11-20 10:25",
-   "iso": "2026-11-20T10:25:53+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPZHJQMkVHWElOeTBHRGx2Sndnbk1VRkp0VmVGSW5ER3A5eERrb1VzUVd0YlZPTkR2TEU2MUNPVm9rRVQ1dkdoR21NTU9aWE5zWnV0X3Y2SmJNZWlsMEYzSGw2VXZjQ1NFdnJGLS1tTkN1ajVtUVNwUG43c3ZKbmhWN0FORUtsb0MyeTlmQ0R1VFdtcEhXVWU5WTRZVjlMWW1EQ194M05lbEg0N0VDaHRPWlFjejlIOVBHTWN6X2ZMRlNLTGFpci1Gd0FtX2xfclR0U0k1VVVvWU9YRVAzWlJWakZjQkdQSl9tXzhDRnhzRW1wWjgyT0dMcjJZZTJldFNJNmNsX1JnNUo0TEJ1cmtsTU1YY2tLaGtjbnY2enNHaWJQam5NWEVrRTZFckZiS0Q2X3VBMTZtc2sxZW90YmhvRVNnTjl4T3lYYmZNWGNoTmpvWi0temNEcEVLaGRoZFNZaHNxYnA3dVdybUpDdV9jc2R6cmN2NEI1TXZ1NlVDZmctSWxlelVVVnhVRHR0Y0RuTW9Fcjd1OXlwcnE0eUVvTUNPTXlDZm5wZUhIREZabkVUdllfSVdEbFhHUHhVWXVwb0RkNnZhV1B2TUhSX2IzRzk1VzMtUllndkxEQlhwLUhTUTA?oc=5"
-  },
-  {
-   "title": "新皇崗口岸深化港深產業協同 賦能香港新型工業化",
-   "source": "堅料網",
-   "date": "11-20 08:56",
-   "iso": "2026-11-20T08:56:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQVUk0amlMUVN2VGw3VThTNVpYd0hiRUlqcjFKbVluNzNTTl9ObmFPSE04NllHNDk0aWdaLWxlUTVIRjY1N19IblVvNXlKN1hLZzF1RjRPRm9sU2hsb1NLZmFVVEdLdlJlR1BRR0ZJZUJMNjVrQlp3eU05Q3drVTAyMThsaVBSY2FBQTd4dmRGOGExNGd6RkFBbFAwREF2Y08zM3RLdnlPSVRoRkdMeVpNNFpXX0p4RE5PeWhacWZjdWdxQk5XTF9iLUE1UGVnUlFiNkhGdlA4TllGZmphMnY3SkZJNWVIMGxNREJMU0xfd0FlcUI4VUctOHlzUjhvUzVtdDZQeWdyck1xTXo0ZFBuU3JvZ1ROVERCUGpXN2Flc0JvSmw1S2dSNTV0dTdsenlTT2RGODVjb2RYVW4yZGxNcHNOS0QtZlhqU25TMWc0UHdsV25STVQ4TFUtT3I?oc=5"
-  },
-  {
-   "title": "新皇崗口岸開通逾月日均客流達8.8萬人次- 香港",
-   "source": "香港文匯報",
-   "date": "11-18 20:26",
-   "iso": "2026-11-18T20:26:17+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hTHBhcUd0bldIb0Q1OFE3MGlFSlRETTA1RTVHQ3Zyc2xvbS1TMjJGLVZCNGUtZU5xYnR6Nm8wTWNCSlluZ29HSkducEU2dEdQajhDQW9vY1hlTW9GNWszSGZ5cnU1Z25SRFhtTGRhVFpkV2RQWWlJ?oc=5"
-  },
-  {
-   "title": "新皇崗口岸開通一個月 367.9 萬人次 離境大堂增 e-道登記處",
-   "source": "unwire",
-   "date": "11-18 08:25",
-   "iso": "2026-11-18T08:25:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3RwUWJXa3paZW5qd1R3bl9DNVhCeXRBeXhNd1Q5WVB6aVFnUWF5RTBFQU5YUklDYkQwNXROSVdvQ21qQUpxOUZFNndhQ2kxSFhKZDFuV2ZfYjQ0VllPeUt4WHlNSUVfNktUaVM0QmJoX0dLODZvZFBSVGtYZU9uaFk5WF9SLWUzWlE?oc=5"
-  },
-  {
-   "title": "皇崗口岸開通至本月中日均出入境旅客約8.8萬人次",
-   "source": "RTHK News",
-   "date": "11-18 05:24",
-   "iso": "2026-11-18T05:24:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HTnJ5OEJHMUcybUlnb1V1YXFsd3RaSnoyOTNINGdGTzFLS2VlY2RjMnBmaDFGWjd2aHEtSnVIcE1Md2VtbVJaTUxRN1lYVjl6WDZ5WW1fSW9MYzdLTDJjam5ScTlxcDkyT0lCenF4WQ?oc=5"
-  }
- ],
+ "news": [],
  "ok": true,
  "vehicle_events": [],
  "tips": [
@@ -103,11 +60,6 @@
    "tag": "天氣",
    "text": "天文台現時無天氣警告生效。",
    "level": "ok"
-  },
-  {
-   "tag": "通告",
-   "text": "口岸相關新聞 6 條，見「口岸新聞」。",
-   "level": "info"
   },
   {
    "tag": "禁區",
