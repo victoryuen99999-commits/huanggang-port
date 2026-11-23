@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-23T17:27:37+08:00",
+ "generated_at": "2026-11-23T17:33:51+08:00",
  "date": "2026-11-23",
  "weekday": "星期一",
- "clock": "17:27",
+ "clock": "17:33",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 23,
-  "humidity": 84,
-  "wind": 11.5,
+  "temp": 22,
+  "humidity": 85,
+  "wind": 11.3,
   "code": 3,
   "desc": "多雲",
   "tmax": 25,
@@ -67,13 +67,6 @@ window.HGP_DATA = {
    "date": "11-20 08:56",
    "iso": "2026-11-20T08:56:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQVUk0amlMUVN2VGw3VThTNVpYd0hiRUlqcjFKbVluNzNTTl9ObmFPSE04NllHNDk0aWdaLWxlUTVIRjY1N19IblVvNXlKN1hLZzF1RjRPRm9sU2hsb1NLZmFVVEdLdlJlR1BRR0ZJZUJMNjVrQlp3eU05Q3drVTAyMThsaVBSY2FBQTd4dmRGOGExNGd6RkFBbFAwREF2Y08zM3RLdnlPSVRoRkdMeVpNNFpXX0p4RE5PeWhacWZjdWdxQk5XTF9iLUE1UGVnUlFiNkhGdlA4TllGZmphMnY3SkZJNWVIMGxNREJMU0xfd0FlcUI4VUctOHlzUjhvUzVtdDZQeWdyck1xTXo0ZFBuU3JvZ1ROVERCUGpXN2Flc0JvSmw1S2dSNTV0dTdsenlTT2RGODVjb2RYVW4yZGxNcHNOS0QtZlhqU25TMWc0UHdsV25STVQ4TFUtT3I?oc=5"
-  },
-  {
-   "title": "皇崗口岸大樓便利店開業 受地鐵客流影響非24小時營業 (08:36) - 20261120 - 兩岸",
-   "source": "明報新聞網",
-   "date": "11-20 00:36",
-   "iso": "2026-11-20T00:36:36+00:00",
-   "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNd1pTNjM3Uzh0NlpMMUx3SlotVlUyT05faW1Cd0F3blBROTBST1FDNmtwWjVzZUZFVnRIaDZFaUN6cWY3SlE3dWNETUhsVm9MRWNUbmpzQWx6aTdNS2wtb25iOXdPQl9ZWVp3ZlBscmNudUhubnVNWjhhNEl2di16WHR1WHBMY2FnclZJMV9PQnJYV004MlRlaDBtTkVYOUdCZmoxUUpycmh4aGZqWncyOGpHVWYzVXBwMC1iOTE5TEgwVVpsMGotWV9obWh3ckZXdjRCWGtOTml3VzBZMUVGU0JIcU5iUHRWYUtBNGdCWUd1NDNvTi1kUENrZEpPUDJvYWZfWC16dWhkNlRrVjUzZzROMWZqRmcxTktrcVdaUEF6MnRsSHZqMXJZcUE1QW9HZk5sYjJzcnhXZXNPMDBqWGhQUlJUaUNtRU9mTTNHT1J0QzdnYlBiUDNpZnBhS3Z1QmJiSDJMMHZyeDdvRjNiR1pMNWRKREppM0h1dl9Zbm8tX1NSQWhXVXVOdzg4X2tJclZYczcxVGdlU0hFZndJRlZNTHJTeVU?oc=5"
   },
   {
    "title": "新皇崗口岸開通逾月日均客流達8.8萬人次- 香港",
@@ -119,7 +112,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "通告",
-   "text": "口岸相關新聞 7 條，見「口岸新聞」。",
+   "text": "口岸相關新聞 6 條，見「口岸新聞」。",
    "level": "info"
   },
   {
