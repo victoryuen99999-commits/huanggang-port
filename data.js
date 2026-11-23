@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-23T23:58:43+08:00",
- "date": "2026-11-23",
- "weekday": "星期一",
- "clock": "23:58",
+ "generated_at": "2026-11-24T00:05:11+08:00",
+ "date": "2026-11-24",
+ "weekday": "星期二",
+ "clock": "00:05",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -26,16 +26,16 @@ window.HGP_DATA = {
    "dep": 99
   },
   "LWS": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "MKT": {
    "arr": 99,
    "dep": 99
   },
   "SBC": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "STK": {
    "arr": 99,
@@ -44,13 +44,13 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 21,
-  "humidity": 95,
-  "wind": 7.9,
-  "code": 2,
-  "desc": "局部多雲",
-  "tmax": 25,
-  "tmin": 20,
-  "pop": 22
+  "humidity": 96,
+  "wind": 7.3,
+  "code": 3,
+  "desc": "多雲",
+  "tmax": 22,
+  "tmin": 17,
+  "pop": 100
  },
  "warnings": [],
  "news": [
@@ -101,6 +101,11 @@ window.HGP_DATA = {
   {
    "tag": "夜更",
    "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
+   "level": "warn"
+  },
+  {
+   "tag": "有雨",
+   "text": "預測降雨機率 100%，室外通道及上落客區會濕滑，提醒旅客及同事小心。",
    "level": "warn"
   },
   {
