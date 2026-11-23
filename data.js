@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-23T21:42:44+08:00",
+ "generated_at": "2026-11-23T22:26:03+08:00",
  "date": "2026-11-23",
  "weekday": "星期一",
- "clock": "21:42",
+ "clock": "22:26",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -14,8 +14,8 @@ window.HGP_DATA = {
  },
  "others": {
   "HYW": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "HZM": {
    "arr": 0,
@@ -30,8 +30,8 @@ window.HGP_DATA = {
    "dep": 0
   },
   "MKT": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "SBC": {
    "arr": 0,
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 22,
-  "humidity": 95,
-  "wind": 7.8,
+  "humidity": 94,
+  "wind": 8.8,
   "code": 3,
   "desc": "多雲",
   "tmax": 25,
@@ -53,7 +53,36 @@ window.HGP_DATA = {
   "pop": 0
  },
  "warnings": [],
- "news": [],
+ "news": [
+  {
+   "title": "專題｜新皇崗開通一個月帶旺深圳夜經濟 音樂餐吧港客激增 街市仍嘆生意差",
+   "source": "橙新聞",
+   "date": "11-20 10:25",
+   "iso": "2026-11-20T10:25:53+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPZHJQMkVHWElOeTBHRGx2Sndnbk1VRkp0VmVGSW5ER3A5eERrb1VzUVd0YlZPTkR2TEU2MUNPVm9rRVQ1dkdoR21NTU9aWE5zWnV0X3Y2SmJNZWlsMEYzSGw2VXZjQ1NFdnJGLS1tTkN1ajVtUVNwUG43c3ZKbmhWN0FORUtsb0MyeTlmQ0R1VFdtcEhXVWU5WTRZVjlMWW1EQ194M05lbEg0N0VDaHRPWlFjejlIOVBHTWN6X2ZMRlNLTGFpci1Gd0FtX2xfclR0U0k1VVVvWU9YRVAzWlJWakZjQkdQSl9tXzhDRnhzRW1wWjgyT0dMcjJZZTJldFNJNmNsX1JnNUo0TEJ1cmtsTU1YY2tLaGtjbnY2enNHaWJQam5NWEVrRTZFckZiS0Q2X3VBMTZtc2sxZW90YmhvRVNnTjl4T3lYYmZNWGNoTmpvWi0temNEcEVLaGRoZFNZaHNxYnA3dVdybUpDdV9jc2R6cmN2NEI1TXZ1NlVDZmctSWxlelVVVnhVRHR0Y0RuTW9Fcjd1OXlwcnE0eUVvTUNPTXlDZm5wZUhIREZabkVUdllfSVdEbFhHUHhVWXVwb0RkNnZhV1B2TUhSX2IzRzk1VzMtUllndkxEQlhwLUhTUTA?oc=5"
+  },
+  {
+   "title": "新皇崗口岸開通逾月日均客流達8.8萬人次- 香港",
+   "source": "香港文匯報",
+   "date": "11-18 20:26",
+   "iso": "2026-11-18T20:26:17+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hTHBhcUd0bldIb0Q1OFE3MGlFSlRETTA1RTVHQ3Zyc2xvbS1TMjJGLVZCNGUtZU5xYnR6Nm8wTWNCSlluZ29HSkducEU2dEdQajhDQW9vY1hlTW9GNWszSGZ5cnU1Z25SRFhtTGRhVFpkV2RQWWlJ?oc=5"
+  },
+  {
+   "title": "新皇崗口岸開通一個月 367.9 萬人次 離境大堂增 e-道登記處",
+   "source": "unwire",
+   "date": "11-18 08:25",
+   "iso": "2026-11-18T08:25:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3RwUWJXa3paZW5qd1R3bl9DNVhCeXRBeXhNd1Q5WVB6aVFnUWF5RTBFQU5YUklDYkQwNXROSVdvQ21qQUpxOUZFNndhQ2kxSFhKZDFuV2ZfYjQ0VllPeUt4WHlNSUVfNktUaVM0QmJoX0dLODZvZFBSVGtYZU9uaFk5WF9SLWUzWlE?oc=5"
+  },
+  {
+   "title": "皇崗口岸開通至本月中日均出入境旅客約8.8萬人次",
+   "source": "RTHK News",
+   "date": "11-18 05:24",
+   "iso": "2026-11-18T05:24:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HTnJ5OEJHMUcybUlnb1V1YXFsd3RaSnoyOTNINGdGTzFLS2VlY2RjMnBmaDFGWjd2aHEtSnVIcE1Md2VtbVJaTUxRN1lYVjl6WDZ5WW1fSW9MYzdLTDJjam5ScTlxcDkyT0lCenF4WQ?oc=5"
+  }
+ ],
  "ok": true,
  "vehicle_events": [],
  "tips": [
@@ -61,6 +90,11 @@ window.HGP_DATA = {
    "tag": "天氣",
    "text": "天文台現時無天氣警告生效。",
    "level": "ok"
+  },
+  {
+   "tag": "通告",
+   "text": "口岸相關新聞 4 條，見「口岸新聞」。",
+   "level": "info"
   },
   {
    "tag": "禁區",
