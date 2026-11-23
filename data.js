@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-23T16:46:22+08:00",
+ "generated_at": "2026-11-23T17:20:58+08:00",
  "date": "2026-11-23",
  "weekday": "星期一",
- "clock": "16:46",
+ "clock": "17:20",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 82,
-  "wind": 12.4,
+  "humidity": 84,
+  "wind": 11.5,
   "code": 3,
   "desc": "多雲",
   "tmax": 25,
@@ -74,6 +74,34 @@ window.HGP_DATA = {
    "date": "11-20 00:36",
    "iso": "2026-11-20T00:36:36+00:00",
    "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNd1pTNjM3Uzh0NlpMMUx3SlotVlUyT05faW1Cd0F3blBROTBST1FDNmtwWjVzZUZFVnRIaDZFaUN6cWY3SlE3dWNETUhsVm9MRWNUbmpzQWx6aTdNS2wtb25iOXdPQl9ZWVp3ZlBscmNudUhubnVNWjhhNEl2di16WHR1WHBMY2FnclZJMV9PQnJYV004MlRlaDBtTkVYOUdCZmoxUUpycmh4aGZqWncyOGpHVWYzVXBwMC1iOTE5TEgwVVpsMGotWV9obWh3ckZXdjRCWGtOTml3VzBZMUVGU0JIcU5iUHRWYUtBNGdCWUd1NDNvTi1kUENrZEpPUDJvYWZfWC16dWhkNlRrVjUzZzROMWZqRmcxTktrcVdaUEF6MnRsSHZqMXJZcUE1QW9HZk5sYjJzcnhXZXNPMDBqWGhQUlJUaUNtRU9mTTNHT1J0QzdnYlBiUDNpZnBhS3Z1QmJiSDJMMHZyeDdvRjNiR1pMNWRKREppM0h1dl9Zbm8tX1NSQWhXVXVOdzg4X2tJclZYczcxVGdlU0hFZndJRlZNTHJTeVU?oc=5"
+  },
+  {
+   "title": "新皇崗口岸開通逾月日均客流達8.8萬人次- 香港",
+   "source": "香港文匯報",
+   "date": "11-18 20:26",
+   "iso": "2026-11-18T20:26:17+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hTHBhcUd0bldIb0Q1OFE3MGlFSlRETTA1RTVHQ3Zyc2xvbS1TMjJGLVZCNGUtZU5xYnR6Nm8wTWNCSlluZ29HSkducEU2dEdQajhDQW9vY1hlTW9GNWszSGZ5cnU1Z25SRFhtTGRhVFpkV2RQWWlJ?oc=5"
+  },
+  {
+   "title": "姚銘回應新皇崗口岸的最新運作情況：整體運作值得肯定- 香港",
+   "source": "香港文匯報",
+   "date": "11-18 11:41",
+   "iso": "2026-11-18T11:41:17+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xTDcwMXFCZnd1ZUM0LXp3X19qSC0xTngxMHZsWHNBOVBWbzBxOTJOMUlmMUx0UjFIQlJfY3pOWFNWay0tVkp2LUFKVTdOQ2duWkRHR0plLTFvWms3NDd0QjZJU1FrVGczcXVTb29KLWNfdXlqMVMw?oc=5"
+  },
+  {
+   "title": "新皇崗口岸開通一個月 367.9 萬人次 離境大堂增 e-道登記處",
+   "source": "unwire",
+   "date": "11-18 08:25",
+   "iso": "2026-11-18T08:25:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3RwUWJXa3paZW5qd1R3bl9DNVhCeXRBeXhNd1Q5WVB6aVFnUWF5RTBFQU5YUklDYkQwNXROSVdvQ21qQUpxOUZFNndhQ2kxSFhKZDFuV2ZfYjQ0VllPeUt4WHlNSUVfNktUaVM0QmJoX0dLODZvZFBSVGtYZU9uaFk5WF9SLWUzWlE?oc=5"
+  },
+  {
+   "title": "皇崗口岸開通至本月中日均出入境旅客約8.8萬人次",
+   "source": "RTHK News",
+   "date": "11-18 05:24",
+   "iso": "2026-11-18T05:24:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HTnJ5OEJHMUcybUlnb1V1YXFsd3RaSnoyOTNINGdGTzFLS2VlY2RjMnBmaDFGWjd2aHEtSnVIcE1Md2VtbVJaTUxRN1lYVjl6WDZ5WW1fSW9MYzdLTDJjam5ScTlxcDkyT0lCenF4WQ?oc=5"
   }
  ],
  "ok": true,
@@ -85,8 +113,13 @@ window.HGP_DATA = {
    "level": "ok"
   },
   {
+   "tag": "傍晚",
+   "text": "雙向高峰：出境（北上）與入境（返港）同時加壓，L2 候車區最擠。",
+   "level": "info"
+  },
+  {
    "tag": "通告",
-   "text": "口岸相關新聞 3 條，見「口岸新聞」。",
+   "text": "口岸相關新聞 7 條，見「口岸新聞」。",
    "level": "info"
   },
   {
