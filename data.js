@@ -48,7 +48,7 @@ window.HGP_DATA = {
   "wind": 11.3,
   "code": 3,
   "desc": "多雲",
-  "tmax": 24,
+  "tmax": 23,
   "tmin": 20,
   "pop": 12
  },
