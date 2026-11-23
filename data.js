@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-24T04:32:51+08:00",
+ "generated_at": "2026-11-24T04:39:06+08:00",
  "date": "2026-11-24",
  "weekday": "星期二",
- "clock": "04:32",
+ "clock": "04:39",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -76,13 +76,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rVl9jelU4R1k1Uy1oaE5qckE2akFJNThINVo4V2JVU2YxN3RFcmxFMzhZa0JkcEhnOWsxMElHQjQ3aVB0cC1vNTZza2pPM3RVTEEtSll5bFlLLV9Jem5iRVZQQ2RrUHNycWt5bUJJVXFjVTA1Zy00?oc=5"
   },
   {
-   "title": "新皇崗口岸開通逾月日均客流達8.8萬人次- 香港",
-   "source": "香港文匯報",
-   "date": "11-18 20:26",
-   "iso": "2026-11-18T20:26:17+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hTHBhcUd0bldIb0Q1OFE3MGlFSlRETTA1RTVHQ3Zyc2xvbS1TMjJGLVZCNGUtZU5xYnR6Nm8wTWNCSlluZ29HSkducEU2dEdQajhDQW9vY1hlTW9GNWszSGZ5cnU1Z25SRFhtTGRhVFpkV2RQWWlJ?oc=5"
-  },
-  {
    "title": "皇崗口岸開通至本月中日均出入境旅客約8.8萬人次",
    "source": "RTHK News",
    "date": "11-18 05:24",
@@ -110,7 +103,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "通告",
-   "text": "口岸相關新聞 5 條，見「口岸新聞」。",
+   "text": "口岸相關新聞 4 條，見「口岸新聞」。",
    "level": "info"
   },
   {
