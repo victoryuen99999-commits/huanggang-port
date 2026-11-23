@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T14:33:15+08:00",
+ "generated_at": "2026-11-23T14:40:24+08:00",
  "date": "2026-11-23",
  "weekday": "星期一",
- "clock": "14:33",
+ "clock": "14:40",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -80,13 +80,6 @@
    "date": "11-19 00:49",
    "iso": "2026-11-19T00:49:56+00:00",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvbTRKQ3F1ellvbGNydDlWcG92VjF6TUZ1b1NDS3h6V0dNRjlRNUVvRTZsRXJHR2s2dXRXb1hUZExwSHROTUZvOG84b25qZE1pb1dsZUo0VUREZ1g3VUZLaHBNdmxJY3VmVGV4VE0tYWxZLW94?oc=5"
-  },
-  {
-   "title": "新皇崗口岸日均8.8萬人次出入境較以往增逾一倍- 灣區生活",
-   "source": "香港文匯報",
-   "date": "11-18 06:10",
-   "iso": "2026-11-18T06:10:05+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11N0NDd3lMTkwzc3FWYl9NLUJFR2R1SXJrTjBCOGNwVzZSRzAxTGxHbmVpNkZINDdpS1VXWjFBN281WVJ5dGJyUHhDbnN1NXpvblQ2MjhGLU1lYXhtZWxmTVZqVFBNVWh1OTJKT0RDSWZDQXdVdi0w?oc=5"
   }
  ],
  "ok": true,
@@ -99,7 +92,7 @@
   },
   {
    "tag": "通告",
-   "text": "口岸相關新聞 5 條，見「口岸新聞」。",
+   "text": "口岸相關新聞 4 條，見「口岸新聞」。",
    "level": "info"
   },
   {
