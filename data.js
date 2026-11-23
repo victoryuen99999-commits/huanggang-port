@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-23T10:09:09+08:00",
+ "generated_at": "2026-11-23T10:15:30+08:00",
  "date": "2026-11-23",
  "weekday": "星期一",
- "clock": "10:09",
+ "clock": "10:15",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 22,
-  "humidity": 76,
-  "wind": 17.9,
+  "humidity": 75,
+  "wind": 18.2,
   "code": 3,
   "desc": "多雲",
   "tmax": 23,
@@ -110,11 +110,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xTDcwMXFCZnd1ZUM0LXp3X19qSC0xTngxMHZsWHNBOVBWbzBxOTJOMUlmMUx0UjFIQlJfY3pOWFNWay0tVkp2LUFKVTdOQ2duWkRHR0plLTFvWms3NDd0QjZJU1FrVGczcXVTb29KLWNfdXlqMVMw?oc=5"
   },
   {
-   "title": "新皇崗口岸平日客量增至逾8萬人次 11.15錄15.6萬人次創單日新高",
-   "source": "香港01",
-   "date": "11-18 08:53",
-   "iso": "2026-11-18T08:53:43+00:00",
-   "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPQU9XdngxUl9oSllNSmc3aWZxR2lkV21DNTVJbVRGNVB5RURYSTBSQ0JRZHJrOUs0VVVfMHMyTlJNYWkxTGQ0bXM0eU9ndnhoN3E5RTlNN2ZlWC00dkloSEZjVzFWZmdZRlVaUEotWTNtbU9EcnJBcjdINDl4QVNJWGd5M25LaGUwUUxibmF5RTVTYkF0VFRKR1JwMnZnNmFWWDF5ZU82LTR3UEVCbW9kaklSS2lGMEJsR3hyeFFacGJvMEVoYmZ0aEJJa2Y2WHFwTTNtWE9BQThIVV9PM0dSMm82dk1oMWVLN3c0SlpfZ0VucjVvWU5sUVJON3lHYU16TV9SX0lBMUpFMWFGa3hLMzc0RGFZRHBQQ252MzNEUGlxTGxpZjVEVzdkekpCRVVScjlKbkxCRFctZUdRb3ZsLWJZUTJ1WWFwQzBkVWx4T1NrZTZPU3hRLTNsNURtTUN6eXNMMzBtOVpzRTJaOGVyaHQwc2pyMEd2WEkyZm9qeTFMNkQ4YU1fZkZ3dnFGVXBqWW5HaGhnSEh0MlVRblJycWJLbmY?oc=5"
+   "title": "新皇崗口岸平日日均8.8萬人次出入境 較過往落馬洲管制站增逾一倍",
+   "source": "Yahoo",
+   "date": "11-18 09:39",
+   "iso": "2026-11-18T09:39:26+00:00",
+   "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxNU01Wd0x2WG9LWWZSSjdWZVFtWnQ0c1dTblFkb3pMcWRDZ3pBaFZ6TlNyR3dWOUtreEcxVUt0aWQyZlpNLTNnelB5OEFjRGg3b0F6aHZRSVZETmJ3VlFfOVBNbjB4bW8talBsckpOeHRyRW5EamliRFNTdjNTemtZcC1wOTNQcl9pUE1ib1ZJcFowQkhLdlcxckFqRnZ0Y3MwcTNWRS1mTHRKUU10SlBiNFlnVERkRjhRN0Q0VkJPRUtCVGVvRFpoMHFoVlp6dnA3bTRnend3VFFpY1RlMFpjenliV09pT182TXNTdVNLYldEV0J0UTNzaHJRN1M3M1lSX1NOM1d0c0dmZ1VvMDE4Q181R1RrN3RQUWlmSm16bnRidHhhVGxFTDdfRDlfaEd2bW1fT0xQaDZrNWRpc2pUX3NOYWtEVFdMZm4wMTlUcG4zWVEycW5YVWk4bFJUdm5YZUFESi1wT2l4QVRvb0lxZWtsdl9IREF1NklrS0VQcVBFeXBMZTRLUDFOMlJnMmRXZERGdnJESHgxTFJOUGc?oc=5"
   }
  ],
  "ok": true,
