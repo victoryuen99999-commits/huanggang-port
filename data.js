@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-23T12:36:50+08:00",
+ "generated_at": "2026-11-23T12:56:51+08:00",
  "date": "2026-11-23",
  "weekday": "星期一",
- "clock": "12:36",
+ "clock": "12:56",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,21 +44,15 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 76,
-  "wind": 15.5,
+  "humidity": 77,
+  "wind": 15.6,
   "code": 3,
   "desc": "多雲",
   "tmax": 23,
   "tmin": 20,
   "pop": 10
  },
- "warnings": [
-  {
-   "title": "強烈季候風信號",
-   "desc": "強烈季候風信號在09時15分發出( 2026年11月23日 )。",
-   "updated": "Mon, 23 Nov 2026 09:15:00 +0800"
-  }
- ],
+ "warnings": [],
  "news": [
   {
    "title": "專題｜新皇崗開通一個月帶旺深圳夜經濟音樂餐吧港客激增街市仍嘆生意差 - 視頻專題",
@@ -96,13 +90,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hTHBhcUd0bldIb0Q1OFE3MGlFSlRETTA1RTVHQ3Zyc2xvbS1TMjJGLVZCNGUtZU5xYnR6Nm8wTWNCSlluZ29HSkducEU2dEdQajhDQW9vY1hlTW9GNWszSGZ5cnU1Z25SRFhtTGRhVFpkV2RQWWlJ?oc=5"
   },
   {
-   "title": "新皇崗口岸平日客量增至逾8萬人次 11.15錄15.6萬人次創單日新高",
-   "source": "香港01",
-   "date": "11-18 08:53",
-   "iso": "2026-11-18T08:53:43+00:00",
-   "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPQU9XdngxUl9oSllNSmc3aWZxR2lkV21DNTVJbVRGNVB5RURYSTBSQ0JRZHJrOUs0VVVfMHMyTlJNYWkxTGQ0bXM0eU9ndnhoN3E5RTlNN2ZlWC00dkloSEZjVzFWZmdZRlVaUEotWTNtbU9EcnJBcjdINDl4QVNJWGd5M25LaGUwUUxibmF5RTVTYkF0VFRKR1JwMnZnNmFWWDF5ZU82LTR3UEVCbW9kaklSS2lGMEJsR3hyeFFacGJvMEVoYmZ0aEJJa2Y2WHFwTTNtWE9BQThIVV9PM0dSMm82dk1oMWVLN3c0SlpfZ0VucjVvWU5sUVJON3lHYU16TV9SX0lBMUpFMWFGa3hLMzc0RGFZRHBQQ252MzNEUGlxTGxpZjVEVzdkekpCRVVScjlKbkxCRFctZUdRb3ZsLWJZUTJ1WWFwQzBkVWx4T1NrZTZPU3hRLTNsNURtTUN6eXNMMzBtOVpzRTJaOGVyaHQwc2pyMEd2WEkyZm9qeTFMNkQ4YU1fZkZ3dnFGVXBqWW5HaGhnSEh0MlVRblJycWJLbmY?oc=5"
-  },
-  {
    "title": "新皇崗口岸開通一個月 367.9 萬人次 離境大堂增 e-道登記處",
    "source": "unwire",
    "date": "11-18 08:25",
@@ -121,13 +108,13 @@ window.HGP_DATA = {
  "vehicle_events": [],
  "tips": [
   {
-   "tag": "警告",
-   "text": "天文台現正生效：強烈季候風信號。戶外崗位（上落客區、落馬洲大橋、交匯處）注意強風、雷擊及地滑。",
-   "level": "warn"
+   "tag": "天氣",
+   "text": "天文台現時無天氣警告生效。",
+   "level": "ok"
   },
   {
    "tag": "通告",
-   "text": "口岸相關新聞 8 條，見「口岸新聞」。",
+   "text": "口岸相關新聞 7 條，見「口岸新聞」。",
    "level": "info"
   },
   {
