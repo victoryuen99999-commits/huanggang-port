@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-23T15:00:35+08:00",
+ "generated_at": "2026-11-23T15:53:07+08:00",
  "date": "2026-11-23",
  "weekday": "星期一",
- "clock": "15:00",
+ "clock": "15:53",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -42,24 +42,15 @@ window.HGP_DATA = {
    "dep": 99
   }
  },
- "weather": {
-  "temp": 23,
-  "humidity": 78,
-  "wind": 13.6,
-  "code": 3,
-  "desc": "多雲",
-  "tmax": 23,
-  "tmin": 20,
-  "pop": 10
- },
+ "weather": null,
  "warnings": [],
  "news": [
   {
-   "title": "專題｜新皇崗開通一個月帶旺深圳夜經濟音樂餐吧港客激增街市仍嘆生意差 - 視頻專題",
+   "title": "專題｜新皇崗開通一個月帶旺深圳夜經濟 音樂餐吧港客激增 街市仍嘆生意差",
    "source": "橙新聞",
    "date": "11-20 10:25",
    "iso": "2026-11-20T10:25:53+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOZUpKODgyREFoNFVHUFUyZnpuSHFBbVZlU2JHNDUwcXU2S1FWY19ZaTBielpBdnhqWlZqclJCVTRIRThSMzZjSklPZUxwU1NNT3hwUVZVWXM2V0ZqZHVLMThmY3gyaGJmOFNyMW80RU5pcGNVaGdpNzhRWnhiQ3pNWm1iQTlGMm0wZUpvckpDaGVhOTA2NzdkY01UTnVxNDdkZERHMU45Yng3VjZGMHlpSFpVaHlWWFVQMHBPM1F2b2lIZ0xYZC0wTEpqT0NlM3NUeThaTjUwYXJZQkpTMkF0YUFEdVp4MGlCMTV1bUdBUnRWdGs4Z1BoT2VyVi1MeTRVRG1JOGQ5T1Z0UDA2eUJ0ZjcwS0M0cjYxb3cwSHNLOWVqVG90Vmh4ZG9BNHF3X2NCaU1Jc0M1REVua3hkMTllZFA1aFdjY0kxcWVOR0NHR1dXNzNnY1psOGxQSFJ0QTdaOXo2YVkySVlOR0hYN1AxMHQ0cmFQNGx3UE9SSHhPYXFMZG45VkZUNC1xc0M1bk1uc3ljSjVKdjFiOVBGaV92eFRrYXNOa1RrOGlWSnRoWl8zQTV2S29GNmU3NXJfVlM4Qm4tVnFQd1ZpT0x0NC11REJrY2FzdjZQei1BdHN3THRCZ0Y0SlIw?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPZHJQMkVHWElOeTBHRGx2Sndnbk1VRkp0VmVGSW5ER3A5eERrb1VzUVd0YlZPTkR2TEU2MUNPVm9rRVQ1dkdoR21NTU9aWE5zWnV0X3Y2SmJNZWlsMEYzSGw2VXZjQ1NFdnJGLS1tTkN1ajVtUVNwUG43c3ZKbmhWN0FORUtsb0MyeTlmQ0R1VFdtcEhXVWU5WTRZVjlMWW1EQ194M05lbEg0N0VDaHRPWlFjejlIOVBHTWN6X2ZMRlNLTGFpci1Gd0FtX2xfclR0U0k1VVVvWU9YRVAzWlJWakZjQkdQSl9tXzhDRnhzRW1wWjgyT0dMcjJZZTJldFNJNmNsX1JnNUo0TEJ1cmtsTU1YY2tLaGtjbnY2enNHaWJQam5NWEVrRTZFckZiS0Q2X3VBMTZtc2sxZW90YmhvRVNnTjl4T3lYYmZNWGNoTmpvWi0temNEcEVLaGRoZFNZaHNxYnA3dVdybUpDdV9jc2R6cmN2NEI1TXZ1NlVDZmctSWxlelVVVnhVRHR0Y0RuTW9Fcjd1OXlwcnE0eUVvTUNPTXlDZm5wZUhIREZabkVUdllfSVdEbFhHUHhVWXVwb0RkNnZhV1B2TUhSX2IzRzk1VzMtUllndkxEQlhwLUhTUTA?oc=5"
   },
   {
    "title": "新皇崗口岸深化港深產業協同 賦能香港新型工業化",
@@ -74,13 +65,6 @@ window.HGP_DATA = {
    "date": "11-20 00:36",
    "iso": "2026-11-20T00:36:36+00:00",
    "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNd1pTNjM3Uzh0NlpMMUx3SlotVlUyT05faW1Cd0F3blBROTBST1FDNmtwWjVzZUZFVnRIaDZFaUN6cWY3SlE3dWNETUhsVm9MRWNUbmpzQWx6aTdNS2wtb25iOXdPQl9ZWVp3ZlBscmNudUhubnVNWjhhNEl2di16WHR1WHBMY2FnclZJMV9PQnJYV004MlRlaDBtTkVYOUdCZmoxUUpycmh4aGZqWncyOGpHVWYzVXBwMC1iOTE5TEgwVVpsMGotWV9obWh3ckZXdjRCWGtOTml3VzBZMUVGU0JIcU5iUHRWYUtBNGdCWUd1NDNvTi1kUENrZEpPUDJvYWZfWC16dWhkNlRrVjUzZzROMWZqRmcxTktrcVdaUEF6MnRsSHZqMXJZcUE1QW9HZk5sYjJzcnhXZXNPMDBqWGhQUlJUaUNtRU9mTTNHT1J0QzdnYlBiUDNpZnBhS3Z1QmJiSDJMMHZyeDdvRjNiR1pMNWRKREppM0h1dl9Zbm8tX1NSQWhXVXVOdzg4X2tJclZYczcxVGdlU0hFZndJRlZNTHJTeVU?oc=5"
-  },
-  {
-   "title": "立法會九題：新皇崗口岸的運作",
-   "source": "風火輪傳媒有限公司",
-   "date": "11-19 00:49",
-   "iso": "2026-11-19T00:49:56+00:00",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvbTRKQ3F1ellvbGNydDlWcG92VjF6TUZ1b1NDS3h6V0dNRjlRNUVvRTZsRXJHR2s2dXRXb1hUZExwSHROTUZvOG84b25qZE1pb1dsZUo0VUREZ1g3VUZLaHBNdmxJY3VmVGV4VE0tYWxZLW94?oc=5"
   }
  ],
  "ok": true,
@@ -93,7 +77,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "通告",
-   "text": "口岸相關新聞 4 條，見「口岸新聞」。",
+   "text": "口岸相關新聞 3 條，見「口岸新聞」。",
    "level": "info"
   },
   {
