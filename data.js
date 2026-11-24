@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-25T06:57:45+08:00",
+ "generated_at": "2026-11-25T07:04:02+08:00",
  "date": "2026-11-25",
  "weekday": "星期三",
- "clock": "06:57",
+ "clock": "07:04",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -45,7 +45,7 @@ window.HGP_DATA = {
  "weather": {
   "temp": 14,
   "humidity": 63,
-  "wind": 12.7,
+  "wind": 12.5,
   "code": 3,
   "desc": "多雲",
   "tmax": 20,
@@ -61,6 +61,11 @@ window.HGP_DATA = {
    "tag": "天氣",
    "text": "天文台現時無天氣警告生效。",
    "level": "ok"
+  },
+  {
+   "tag": "早更",
+   "text": "跨境上班上學人流集中，出境大堂及 L2 交匯處會出現短時人龍。",
+   "level": "info"
   },
   {
    "tag": "禁區",
