@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-25T05:15:31+08:00",
+ "generated_at": "2026-11-25T05:21:51+08:00",
  "date": "2026-11-25",
  "weekday": "星期三",
- "clock": "05:15",
+ "clock": "05:21",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -53,7 +53,15 @@ window.HGP_DATA = {
   "pop": 24
  },
  "warnings": [],
- "news": [],
+ "news": [
+  {
+   "title": "新皇崗口岸深化港深產業協同 賦能香港新型工業化",
+   "source": "堅料網",
+   "date": "11-20 08:56",
+   "iso": "2026-11-20T08:56:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQVUk0amlMUVN2VGw3VThTNVpYd0hiRUlqcjFKbVluNzNTTl9ObmFPSE04NllHNDk0aWdaLWxlUTVIRjY1N19IblVvNXlKN1hLZzF1RjRPRm9sU2hsb1NLZmFVVEdLdlJlR1BRR0ZJZUJMNjVrQlp3eU05Q3drVTAyMThsaVBSY2FBQTd4dmRGOGExNGd6RkFBbFAwREF2Y08zM3RLdnlPSVRoRkdMeVpNNFpXX0p4RE5PeWhacWZjdWdxQk5XTF9iLUE1UGVnUlFiNkhGdlA4TllGZmphMnY3SkZJNWVIMGxNREJMU0xfd0FlcUI4VUctOHlzUjhvUzVtdDZQeWdyck1xTXo0ZFBuU3JvZ1ROVERCUGpXN2Flc0JvSmw1S2dSNTV0dTdsenlTT2RGODVjb2RYVW4yZGxNcHNOS0QtZlhqU25TMWc0UHdsV25STVQ4TFUtT3I?oc=5"
+  }
+ ],
  "ok": true,
  "vehicle_events": [],
  "tips": [
@@ -66,6 +74,11 @@ window.HGP_DATA = {
    "tag": "夜更",
    "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
    "level": "warn"
+  },
+  {
+   "tag": "通告",
+   "text": "口岸相關新聞 1 條，見「口岸新聞」。",
+   "level": "info"
   },
   {
    "tag": "禁區",
