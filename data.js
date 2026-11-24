@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-24T08:07:37+08:00",
+ "generated_at": "2026-11-24T08:13:52+08:00",
  "date": "2026-11-24",
  "weekday": "星期二",
- "clock": "08:07",
+ "clock": "08:13",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,6 +55,13 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
+   "title": "專題｜新皇崗開通一個月帶旺深圳夜經濟 音樂餐吧港客激增 街市仍嘆生意差",
+   "source": "橙新聞",
+   "date": "11-20 10:25",
+   "iso": "2026-11-20T10:25:53+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPZHJQMkVHWElOeTBHRGx2Sndnbk1VRkp0VmVGSW5ER3A5eERrb1VzUVd0YlZPTkR2TEU2MUNPVm9rRVQ1dkdoR21NTU9aWE5zWnV0X3Y2SmJNZWlsMEYzSGw2VXZjQ1NFdnJGLS1tTkN1ajVtUVNwUG43c3ZKbmhWN0FORUtsb0MyeTlmQ0R1VFdtcEhXVWU5WTRZVjlMWW1EQ194M05lbEg0N0VDaHRPWlFjejlIOVBHTWN6X2ZMRlNLTGFpci1Gd0FtX2xfclR0U0k1VVVvWU9YRVAzWlJWakZjQkdQSl9tXzhDRnhzRW1wWjgyT0dMcjJZZTJldFNJNmNsX1JnNUo0TEJ1cmtsTU1YY2tLaGtjbnY2enNHaWJQam5NWEVrRTZFckZiS0Q2X3VBMTZtc2sxZW90YmhvRVNnTjl4T3lYYmZNWGNoTmpvWi0temNEcEVLaGRoZFNZaHNxYnA3dVdybUpDdV9jc2R6cmN2NEI1TXZ1NlVDZmctSWxlelVVVnhVRHR0Y0RuTW9Fcjd1OXlwcnE0eUVvTUNPTXlDZm5wZUhIREZabkVUdllfSVdEbFhHUHhVWXVwb0RkNnZhV1B2TUhSX2IzRzk1VzMtUllndkxEQlhwLUhTUTA?oc=5"
+  },
+  {
    "title": "必嘆水圍三大抵食人氣火鍋店 新皇崗口岸五分鐘直達 人均¥1XX飽到上心口",
    "source": "香港文匯報",
    "date": "11-20 04:00",
@@ -82,7 +89,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "通告",
-   "text": "口岸相關新聞 1 條，見「口岸新聞」。",
+   "text": "口岸相關新聞 2 條，見「口岸新聞」。",
    "level": "info"
   },
   {
