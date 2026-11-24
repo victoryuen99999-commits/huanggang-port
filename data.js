@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-24T08:38:55+08:00",
+ "generated_at": "2026-11-24T09:00:38+08:00",
  "date": "2026-11-24",
  "weekday": "星期二",
- "clock": "08:38",
+ "clock": "09:00",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,16 +43,22 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 18,
-  "humidity": 77,
-  "wind": 14.2,
+  "temp": 17,
+  "humidity": 78,
+  "wind": 15.5,
   "code": 3,
   "desc": "多雲",
   "tmax": 21,
-  "tmin": 17,
+  "tmin": 16,
   "pop": 100
  },
- "warnings": [],
+ "warnings": [
+  {
+   "title": "強烈季候風信號",
+   "desc": "強烈季候風信號在08時50分發出( 2026年11月24日 )。",
+   "updated": "Tue, 24 Nov 2026 08:50:00 +0800"
+  }
+ ],
  "news": [
   {
    "title": "專題｜新皇崗開通一個月帶旺深圳夜經濟 音樂餐吧港客激增 街市仍嘆生意差",
@@ -73,14 +79,9 @@ window.HGP_DATA = {
  "vehicle_events": [],
  "tips": [
   {
-   "tag": "天氣",
-   "text": "天文台現時無天氣警告生效。",
-   "level": "ok"
-  },
-  {
-   "tag": "早更",
-   "text": "跨境上班上學人流集中，出境大堂及 L2 交匯處會出現短時人龍。",
-   "level": "info"
+   "tag": "警告",
+   "text": "天文台現正生效：強烈季候風信號。戶外崗位（上落客區、落馬洲大橋、交匯處）注意強風、雷擊及地滑。",
+   "level": "warn"
   },
   {
    "tag": "有雨",
