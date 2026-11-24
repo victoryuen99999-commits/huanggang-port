@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-25T07:04:02+08:00",
+ "generated_at": "2026-11-25T07:12:36+08:00",
  "date": "2026-11-25",
  "weekday": "星期三",
- "clock": "07:04",
+ "clock": "07:12",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -14,8 +14,8 @@ window.HGP_DATA = {
  },
  "others": {
   "HYW": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "HZM": {
    "arr": 0,
@@ -30,8 +30,8 @@ window.HGP_DATA = {
    "dep": 0
   },
   "MKT": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "SBC": {
    "arr": 0,
@@ -42,18 +42,17 @@ window.HGP_DATA = {
    "dep": 99
   }
  },
- "weather": {
-  "temp": 14,
-  "humidity": 63,
-  "wind": 12.5,
-  "code": 3,
-  "desc": "多雲",
-  "tmax": 20,
-  "tmin": 14,
-  "pop": 24
- },
+ "weather": null,
  "warnings": [],
- "news": [],
+ "news": [
+  {
+   "title": "新皇崗口岸深化港深產業協同 賦能香港新型工業化",
+   "source": "堅料網",
+   "date": "11-20 08:56",
+   "iso": "2026-11-20T08:56:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQVUk0amlMUVN2VGw3VThTNVpYd0hiRUlqcjFKbVluNzNTTl9ObmFPSE04NllHNDk0aWdaLWxlUTVIRjY1N19IblVvNXlKN1hLZzF1RjRPRm9sU2hsb1NLZmFVVEdLdlJlR1BRR0ZJZUJMNjVrQlp3eU05Q3drVTAyMThsaVBSY2FBQTd4dmRGOGExNGd6RkFBbFAwREF2Y08zM3RLdnlPSVRoRkdMeVpNNFpXX0p4RE5PeWhacWZjdWdxQk5XTF9iLUE1UGVnUlFiNkhGdlA4TllGZmphMnY3SkZJNWVIMGxNREJMU0xfd0FlcUI4VUctOHlzUjhvUzVtdDZQeWdyck1xTXo0ZFBuU3JvZ1ROVERCUGpXN2Flc0JvSmw1S2dSNTV0dTdsenlTT2RGODVjb2RYVW4yZGxNcHNOS0QtZlhqU25TMWc0UHdsV25STVQ4TFUtT3I?oc=5"
+  }
+ ],
  "ok": true,
  "vehicle_events": [],
  "tips": [
@@ -65,6 +64,11 @@ window.HGP_DATA = {
   {
    "tag": "早更",
    "text": "跨境上班上學人流集中，出境大堂及 L2 交匯處會出現短時人龍。",
+   "level": "info"
+  },
+  {
+   "tag": "通告",
+   "text": "口岸相關新聞 1 條，見「口岸新聞」。",
    "level": "info"
   },
   {
