@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-25T17:48:07+08:00",
+ "generated_at": "2026-11-25T17:55:23+08:00",
  "date": "2026-11-25",
  "weekday": "星期三",
- "clock": "17:48",
+ "clock": "17:55",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -62,13 +62,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPa1ZkWl9rLWdjSkZXQk0ybmRsOHYxWm5VMXhpOXJtMDVjNklISFBaM3FzbE5ZdzRyaFk2ZDFoMU90X0pfV2p6Zm1NcFRTWmxwMzUtdXpXdTNoNS1QWUU3Wmc5Mk5ySjdXTTFxdjVidERPTW9UZkFzT2tERGxhNjZDOU9OaXRSU0Y2Z0hySjJVd0pQNmhpTlZPUTFQd01kN3J4OW1zeXBXN1V1RTVsTzlob2NDaVJETVhoMGotU3ZPOHljU1pZRjduaVJnM2d1MzV5TjM2c1ItOWJDYm1HRnkwdWI5X0JGZVc2cDNicUtKc0hScGxrcmU3TWZpeEN0TnBHcmp4bENocGF2Mm5WaG5fc2N3bVZMNGZ4M3dvR0dhdUR0XzVXSm1ZT05fLWFQNS1xbjR6UU15SU80UjVwb1E2VmtPSkVRWV8yRHV1TjRUemYwRGpCMkprNTRxanU1Y1hwcmFpRlRoWG1uV1NQZW5QckV3?oc=5"
   },
   {
-   "title": "有片｜女子入境內地步姿怪異被截查 揭小腿綁包裹藏21條活蛇",
-   "source": "Now 新聞",
-   "date": "11-25 02:35",
-   "iso": "2026-11-25T02:35:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCR0VwSEVNMzFWSWk5VnJtLXJ3MkF2eG9WSm9ZemFrem5OUjVPZHJyVFhweXJWZnladEhoX1RMMDFUSjBMQVd6ekJaZG1sWG1uR21lX2tUQlZfSGNldXc0Z3BoVXhsWWs?oc=5"
-  },
-  {
    "title": "長者北上優惠｜樂悠咭$5.7搭旺角通宵小巴616S直達皇崗口岸！車費/長者優惠/時間詳情一覽- 東張+",
    "source": "myTV SUPER",
    "date": "11-25 00:02",
@@ -91,7 +84,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "通告",
-   "text": "口岸相關新聞 3 條，見「口岸新聞」。",
+   "text": "口岸相關新聞 2 條，見「口岸新聞」。",
    "level": "info"
   },
   {
