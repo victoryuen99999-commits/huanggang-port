@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-25T08:25:32+08:00",
+ "generated_at": "2026-11-25T08:31:44+08:00",
  "date": "2026-11-25",
  "weekday": "星期三",
- "clock": "08:25",
+ "clock": "08:31",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 15,
-  "humidity": 58,
-  "wind": 12.0,
+  "temp": 16,
+  "humidity": 57,
+  "wind": 12.4,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 20,
@@ -60,13 +60,6 @@ window.HGP_DATA = {
    "date": "11-25 00:02",
    "iso": "2026-11-25T00:02:49+00:00",
    "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxQMngwb3NEb2hseGtlSnViS254RjJyblV0ZnhaMkpGOVFLenlIc2VoR0NuaFIzSS1BVXFZLTVSUkJpQjBzYmN6MkR3SlZCSzBFRVU4WnlKRk9INDNzZ0ExQzUwOVEwWGU4VF9LWnlQRUt4c19MU2U2LTBFd2pLV2V4MjZoRUNuTWlSUEV4NmQ2cGZ4bVpTVmlDUVU5UWJveHU1a0RXLTBjaHp5NFFvT19aNnlaRXJpTHNQZmJhTG1aUjdwMzNHQlJZaTJTcUxCSlhPNHJ1NXYxNm84ck8zM0dyZ0tLWi1YZm01TXUxV2pTM0U4MW0wWXNDN05GQTJsRld2djVKUFFOOE10MWQ5c0FULWhSVWxSYUJ3NVhZckJTVGxZWFpaRGV5Skg5WERQQTgzcnNqaUtzSTJYdk80LXBjLXQwdV9zS0hwYXpBeTA3X0Z2SzZ3b0tGeUROWlp1RnN3Y1FEV0dRQ2FacVdSV2FYYzdJSDJtLVZjRDhRTTdvclRKUUttaElreUNyYUU3YXgzbkpJajZmYkU0YTcwQm1BRFU4cWJMdE4yLTY5MEVaUTI3WGs0YnhJeHhtenpJLTk3UUNlQ2hnTWd3SW9IS1lJTk5Ta3ZGNmItMGxHVXFXQkt0OEdtSE5VeEhzSG9DN2ctUUtqSVVQLTQxYUZKSzZHdkx5akUzZENwNU55Y1JhRXptUG52SmgwMk9oRXd5bDJvaU1mLUN2ZTJTM1BDQnNvSGJ0S0lBMEN1b2RVcV93?oc=5"
-  },
-  {
-   "title": "新皇崗口岸深化港深產業協同 賦能香港新型工業化",
-   "source": "堅料網",
-   "date": "11-20 08:56",
-   "iso": "2026-11-20T08:56:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQVUk0amlMUVN2VGw3VThTNVpYd0hiRUlqcjFKbVluNzNTTl9ObmFPSE04NllHNDk0aWdaLWxlUTVIRjY1N19IblVvNXlKN1hLZzF1RjRPRm9sU2hsb1NLZmFVVEdLdlJlR1BRR0ZJZUJMNjVrQlp3eU05Q3drVTAyMThsaVBSY2FBQTd4dmRGOGExNGd6RkFBbFAwREF2Y08zM3RLdnlPSVRoRkdMeVpNNFpXX0p4RE5PeWhacWZjdWdxQk5XTF9iLUE1UGVnUlFiNkhGdlA4TllGZmphMnY3SkZJNWVIMGxNREJMU0xfd0FlcUI4VUctOHlzUjhvUzVtdDZQeWdyck1xTXo0ZFBuU3JvZ1ROVERCUGpXN2Flc0JvSmw1S2dSNTV0dTdsenlTT2RGODVjb2RYVW4yZGxNcHNOS0QtZlhqU25TMWc0UHdsV25STVQ4TFUtT3I?oc=5"
   }
  ],
  "ok": true,
@@ -84,7 +77,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "通告",
-   "text": "口岸相關新聞 2 條，見「口岸新聞」。",
+   "text": "口岸相關新聞 1 條，見「口岸新聞」。",
    "level": "info"
   },
   {
