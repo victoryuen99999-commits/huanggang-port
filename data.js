@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-26T06:55:36+08:00",
+ "generated_at": "2026-11-26T07:01:52+08:00",
  "date": "2026-11-26",
  "weekday": "星期四",
- "clock": "06:55",
+ "clock": "07:01",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,8 +44,8 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 14,
-  "humidity": 90,
-  "wind": 7.7,
+  "humidity": 89,
+  "wind": 7.8,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 21,
@@ -53,7 +53,15 @@ window.HGP_DATA = {
   "pop": 16
  },
  "warnings": [],
- "news": [],
+ "news": [
+  {
+   "title": "有市民聲稱特區護照缺頁被日本拒入境 當局指護照疑曾改動轉介執法部門跟進",
+   "source": "TVB",
+   "date": "11-25 15:31",
+   "iso": "2026-11-25T15:31:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNeFpIQzJiZEZmUWJWR25FTU9PbVBYMU1jLUdIZEY5Y3NtcjlucWN2YktSX1FjeFk0RDRZcS1ra0tuNkc0Z1A0SE1MY0FHYmZEZVNOOVFLd29jNFEtS0NUMDlpd1MzYkQzNlNETDR1X2wwekh2RFVKSy05djVtRFpCb3B0TnYweVpVZU8zS052UVNGVW1aZlp3NG9mZV9kbm9nbHQtcTZBMDVvX0xnZWR4dVR1MTEzR2JTOGQzYm5uVl9BT0pfc2NGYnBBa0xuQko5RVk0ZjhleFdmQ1ZKSFNUdFA2OHNlZzlJc3pNczY2NjFkNS1rLUY1alBkb3gyYU1nX09KeHk3eXdzWGhLSDA5N2hKUnJadWU0Y0hUOWR2NVFxREFPOWRHV0RMeGlPWHJWVWhXNU5WV1hBNEdDZnZRZUhZSFhIR3BQeTljWHFaLTRpX09OVXpQVWlxVndGQ2d3eE5wdzJiYVFkRGVhWDJrc2R5TkVkVjFLWmNQeHRjUkE3ZXg2UXBndHROVW85VW1QakVLWTVxazBqakFoTUVBYlFYVVU2Tk1DdExUb0pMdWgydndFSkpjSVMzbjNDWHByTWVkU3lCWF9BVll6YkFVS1ZuWnhWUWJWMEpFbFd1Yw?oc=5"
+  }
+ ],
  "ok": true,
  "vehicle_events": [],
  "tips": [
@@ -61,6 +69,16 @@ window.HGP_DATA = {
    "tag": "天氣",
    "text": "天文台現時無天氣警告生效。",
    "level": "ok"
+  },
+  {
+   "tag": "早更",
+   "text": "跨境上班上學人流集中，出境大堂及 L2 交匯處會出現短時人龍。",
+   "level": "info"
+  },
+  {
+   "tag": "通告",
+   "text": "口岸相關新聞 1 條，見「口岸新聞」。",
+   "level": "info"
   },
   {
    "tag": "禁區",
