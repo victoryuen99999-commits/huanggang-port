@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T15:05:26+08:00",
+ "generated_at": "2026-11-25T15:49:02+08:00",
  "date": "2026-11-25",
  "weekday": "星期三",
- "clock": "15:05",
+ "clock": "15:49",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -42,17 +42,24 @@
   }
  },
  "weather": {
-  "temp": 20,
-  "humidity": 49,
-  "wind": 9.6,
+  "temp": 18,
+  "humidity": 64,
+  "wind": 8.1,
   "code": 3,
   "desc": "多雲",
-  "tmax": 20,
+  "tmax": 19,
   "tmin": 14,
   "pop": 35
  },
  "warnings": [],
  "news": [
+  {
+   "title": "福田口岸「小腿藏蛇」 北上婦護膝偷運21條活蛇被截(有片)",
+   "source": "am730",
+   "date": "11-25 07:08",
+   "iso": "2026-11-25T07:08:07+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPa1ZkWl9rLWdjSkZXQk0ybmRsOHYxWm5VMXhpOXJtMDVjNklISFBaM3FzbE5ZdzRyaFk2ZDFoMU90X0pfV2p6Zm1NcFRTWmxwMzUtdXpXdTNoNS1QWUU3Wmc5Mk5ySjdXTTFxdjVidERPTW9UZkFzT2tERGxhNjZDOU9OaXRSU0Y2Z0hySjJVd0pQNmhpTlZPUTFQd01kN3J4OW1zeXBXN1V1RTVsTzlob2NDaVJETVhoMGotU3ZPOHljU1pZRjduaVJnM2d1MzV5TjM2c1ItOWJDYm1HRnkwdWI5X0JGZVc2cDNicUtKc0hScGxrcmU3TWZpeEN0TnBHcmp4bENocGF2Mm5WaG5fc2N3bVZMNGZ4M3dvR0dhdUR0XzVXSm1ZT05fLWFQNS1xbjR6UU15SU80UjVwb1E2VmtPSkVRWV8yRHV1TjRUemYwRGpCMkprNTRxanU1Y1hwcmFpRlRoWG1uV1NQZW5QckV3?oc=5"
+  },
   {
    "title": "有片｜女子入境內地步姿怪異被截查 揭小腿綁包裹藏21條活蛇",
    "source": "Now 新聞",
@@ -85,7 +92,7 @@
   },
   {
    "tag": "通告",
-   "text": "口岸相關新聞 3 條，見「口岸新聞」。",
+   "text": "口岸相關新聞 4 條，見「口岸新聞」。",
    "level": "info"
   },
   {
