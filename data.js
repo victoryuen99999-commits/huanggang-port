@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-25T10:15:54+08:00",
+ "generated_at": "2026-11-25T10:22:14+08:00",
  "date": "2026-11-25",
  "weekday": "星期三",
- "clock": "10:15",
+ "clock": "10:22",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -55,11 +55,11 @@ window.HGP_DATA = {
  "warnings": [],
  "news": [
   {
-   "title": "新皇崗口岸開通一個月 367.9 萬人次 離境大堂增 e-道登記處",
-   "source": "unwire",
-   "date": "11-18 08:25",
-   "iso": "2026-11-18T08:25:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3RwUWJXa3paZW5qd1R3bl9DNVhCeXRBeXhNd1Q5WVB6aVFnUWF5RTBFQU5YUklDYkQwNXROSVdvQ21qQUpxOUZFNndhQ2kxSFhKZDFuV2ZfYjQ0VllPeUt4WHlNSUVfNktUaVM0QmJoX0dLODZvZFBSVGtYZU9uaFk5WF9SLWUzWlE?oc=5"
+   "title": "新皇崗口岸深化港深產業協同 賦能香港新型工業化",
+   "source": "堅料網",
+   "date": "11-20 08:56",
+   "iso": "2026-11-20T08:56:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQVUk0amlMUVN2VGw3VThTNVpYd0hiRUlqcjFKbVluNzNTTl9ObmFPSE04NllHNDk0aWdaLWxlUTVIRjY1N19IblVvNXlKN1hLZzF1RjRPRm9sU2hsb1NLZmFVVEdLdlJlR1BRR0ZJZUJMNjVrQlp3eU05Q3drVTAyMThsaVBSY2FBQTd4dmRGOGExNGd6RkFBbFAwREF2Y08zM3RLdnlPSVRoRkdMeVpNNFpXX0p4RE5PeWhacWZjdWdxQk5XTF9iLUE1UGVnUlFiNkhGdlA4TllGZmphMnY3SkZJNWVIMGxNREJMU0xfd0FlcUI4VUctOHlzUjhvUzVtdDZQeWdyck1xTXo0ZFBuU3JvZ1ROVERCUGpXN2Flc0JvSmw1S2dSNTV0dTdsenlTT2RGODVjb2RYVW4yZGxNcHNOS0QtZlhqU25TMWc0UHdsV25STVQ4TFUtT3I?oc=5"
   }
  ],
  "ok": true,
