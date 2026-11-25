@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T23:35:13+08:00",
+ "generated_at": "2026-11-25T23:41:30+08:00",
  "date": "2026-11-25",
  "weekday": "星期三",
- "clock": "23:35",
+ "clock": "23:41",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -52,7 +52,15 @@
   "pop": 36
  },
  "warnings": [],
- "news": [],
+ "news": [
+  {
+   "title": "有市民聲稱特區護照缺頁被日本拒入境 當局指護照疑曾改動轉介執法部門跟進",
+   "source": "TVB",
+   "date": "11-25 15:31",
+   "iso": "2026-11-25T15:31:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNeFpIQzJiZEZmUWJWR25FTU9PbVBYMU1jLUdIZEY5Y3NtcjlucWN2YktSX1FjeFk0RDRZcS1ra0tuNkc0Z1A0SE1MY0FHYmZEZVNOOVFLd29jNFEtS0NUMDlpd1MzYkQzNlNETDR1X2wwekh2RFVKSy05djVtRFpCb3B0TnYweVpVZU8zS052UVNGVW1aZlp3NG9mZV9kbm9nbHQtcTZBMDVvX0xnZWR4dVR1MTEzR2JTOGQzYm5uVl9BT0pfc2NGYnBBa0xuQko5RVk0ZjhleFdmQ1ZKSFNUdFA2OHNlZzlJc3pNczY2NjFkNS1rLUY1alBkb3gyYU1nX09KeHk3eXdzWGhLSDA5N2hKUnJadWU0Y0hUOWR2NVFxREFPOWRHV0RMeGlPWHJWVWhXNU5WV1hBNEdDZnZRZUhZSFhIR3BQeTljWHFaLTRpX09OVXpQVWlxVndGQ2d3eE5wdzJiYVFkRGVhWDJrc2R5TkVkVjFLWmNQeHRjUkE3ZXg2UXBndHROVW85VW1QakVLWTVxazBqakFoTUVBYlFYVVU2Tk1DdExUb0pMdWgydndFSkpjSVMzbjNDWHByTWVkU3lCWF9BVll6YkFVS1ZuWnhWUWJWMEpFbFd1Yw?oc=5"
+  }
+ ],
  "ok": true,
  "vehicle_events": [],
  "tips": [
@@ -65,6 +73,11 @@
    "tag": "夜更",
    "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
    "level": "warn"
+  },
+  {
+   "tag": "通告",
+   "text": "口岸相關新聞 1 條，見「口岸新聞」。",
+   "level": "info"
   },
   {
    "tag": "禁區",
