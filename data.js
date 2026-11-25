@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-25T08:05:47+08:00",
+ "generated_at": "2026-11-25T08:12:57+08:00",
  "date": "2026-11-25",
  "weekday": "星期三",
- "clock": "08:05",
+ "clock": "08:12",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -53,15 +53,7 @@ window.HGP_DATA = {
   "pop": 24
  },
  "warnings": [],
- "news": [
-  {
-   "title": "新皇崗口岸開通一個月 367.9 萬人次 離境大堂增 e-道登記處",
-   "source": "unwire",
-   "date": "11-18 08:25",
-   "iso": "2026-11-18T08:25:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3RwUWJXa3paZW5qd1R3bl9DNVhCeXRBeXhNd1Q5WVB6aVFnUWF5RTBFQU5YUklDYkQwNXROSVdvQ21qQUpxOUZFNndhQ2kxSFhKZDFuV2ZfYjQ0VllPeUt4WHlNSUVfNktUaVM0QmJoX0dLODZvZFBSVGtYZU9uaFk5WF9SLWUzWlE?oc=5"
-  }
- ],
+ "news": [],
  "ok": true,
  "vehicle_events": [],
  "tips": [
@@ -73,11 +65,6 @@ window.HGP_DATA = {
   {
    "tag": "早更",
    "text": "跨境上班上學人流集中，出境大堂及 L2 交匯處會出現短時人龍。",
-   "level": "info"
-  },
-  {
-   "tag": "通告",
-   "text": "口岸相關新聞 1 條，見「口岸新聞」。",
    "level": "info"
   },
   {
