@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T13:57:56+08:00",
+ "generated_at": "2026-11-26T14:13:05+08:00",
  "date": "2026-11-26",
  "weekday": "星期四",
- "clock": "13:57",
+ "clock": "14:13",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -42,9 +42,9 @@
   }
  },
  "weather": {
-  "temp": 20,
+  "temp": 21,
   "humidity": 60,
-  "wind": 5.3,
+  "wind": 5.1,
   "code": 3,
   "desc": "多雲",
   "tmax": 21,
@@ -59,13 +59,6 @@
    "date": "11-25 15:31",
    "iso": "2026-11-25T15:31:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQcGFkUkxJWDQ1VF9yejkzd1RJTGcxR3JxdDdFWW8td0VITTRpSmwzaWhONm5MTmMxV2xqODVNY0s2RjFnSThhYWp0Z2Y5cm10S3pZVnZDSUFUYWppY2x5VmxTdXg0eUc5SzROako0OVhPZUZ5LUU1UHM1TEJ0YU9OcXBGeE5xUzA3eDd1Vmg5ckRyMGJRd29vR1BSZnhfaC1XV1ozc2VIMzZaUWc3dUE2LU4tQzJ3Zm5UcklnS2tBVGhjeHJVS2RWSkNNclRnMFUxY1VBOGxfa1JlQjd5ZmwzSmdtZ1Fxb2xMOUtRa1o0RzdncHpleDZvbFd5XzFsMmhseTk5ZmNjR3ZXSHRXQmQ1OG1Jb3VpeHVpMDMtcVMyRXhIaUlJTE9OblJBTlJPNWliaEdNSUFEQ0pTWjhzNjZ4YWlzUXFuM2s3QkE1ZmtRLXVjdHB2SnBHbUt0ZXVZMFBUM0NfMTN6TGhYY0FnNGtWdWlnT1dMemV4WC1nVkx2ZUd1bV9QWUNiWTFYaE9YZkhVS2dudkdzZXBtQmJ4RkVXcE9HV2hhT05VS0ZPb1NoVjdpOUg0Tlh3MzNaaEI5Wk51MEN3WW11ZjJGWlFwVXE3YmtpcThrNndHNmIxc3FPZ0hoTFlEbXhqRzZKNA?oc=5"
-  },
-  {
-   "title": "長者北上優惠｜樂悠咭$5.7搭旺角通宵小巴616S直達皇崗口岸！車費/長者優惠/時間詳情一覽- 東張+",
-   "source": "myTV SUPER",
-   "date": "11-25 00:00",
-   "iso": "2026-11-25T00:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxQMngwb3NEb2hseGtlSnViS254RjJyblV0ZnhaMkpGOVFLenlIc2VoR0NuaFIzSS1BVXFZLTVSUkJpQjBzYmN6MkR3SlZCSzBFRVU4WnlKRk9INDNzZ0ExQzUwOVEwWGU4VF9LWnlQRUt4c19MU2U2LTBFd2pLV2V4MjZoRUNuTWlSUEV4NmQ2cGZ4bVpTVmlDUVU5UWJveHU1a0RXLTBjaHp5NFFvT19aNnlaRXJpTHNQZmJhTG1aUjdwMzNHQlJZaTJTcUxCSlhPNHJ1NXYxNm84ck8zM0dyZ0tLWi1YZm01TXUxV2pTM0U4MW0wWXNDN05GQTJsRld2djVKUFFOOE10MWQ5c0FULWhSVWxSYUJ3NVhZckJTVGxZWFpaRGV5Skg5WERQQTgzcnNqaUtzSTJYdk80LXBjLXQwdV9zS0hwYXpBeTA3X0Z2SzZ3b0tGeUROWlp1RnN3Y1FEV0dRQ2FacVdSV2FYYzdJSDJtLVZjRDhRTTdvclRKUUttaElreUNyYUU3YXgzbkpJajZmYkU0YTcwQm1BRFU4cWJMdE4yLTY5MEVaUTI3WGs0YnhJeHhtenpJLTk3UUNlQ2hnTWd3SW9IS1lJTk5Ta3ZGNmItMGxHVXFXQkt0OEdtSE5VeEhzSG9DN2ctUUtqSVVQLTQxYUZKSzZHdkx5akUzZENwNU55Y1JhRXptUG52SmgwMk9oRXd5bDJvaU1mLUN2ZTJTM1BDQnNvSGJ0S0lBMEN1b2RVcV93?oc=5"
   }
  ],
  "ok": true,
@@ -78,7 +71,7 @@
   },
   {
    "tag": "通告",
-   "text": "口岸相關新聞 2 條，見「口岸新聞」。",
+   "text": "口岸相關新聞 1 條，見「口岸新聞」。",
    "level": "info"
   },
   {
