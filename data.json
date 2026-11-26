@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T09:10:22+08:00",
+ "generated_at": "2026-11-26T09:16:37+08:00",
  "date": "2026-11-26",
  "weekday": "星期四",
- "clock": "09:10",
+ "clock": "09:16",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -42,9 +42,9 @@
   }
  },
  "weather": {
-  "temp": 16,
-  "humidity": 76,
-  "wind": 6.9,
+  "temp": 17,
+  "humidity": 74,
+  "wind": 6.7,
   "code": 3,
   "desc": "多雲",
   "tmax": 21,
@@ -58,7 +58,7 @@
    "source": "TVB",
    "date": "11-25 15:31",
    "iso": "2026-11-25T15:31:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQcGFkUkxJWDQ1VF9yejkzd1RJTGcxR3JxdDdFWW8td0VITTRpSmwzaWhONm5MTmMxV2xqODVNY0s2RjFnSThhYWp0Z2Y5cm10S3pZVnZDSUFUYWppY2x5VmxTdXg0eUc5SzROako0OVhPZUZ5LUU1UHM1TEJ0YU9OcXBGeE5xUzA3eDd1Vmg5ckRyMGJRd29vR1BSZnhfaC1XV1ozc2VIMzZaUWc3dUE2LU4tQzJ3Zm5UcklnS2tBVGhjeHJVS2RWSkNNclRnMFUxY1VBOGxfa1JlQjd5ZmwzSmdtZ1Fxb2xMOUtRa1o0RzdncHpleDZvbFd5XzFsMmhseTk5ZmNjR3ZXSHRXQmQ1OG1Jb3VpeHVpMDMtcVMyRXhIaUlJTE9OblJBTlJPNWliaEdNSUFEQ0pTWjhzNjZ4YWlzUXFuM2s3QkE1ZmtRLXVjdHB2SnBHbUt0ZXVZMFBUM0NfMTN6TGhYY0FnNGtWdWlnT1dMemV4WC1nVkx2ZUd1bV9QWUNiWTFYaE9YZkhVS2dudkdzZXBtQmJ4RkVXcE9HV2hhT05VS0ZPb1NoVjdpOUg0Tlh3MzNaaEI5Wk51MEN3WW11ZjJGWlFwVXE3YmtpcThrNndHNmIxc3FPZ0hoTFlEbXhqRzZKNA?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQQU1vZk9Cd0d2YlZ3dndMWUVpUFlBRXRMaHY2a0Q2Y0JmMi1yenh6U1RRb3p1V0xnNTJjcmhDb2I4T3hTb1lZcFB2OG1ScWRWampJZU42ODZvcW1HNk9pUmU4OXItWGp6MkQwMU8xMlJkSmNnQzZhaDlHSVFGVU9yRXBiQzZMLTQtVHE3OWhORkxUQnBWWGZ1SUppMmp3eHVZMnlsUjBzVlJzX3AyS1RkV01CQzFob0VzNjk3V3NWU193R2hxMVJmdHpDRWdQTTFJNmpXYm5ndWc0clNLdUQ3NzlmMVIzWmNiTDlQUVI1cW8yRVNpdTNod1BJWFBfdWdFY2JpaWtjSUVEaDdLVkM1NXdhZ0ZpcnlXbEFjWEFMYjlxQkF5TklYZFVjX19CcXBpYl9UdVZPSTVNYmo5UHVfM0l5NXlqSXBFNWFDcHpweHpadWg2UXU2d1JRUGdDSXUtY0JkaDlDYlBHck10N3JTZHgtaE1EM00zRjdXbS1iaXdMX2g0MUM2UXhFN1ctUXh4Y3pUSTdtSEM1NHpEQzRMVUhUeXpmcDNuSmp2VjZvYTRvUHNuQ1N3azlJZ2FUd3l5aFRWdDRxeHMweGM1MkwyaEQ1NkI4WndYQ2l3eXRUZHZtYzVhRTFOWklHUQ?oc=5"
   }
  ],
  "ok": true,
