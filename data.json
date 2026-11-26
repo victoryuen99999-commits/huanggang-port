@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T23:56:49+08:00",
- "date": "2026-11-26",
- "weekday": "星期四",
- "clock": "23:56",
+ "generated_at": "2026-11-27T00:22:16+08:00",
+ "date": "2026-11-27",
+ "weekday": "星期五",
+ "clock": "00:22",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -25,16 +25,16 @@
    "dep": 99
   },
   "LWS": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "MKT": {
    "arr": 99,
    "dep": 99
   },
   "SBC": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "STK": {
    "arr": 99,
@@ -44,12 +44,12 @@
  "weather": {
   "temp": 16,
   "humidity": 92,
-  "wind": 4.6,
+  "wind": 4.7,
   "code": 1,
   "desc": "大致晴朗",
-  "tmax": 20,
-  "tmin": 14,
-  "pop": 15
+  "tmax": 25,
+  "tmin": 15,
+  "pop": 0
  },
  "warnings": [],
  "news": [
@@ -58,14 +58,14 @@
    "source": "TVB",
    "date": "11-26 15:08",
    "iso": "2026-11-26T15:08:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQZF95MTE5X2Z0eEkxeVFhSHdBXzFTbXFEQzRycTUxR28xNkxaZTV3dTNJN043TjA4OXpiLXIwblZEc1NRUzREX0wzeXJkV2daU2VkNl9pTldPeXNaVjVUMzJoRlhSQmJmdXVqbG4zd3d5ZzVXemlkZlVKM3pDWVlabGppb2h1ZWZVcV9UemdURmhfRFZDMmZ3SmdlV29SQWs5cl93WTRuZWJVTXoxX2ZTNmZoXzE0ZTZDUG5NSlRnQ0I4NTlMbUJJaDlpZTJKZWN6MHJBYjdsUUJzMm9OazF2RWU1dW1TQ2NkYUs0QV85Qkg3OFJ1bVp6NVpYcW1XSDJZR3NYUmpCWTVYRm1tZFlsV1h1eGxpY0RHVEY0NDZEN2p0NG04VUNqLVRHM3R2SnBMaHRQZW11MEN6ZVZFOUY4NEtOQUdpU2RsWjhUX1l3a2oyc25mTFBKb1RPcWlNeFJsWm50MmYxMFBlVEVuLWNoN1F1NA?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQOWlBT2IzVHNkcFZzQmgtd2JsMm9KeE9MMkxyb0wydkVBU25lclVTc0xnWGd5U2NkQUhseGVCY3RqdXEzWEtLMldRdEJzc2VnRWxLTmdkajVuYjB5M1pxNnR1cFBGMnk0NFItc1dQeHpXM29xZDVNMjlHY29HajJnVTFKTHJmUFBsOTdEQWNZNFNPdTdJYXRwd0kzbzBPbzJmYU9oTExISGFIczdPSDVzYzItbExHQ0R1ek1FcTlLNFdLd3o1WDVqNWloZ1JYVHNpa3AxZ25yaTBLOGtTeHlQQnRqTzA1QW1EUWhWaHJob0hzUm9mbXpzNFVJMkRXQjJJMTJZSXhONFJnRFhzMHlXa1NwLXRXUFlIMFFtVC0zZmZQUFI2UnVRMEQtMHdqTUpyaWlrZTBVX2plaWxTUF9xWWJnTzNEVExOWmtLSmFMUWFneklaU3ZjUlVoVXFXZS1kSlQtTFh2WHFScUZHOHItMUo2cw?oc=5"
   },
   {
    "title": "有市民聲稱特區護照缺頁被日本拒入境 當局指護照疑曾改動轉介處方執法部跟進",
    "source": "TVB",
    "date": "11-25 15:31",
    "iso": "2026-11-25T15:31:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQQU1vZk9Cd0d2YlZ3dndMWUVpUFlBRXRMaHY2a0Q2Y0JmMi1yenh6U1RRb3p1V0xnNTJjcmhDb2I4T3hTb1lZcFB2OG1ScWRWampJZU42ODZvcW1HNk9pUmU4OXItWGp6MkQwMU8xMlJkSmNnQzZhaDlHSVFGVU9yRXBiQzZMLTQtVHE3OWhORkxUQnBWWGZ1SUppMmp3eHVZMnlsUjBzVlJzX3AyS1RkV01CQzFob0VzNjk3V3NWU193R2hxMVJmdHpDRWdQTTFJNmpXYm5ndWc0clNLdUQ3NzlmMVIzWmNiTDlQUVI1cW8yRVNpdTNod1BJWFBfdWdFY2JpaWtjSUVEaDdLVkM1NXdhZ0ZpcnlXbEFjWEFMYjlxQkF5TklYZFVjX19CcXBpYl9UdVZPSTVNYmo5UHVfM0l5NXlqSXBFNWFDcHpweHpadWg2UXU2d1JRUGdDSXUtY0JkaDlDYlBHck10N3JTZHgtaE1EM00zRjdXbS1iaXdMX2g0MUM2UXhFN1ctUXh4Y3pUSTdtSEM1NHpEQzRMVUhUeXpmcDNuSmp2VjZvYTRvUHNuQ1N3azlJZ2FUd3l5aFRWdDRxeHMweGM1MkwyaEQ1NkI4WndYQ2l3eXRUZHZtYzVhRTFOWklHUQ?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQcGFkUkxJWDQ1VF9yejkzd1RJTGcxR3JxdDdFWW8td0VITTRpSmwzaWhONm5MTmMxV2xqODVNY0s2RjFnSThhYWp0Z2Y5cm10S3pZVnZDSUFUYWppY2x5VmxTdXg0eUc5SzROako0OVhPZUZ5LUU1UHM1TEJ0YU9OcXBGeE5xUzA3eDd1Vmg5ckRyMGJRd29vR1BSZnhfaC1XV1ozc2VIMzZaUWc3dUE2LU4tQzJ3Zm5UcklnS2tBVGhjeHJVS2RWSkNNclRnMFUxY1VBOGxfa1JlQjd5ZmwzSmdtZ1Fxb2xMOUtRa1o0RzdncHpleDZvbFd5XzFsMmhseTk5ZmNjR3ZXSHRXQmQ1OG1Jb3VpeHVpMDMtcVMyRXhIaUlJTE9OblJBTlJPNWliaEdNSUFEQ0pTWjhzNjZ4YWlzUXFuM2s3QkE1ZmtRLXVjdHB2SnBHbUt0ZXVZMFBUM0NfMTN6TGhYY0FnNGtWdWlnT1dMemV4WC1nVkx2ZUd1bV9QWUNiWTFYaE9YZkhVS2dudkdzZXBtQmJ4RkVXcE9HV2hhT05VS0ZPb1NoVjdpOUg0Tlh3MzNaaEI5Wk51MEN3WW11ZjJGWlFwVXE3YmtpcThrNndHNmIxc3FPZ0hoTFlEbXhqRzZKNA?oc=5"
   }
  ],
  "ok": true,
@@ -79,6 +79,11 @@
   {
    "tag": "夜更",
    "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
+   "level": "warn"
+  },
+  {
+   "tag": "週五",
+   "text": "每週最擠時段之一（晚上北上），通宵巴士及跨境巴士都會排隊。",
    "level": "warn"
   },
   {
