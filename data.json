@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T23:22:59+08:00",
+ "generated_at": "2026-11-26T23:30:20+08:00",
  "date": "2026-11-26",
  "weekday": "星期四",
- "clock": "23:22",
+ "clock": "23:30",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,7 +44,7 @@
  "weather": {
   "temp": 16,
   "humidity": 91,
-  "wind": 4.3,
+  "wind": 4.5,
   "code": 1,
   "desc": "大致晴朗",
   "tmax": 20,
@@ -52,7 +52,15 @@
   "pop": 15
  },
  "warnings": [],
- "news": [],
+ "news": [
+  {
+   "title": "特區護照缺頁案｜入境處拘捕一對男女 涉非法改動護照",
+   "source": "TVB",
+   "date": "11-26 15:08",
+   "iso": "2026-11-26T15:08:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQUUJOaXY0dTJxSDVWeUNKV3ZNUWJnT2dkVWtvZmZ0TXZCTW5xSF9zZDhUdTZHSzZ1QXRXdVljVGk3QnpMNDlxTlpkUFUzZld4NDBfaGpjUk5wWXFtNzZfS2MwaXJaWFFYRHp2MEFvSkl3bG8xYjFLOXJlNEFXaTZ4ZGs3bDczRXV1Q3d3bTBuUzZxR3V4MERtNkJYMW9nT05UWERaUDh4WDR2ZF91cW05TVRKbWxiZmNXNXEydHZlTjA0NHVQV2dTbVJGa3JKREFVOE9NdG0xWkY2UGprQUlFdWVtZlBIQWM2dzNzd2xDeWJxeGZGZTNWMTdEd0xxaXI4WGgxd2ZNd2N2WFYzV2xjSE5PcjFRZ2dnSU5FemhaWG1SY3NuY3BQdUJrc0g5a2dJZ2E1NTd2OHphZFdzdGtsbU80UFFWX2h2dlFRRWtueEdWc3pPTkFVSWI1VQ?oc=5"
+  }
+ ],
  "ok": true,
  "vehicle_events": [],
  "tips": [
@@ -65,6 +73,11 @@
    "tag": "夜更",
    "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
    "level": "warn"
+  },
+  {
+   "tag": "通告",
+   "text": "口岸相關新聞 1 條，見「口岸新聞」。",
+   "level": "info"
   },
   {
    "tag": "禁區",
