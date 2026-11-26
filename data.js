@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-26T11:19:24+08:00",
+ "generated_at": "2026-11-26T11:25:39+08:00",
  "date": "2026-11-26",
  "weekday": "星期四",
- "clock": "11:19",
+ "clock": "11:25",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -60,6 +60,13 @@ window.HGP_DATA = {
    "date": "11-25 15:31",
    "iso": "2026-11-25T15:31:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQQU1vZk9Cd0d2YlZ3dndMWUVpUFlBRXRMaHY2a0Q2Y0JmMi1yenh6U1RRb3p1V0xnNTJjcmhDb2I4T3hTb1lZcFB2OG1ScWRWampJZU42ODZvcW1HNk9pUmU4OXItWGp6MkQwMU8xMlJkSmNnQzZhaDlHSVFGVU9yRXBiQzZMLTQtVHE3OWhORkxUQnBWWGZ1SUppMmp3eHVZMnlsUjBzVlJzX3AyS1RkV01CQzFob0VzNjk3V3NWU193R2hxMVJmdHpDRWdQTTFJNmpXYm5ndWc0clNLdUQ3NzlmMVIzWmNiTDlQUVI1cW8yRVNpdTNod1BJWFBfdWdFY2JpaWtjSUVEaDdLVkM1NXdhZ0ZpcnlXbEFjWEFMYjlxQkF5TklYZFVjX19CcXBpYl9UdVZPSTVNYmo5UHVfM0l5NXlqSXBFNWFDcHpweHpadWg2UXU2d1JRUGdDSXUtY0JkaDlDYlBHck10N3JTZHgtaE1EM00zRjdXbS1iaXdMX2g0MUM2UXhFN1ctUXh4Y3pUSTdtSEM1NHpEQzRMVUhUeXpmcDNuSmp2VjZvYTRvUHNuQ1N3azlJZ2FUd3l5aFRWdDRxeHMweGM1MkwyaEQ1NkI4WndYQ2l3eXRUZHZtYzVhRTFOWklHUQ?oc=5"
+  },
+  {
+   "title": "長者北上優惠｜樂悠咭$5.7搭旺角通宵小巴616S直達皇崗口岸！車費/長者優惠/時間詳情一覽- 東張+",
+   "source": "myTV SUPER",
+   "date": "11-25 00:00",
+   "iso": "2026-11-25T00:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxQMngwb3NEb2hseGtlSnViS254RjJyblV0ZnhaMkpGOVFLenlIc2VoR0NuaFIzSS1BVXFZLTVSUkJpQjBzYmN6MkR3SlZCSzBFRVU4WnlKRk9INDNzZ0ExQzUwOVEwWGU4VF9LWnlQRUt4c19MU2U2LTBFd2pLV2V4MjZoRUNuTWlSUEV4NmQ2cGZ4bVpTVmlDUVU5UWJveHU1a0RXLTBjaHp5NFFvT19aNnlaRXJpTHNQZmJhTG1aUjdwMzNHQlJZaTJTcUxCSlhPNHJ1NXYxNm84ck8zM0dyZ0tLWi1YZm01TXUxV2pTM0U4MW0wWXNDN05GQTJsRld2djVKUFFOOE10MWQ5c0FULWhSVWxSYUJ3NVhZckJTVGxZWFpaRGV5Skg5WERQQTgzcnNqaUtzSTJYdk80LXBjLXQwdV9zS0hwYXpBeTA3X0Z2SzZ3b0tGeUROWlp1RnN3Y1FEV0dRQ2FacVdSV2FYYzdJSDJtLVZjRDhRTTdvclRKUUttaElreUNyYUU3YXgzbkpJajZmYkU0YTcwQm1BRFU4cWJMdE4yLTY5MEVaUTI3WGs0YnhJeHhtenpJLTk3UUNlQ2hnTWd3SW9IS1lJTk5Ta3ZGNmItMGxHVXFXQkt0OEdtSE5VeEhzSG9DN2ctUUtqSVVQLTQxYUZKSzZHdkx5akUzZENwNU55Y1JhRXptUG52SmgwMk9oRXd5bDJvaU1mLUN2ZTJTM1BDQnNvSGJ0S0lBMEN1b2RVcV93?oc=5"
   }
  ],
  "ok": true,
@@ -72,7 +79,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "通告",
-   "text": "口岸相關新聞 1 條，見「口岸新聞」。",
+   "text": "口岸相關新聞 2 條，見「口岸新聞」。",
    "level": "info"
   },
   {
