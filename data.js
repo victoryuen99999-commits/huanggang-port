@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-27T02:20:49+08:00",
+ "generated_at": "2026-11-27T09:08:22+08:00",
  "date": "2026-11-27",
  "weekday": "星期五",
- "clock": "02:20",
+ "clock": "09:08",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -14,28 +14,28 @@ window.HGP_DATA = {
  },
  "others": {
   "HYW": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "HZM": {
    "arr": 0,
    "dep": 0
   },
   "LSC": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "LWS": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "MKT": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "SBC": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "STK": {
    "arr": 99,
@@ -43,23 +43,37 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 16,
-  "humidity": 91,
-  "wind": 5.6,
-  "code": 1,
-  "desc": "大致晴朗",
-  "tmax": 25,
-  "tmin": 15,
+  "temp": 20,
+  "humidity": 73,
+  "wind": 4.9,
+  "code": 0,
+  "desc": "天晴",
+  "tmax": 26,
+  "tmin": 16,
   "pop": 0
  },
  "warnings": [],
  "news": [
   {
+   "title": "新皇崗開關：北部都會區的流量入口與元朗空間倍增",
+   "source": "am730",
+   "date": "11-26 23:30",
+   "iso": "2026-11-26T23:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNblRjemE4d0I2Mlc2cGR4U1RBTUdKbU1ZTGJvSXltRVRHVWN2aEtjeWtQZTZubVlVckVsQkl6VHhtZnZSb0dXUERvRVhTdm80MFFRdm9yekk1bEFVUWw1MzFoRjdWR1lnanRhV2loblg1VUdKeHVHbUEzSnRnMkg2eFNZMG9QQzhReXoyQjNmem13NTZjdjY3N1hrc1NBSXk2LUZaYjRWVE8tVE5kUlhTY1ctblR1dThLWnVvMmoxYWQ1TzQ2THVPUUpuN3dNZ1dPcjFZMFdPc2RJcHppU3JmeXhfOG9oRnhQSVRpRnRDb29SYXFZb2MwZGxFb2pHTzI2TmhOejRMb2ZZNThYRDExMF9nVnkxaHhsakp3VUViWTlZc19MWG92QWU2V1o1WjN1ek12QXVqMm92WGdaTnRnVmNsVHBybTJqaUVFenJaQ3lSRWFJMHMteUZjRHE2NTNVX2IzT0puWHFrOXRKMXVJVGpZMHg?oc=5"
+  },
+  {
    "title": "特區護照缺頁案‧現場｜入境處拘捕一對男女 涉非法改動護照",
    "source": "TVB",
    "date": "11-26 15:08",
    "iso": "2026-11-26T15:08:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQOWlBT2IzVHNkcFZzQmgtd2JsMm9KeE9MMkxyb0wydkVBU25lclVTc0xnWGd5U2NkQUhseGVCY3RqdXEzWEtLMldRdEJzc2VnRWxLTmdkajVuYjB5M1pxNnR1cFBGMnk0NFItc1dQeHpXM29xZDVNMjlHY29HajJnVTFKTHJmUFBsOTdEQWNZNFNPdTdJYXRwd0kzbzBPbzJmYU9oTExISGFIczdPSDVzYzItbExHQ0R1ek1FcTlLNFdLd3o1WDVqNWloZ1JYVHNpa3AxZ25yaTBLOGtTeHlQQnRqTzA1QW1EUWhWaHJob0hzUm9mbXpzNFVJMkRXQjJJMTJZSXhONFJnRFhzMHlXa1NwLXRXUFlIMFFtVC0zZmZQUFI2UnVRMEQtMHdqTUpyaWlrZTBVX2plaWxTUF9xWWJnTzNEVExOWmtLSmFMUWFneklaU3ZjUlVoVXFXZS1kSlQtTFh2WHFScUZHOHItMUo2cw?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQZF95MTE5X2Z0eEkxeVFhSHdBXzFTbXFEQzRycTUxR28xNkxaZTV3dTNJN043TjA4OXpiLXIwblZEc1NRUzREX0wzeXJkV2daU2VkNl9pTldPeXNaVjVUMzJoRlhSQmJmdXVqbG4zd3d5ZzVXemlkZlVKM3pDWVlabGppb2h1ZWZVcV9UemdURmhfRFZDMmZ3SmdlV29SQWs5cl93WTRuZWJVTXoxX2ZTNmZoXzE0ZTZDUG5NSlRnQ0I4NTlMbUJJaDlpZTJKZWN6MHJBYjdsUUJzMm9OazF2RWU1dW1TQ2NkYUs0QV85Qkg3OFJ1bVp6NVpYcW1XSDJZR3NYUmpCWTVYRm1tZFlsV1h1eGxpY0RHVEY0NDZEN2p0NG04VUNqLVRHM3R2SnBMaHRQZW11MEN6ZVZFOUY4NEtOQUdpU2RsWjhUX1l3a2oyc25mTFBKb1RPcWlNeFJsWm50MmYxMFBlVEVuLWNoN1F1NA?oc=5"
+  },
+  {
+   "title": "特區護照缺頁案｜入境處拘捕一對男女 涉非法改動護照",
+   "source": "TVB",
+   "date": "11-26 15:08",
+   "iso": "2026-11-26T15:08:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQUUJOaXY0dTJxSDVWeUNKV3ZNUWJnT2dkVWtvZmZ0TXZCTW5xSF9zZDhUdTZHSzZ1QXRXdVljVGk3QnpMNDlxTlpkUFUzZld4NDBfaGpjUk5wWXFtNzZfS2MwaXJaWFFYRHp2MEFvSkl3bG8xYjFLOXJlNEFXaTZ4ZGs3bDczRXV1Q3d3bTBuUzZxR3V4MERtNkJYMW9nT05UWERaUDh4WDR2ZF91cW05TVRKbWxiZmNXNXEydHZlTjA0NHVQV2dTbVJGa3JKREFVOE9NdG0xWkY2UGprQUlFdWVtZlBIQWM2dzNzd2xDeWJxeGZGZTNWMTdEd0xxaXI4WGgxd2ZNd2N2WFYzV2xjSE5PcjFRZ2dnSU5FemhaWG1SY3NuY3BQdUJrc0g5a2dJZ2E1NTd2OHphZFdzdGtsbU80UFFWX2h2dlFRRWtueEdWc3pPTkFVSWI1VQ?oc=5"
   },
   {
    "title": "有市民聲稱特區護照缺頁被日本拒入境 當局指護照疑曾改動轉介處方執法部跟進",
@@ -78,18 +92,13 @@ window.HGP_DATA = {
    "level": "ok"
   },
   {
-   "tag": "夜更",
-   "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
-   "level": "warn"
-  },
-  {
    "tag": "週五",
    "text": "每週最擠時段之一（晚上北上），通宵巴士及跨境巴士都會排隊。",
    "level": "warn"
   },
   {
    "tag": "通告",
-   "text": "口岸相關新聞 2 條，見「口岸新聞」。",
+   "text": "口岸相關新聞 4 條，見「口岸新聞」。",
    "level": "info"
   },
   {
