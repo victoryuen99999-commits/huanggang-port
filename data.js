@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-27T17:57:20+08:00",
+ "generated_at": "2026-11-27T18:03:32+08:00",
  "date": "2026-11-27",
  "weekday": "星期五",
- "clock": "17:57",
+ "clock": "18:03",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -44,10 +44,10 @@ window.HGP_DATA = {
  },
  "weather": {
   "temp": 23,
-  "humidity": 65,
-  "wind": 4.4,
-  "code": 3,
-  "desc": "多雲",
+  "humidity": 67,
+  "wind": 4.3,
+  "code": 2,
+  "desc": "局部多雲",
   "tmax": 26,
   "tmin": 16,
   "pop": 0
