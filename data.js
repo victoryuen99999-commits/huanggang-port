@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-27T18:35:31+08:00",
- "date": "2026-11-27",
- "weekday": "星期五",
- "clock": "18:35",
+ "generated_at": "2026-11-28T03:13:00+08:00",
+ "date": "2026-11-28",
+ "weekday": "星期六",
+ "clock": "03:13",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -14,28 +14,28 @@ window.HGP_DATA = {
  },
  "others": {
   "HYW": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "HZM": {
    "arr": 0,
    "dep": 0
   },
   "LSC": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "LWS": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "MKT": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "SBC": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "STK": {
    "arr": 99,
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 22,
-  "humidity": 70,
-  "wind": 5.2,
+  "temp": 18,
+  "humidity": 61,
+  "wind": 13.7,
   "code": 2,
   "desc": "局部多雲",
   "tmax": 26,
@@ -69,11 +69,11 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQUUJOaXY0dTJxSDVWeUNKV3ZNUWJnT2dkVWtvZmZ0TXZCTW5xSF9zZDhUdTZHSzZ1QXRXdVljVGk3QnpMNDlxTlpkUFUzZld4NDBfaGpjUk5wWXFtNzZfS2MwaXJaWFFYRHp2MEFvSkl3bG8xYjFLOXJlNEFXaTZ4ZGs3bDczRXV1Q3d3bTBuUzZxR3V4MERtNkJYMW9nT05UWERaUDh4WDR2ZF91cW05TVRKbWxiZmNXNXEydHZlTjA0NHVQV2dTbVJGa3JKREFVOE9NdG0xWkY2UGprQUlFdWVtZlBIQWM2dzNzd2xDeWJxeGZGZTNWMTdEd0xxaXI4WGgxd2ZNd2N2WFYzV2xjSE5PcjFRZ2dnSU5FemhaWG1SY3NuY3BQdUJrc0g5a2dJZ2E1NTd2OHphZFdzdGtsbU80UFFWX2h2dlFRRWtueEdWc3pPTkFVSWI1VQ?oc=5"
   },
   {
-   "title": "有市民聲稱特區護照缺頁被日本拒入境 當局指護照疑曾改動轉介處方執法部跟進",
-   "source": "TVB",
-   "date": "11-25 15:31",
-   "iso": "2026-11-25T15:31:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQQU1vZk9Cd0d2YlZ3dndMWUVpUFlBRXRMaHY2a0Q2Y0JmMi1yenh6U1RRb3p1V0xnNTJjcmhDb2I4T3hTb1lZcFB2OG1ScWRWampJZU42ODZvcW1HNk9pUmU4OXItWGp6MkQwMU8xMlJkSmNnQzZhaDlHSVFGVU9yRXBiQzZMLTQtVHE3OWhORkxUQnBWWGZ1SUppMmp3eHVZMnlsUjBzVlJzX3AyS1RkV01CQzFob0VzNjk3V3NWU193R2hxMVJmdHpDRWdQTTFJNmpXYm5ndWc0clNLdUQ3NzlmMVIzWmNiTDlQUVI1cW8yRVNpdTNod1BJWFBfdWdFY2JpaWtjSUVEaDdLVkM1NXdhZ0ZpcnlXbEFjWEFMYjlxQkF5TklYZFVjX19CcXBpYl9UdVZPSTVNYmo5UHVfM0l5NXlqSXBFNWFDcHpweHpadWg2UXU2d1JRUGdDSXUtY0JkaDlDYlBHck10N3JTZHgtaE1EM00zRjdXbS1iaXdMX2g0MUM2UXhFN1ctUXh4Y3pUSTdtSEM1NHpEQzRMVUhUeXpmcDNuSmp2VjZvYTRvUHNuQ1N3azlJZ2FUd3l5aFRWdDRxeHMweGM1MkwyaEQ1NkI4WndYQ2l3eXRUZHZtYzVhRTFOWklHUQ?oc=5"
+   "title": "長者北上優惠｜樂悠咭$5.7搭旺角通宵小巴616S直達皇崗口岸！車費/長者優惠/時間詳情一覽- 東張+",
+   "source": "myTV SUPER",
+   "date": "11-25 00:02",
+   "iso": "2026-11-25T00:02:49+00:00",
+   "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxQMngwb3NEb2hseGtlSnViS254RjJyblV0ZnhaMkpGOVFLenlIc2VoR0NuaFIzSS1BVXFZLTVSUkJpQjBzYmN6MkR3SlZCSzBFRVU4WnlKRk9INDNzZ0ExQzUwOVEwWGU4VF9LWnlQRUt4c19MU2U2LTBFd2pLV2V4MjZoRUNuTWlSUEV4NmQ2cGZ4bVpTVmlDUVU5UWJveHU1a0RXLTBjaHp5NFFvT19aNnlaRXJpTHNQZmJhTG1aUjdwMzNHQlJZaTJTcUxCSlhPNHJ1NXYxNm84ck8zM0dyZ0tLWi1YZm01TXUxV2pTM0U4MW0wWXNDN05GQTJsRld2djVKUFFOOE10MWQ5c0FULWhSVWxSYUJ3NVhZckJTVGxZWFpaRGV5Skg5WERQQTgzcnNqaUtzSTJYdk80LXBjLXQwdV9zS0hwYXpBeTA3X0Z2SzZ3b0tGeUROWlp1RnN3Y1FEV0dRQ2FacVdSV2FYYzdJSDJtLVZjRDhRTTdvclRKUUttaElreUNyYUU3YXgzbkpJajZmYkU0YTcwQm1BRFU4cWJMdE4yLTY5MEVaUTI3WGs0YnhJeHhtenpJLTk3UUNlQ2hnTWd3SW9IS1lJTk5Ta3ZGNmItMGxHVXFXQkt0OEdtSE5VeEhzSG9DN2ctUUtqSVVQLTQxYUZKSzZHdkx5akUzZENwNU55Y1JhRXptUG52SmgwMk9oRXd5bDJvaU1mLUN2ZTJTM1BDQnNvSGJ0S0lBMEN1b2RVcV93?oc=5"
   }
  ],
  "ok": true,
@@ -85,14 +85,14 @@ window.HGP_DATA = {
    "level": "ok"
   },
   {
-   "tag": "傍晚",
-   "text": "雙向高峰：出境（北上）與入境（返港）同時加壓，L2 候車區最擠。",
-   "level": "info"
+   "tag": "夜更",
+   "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
+   "level": "warn"
   },
   {
-   "tag": "週五",
-   "text": "每週最擠時段之一（晚上北上），通宵巴士及跨境巴士都會排隊。",
-   "level": "warn"
+   "tag": "週六",
+   "text": "早上北上、晚上返港雙高峰；落客區與上客區容易同時塞。",
+   "level": "info"
   },
   {
    "tag": "通告",
