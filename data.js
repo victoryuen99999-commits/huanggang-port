@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-28T03:33:06+08:00",
+ "generated_at": "2026-11-28T03:39:35+08:00",
  "date": "2026-11-28",
  "weekday": "星期六",
- "clock": "03:33",
+ "clock": "03:39",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -62,13 +62,6 @@ window.HGP_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNblRjemE4d0I2Mlc2cGR4U1RBTUdKbU1ZTGJvSXltRVRHVWN2aEtjeWtQZTZubVlVckVsQkl6VHhtZnZSb0dXUERvRVhTdm80MFFRdm9yekk1bEFVUWw1MzFoRjdWR1lnanRhV2loblg1VUdKeHVHbUEzSnRnMkg2eFNZMG9QQzhReXoyQjNmem13NTZjdjY3N1hrc1NBSXk2LUZaYjRWVE8tVE5kUlhTY1ctblR1dThLWnVvMmoxYWQ1TzQ2THVPUUpuN3dNZ1dPcjFZMFdPc2RJcHppU3JmeXhfOG9oRnhQSVRpRnRDb29SYXFZb2MwZGxFb2pHTzI2TmhOejRMb2ZZNThYRDExMF9nVnkxaHhsakp3VUViWTlZc19MWG92QWU2V1o1WjN1ek12QXVqMm92WGdaTnRnVmNsVHBybTJqaUVFenJaQ3lSRWFJMHMteUZjRHE2NTNVX2IzT0puWHFrOXRKMXVJVGpZMHg?oc=5"
   },
   {
-   "title": "特區護照缺頁案｜入境處拘捕一對男女 涉非法改動護照",
-   "source": "TVB",
-   "date": "11-26 15:08",
-   "iso": "2026-11-26T15:08:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQUUJOaXY0dTJxSDVWeUNKV3ZNUWJnT2dkVWtvZmZ0TXZCTW5xSF9zZDhUdTZHSzZ1QXRXdVljVGk3QnpMNDlxTlpkUFUzZld4NDBfaGpjUk5wWXFtNzZfS2MwaXJaWFFYRHp2MEFvSkl3bG8xYjFLOXJlNEFXaTZ4ZGs3bDczRXV1Q3d3bTBuUzZxR3V4MERtNkJYMW9nT05UWERaUDh4WDR2ZF91cW05TVRKbWxiZmNXNXEydHZlTjA0NHVQV2dTbVJGa3JKREFVOE9NdG0xWkY2UGprQUlFdWVtZlBIQWM2dzNzd2xDeWJxeGZGZTNWMTdEd0xxaXI4WGgxd2ZNd2N2WFYzV2xjSE5PcjFRZ2dnSU5FemhaWG1SY3NuY3BQdUJrc0g5a2dJZ2E1NTd2OHphZFdzdGtsbU80UFFWX2h2dlFRRWtueEdWc3pPTkFVSWI1VQ?oc=5"
-  },
-  {
    "title": "長者北上優惠｜樂悠咭$5.7搭旺角通宵小巴616S直達皇崗口岸！車費/長者優惠/時間詳情一覽- 東張+",
    "source": "myTV SUPER",
    "date": "11-25 00:02",
@@ -96,7 +89,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "通告",
-   "text": "口岸相關新聞 3 條，見「口岸新聞」。",
+   "text": "口岸相關新聞 2 條，見「口岸新聞」。",
    "level": "info"
   },
   {
