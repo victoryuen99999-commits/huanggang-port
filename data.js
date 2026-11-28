@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-28T04:04:58+08:00",
+ "generated_at": "2026-11-28T10:02:28+08:00",
  "date": "2026-11-28",
  "weekday": "星期六",
- "clock": "04:04",
+ "clock": "10:02",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -14,28 +14,28 @@ window.HGP_DATA = {
  },
  "others": {
   "HYW": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "HZM": {
    "arr": 0,
    "dep": 0
   },
   "LSC": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "LWS": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "MKT": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "SBC": {
-   "arr": 99,
-   "dep": 99
+   "arr": 0,
+   "dep": 0
   },
   "STK": {
    "arr": 99,
@@ -43,43 +43,49 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 18,
-  "humidity": 65,
-  "wind": 12.7,
+  "temp": 21,
+  "humidity": 45,
+  "wind": 13.9,
   "code": 3,
   "desc": "多雲",
   "tmax": 26,
   "tmin": 17,
   "pop": 0
  },
- "warnings": [],
+ "warnings": [
+  {
+   "title": "紅色火災危險警告",
+   "desc": "紅色火災危險警告在06時00分發出( 2026年11月28日 )。",
+   "updated": "Sat, 28 Nov 2026 06:00:00 +0800"
+  }
+ ],
  "news": [
+  {
+   "title": "海關慧盾高能緝私將擴至12口岸",
+   "source": "星島頭條",
+   "date": "11-27 19:00",
+   "iso": "2026-11-27T19:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONkNrc2hfZWJqR18wbTR2TUpVZDJKSW4yMXZJN2hRS05CWURDeTBTUnowM213VWNTZEhIRTZaM2ZRdjBUMW5BdVRMTktMYklDSmpOM1F6RXNoOTVpUkVKVUFJdHEyQXdsS1VnYWxjTkZSZEpIcm52WVRTWFhLd2hfUXNpMmdfcEszUklWaGl3cjd1aXhNWEdLdllyLTlxSXd6VzJqNk1xN01GdmFTSnc3djdfZ3RZeFFRSWR1N1NiZU9GOTl1cUY2S2ZwWFM2MDBJSUdJVFRabC0wdzYxQWppeXVzYzFUdzMwWk43cVVaN002MXhSS283M0JCUGF6QQ?oc=5"
+  },
   {
    "title": "新皇崗開關：北部都會區的流量入口與元朗空間倍增",
    "source": "am730",
    "date": "11-26 23:30",
    "iso": "2026-11-26T23:30:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNblRjemE4d0I2Mlc2cGR4U1RBTUdKbU1ZTGJvSXltRVRHVWN2aEtjeWtQZTZubVlVckVsQkl6VHhtZnZSb0dXUERvRVhTdm80MFFRdm9yekk1bEFVUWw1MzFoRjdWR1lnanRhV2loblg1VUdKeHVHbUEzSnRnMkg2eFNZMG9QQzhReXoyQjNmem13NTZjdjY3N1hrc1NBSXk2LUZaYjRWVE8tVE5kUlhTY1ctblR1dThLWnVvMmoxYWQ1TzQ2THVPUUpuN3dNZ1dPcjFZMFdPc2RJcHppU3JmeXhfOG9oRnhQSVRpRnRDb29SYXFZb2MwZGxFb2pHTzI2TmhOejRMb2ZZNThYRDExMF9nVnkxaHhsakp3VUViWTlZc19MWG92QWU2V1o1WjN1ek12QXVqMm92WGdaTnRnVmNsVHBybTJqaUVFenJaQ3lSRWFJMHMteUZjRHE2NTNVX2IzT0puWHFrOXRKMXVJVGpZMHg?oc=5"
-  },
-  {
-   "title": "長者北上優惠｜樂悠咭$5.7搭旺角通宵小巴616S直達皇崗口岸！車費/長者優惠/時間詳情一覽- 東張+",
-   "source": "myTV SUPER",
-   "date": "11-25 00:02",
-   "iso": "2026-11-25T00:02:49+00:00",
-   "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxQMngwb3NEb2hseGtlSnViS254RjJyblV0ZnhaMkpGOVFLenlIc2VoR0NuaFIzSS1BVXFZLTVSUkJpQjBzYmN6MkR3SlZCSzBFRVU4WnlKRk9INDNzZ0ExQzUwOVEwWGU4VF9LWnlQRUt4c19MU2U2LTBFd2pLV2V4MjZoRUNuTWlSUEV4NmQ2cGZ4bVpTVmlDUVU5UWJveHU1a0RXLTBjaHp5NFFvT19aNnlaRXJpTHNQZmJhTG1aUjdwMzNHQlJZaTJTcUxCSlhPNHJ1NXYxNm84ck8zM0dyZ0tLWi1YZm01TXUxV2pTM0U4MW0wWXNDN05GQTJsRld2djVKUFFOOE10MWQ5c0FULWhSVWxSYUJ3NVhZckJTVGxZWFpaRGV5Skg5WERQQTgzcnNqaUtzSTJYdk80LXBjLXQwdV9zS0hwYXpBeTA3X0Z2SzZ3b0tGeUROWlp1RnN3Y1FEV0dRQ2FacVdSV2FYYzdJSDJtLVZjRDhRTTdvclRKUUttaElreUNyYUU3YXgzbkpJajZmYkU0YTcwQm1BRFU4cWJMdE4yLTY5MEVaUTI3WGs0YnhJeHhtenpJLTk3UUNlQ2hnTWd3SW9IS1lJTk5Ta3ZGNmItMGxHVXFXQkt0OEdtSE5VeEhzSG9DN2ctUUtqSVVQLTQxYUZKSzZHdkx5akUzZENwNU55Y1JhRXptUG52SmgwMk9oRXd5bDJvaU1mLUN2ZTJTM1BDQnNvSGJ0S0lBMEN1b2RVcV93?oc=5"
   }
  ],
  "ok": true,
  "vehicle_events": [],
  "tips": [
   {
-   "tag": "天氣",
-   "text": "天文台現時無天氣警告生效。",
-   "level": "ok"
+   "tag": "警告",
+   "text": "天文台現正生效：紅色火災危險警告。戶外崗位（上落客區、落馬洲大橋、交匯處）注意強風、雷擊及地滑。",
+   "level": "warn"
   },
   {
-   "tag": "夜更",
-   "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
+   "tag": "防火",
+   "text": "火災危險警告生效：吸煙、明火、戶外焊接及燃燒作業須停止或按程序審批；留意雜草及垃圾堆積起火風險。",
    "level": "warn"
   },
   {
