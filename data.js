@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-28T10:55:56+08:00",
+ "generated_at": "2026-11-28T18:32:01+08:00",
  "date": "2026-11-28",
  "weekday": "星期六",
- "clock": "10:55",
+ "clock": "18:32",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -43,9 +43,9 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 22,
-  "humidity": 40,
-  "wind": 14.4,
+  "temp": 21,
+  "humidity": 59,
+  "wind": 5.9,
   "code": 3,
   "desc": "多雲",
   "tmax": 26,
@@ -61,11 +61,11 @@ window.HGP_DATA = {
  ],
  "news": [
   {
-   "title": "海關慧盾高能緝私將擴至12口岸",
-   "source": "星島頭條",
-   "date": "11-27 19:00",
-   "iso": "2026-11-27T19:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONkNrc2hfZWJqR18wbTR2TUpVZDJKSW4yMXZJN2hRS05CWURDeTBTUnowM213VWNTZEhIRTZaM2ZRdjBUMW5BdVRMTktMYklDSmpOM1F6RXNoOTVpUkVKVUFJdHEyQXdsS1VnYWxjTkZSZEpIcm52WVRTWFhLd2hfUXNpMmdfcEszUklWaGl3cjd1aXhNWEdLdllyLTlxSXd6VzJqNk1xN01GdmFTSnc3djdfZ3RZeFFRSWR1N1NiZU9GOTl1cUY2S2ZwWFM2MDBJSUdJVFRabC0wdzYxQWppeXVzYzFUdzMwWk43cVVaN002MXhSS283M0JCUGF6QQ?oc=5"
+   "title": "新皇崗口岸5宗罪惹熱議！實測中伏狂行「無限輪迴電梯」行到腳軟 網民教路一招慳5分鐘",
+   "source": "GOtrip.hk",
+   "date": "11-28 00:30",
+   "iso": "2026-11-28T00:30:06+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPb3d2VEdOdGlWcDlGbnE0MWJIc1R3WEltYW1kRHdNMm1JdXB5bUhoODA0MFc1LWoxcjN0V0VLVDhvYzNfSGxKdXFDdjU2MUhjZXpFWkkxMjZ2TEJVa2U2eHRkbUhiMlRzdXJoTjl2ZzNCNG5oOVY5UkU0cHRtdk8xZlVnOEtjWGdLQmgxRkpMQXJWeHAyRXZfVnBNMVluMENyaFlyeHhnRkZVVURvbElPTko0Qm9laXRuZXdGSWxIbUVSdWZ2d3hrZFFiY0RJdXFpczN3TjBUekpFUTVHRUdOZEhTd1RBUHhOTXRsbjR3NW40UVdmSHFBT3ZLV1ZIMmFyME5DclQ4R3k2QVh5VUFWb05USmxUUQ?oc=5"
   },
   {
    "title": "新皇崗開關：北部都會區的流量入口與元朗空間倍增",
@@ -87,6 +87,11 @@ window.HGP_DATA = {
    "tag": "防火",
    "text": "火災危險警告生效：吸煙、明火、戶外焊接及燃燒作業須停止或按程序審批；留意雜草及垃圾堆積起火風險。",
    "level": "warn"
+  },
+  {
+   "tag": "傍晚",
+   "text": "雙向高峰：出境（北上）與入境（返港）同時加壓，L2 候車區最擠。",
+   "level": "info"
   },
   {
    "tag": "週六",
