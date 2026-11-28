@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-28T19:25:43+08:00",
- "date": "2026-11-28",
- "weekday": "星期六",
- "clock": "19:25",
+ "generated_at": "2026-11-29T02:30:29+08:00",
+ "date": "2026-11-29",
+ "weekday": "星期日",
+ "clock": "02:30",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -14,28 +14,28 @@ window.HGP_DATA = {
  },
  "others": {
   "HYW": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "HZM": {
    "arr": 0,
    "dep": 0
   },
   "LSC": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "LWS": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "MKT": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "SBC": {
-   "arr": 0,
-   "dep": 0
+   "arr": 99,
+   "dep": 99
   },
   "STK": {
    "arr": 99,
@@ -43,13 +43,13 @@ window.HGP_DATA = {
   }
  },
  "weather": {
-  "temp": 20,
-  "humidity": 65,
-  "wind": 6.1,
-  "code": 3,
-  "desc": "多雲",
-  "tmax": 26,
-  "tmin": 17,
+  "temp": 16,
+  "humidity": 60,
+  "wind": 10.9,
+  "code": 2,
+  "desc": "局部多雲",
+  "tmax": 23,
+  "tmin": 14,
   "pop": 0
  },
  "warnings": [
@@ -89,14 +89,14 @@ window.HGP_DATA = {
    "level": "warn"
   },
   {
-   "tag": "傍晚",
-   "text": "雙向高峰：出境（北上）與入境（返港）同時加壓，L2 候車區最擠。",
-   "level": "info"
+   "tag": "夜更",
+   "text": "地鐵 7 號線已收車；港方只餘 NB73（沙田）、79S（天水圍）、N44B（屯門）、616S（旺角）及市區／新界的士，交更請預留候車時間。",
+   "level": "warn"
   },
   {
-   "tag": "週六",
-   "text": "早上北上、晚上返港雙高峰；落客區與上客區容易同時塞。",
-   "level": "info"
+   "tag": "週日",
+   "text": "傍晚 5 時至 10 時返港高峰，入境大堂壓力最大。",
+   "level": "warn"
   },
   {
    "tag": "通告",
