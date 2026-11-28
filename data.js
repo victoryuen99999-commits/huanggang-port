@@ -1,9 +1,9 @@
 /* 自動生成，請勿手改 — python refresh.py */
 window.HGP_DATA = {
- "generated_at": "2026-11-28T10:22:30+08:00",
+ "generated_at": "2026-11-28T10:28:43+08:00",
  "date": "2026-11-28",
  "weekday": "星期六",
- "clock": "10:22",
+ "clock": "10:28",
  "queue": {
   "arr": 0,
   "dep": 0
@@ -61,13 +61,6 @@ window.HGP_DATA = {
  ],
  "news": [
   {
-   "title": "海關慧盾高能緝私將擴至12口岸",
-   "source": "星島頭條",
-   "date": "11-27 19:00",
-   "iso": "2026-11-27T19:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONkNrc2hfZWJqR18wbTR2TUpVZDJKSW4yMXZJN2hRS05CWURDeTBTUnowM213VWNTZEhIRTZaM2ZRdjBUMW5BdVRMTktMYklDSmpOM1F6RXNoOTVpUkVKVUFJdHEyQXdsS1VnYWxjTkZSZEpIcm52WVRTWFhLd2hfUXNpMmdfcEszUklWaGl3cjd1aXhNWEdLdllyLTlxSXd6VzJqNk1xN01GdmFTSnc3djdfZ3RZeFFRSWR1N1NiZU9GOTl1cUY2S2ZwWFM2MDBJSUdJVFRabC0wdzYxQWppeXVzYzFUdzMwWk43cVVaN002MXhSS283M0JCUGF6QQ?oc=5"
-  },
-  {
    "title": "新皇崗開關：北部都會區的流量入口與元朗空間倍增",
    "source": "am730",
    "date": "11-26 23:30",
@@ -95,7 +88,7 @@ window.HGP_DATA = {
   },
   {
    "tag": "通告",
-   "text": "口岸相關新聞 2 條，見「口岸新聞」。",
+   "text": "口岸相關新聞 1 條，見「口岸新聞」。",
    "level": "info"
   },
   {
